@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 100 | joint=16.4373 task=16.4373 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 150 | joint=16.4736 task=16.4736 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 200 | joint=16.5313 task=16.5313 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 250 | joint=16.5477 task=16.5477 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 300 | joint=16.5461 task=16.5461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 350 | joint=16.5380 task=16.5380 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 400 | joint=16.5517 task=16.5517 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5 | joint=16.5607 task=16.5607 ppl_loss=0.0000 ppl=0.00 val_loss=0.1977 val_acc=0.6508 (true=0.9970 false=0.0816) prompt_ppl=0.00
+Prompt: Schlaf paddle equaljemand LochEspagne integrity thrillingCertaine see
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 50 | joint=16.6975 task=16.6975 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 100 | joint=16.5912 task=16.5912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 150 | joint=16.6061 task=16.6061 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 200 | joint=16.6230 task=16.6230 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 250 | joint=16.6097 task=16.6097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 300 | joint=16.5741 task=16.5741 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 350 | joint=16.5523 task=16.5523 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 400 | joint=16.5580 task=16.5580 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5 | joint=16.5425 task=16.5425 ppl_loss=0.0000 ppl=0.00 val_loss=0.2246 val_acc=0.4153 (true=0.0718 false=0.9798) prompt_ppl=0.00
+Prompt: Schlaf paddle equaljemand LochEspagne integrity thrillingCertaine see
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 50 | joint=16.6318 task=16.6318 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 100 | joint=16.5982 task=16.5982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 150 | joint=16.5786 task=16.5786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 200 | joint=16.5716 task=16.5716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 250 | joint=16.5959 task=16.5959 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 300 | joint=16.6013 task=16.6013 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 350 | joint=16.5817 task=16.5817 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 400 | joint=16.5773 task=16.5773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5 | joint=16.5627 task=16.5627 ppl_loss=0.0000 ppl=0.00 val_loss=0.1627 val_acc=0.6456 (true=0.9975 false=0.0671) prompt_ppl=0.00
+Prompt: Schlaf paddle equaljemand LochEspagne integrity thrillingCertaine see
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 50 | joint=16.6268 task=16.6268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 100 | joint=16.5455 task=16.5455 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 150 | joint=16.5412 task=16.5412 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 200 | joint=16.5704 task=16.5704 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 250 | joint=16.5381 task=16.5381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 300 | joint=16.5226 task=16.5226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 350 | joint=16.5105 task=16.5105 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 400 | joint=16.5233 task=16.5233 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5 | joint=16.5323 task=16.5323 ppl_loss=0.0000 ppl=0.00 val_loss=0.1684 val_acc=0.6349 (true=1.0000 false=0.0348) prompt_ppl=0.00
+Prompt: Schlaf paddle equaljemand LochEspagne integrity thrillingCertaine see
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 50 | joint=16.7129 task=16.7129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 100 | joint=16.7131 task=16.7131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 150 | joint=16.6673 task=16.6673 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 200 | joint=16.6375 task=16.6375 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 250 | joint=16.6082 task=16.6082 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 300 | joint=16.6040 task=16.6040 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 350 | joint=16.6018 task=16.6018 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 400 | joint=16.6130 task=16.6130 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5 | joint=16.6157 task=16.6157 ppl_loss=0.0000 ppl=0.00 val_loss=0.1801 val_acc=0.6266 (true=1.0000 false=0.0129) prompt_ppl=0.00
+Prompt: Schlaf paddle equaljemand LochEspagne integrity thrillingCertaine see
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 4 completed: lambda=0.0, lr=1e-4, adversarial=--adversarial

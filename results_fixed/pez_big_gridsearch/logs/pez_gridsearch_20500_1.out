@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-05, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 50 | joint=21.5436 task=17.1408 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 100 | joint=21.6605 task=17.2577 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 150 | joint=21.6559 task=17.2532 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 200 | joint=21.6938 task=17.2911 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 250 | joint=21.7100 task=17.3073 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 300 | joint=21.7042 task=17.3015 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 350 | joint=21.7129 task=17.3102 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 400 | joint=21.7130 task=17.3103 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 1/5 | joint=21.7190 task=17.3163 ppl_loss=8.8055 ppl=6670.53 val_loss=7.7393 val_acc=0.4214 (true=0.0743 false=0.9919) prompt_ppl=6670.53
+Prompt: Gem finances instituţii Deanignthérapie finishedbase Parc conveyanc
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 50 | joint=21.5883 task=17.1856 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 100 | joint=21.6749 task=17.2722 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 150 | joint=21.6422 task=17.2395 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 200 | joint=21.6785 task=17.2758 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 250 | joint=21.6871 task=17.2844 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 300 | joint=21.6921 task=17.2893 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 350 | joint=21.6913 task=17.2886 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 400 | joint=21.6716 task=17.2689 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 2/5 | joint=21.6716 task=17.2689 ppl_loss=8.8055 ppl=6670.53 val_loss=0.7360 val_acc=0.6413 (true=0.5071 false=0.8618) prompt_ppl=6670.53
+Prompt: Gem finances instituţii Deanignthérapie finishedbase Parc conveyanc
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 50 | joint=21.6259 task=17.2232 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 100 | joint=21.6395 task=17.2368 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 150 | joint=21.6556 task=17.2529 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 200 | joint=21.6446 task=17.2418 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 250 | joint=21.6592 task=17.2565 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 300 | joint=21.6916 task=17.2889 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 350 | joint=21.6612 task=17.2585 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 400 | joint=21.6702 task=17.2675 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 3/5 | joint=21.6886 task=17.2858 ppl_loss=8.8055 ppl=6670.53 val_loss=0.1656 val_acc=0.7508 (true=0.8008 false=0.6686) prompt_ppl=6670.53
+Prompt: Gem finances instituţii Deanignthérapie finishedbase Parc conveyanc
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 50 | joint=21.7341 task=17.3314 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 100 | joint=21.7042 task=17.3014 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 150 | joint=21.7501 task=17.3474 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 200 | joint=21.7596 task=17.3569 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 250 | joint=21.7608 task=17.3581 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 300 | joint=21.7474 task=17.3446 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 350 | joint=21.7274 task=17.3247 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 400 | joint=21.7415 task=17.3387 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 4/5 | joint=21.7208 task=17.3181 ppl_loss=8.8055 ppl=6670.53 val_loss=0.1588 val_acc=0.7404 (true=0.9577 false=0.3832) prompt_ppl=6670.53
+Prompt: Gem finances instituţii Deanignthérapie finishedbase Parc conveyanc
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 50 | joint=21.7925 task=17.3898 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 100 | joint=21.7484 task=17.3457 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 150 | joint=21.7414 task=17.3387 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 200 | joint=21.7940 task=17.3912 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 250 | joint=21.7591 task=17.3563 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 300 | joint=21.7540 task=17.3513 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 350 | joint=21.7292 task=17.3265 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 400 | joint=21.7331 task=17.3304 ppl_loss=8.8055 ppl=6670.53
+[PEZ λ=0.5 NON-ADV] Epoch 5/5 | joint=21.7214 task=17.3187 ppl_loss=8.8055 ppl=6670.53 val_loss=0.1316 val_acc=0.7554 (true=0.8810 false=0.5489) prompt_ppl=6670.53
+Prompt: Gem finances instituţii Deanignthérapie finishedbase Parc conveyanc
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.5_lr_1e-05.pt
+  History: history_lambda_0.5_lr_1e-05.json
+Job 1 completed: lambda=0.5, lr=1e-5, adversarial=

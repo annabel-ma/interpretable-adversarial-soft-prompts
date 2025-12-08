@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 50 | joint=22.2581 task=17.1954 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 100 | joint=22.1647 task=17.1021 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 150 | joint=22.1256 task=17.0629 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 200 | joint=22.1396 task=17.0770 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 250 | joint=22.1643 task=17.1017 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 300 | joint=22.1772 task=17.1146 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 350 | joint=22.1785 task=17.1159 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 400 | joint=22.1609 task=17.0983 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/5 | joint=22.1587 task=17.0960 ppl_loss=10.1253 ppl=24965.99 val_loss=4.5474 val_acc=0.5893 (true=0.4152 false=0.8755) prompt_ppl=24965.99
+Prompt: lunette sticks IBMkWhar anume trylithknown misleading
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 50 | joint=22.0211 task=16.9585 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 100 | joint=22.0822 task=17.0195 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 150 | joint=22.0896 task=17.0269 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 200 | joint=22.1408 task=17.0781 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 250 | joint=22.1218 task=17.0592 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 300 | joint=22.1023 task=17.0396 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 350 | joint=22.1252 task=17.0626 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 400 | joint=22.1212 task=17.0586 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/5 | joint=22.1322 task=17.0695 ppl_loss=10.1253 ppl=24965.99 val_loss=0.1518 val_acc=0.7058 (true=0.9857 false=0.2458) prompt_ppl=24965.99
+Prompt: lunette sticks IBMkWhar anume trylithknown misleading
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 50 | joint=22.0235 task=16.9609 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 100 | joint=22.0628 task=17.0002 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 150 | joint=22.0533 task=16.9907 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 200 | joint=22.1202 task=17.0575 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 250 | joint=22.1042 task=17.0415 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 300 | joint=22.1216 task=17.0589 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 350 | joint=22.1026 task=17.0400 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 400 | joint=22.0984 task=17.0357 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/5 | joint=22.1158 task=17.0532 ppl_loss=10.1253 ppl=24965.99 val_loss=0.1454 val_acc=0.7284 (true=0.7703 false=0.6597) prompt_ppl=24965.99
+Prompt: lunette sticks IBMkWhar anume trylithknown misleading
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 50 | joint=22.0202 task=16.9575 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 100 | joint=22.0896 task=17.0269 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 150 | joint=22.1008 task=17.0382 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 200 | joint=22.1164 task=17.0538 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 250 | joint=22.1269 task=17.0643 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 300 | joint=22.1348 task=17.0722 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 350 | joint=22.1303 task=17.0677 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 400 | joint=22.1129 task=17.0503 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/5 | joint=22.1118 task=17.0492 ppl_loss=10.1253 ppl=24965.99 val_loss=0.1506 val_acc=0.6869 (true=0.6276 false=0.7842) prompt_ppl=24965.99
+Prompt: lunette sticks IBMkWhar anume trylithknown misleading
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 50 | joint=22.0177 task=16.9550 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 100 | joint=22.1014 task=17.0388 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 150 | joint=22.1174 task=17.0548 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 200 | joint=22.1502 task=17.0875 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 250 | joint=22.1484 task=17.0858 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 300 | joint=22.1374 task=17.0748 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 350 | joint=22.1096 task=17.0470 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 400 | joint=22.1229 task=17.0603 ppl_loss=10.1253 ppl=24965.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/5 | joint=22.1160 task=17.0534 ppl_loss=10.1253 ppl=24965.99 val_loss=0.1366 val_acc=0.7584 (true=0.8465 false=0.6136) prompt_ppl=24965.99
+Prompt: lunette sticks IBMkWhar anume trylithknown misleading
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 5 completed: lambda=0.5, lr=1e-3, adversarial=

@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 50 | joint=25.8593 task=16.4398 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 100 | joint=25.8141 task=16.3946 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 150 | joint=25.8302 task=16.4107 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 200 | joint=25.8090 task=16.3894 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 250 | joint=25.7977 task=16.3782 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 300 | joint=25.7716 task=16.3521 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 350 | joint=25.7595 task=16.3399 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 400 | joint=25.7909 task=16.3714 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/5 | joint=25.7766 task=16.3571 ppl_loss=9.4195 ppl=12326.56 val_loss=0.1666 val_acc=0.7541 (true=0.9302 false=0.4648) prompt_ppl=12326.56
+Prompt: heureuse illusion Influendistin Adri wonder SorgereizVE gear
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 50 | joint=25.7935 task=16.3740 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 100 | joint=25.7903 task=16.3708 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 150 | joint=25.7849 task=16.3654 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 200 | joint=25.7737 task=16.3542 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 250 | joint=25.7999 task=16.3804 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 300 | joint=25.7949 task=16.3753 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 350 | joint=25.7844 task=16.3649 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 400 | joint=25.7836 task=16.3641 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/5 | joint=25.7821 task=16.3626 ppl_loss=9.4195 ppl=12326.56 val_loss=0.1289 val_acc=0.7532 (true=0.9331 false=0.4576) prompt_ppl=12326.56
+Prompt: heureuse illusion Influendistin Adri wonder SorgereizVE gear
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 50 | joint=25.7355 task=16.3160 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 100 | joint=25.8129 task=16.3934 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 150 | joint=25.8131 task=16.3936 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 200 | joint=25.7685 task=16.3490 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 250 | joint=25.7895 task=16.3700 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 300 | joint=25.7660 task=16.3464 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 350 | joint=25.7519 task=16.3324 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 400 | joint=25.7795 task=16.3600 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/5 | joint=25.7713 task=16.3518 ppl_loss=9.4195 ppl=12326.56 val_loss=0.1277 val_acc=0.7630 (true=0.8883 false=0.5570) prompt_ppl=12326.56
+Prompt: heureuse illusion Influendistin Adri wonder SorgereizVE gear
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 50 | joint=25.8079 task=16.3884 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 100 | joint=25.8398 task=16.4203 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 150 | joint=25.7987 task=16.3792 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 200 | joint=25.7907 task=16.3712 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 250 | joint=25.8148 task=16.3953 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 300 | joint=25.8250 task=16.4055 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 350 | joint=25.8241 task=16.4046 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 400 | joint=25.8353 task=16.4158 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/5 | joint=25.8252 task=16.4057 ppl_loss=9.4195 ppl=12326.56 val_loss=0.1243 val_acc=0.7633 (true=0.9169 false=0.5109) prompt_ppl=12326.56
+Prompt: heureuse illusion Influendistin Adri wonder SorgereizVE gear
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 50 | joint=25.8174 task=16.3978 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 100 | joint=25.8082 task=16.3887 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 150 | joint=25.8648 task=16.4453 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 200 | joint=25.8519 task=16.4324 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 250 | joint=25.8237 task=16.4042 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 300 | joint=25.7993 task=16.3797 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 350 | joint=25.8157 task=16.3962 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 400 | joint=25.8194 task=16.3999 ppl_loss=9.4195 ppl=12326.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/5 | joint=25.8046 task=16.3851 ppl_loss=9.4195 ppl=12326.56 val_loss=0.1245 val_acc=0.7587 (true=0.9375 false=0.4648) prompt_ppl=12326.56
+Prompt: heureuse illusion Influendistin Adri wonder SorgereizVE gear
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 11 completed: lambda=1.0, lr=1e-4, adversarial=

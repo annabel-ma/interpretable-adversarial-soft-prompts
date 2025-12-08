@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 50 | joint=26.2846 task=17.0288 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 100 | joint=26.1254 task=16.8695 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 150 | joint=26.0502 task=16.7944 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 200 | joint=26.0446 task=16.7887 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 250 | joint=26.0220 task=16.7661 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 300 | joint=26.0513 task=16.7954 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 350 | joint=26.0338 task=16.7780 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 400 | joint=26.0141 task=16.7582 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 1/5 | joint=26.0122 task=16.7564 ppl_loss=9.2559 ppl=10465.79 val_loss=0.1516 val_acc=0.6856 (true=0.9921 false=0.1819) prompt_ppl=10465.79
+Prompt: Hüt520 vertraut mensuel bancaire Gab Have prismental promoted
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 50 | joint=26.0711 task=16.8152 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 100 | joint=26.0358 task=16.7799 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 150 | joint=26.0058 task=16.7499 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 200 | joint=26.0252 task=16.7693 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 250 | joint=26.0248 task=16.7689 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 300 | joint=26.0133 task=16.7575 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 350 | joint=26.0103 task=16.7544 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 400 | joint=26.0073 task=16.7515 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 2/5 | joint=26.0143 task=16.7584 ppl_loss=9.2559 ppl=10465.79 val_loss=0.1192 val_acc=0.7865 (true=0.8839 false=0.6265) prompt_ppl=10465.79
+Prompt: Hüt520 vertraut mensuel bancaire Gab Have prismental promoted
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 50 | joint=25.8461 task=16.5902 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 100 | joint=25.9417 task=16.6859 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 150 | joint=25.9910 task=16.7351 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 200 | joint=25.9737 task=16.7178 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 250 | joint=25.9972 task=16.7413 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 300 | joint=26.0175 task=16.7616 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 350 | joint=26.0196 task=16.7637 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 400 | joint=26.0259 task=16.7700 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 3/5 | joint=26.0087 task=16.7529 ppl_loss=9.2559 ppl=10465.79 val_loss=0.1186 val_acc=0.7920 (true=0.8357 false=0.7203) prompt_ppl=10465.79
+Prompt: Hüt520 vertraut mensuel bancaire Gab Have prismental promoted
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 50 | joint=25.9393 task=16.6835 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 100 | joint=25.9439 task=16.6881 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 150 | joint=25.9683 task=16.7124 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 200 | joint=25.9826 task=16.7267 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 250 | joint=25.9837 task=16.7278 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 300 | joint=26.0053 task=16.7494 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 350 | joint=26.0112 task=16.7553 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 400 | joint=26.0023 task=16.7465 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 4/5 | joint=26.0037 task=16.7478 ppl_loss=9.2559 ppl=10465.79 val_loss=0.1149 val_acc=0.7951 (true=0.8741 false=0.6653) prompt_ppl=10465.79
+Prompt: Hüt520 vertraut mensuel bancaire Gab Have prismental promoted
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 50 | joint=26.1070 task=16.8511 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 100 | joint=26.0630 task=16.8071 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 150 | joint=26.0298 task=16.7739 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 200 | joint=26.0615 task=16.8056 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 250 | joint=26.0423 task=16.7865 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 300 | joint=26.0549 task=16.7990 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 350 | joint=26.0528 task=16.7969 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 400 | joint=26.0554 task=16.7995 ppl_loss=9.2559 ppl=10465.79
+[PEZ λ=1.0 NON-ADV] Epoch 5/5 | joint=26.0644 task=16.8085 ppl_loss=9.2559 ppl=10465.79 val_loss=0.1151 val_acc=0.7994 (true=0.8342 false=0.7421) prompt_ppl=10465.79
+Prompt: Hüt520 vertraut mensuel bancaire Gab Have prismental promoted
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 15 completed: lambda=1.0, lr=1e-2, adversarial=

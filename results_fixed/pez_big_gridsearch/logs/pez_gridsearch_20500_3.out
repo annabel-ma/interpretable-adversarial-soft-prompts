@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 50 | joint=22.4240 task=17.1106 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 100 | joint=22.3682 task=17.0548 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 150 | joint=22.3675 task=17.0541 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 200 | joint=22.3082 task=16.9948 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 250 | joint=22.3432 task=17.0298 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 300 | joint=22.3189 task=17.0055 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 350 | joint=22.3466 task=17.0332 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 400 | joint=22.3446 task=17.0312 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 1/5 | joint=22.3454 task=17.0320 ppl_loss=10.6268 ppl=41224.62 val_loss=0.1837 val_acc=0.7315 (true=0.7747 false=0.6605) prompt_ppl=41224.62
+Prompt: еннmuseum decorations clips Hö Gal opportunitiesNeill devisjection
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 50 | joint=22.2293 task=16.9159 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 100 | joint=22.3697 task=17.0563 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 150 | joint=22.3971 task=17.0837 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 200 | joint=22.3936 task=17.0802 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 250 | joint=22.3814 task=17.0680 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 300 | joint=22.3545 task=17.0411 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 350 | joint=22.3612 task=17.0478 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 400 | joint=22.3499 task=17.0365 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 2/5 | joint=22.3395 task=17.0261 ppl_loss=10.6268 ppl=41224.62 val_loss=0.1447 val_acc=0.7122 (true=0.9823 false=0.2684) prompt_ppl=41224.62
+Prompt: еннmuseum decorations clips Hö Gal opportunitiesNeill devisjection
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 50 | joint=22.1807 task=16.8673 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 100 | joint=22.3079 task=16.9946 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 150 | joint=22.3167 task=17.0033 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 200 | joint=22.2760 task=16.9626 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 250 | joint=22.3412 task=17.0278 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 300 | joint=22.3443 task=17.0309 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 350 | joint=22.3333 task=17.0199 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 400 | joint=22.3119 task=16.9985 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 3/5 | joint=22.3436 task=17.0302 ppl_loss=10.6268 ppl=41224.62 val_loss=0.1790 val_acc=0.6719 (true=0.9951 false=0.1407) prompt_ppl=41224.62
+Prompt: еннmuseum decorations clips Hö Gal opportunitiesNeill devisjection
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 50 | joint=22.4145 task=17.1011 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 100 | joint=22.2999 task=16.9866 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 150 | joint=22.2912 task=16.9778 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 200 | joint=22.2811 task=16.9677 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 250 | joint=22.2431 task=16.9297 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 300 | joint=22.2825 task=16.9691 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 350 | joint=22.2985 task=16.9851 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 400 | joint=22.3264 task=17.0130 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 4/5 | joint=22.3305 task=17.0171 ppl_loss=10.6268 ppl=41224.62 val_loss=0.1300 val_acc=0.7657 (true=0.8475 false=0.6314) prompt_ppl=41224.62
+Prompt: еннmuseum decorations clips Hö Gal opportunitiesNeill devisjection
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 50 | joint=22.3648 task=17.0514 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 100 | joint=22.3380 task=17.0246 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 150 | joint=22.3342 task=17.0208 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 200 | joint=22.3192 task=17.0058 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 250 | joint=22.3362 task=17.0228 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 300 | joint=22.3293 task=17.0159 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 350 | joint=22.3215 task=17.0081 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 400 | joint=22.3143 task=17.0009 ppl_loss=10.6268 ppl=41224.62
+[PEZ λ=0.5 NON-ADV] Epoch 5/5 | joint=22.3101 task=16.9967 ppl_loss=10.6268 ppl=41224.62 val_loss=0.1317 val_acc=0.7361 (true=0.9656 false=0.3589) prompt_ppl=41224.62
+Prompt: еннmuseum decorations clips Hö Gal opportunitiesNeill devisjection
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 3 completed: lambda=0.5, lr=1e-4, adversarial=

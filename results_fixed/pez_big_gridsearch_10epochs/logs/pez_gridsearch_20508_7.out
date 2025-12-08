@@ -1,0 +1,77 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=27.2395 task=17.2642 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.2056 task=17.2303 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=27.2314 task=17.2561 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=27.2381 task=17.2629 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=27.2296 task=17.2543 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=27.2285 task=17.2532 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=27.2061 task=17.2308 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=27.1790 task=17.2037 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=27.1732 task=17.1980 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1335 val_acc=0.7563 (true=0.9395 false=0.4551) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=27.1191 task=17.1438 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=27.0890 task=17.1137 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=27.1229 task=17.1476 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=27.1314 task=17.1561 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=27.1703 task=17.1950 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=27.1527 task=17.1774 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=27.1741 task=17.1988 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=27.1823 task=17.2070 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=27.1753 task=17.2001 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1260 val_acc=0.7657 (true=0.9287 false=0.4980) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=27.2608 task=17.2856 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=27.1794 task=17.2041 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=27.1867 task=17.2114 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=27.1479 task=17.1726 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=27.1905 task=17.2152 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=27.1855 task=17.2102 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=27.1668 task=17.1916 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=27.1825 task=17.2072 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=27.1697 task=17.1944 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1176 val_acc=0.7844 (true=0.9139 false=0.5715) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=27.0849 task=17.1097 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=27.0934 task=17.1182 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=27.1427 task=17.1675 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=27.1299 task=17.1547 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=27.1013 task=17.1260 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.1380 task=17.1627 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.1308 task=17.1555 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.1259 task=17.1507 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=27.1425 task=17.1672 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1146 val_acc=0.7969 (true=0.8898 false=0.6443) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=27.0187 task=17.0434 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=27.0563 task=17.0811 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=27.0835 task=17.1083 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=27.1423 task=17.1670 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=27.1431 task=17.1678 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=27.1552 task=17.1799 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=27.1497 task=17.1745 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=27.1420 task=17.1667 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=27.1517 task=17.1765 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1136 val_acc=0.7933 (true=0.9144 false=0.5942) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.9737 task=16.9985 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=27.0121 task=17.0368 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=27.0760 task=17.1007 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=27.0695 task=17.0942 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=27.0907 task=17.1155 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=27.1274 task=17.1522 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=27.1388 task=17.1635 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=27.1206 task=17.1454 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=27.1313 task=17.1560 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1133 val_acc=0.8009 (true=0.8815 false=0.6686) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=27.2895 task=17.3142 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=27.2497 task=17.2744 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=27.2622 task=17.2870 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=27.1997 task=17.2244 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=27.1995 task=17.2242 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=27.1950 task=17.2197 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=27.1951 task=17.2199 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=27.2035 task=17.2282 ppl_loss=9.9753 ppl=21488.58

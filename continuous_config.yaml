@@ -1,0 +1,27 @@
+# Continuous Soft Prompt Grid Search Configuration
+
+# Learning rates to test
+lr_grid:
+  - 1e-6
+  - 1e-5
+  - 1e-4
+  - 1e-3
+  - 1e-2
+  - 1e-1
+
+# Prompt lengths to test
+prompt_length_grid:
+  - 10
+
+# Adversarial training flags (list of booleans)
+# Set to [false] for non-adversarial only, [true] for adversarial only, or [false, true] for both
+adversarial:
+  - false
+  - true
+
+# Number of training epochs
+num_epochs: 10
+
+# Output directory for results
+output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_gridsearch
+

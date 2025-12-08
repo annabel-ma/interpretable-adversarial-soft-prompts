@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 50 | joint=21.6778 task=17.4779 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 100 | joint=21.7094 task=17.5095 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 150 | joint=21.7012 task=17.5013 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 200 | joint=21.7407 task=17.5409 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 250 | joint=21.7439 task=17.5441 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 300 | joint=21.7115 task=17.5117 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 350 | joint=21.7161 task=17.5162 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 400 | joint=21.7055 task=17.5057 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 1/5 | joint=21.7147 task=17.5149 ppl_loss=8.3997 ppl=4445.62 val_loss=0.3120 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=4445.62
+Prompt: birth compterrien multeorganiz București yard stump philosopherquête
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 50 | joint=21.6195 task=17.4196 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 100 | joint=21.6191 task=17.4193 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 150 | joint=21.6749 task=17.4751 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 200 | joint=21.6659 task=17.4660 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 250 | joint=21.6642 task=17.4644 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 300 | joint=21.6747 task=17.4749 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 350 | joint=21.6805 task=17.4807 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 400 | joint=21.6828 task=17.4830 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 2/5 | joint=21.6766 task=17.4768 ppl_loss=8.3997 ppl=4445.62 val_loss=0.1731 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=4445.62
+Prompt: birth compterrien multeorganiz București yard stump philosopherquête
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 50 | joint=21.6856 task=17.4858 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 100 | joint=21.6908 task=17.4910 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 150 | joint=21.7119 task=17.5121 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 200 | joint=21.7163 task=17.5164 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 250 | joint=21.7161 task=17.5163 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 300 | joint=21.7173 task=17.5174 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 350 | joint=21.7054 task=17.5056 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 400 | joint=21.7081 task=17.5082 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 3/5 | joint=21.6988 task=17.4989 ppl_loss=8.3997 ppl=4445.62 val_loss=0.1791 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=4445.62
+Prompt: birth compterrien multeorganiz București yard stump philosopherquête
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 50 | joint=21.6084 task=17.4086 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 100 | joint=21.6474 task=17.4475 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 150 | joint=21.7009 task=17.5011 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 200 | joint=21.6743 task=17.4744 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 250 | joint=21.6850 task=17.4851 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 300 | joint=21.6971 task=17.4972 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 350 | joint=21.7049 task=17.5051 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 400 | joint=21.7084 task=17.5085 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 4/5 | joint=21.7193 task=17.5195 ppl_loss=8.3997 ppl=4445.62 val_loss=0.1659 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=4445.62
+Prompt: birth compterrien multeorganiz București yard stump philosopherquête
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 50 | joint=21.6700 task=17.4702 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 100 | joint=21.7325 task=17.5326 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 150 | joint=21.7251 task=17.5253 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 200 | joint=21.7064 task=17.5065 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 250 | joint=21.7357 task=17.5358 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 300 | joint=21.7077 task=17.5078 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 350 | joint=21.7306 task=17.5308 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 400 | joint=21.7279 task=17.5280 ppl_loss=8.3997 ppl=4445.62
+[PEZ λ=0.5 ADV] Epoch 5/5 | joint=21.7275 task=17.5277 ppl_loss=8.3997 ppl=4445.62 val_loss=0.1652 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=4445.62
+Prompt: birth compterrien multeorganiz București yard stump philosopherquête
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 8 completed: lambda=0.5, lr=1e-2, adversarial=--adversarial

@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 50 | joint=22.9280 task=17.3667 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 100 | joint=22.9869 task=17.4256 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 150 | joint=22.9919 task=17.4305 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 200 | joint=22.9738 task=17.4125 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 250 | joint=23.0023 task=17.4409 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 300 | joint=22.9792 task=17.4179 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 350 | joint=22.9676 task=17.4062 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 400 | joint=22.9652 task=17.4039 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 1/5 | joint=22.9632 task=17.4018 ppl_loss=11.1227 ppl=67689.89 val_loss=0.1653 val_acc=0.6483 (true=0.9975 false=0.0744) prompt_ppl=67689.89
+Prompt: properties cottageumblescented rejection acuz communicate diamant soit casino
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 50 | joint=23.0057 task=17.4443 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 100 | joint=23.0066 task=17.4453 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 150 | joint=23.0274 task=17.4660 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 200 | joint=23.0007 task=17.4393 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 250 | joint=23.0009 task=17.4395 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 300 | joint=23.0323 task=17.4709 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 350 | joint=23.0365 task=17.4752 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 400 | joint=23.0219 task=17.4605 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 2/5 | joint=23.0065 task=17.4452 ppl_loss=11.1227 ppl=67689.89 val_loss=0.2427 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=67689.89
+Prompt: properties cottageumblescented rejection acuz communicate diamant soit casino
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 50 | joint=22.9060 task=17.3446 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 100 | joint=22.9369 task=17.3756 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 150 | joint=22.8795 task=17.3182 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 200 | joint=22.9002 task=17.3389 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 250 | joint=22.9300 task=17.3686 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 300 | joint=22.9434 task=17.3820 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 350 | joint=22.9287 task=17.3673 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 400 | joint=22.9470 task=17.3856 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 3/5 | joint=22.9564 task=17.3951 ppl_loss=11.1227 ppl=67689.89 val_loss=0.1782 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=67689.89
+Prompt: properties cottageumblescented rejection acuz communicate diamant soit casino
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 50 | joint=22.9564 task=17.3951 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 100 | joint=22.9362 task=17.3748 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 150 | joint=22.9473 task=17.3859 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 200 | joint=22.9228 task=17.3615 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 250 | joint=22.9452 task=17.3839 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 300 | joint=22.9384 task=17.3771 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 350 | joint=22.9510 task=17.3896 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 400 | joint=22.9622 task=17.4009 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 4/5 | joint=22.9759 task=17.4145 ppl_loss=11.1227 ppl=67689.89 val_loss=0.1873 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=67689.89
+Prompt: properties cottageumblescented rejection acuz communicate diamant soit casino
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 50 | joint=23.0143 task=17.4530 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 100 | joint=22.9843 task=17.4229 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 150 | joint=23.0280 task=17.4667 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 200 | joint=23.0121 task=17.4508 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 250 | joint=22.9970 task=17.4356 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 300 | joint=22.9785 task=17.4172 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 350 | joint=22.9633 task=17.4019 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 400 | joint=22.9634 task=17.4020 ppl_loss=11.1227 ppl=67689.89
+[PEZ λ=0.5 ADV] Epoch 5/5 | joint=22.9662 task=17.4048 ppl_loss=11.1227 ppl=67689.89 val_loss=0.1802 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=67689.89
+Prompt: properties cottageumblescented rejection acuz communicate diamant soit casino
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 6 completed: lambda=0.5, lr=1e-3, adversarial=--adversarial

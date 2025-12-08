@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-05, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 50 | joint=25.7434 task=16.8481 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 100 | joint=25.7029 task=16.8076 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 150 | joint=25.6659 task=16.7706 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 200 | joint=25.7120 task=16.8167 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 250 | joint=25.6905 task=16.7952 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 300 | joint=25.6932 task=16.7979 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 350 | joint=25.6793 task=16.7840 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 400 | joint=25.6882 task=16.7929 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/5 | joint=25.6748 task=16.7795 ppl_loss=8.8953 ppl=7297.67 val_loss=8.8961 val_acc=0.4073 (true=0.0472 false=0.9992) prompt_ppl=7297.67
+Prompt: contreNAGER picturesautorité șef furnizormaj screws notebook
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 50 | joint=25.7101 task=16.8147 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 100 | joint=25.6834 task=16.7881 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 150 | joint=25.7544 task=16.8591 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 200 | joint=25.7142 task=16.8189 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 250 | joint=25.7177 task=16.8223 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 300 | joint=25.7470 task=16.8517 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 350 | joint=25.7133 task=16.8180 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 400 | joint=25.6959 task=16.8006 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/5 | joint=25.7007 task=16.8054 ppl_loss=8.8953 ppl=7297.67 val_loss=3.7893 val_acc=0.7113 (true=0.6734 false=0.7736) prompt_ppl=7297.67
+Prompt: contreNAGER picturesautorité șef furnizormaj screws notebook
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 50 | joint=25.8335 task=16.9382 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 100 | joint=25.8333 task=16.9380 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 150 | joint=25.8266 task=16.9313 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 200 | joint=25.7953 task=16.8999 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 250 | joint=25.7682 task=16.8729 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 300 | joint=25.7499 task=16.8546 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 350 | joint=25.7189 task=16.8235 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 400 | joint=25.7189 task=16.8236 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/5 | joint=25.6983 task=16.8030 ppl_loss=8.8953 ppl=7297.67 val_loss=0.2262 val_acc=0.7003 (true=0.9857 false=0.2312) prompt_ppl=7297.67
+Prompt: contreNAGER picturesautorité șef furnizormaj screws notebook
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 50 | joint=25.7461 task=16.8508 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 100 | joint=25.6137 task=16.7184 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 150 | joint=25.6193 task=16.7240 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 200 | joint=25.6105 task=16.7152 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 250 | joint=25.6174 task=16.7221 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 300 | joint=25.6175 task=16.7222 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 350 | joint=25.6243 task=16.7290 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 400 | joint=25.6378 task=16.7425 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/5 | joint=25.6211 task=16.7258 ppl_loss=8.8953 ppl=7297.67 val_loss=0.1403 val_acc=0.7419 (true=0.9592 false=0.3848) prompt_ppl=7297.67
+Prompt: contreNAGER picturesautorité șef furnizormaj screws notebook
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 50 | joint=25.5322 task=16.6369 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 100 | joint=25.5390 task=16.6437 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 150 | joint=25.5778 task=16.6825 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 200 | joint=25.6136 task=16.7183 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 250 | joint=25.6377 task=16.7424 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 300 | joint=25.6523 task=16.7570 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 350 | joint=25.6404 task=16.7451 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 400 | joint=25.6444 task=16.7491 ppl_loss=8.8953 ppl=7297.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/5 | joint=25.6563 task=16.7610 ppl_loss=8.8953 ppl=7297.67 val_loss=0.1341 val_acc=0.7453 (true=0.9488 false=0.4107) prompt_ppl=7297.67
+Prompt: contreNAGER picturesautorité șef furnizormaj screws notebook
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_1.0_lr_1e-05.pt
+  History: history_lambda_1.0_lr_1e-05.json
+Job 9 completed: lambda=1.0, lr=1e-5, adversarial=

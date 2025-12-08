@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 100 | joint=17.0419 task=17.0419 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 150 | joint=16.9941 task=16.9941 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 200 | joint=16.9434 task=16.9434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 250 | joint=16.9307 task=16.9307 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 300 | joint=16.9093 task=16.9093 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 350 | joint=16.9035 task=16.9035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 400 | joint=16.9071 task=16.9071 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5 | joint=16.9072 task=16.9072 ppl_loss=0.0000 ppl=0.00 val_loss=0.1237 val_acc=0.7813 (true=0.8588 false=0.6540) prompt_ppl=0.00
+Prompt: conséquence advances enjoyedле bancar DE Cooper politische days chrono
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 50 | joint=16.9910 task=16.9910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 100 | joint=17.0171 task=17.0171 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 150 | joint=16.9566 task=16.9566 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 200 | joint=16.9890 task=16.9890 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 250 | joint=16.9669 task=16.9669 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 300 | joint=16.9819 task=16.9819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 350 | joint=16.9683 task=16.9683 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 400 | joint=16.9555 task=16.9555 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5 | joint=16.9753 task=16.9753 ppl_loss=0.0000 ppl=0.00 val_loss=0.1160 val_acc=0.7930 (true=0.8608 false=0.6815) prompt_ppl=0.00
+Prompt: conséquence advances enjoyedле bancar DE Cooper politische days chrono
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 50 | joint=16.8292 task=16.8292 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 100 | joint=16.8650 task=16.8650 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 150 | joint=16.9225 task=16.9225 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 200 | joint=16.9480 task=16.9480 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 250 | joint=16.9591 task=16.9591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 300 | joint=16.9336 task=16.9336 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 350 | joint=16.9282 task=16.9282 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 400 | joint=16.9057 task=16.9057 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5 | joint=16.9050 task=16.9050 ppl_loss=0.0000 ppl=0.00 val_loss=0.1151 val_acc=0.7930 (true=0.8465 false=0.7049) prompt_ppl=0.00
+Prompt: conséquence advances enjoyedле bancar DE Cooper politische days chrono
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 50 | joint=16.9219 task=16.9219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 100 | joint=16.9120 task=16.9120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 150 | joint=16.9385 task=16.9385 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 200 | joint=16.9097 task=16.9097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 250 | joint=16.8976 task=16.8976 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 300 | joint=16.9059 task=16.9059 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 350 | joint=16.9260 task=16.9260 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 400 | joint=16.9372 task=16.9372 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5 | joint=16.9341 task=16.9341 ppl_loss=0.0000 ppl=0.00 val_loss=0.1104 val_acc=0.7982 (true=0.8667 false=0.6855) prompt_ppl=0.00
+Prompt: conséquence advances enjoyedле bancar DE Cooper politische days chrono
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 50 | joint=16.8064 task=16.8064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 100 | joint=16.9216 task=16.9216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 150 | joint=16.8984 task=16.8984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 200 | joint=16.8950 task=16.8950 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 250 | joint=16.8876 task=16.8876 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 300 | joint=16.8628 task=16.8628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 350 | joint=16.8583 task=16.8583 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 400 | joint=16.8509 task=16.8509 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5 | joint=16.8641 task=16.8641 ppl_loss=0.0000 ppl=0.00 val_loss=0.1131 val_acc=0.7982 (true=0.8805 false=0.6629) prompt_ppl=0.00
+Prompt: conséquence advances enjoyedле bancar DE Cooper politische days chrono
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 7 completed: lambda=0.0, lr=1e-2, adversarial=

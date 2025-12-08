@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 50 | joint=22.9177 task=17.1794 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 100 | joint=22.9481 task=17.2097 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 150 | joint=22.9249 task=17.1866 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 200 | joint=22.9376 task=17.1993 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 250 | joint=22.9822 task=17.2439 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 300 | joint=22.9687 task=17.2303 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 350 | joint=22.9971 task=17.2588 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5, batch 400 | joint=23.0103 task=17.2719 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 1/5 | joint=23.0360 task=17.2976 ppl_loss=11.4767 ppl=96443.65 val_loss=0.1240 val_acc=0.7642 (true=0.9420 false=0.4721) prompt_ppl=96443.65
+Prompt: Asphalt Danielcommitting protestLPtaxable helicopterier95ceşti
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 50 | joint=22.8030 task=17.0647 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 100 | joint=22.9130 task=17.1746 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 150 | joint=22.9812 task=17.2429 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 200 | joint=22.9690 task=17.2307 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 250 | joint=22.9586 task=17.2203 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 300 | joint=23.0033 task=17.2649 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 350 | joint=23.0239 task=17.2855 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5, batch 400 | joint=23.0165 task=17.2781 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 2/5 | joint=23.0311 task=17.2927 ppl_loss=11.4767 ppl=96443.65 val_loss=0.1183 val_acc=0.7737 (true=0.9193 false=0.5344) prompt_ppl=96443.65
+Prompt: Asphalt Danielcommitting protestLPtaxable helicopterier95ceşti
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 50 | joint=23.0320 task=17.2937 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 100 | joint=22.9562 task=17.2178 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 150 | joint=22.9716 task=17.2333 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 200 | joint=22.9652 task=17.2268 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 250 | joint=22.9852 task=17.2468 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 300 | joint=22.9910 task=17.2526 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 350 | joint=23.0056 task=17.2672 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5, batch 400 | joint=23.0113 task=17.2729 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 3/5 | joint=23.0110 task=17.2726 ppl_loss=11.4767 ppl=96443.65 val_loss=0.1184 val_acc=0.7856 (true=0.8519 false=0.6766) prompt_ppl=96443.65
+Prompt: Asphalt Danielcommitting protestLPtaxable helicopterier95ceşti
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 50 | joint=23.0896 task=17.3513 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 100 | joint=23.0475 task=17.3092 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 150 | joint=23.0174 task=17.2790 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 200 | joint=23.0401 task=17.3017 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 250 | joint=23.0151 task=17.2768 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 300 | joint=23.0246 task=17.2862 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 350 | joint=23.0288 task=17.2904 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5, batch 400 | joint=23.0352 task=17.2968 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 4/5 | joint=23.0185 task=17.2801 ppl_loss=11.4767 ppl=96443.65 val_loss=0.1129 val_acc=0.7951 (true=0.9110 false=0.6047) prompt_ppl=96443.65
+Prompt: Asphalt Danielcommitting protestLPtaxable helicopterier95ceşti
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 50 | joint=23.0783 task=17.3399 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 100 | joint=23.0725 task=17.3341 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 150 | joint=23.0557 task=17.3173 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 200 | joint=23.0755 task=17.3371 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 250 | joint=23.0820 task=17.3436 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 300 | joint=23.0752 task=17.3368 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 350 | joint=23.0593 task=17.3210 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5, batch 400 | joint=23.0603 task=17.3220 ppl_loss=11.4767 ppl=96443.65
+[PEZ λ=0.5 NON-ADV] Epoch 5/5 | joint=23.0504 task=17.3121 ppl_loss=11.4767 ppl=96443.65 val_loss=0.1208 val_acc=0.7951 (true=0.7939 false=0.7971) prompt_ppl=96443.65
+Prompt: Asphalt Danielcommitting protestLPtaxable helicopterier95ceşti
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 7 completed: lambda=0.5, lr=1e-2, adversarial=

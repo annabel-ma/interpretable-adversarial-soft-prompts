@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 100 | joint=17.1197 task=17.1197 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 150 | joint=17.0699 task=17.0699 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 200 | joint=17.0893 task=17.0893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 250 | joint=17.0951 task=17.0951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 300 | joint=17.1183 task=17.1183 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 350 | joint=17.1165 task=17.1165 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 400 | joint=17.1188 task=17.1188 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5 | joint=17.1178 task=17.1178 ppl_loss=0.0000 ppl=0.00 val_loss=8.7572 val_acc=0.4869 (true=0.1899 false=0.9749) prompt_ppl=0.00
+Prompt: beach Scout titles user Perthdeseori fabricantla breath authority
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 50 | joint=17.1126 task=17.1126 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 100 | joint=17.0831 task=17.0831 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 150 | joint=17.1683 task=17.1683 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 200 | joint=17.1564 task=17.1564 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 250 | joint=17.0908 task=17.0908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 300 | joint=17.0804 task=17.0804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 350 | joint=17.0860 task=17.0860 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 400 | joint=17.0980 task=17.0980 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5 | joint=17.0942 task=17.0942 ppl_loss=0.0000 ppl=0.00 val_loss=1.4644 val_acc=0.6413 (true=0.9995 false=0.0525) prompt_ppl=0.00
+Prompt: beach Scout titles user Perthdeseori fabricantla breath authority
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 50 | joint=17.1540 task=17.1540 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 100 | joint=17.1345 task=17.1345 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 150 | joint=17.1427 task=17.1427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 200 | joint=17.1088 task=17.1088 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 250 | joint=17.0933 task=17.0933 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 300 | joint=17.0844 task=17.0844 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 350 | joint=17.0850 task=17.0850 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 400 | joint=17.0918 task=17.0918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5 | joint=17.1046 task=17.1046 ppl_loss=0.0000 ppl=0.00 val_loss=0.1700 val_acc=0.6609 (true=0.9951 false=0.1116) prompt_ppl=0.00
+Prompt: beach Scout titles user Perthdeseori fabricantla breath authority
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 50 | joint=17.0007 task=17.0007 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 100 | joint=17.1516 task=17.1516 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 150 | joint=17.1442 task=17.1442 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 200 | joint=17.1446 task=17.1446 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 250 | joint=17.1579 task=17.1579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 300 | joint=17.1113 task=17.1113 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 350 | joint=17.1172 task=17.1172 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 400 | joint=17.1304 task=17.1304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5 | joint=17.1456 task=17.1456 ppl_loss=0.0000 ppl=0.00 val_loss=0.1810 val_acc=0.6462 (true=0.9985 false=0.0671) prompt_ppl=0.00
+Prompt: beach Scout titles user Perthdeseori fabricantla breath authority
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 50 | joint=17.1737 task=17.1737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 100 | joint=17.1144 task=17.1144 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 150 | joint=17.1562 task=17.1562 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 200 | joint=17.1427 task=17.1427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 250 | joint=17.1230 task=17.1230 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 300 | joint=17.1243 task=17.1243 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 350 | joint=17.1302 task=17.1302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 400 | joint=17.1366 task=17.1366 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5 | joint=17.1441 task=17.1441 ppl_loss=0.0000 ppl=0.00 val_loss=0.1632 val_acc=0.6590 (true=0.9951 false=0.1067) prompt_ppl=0.00
+Prompt: beach Scout titles user Perthdeseori fabricantla breath authority
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.0_lr_1e-05.pt
+  History: history_lambda_0.0_lr_1e-05.json
+Job 1 completed: lambda=0.0, lr=1e-5, adversarial=

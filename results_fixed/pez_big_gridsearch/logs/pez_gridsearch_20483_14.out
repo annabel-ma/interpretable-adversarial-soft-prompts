@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 50 | joint=26.2742 task=17.5357 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 100 | joint=26.3245 task=17.5860 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 150 | joint=26.3379 task=17.5994 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 200 | joint=26.3655 task=17.6270 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 250 | joint=26.3581 task=17.6197 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 300 | joint=26.3728 task=17.6344 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 350 | joint=26.3707 task=17.6322 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 400 | joint=26.3860 task=17.6476 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 1/5 | joint=26.3839 task=17.6454 ppl_loss=8.7385 ppl=6238.33 val_loss=0.1850 val_acc=0.4645 (true=0.1830 false=0.9272) prompt_ppl=6238.33
+Prompt: erlaubt régionalmacher Rajasthan airline objection Town gerademountbuy
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 50 | joint=26.4737 task=17.7353 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 100 | joint=26.5179 task=17.7795 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 150 | joint=26.4828 task=17.7443 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 200 | joint=26.4905 task=17.7520 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 250 | joint=26.4839 task=17.7454 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 300 | joint=26.4753 task=17.7368 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 350 | joint=26.4655 task=17.7270 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 400 | joint=26.4674 task=17.7289 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 2/5 | joint=26.4718 task=17.7333 ppl_loss=8.7385 ppl=6238.33 val_loss=0.1646 val_acc=0.6196 (true=0.6055 false=0.6427) prompt_ppl=6238.33
+Prompt: erlaubt régionalmacher Rajasthan airline objection Town gerademountbuy
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 50 | joint=26.4313 task=17.6929 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 100 | joint=26.4256 task=17.6872 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 150 | joint=26.4002 task=17.6617 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 200 | joint=26.3965 task=17.6581 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 250 | joint=26.4225 task=17.6840 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 300 | joint=26.4151 task=17.6766 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 350 | joint=26.4226 task=17.6841 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 400 | joint=26.4318 task=17.6933 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 3/5 | joint=26.4167 task=17.6782 ppl_loss=8.7385 ppl=6238.33 val_loss=0.1630 val_acc=0.6324 (true=0.5676 false=0.7389) prompt_ppl=6238.33
+Prompt: erlaubt régionalmacher Rajasthan airline objection Town gerademountbuy
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 50 | joint=26.4959 task=17.7574 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 100 | joint=26.5408 task=17.8024 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 150 | joint=26.5453 task=17.8069 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 200 | joint=26.5607 task=17.8222 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 250 | joint=26.5506 task=17.8121 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 300 | joint=26.5355 task=17.7970 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 350 | joint=26.5384 task=17.8000 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 400 | joint=26.5299 task=17.7915 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 4/5 | joint=26.5444 task=17.8060 ppl_loss=8.7385 ppl=6238.33 val_loss=0.1617 val_acc=0.6865 (true=0.8977 false=0.3395) prompt_ppl=6238.33
+Prompt: erlaubt régionalmacher Rajasthan airline objection Town gerademountbuy
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 50 | joint=26.5939 task=17.8554 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 100 | joint=26.4341 task=17.6956 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 150 | joint=26.4097 task=17.6713 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 200 | joint=26.4610 task=17.7225 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 250 | joint=26.4900 task=17.7516 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 300 | joint=26.5071 task=17.7687 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 350 | joint=26.4756 task=17.7372 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 400 | joint=26.4671 task=17.7286 ppl_loss=8.7385 ppl=6238.33
+[PEZ λ=1.0 ADV] Epoch 5/5 | joint=26.4569 task=17.7185 ppl_loss=8.7385 ppl=6238.33 val_loss=0.1669 val_acc=0.6425 (true=0.6877 false=0.5683) prompt_ppl=6238.33
+Prompt: erlaubt régionalmacher Rajasthan airline objection Town gerademountbuy
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 14 completed: lambda=1.0, lr=1e-3, adversarial=--adversarial

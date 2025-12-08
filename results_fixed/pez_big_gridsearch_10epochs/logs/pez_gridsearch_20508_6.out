@@ -1,0 +1,77 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.0381 task=17.1083 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.8561 task=16.9263 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.7933 task=16.8635 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.8100 task=16.8802 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.7867 task=16.8569 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.7975 task=16.8678 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.7727 task=16.8429 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.7766 task=16.8469 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.7773 task=16.8475 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1693 val_acc=0.5719 (true=0.4294 false=0.8060) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.7997 task=16.8699 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.7947 task=16.8649 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.8320 task=16.9022 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.8167 task=16.8869 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.7959 task=16.8661 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.7968 task=16.8670 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.7814 task=16.8516 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.7519 task=16.8221 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.7665 task=16.8367 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1757 val_acc=0.4972 (true=0.2641 false=0.8804) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.8544 task=16.9246 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.7842 task=16.8544 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.8007 task=16.8709 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.8279 task=16.8982 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.8169 task=16.8871 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.7963 task=16.8665 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.8006 task=16.8708 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.8119 task=16.8821 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.8108 task=16.8810 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1579 val_acc=0.6832 (true=0.9543 false=0.2377) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.7498 task=16.8200 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.7477 task=16.8179 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.7377 task=16.8079 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.7669 task=16.8371 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.7732 task=16.8434 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.7980 task=16.8682 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.7843 task=16.8545 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.8049 task=16.8752 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.8167 task=16.8869 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1697 val_acc=0.6254 (true=1.0000 false=0.0097) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.6835 task=16.7538 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.7572 task=16.8274 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.7978 task=16.8680 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.8119 task=16.8821 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.8073 task=16.8775 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.8068 task=16.8771 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.8086 task=16.8788 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.8061 task=16.8764 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.8039 task=16.8741 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1639 val_acc=0.6248 (true=0.9990 false=0.0097) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.9226 task=16.9928 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.7898 task=16.8601 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.8094 task=16.8796 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.8119 task=16.8821 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.8325 task=16.9028 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.8538 task=16.9240 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.8385 task=16.9087 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.8409 task=16.9112 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.8381 task=16.9083 ppl_loss=8.9298 ppl=7553.64 val_loss=0.1618 val_acc=0.6385 (true=0.9975 false=0.0485) prompt_ppl=7553.64
+Prompt: technical compliancecontaminated secretaryhik gleichSymptom IV occurred Kill
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.0560 task=17.1262 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.8407 task=16.9109 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.8037 task=16.8739 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.7913 task=16.8615 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.7775 task=16.8477 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.7616 task=16.8318 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.7787 task=16.8489 ppl_loss=8.9298 ppl=7553.64
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.7806 task=16.8508 ppl_loss=8.9298 ppl=7553.64

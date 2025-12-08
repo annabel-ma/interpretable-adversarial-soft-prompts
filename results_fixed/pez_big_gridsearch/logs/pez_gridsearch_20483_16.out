@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 50 | joint=25.9734 task=17.8468 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 100 | joint=25.8283 task=17.7017 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 150 | joint=25.8052 task=17.6786 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 200 | joint=25.7769 task=17.6503 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 250 | joint=25.7606 task=17.6340 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 300 | joint=25.7757 task=17.6491 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 350 | joint=25.7716 task=17.6451 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 400 | joint=25.7784 task=17.6519 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 1/5 | joint=25.7636 task=17.6370 ppl_loss=8.1266 ppl=3383.18 val_loss=0.1833 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=3383.18
+Prompt: freak roastcor behave Bir vrei HerbstVeröffentlichung inca furnizat
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 50 | joint=25.7802 task=17.6536 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 100 | joint=25.6892 task=17.5627 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 150 | joint=25.6962 task=17.5696 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 200 | joint=25.7040 task=17.5774 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 250 | joint=25.6960 task=17.5694 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 300 | joint=25.7225 task=17.5959 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 350 | joint=25.7325 task=17.6059 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 400 | joint=25.7436 task=17.6170 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 2/5 | joint=25.7395 task=17.6129 ppl_loss=8.1266 ppl=3383.18 val_loss=0.1724 val_acc=0.5300 (true=0.3955 false=0.7510) prompt_ppl=3383.18
+Prompt: freak roastcor behave Bir vrei HerbstVeröffentlichung inca furnizat
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 50 | joint=25.8234 task=17.6969 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 100 | joint=25.7143 task=17.5878 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 150 | joint=25.7464 task=17.6199 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 200 | joint=25.7954 task=17.6688 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 250 | joint=25.7842 task=17.6576 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 300 | joint=25.7621 task=17.6355 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 350 | joint=25.7658 task=17.6393 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 400 | joint=25.7594 task=17.6328 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 3/5 | joint=25.7557 task=17.6291 ppl_loss=8.1266 ppl=3383.18 val_loss=0.1869 val_acc=0.3798 (true=0.0034 false=0.9984) prompt_ppl=3383.18
+Prompt: freak roastcor behave Bir vrei HerbstVeröffentlichung inca furnizat
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 50 | joint=25.5790 task=17.4524 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 100 | joint=25.6641 task=17.5375 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 150 | joint=25.6838 task=17.5572 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 200 | joint=25.6990 task=17.5724 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 250 | joint=25.7045 task=17.5779 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 300 | joint=25.7093 task=17.5827 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 350 | joint=25.7040 task=17.5774 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 400 | joint=25.7286 task=17.6021 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 4/5 | joint=25.7306 task=17.6040 ppl_loss=8.1266 ppl=3383.18 val_loss=0.1754 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3383.18
+Prompt: freak roastcor behave Bir vrei HerbstVeröffentlichung inca furnizat
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 50 | joint=25.7027 task=17.5761 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 100 | joint=25.7242 task=17.5976 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 150 | joint=25.7703 task=17.6437 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 200 | joint=25.7881 task=17.6615 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 250 | joint=25.8094 task=17.6828 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 300 | joint=25.7908 task=17.6642 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 350 | joint=25.8004 task=17.6738 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 400 | joint=25.7919 task=17.6653 ppl_loss=8.1266 ppl=3383.18
+[PEZ λ=1.0 ADV] Epoch 5/5 | joint=25.7915 task=17.6649 ppl_loss=8.1266 ppl=3383.18 val_loss=0.1727 val_acc=0.5425 (true=0.4894 false=0.6297) prompt_ppl=3383.18
+Prompt: freak roastcor behave Bir vrei HerbstVeröffentlichung inca furnizat
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 16 completed: lambda=1.0, lr=1e-2, adversarial=--adversarial

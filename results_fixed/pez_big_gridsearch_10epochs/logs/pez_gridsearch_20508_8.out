@@ -1,0 +1,77 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.3779 task=17.1042 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.4547 task=17.1810 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.4323 task=17.1586 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.4560 task=17.1823 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.4622 task=17.1884 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.4885 task=17.2148 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.4702 task=17.1964 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.4531 task=17.1793 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.4294 task=17.1557 ppl_loss=9.2738 ppl=10654.70 val_loss=0.2107 val_acc=0.3820 (true=0.0069 false=0.9984) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.3846 task=17.1108 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.4194 task=17.1457 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.4258 task=17.1520 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.4428 task=17.1690 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.4561 task=17.1823 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.4411 task=17.1673 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.4449 task=17.1711 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.4497 task=17.1760 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.4683 task=17.1945 ppl_loss=9.2738 ppl=10654.70 val_loss=0.1771 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.5039 task=17.2302 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.4555 task=17.1817 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.4774 task=17.2037 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.4551 task=17.1814 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.4149 task=17.1412 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.4248 task=17.1510 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.4312 task=17.1575 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.4337 task=17.1600 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.4275 task=17.1537 ppl_loss=9.2738 ppl=10654.70 val_loss=0.1652 val_acc=0.6291 (true=0.9867 false=0.0412) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.3909 task=17.1171 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.4792 task=17.2054 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.4825 task=17.2088 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.4717 task=17.1979 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.4783 task=17.2045 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.4727 task=17.1990 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.4839 task=17.2101 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.4884 task=17.2147 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.4988 task=17.2251 ppl_loss=9.2738 ppl=10654.70 val_loss=0.1664 val_acc=0.6214 (true=0.9985 false=0.0016) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.3493 task=17.0755 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.4513 task=17.1776 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.4262 task=17.1525 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.4340 task=17.1603 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.4209 task=17.1471 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.4029 task=17.1291 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.4071 task=17.1333 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.4444 task=17.1706 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.4416 task=17.1679 ppl_loss=9.2738 ppl=10654.70 val_loss=0.1665 val_acc=0.6235 (true=0.9897 false=0.0218) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.5136 task=17.2399 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.4730 task=17.1992 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.5019 task=17.2281 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.5202 task=17.2464 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.5095 task=17.2357 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.4990 task=17.2252 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.5119 task=17.2381 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.4870 task=17.2132 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.4643 task=17.1906 ppl_loss=9.2738 ppl=10654.70 val_loss=0.1830 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10654.70
+Prompt: sometimes procheplay assembly Social Main dureri Daisy mayoreuropäischen
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.5039 task=17.2302 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.5139 task=17.2401 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.5245 task=17.2507 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.4935 task=17.2197 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.4796 task=17.2058 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.4641 task=17.1903 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.4793 task=17.2056 ppl_loss=9.2738 ppl=10654.70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.4675 task=17.1937 ppl_loss=9.2738 ppl=10654.70

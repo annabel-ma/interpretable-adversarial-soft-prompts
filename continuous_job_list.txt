@@ -1,0 +1,12 @@
+1e-6 10 10 
+1e-6 10 10 --adversarial
+1e-5 10 10 
+1e-5 10 10 --adversarial
+1e-4 10 10 
+1e-4 10 10 --adversarial
+1e-3 10 10 
+1e-3 10 10 --adversarial
+1e-2 10 10 
+1e-2 10 10 --adversarial
+1e-1 10 10 
+1e-1 10 10 --adversarial

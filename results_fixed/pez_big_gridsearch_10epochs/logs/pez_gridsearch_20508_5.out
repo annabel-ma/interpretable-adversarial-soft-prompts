@@ -1,0 +1,77 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.3520 task=17.4156 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=26.3320 task=17.3956 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=26.2910 task=17.3545 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.2773 task=17.3409 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.2805 task=17.3441 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.2703 task=17.3339 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.2639 task=17.3274 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.2612 task=17.3247 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.2393 task=17.3028 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1700 val_acc=0.5963 (true=0.4186 false=0.8884) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.5554 task=17.6190 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.3629 task=17.4264 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.3138 task=17.3773 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.3271 task=17.3907 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.3320 task=17.3955 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.2951 task=17.3587 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.2635 task=17.3271 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.2786 task=17.3422 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.2689 task=17.3324 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1395 val_acc=0.7125 (true=0.9739 false=0.2829) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.2139 task=17.2774 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.2517 task=17.3152 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.2340 task=17.2975 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.1960 task=17.2595 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.2197 task=17.2832 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.2203 task=17.2838 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.2159 task=17.2794 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.2195 task=17.2831 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=26.2399 task=17.3034 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1269 val_acc=0.7538 (true=0.9302 false=0.4640) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=26.2904 task=17.3540 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=26.2688 task=17.3323 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=26.3098 task=17.3733 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.3168 task=17.3803 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=26.2981 task=17.3617 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.2899 task=17.3535 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.2694 task=17.3329 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.2627 task=17.3262 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.2605 task=17.3240 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1333 val_acc=0.7346 (true=0.9675 false=0.3517) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.2805 task=17.3440 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.2175 task=17.2810 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.2396 task=17.3031 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.2443 task=17.3078 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.2633 task=17.3268 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.2733 task=17.3368 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.3012 task=17.3648 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.2831 task=17.3466 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.2762 task=17.3397 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1259 val_acc=0.7523 (true=0.9444 false=0.4365) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.2618 task=17.3254 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.2396 task=17.3031 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.2128 task=17.2763 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.2197 task=17.2832 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.2037 task=17.2673 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.2171 task=17.2806 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.2039 task=17.2674 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.2151 task=17.2786 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.2166 task=17.2801 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1350 val_acc=0.7346 (true=0.9636 false=0.3581) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.1931 task=17.2566 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.2087 task=17.2723 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=26.2150 task=17.2786 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.2430 task=17.3065 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.2195 task=17.2831 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.2314 task=17.2949 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.2554 task=17.3189 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.2340 task=17.2975 ppl_loss=8.9365 ppl=7604.34

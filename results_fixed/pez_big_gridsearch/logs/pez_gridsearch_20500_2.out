@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-05, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 50 | joint=22.3611 task=17.3476 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 100 | joint=22.3266 task=17.3131 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 150 | joint=22.3179 task=17.3043 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 200 | joint=22.2871 task=17.2736 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 250 | joint=22.2832 task=17.2697 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 300 | joint=22.2630 task=17.2495 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 350 | joint=22.2328 task=17.2192 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 400 | joint=22.2268 task=17.2132 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 1/5 | joint=22.2435 task=17.2300 ppl_loss=10.0271 ppl=22631.00 val_loss=9.6092 val_acc=0.4043 (true=0.0428 false=0.9984) prompt_ppl=22631.00
+Prompt: diethou preciz receive repertoireESS 1996abilityentrepreneurshippar
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 50 | joint=22.1046 task=17.0911 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 100 | joint=22.2605 task=17.2469 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 150 | joint=22.2877 task=17.2742 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 200 | joint=22.3078 task=17.2943 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 250 | joint=22.3114 task=17.2978 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 300 | joint=22.3336 task=17.3201 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 350 | joint=22.3411 task=17.3276 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 400 | joint=22.3293 task=17.3158 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 2/5 | joint=22.3132 task=17.2996 ppl_loss=10.0271 ppl=22631.00 val_loss=5.0283 val_acc=0.5437 (true=0.2991 false=0.9458) prompt_ppl=22631.00
+Prompt: diethou preciz receive repertoireESS 1996abilityentrepreneurshippar
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 50 | joint=22.1555 task=17.1419 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 100 | joint=22.2189 task=17.2054 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 150 | joint=22.2483 task=17.2348 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 200 | joint=22.2410 task=17.2275 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 250 | joint=22.2789 task=17.2654 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 300 | joint=22.3111 task=17.2975 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 350 | joint=22.2975 task=17.2840 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 400 | joint=22.3052 task=17.2916 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 3/5 | joint=22.3101 task=17.2965 ppl_loss=10.0271 ppl=22631.00 val_loss=1.9786 val_acc=0.6581 (true=0.5627 false=0.8149) prompt_ppl=22631.00
+Prompt: diethou preciz receive repertoireESS 1996abilityentrepreneurshippar
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 50 | joint=22.2946 task=17.2810 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 100 | joint=22.2374 task=17.2239 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 150 | joint=22.2796 task=17.2661 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 200 | joint=22.2906 task=17.2770 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 250 | joint=22.2775 task=17.2640 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 300 | joint=22.3006 task=17.2870 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 350 | joint=22.2793 task=17.2657 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 400 | joint=22.2983 task=17.2847 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 4/5 | joint=22.3053 task=17.2918 ppl_loss=10.0271 ppl=22631.00 val_loss=0.2241 val_acc=0.7251 (true=0.9646 false=0.3314) prompt_ppl=22631.00
+Prompt: diethou preciz receive repertoireESS 1996abilityentrepreneurshippar
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 50 | joint=22.3646 task=17.3511 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 100 | joint=22.3466 task=17.3331 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 150 | joint=22.2730 task=17.2594 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 200 | joint=22.2691 task=17.2555 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 250 | joint=22.2981 task=17.2845 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 300 | joint=22.3033 task=17.2898 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 350 | joint=22.3102 task=17.2967 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 400 | joint=22.3128 task=17.2992 ppl_loss=10.0271 ppl=22631.00
+[PEZ λ=0.5 ADV] Epoch 5/5 | joint=22.3218 task=17.3083 ppl_loss=10.0271 ppl=22631.00 val_loss=0.1312 val_acc=0.7575 (true=0.9179 false=0.4939) prompt_ppl=22631.00
+Prompt: diethou preciz receive repertoireESS 1996abilityentrepreneurshippar
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.5_lr_1e-05.pt
+  History: history_lambda_0.5_lr_1e-05.json
+Job 2 completed: lambda=0.5, lr=1e-5, adversarial=--adversarial

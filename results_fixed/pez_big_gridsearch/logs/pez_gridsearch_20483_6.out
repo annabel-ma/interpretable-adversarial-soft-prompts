@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 100 | joint=16.8045 task=16.8045 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 150 | joint=16.7753 task=16.7753 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 200 | joint=16.7969 task=16.7969 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 250 | joint=16.8144 task=16.8144 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 300 | joint=16.8074 task=16.8074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 350 | joint=16.8239 task=16.8239 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 400 | joint=16.8465 task=16.8465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5 | joint=16.8499 task=16.8499 ppl_loss=0.0000 ppl=0.00 val_loss=0.1586 val_acc=0.6532 (true=0.9543 false=0.1584) prompt_ppl=0.00
+Prompt: sus fallsgru Experience levelşte Command HOWreinigung eradicate
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 50 | joint=16.8215 task=16.8215 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 100 | joint=16.7882 task=16.7882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 150 | joint=16.8255 task=16.8255 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 200 | joint=16.8267 task=16.8267 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 250 | joint=16.8359 task=16.8359 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 300 | joint=16.8153 task=16.8153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 350 | joint=16.8134 task=16.8134 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 400 | joint=16.8322 task=16.8322 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5 | joint=16.8130 task=16.8130 ppl_loss=0.0000 ppl=0.00 val_loss=0.1607 val_acc=0.6578 (true=0.9011 false=0.2579) prompt_ppl=0.00
+Prompt: sus fallsgru Experience levelşte Command HOWreinigung eradicate
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 50 | joint=16.8999 task=16.8999 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 100 | joint=16.8828 task=16.8828 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 150 | joint=16.9079 task=16.9079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 200 | joint=16.8889 task=16.8889 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 250 | joint=16.9142 task=16.9142 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 300 | joint=16.8926 task=16.8926 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 350 | joint=16.8849 task=16.8849 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 400 | joint=16.8895 task=16.8895 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5 | joint=16.8866 task=16.8866 ppl_loss=0.0000 ppl=0.00 val_loss=0.1689 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=0.00
+Prompt: sus fallsgru Experience levelşte Command HOWreinigung eradicate
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 50 | joint=16.7814 task=16.7814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 100 | joint=16.7732 task=16.7732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 150 | joint=16.7793 task=16.7793 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 200 | joint=16.7854 task=16.7854 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 250 | joint=16.8269 task=16.8269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 300 | joint=16.8478 task=16.8478 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 350 | joint=16.8553 task=16.8553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 400 | joint=16.8760 task=16.8760 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5 | joint=16.8737 task=16.8737 ppl_loss=0.0000 ppl=0.00 val_loss=0.1775 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: sus fallsgru Experience levelşte Command HOWreinigung eradicate
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 50 | joint=16.7283 task=16.7283 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 100 | joint=16.6530 task=16.6530 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 150 | joint=16.7156 task=16.7156 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 200 | joint=16.7967 task=16.7967 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 250 | joint=16.7703 task=16.7703 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 300 | joint=16.7791 task=16.7791 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 350 | joint=16.7901 task=16.7901 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 400 | joint=16.8065 task=16.8065 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5 | joint=16.8162 task=16.8162 ppl_loss=0.0000 ppl=0.00 val_loss=0.1663 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=0.00
+Prompt: sus fallsgru Experience levelşte Command HOWreinigung eradicate
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 6 completed: lambda=0.0, lr=1e-3, adversarial=--adversarial

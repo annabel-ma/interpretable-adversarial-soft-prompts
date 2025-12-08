@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 50 | joint=27.6262 task=16.8277 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 100 | joint=27.6509 task=16.8524 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 150 | joint=27.6238 task=16.8254 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 200 | joint=27.5999 task=16.8015 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 250 | joint=27.6067 task=16.8083 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 300 | joint=27.6022 task=16.8037 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 350 | joint=27.6076 task=16.8092 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5, batch 400 | joint=27.5951 task=16.7966 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/5 | joint=27.6040 task=16.8056 ppl_loss=10.7984 ppl=48943.41 val_loss=2.7588 val_acc=0.7511 (true=0.8126 false=0.6500) prompt_ppl=48943.41
+Prompt: ţi mural nebun HalfACTION enzyme missionsétrodecizia humility
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 50 | joint=27.6169 task=16.8185 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 100 | joint=27.7567 task=16.9583 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 150 | joint=27.6980 task=16.8996 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 200 | joint=27.6798 task=16.8814 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 250 | joint=27.6793 task=16.8809 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 300 | joint=27.6482 task=16.8498 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 350 | joint=27.6235 task=16.8250 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5, batch 400 | joint=27.6269 task=16.8285 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/5 | joint=27.6405 task=16.8421 ppl_loss=10.7984 ppl=48943.41 val_loss=0.1221 val_acc=0.7709 (true=0.9041 false=0.5521) prompt_ppl=48943.41
+Prompt: ţi mural nebun HalfACTION enzyme missionsétrodecizia humility
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 50 | joint=27.5431 task=16.7447 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 100 | joint=27.5469 task=16.7484 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 150 | joint=27.5850 task=16.7866 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 200 | joint=27.5977 task=16.7993 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 250 | joint=27.5762 task=16.7778 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 300 | joint=27.5825 task=16.7840 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 350 | joint=27.5718 task=16.7734 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5, batch 400 | joint=27.5774 task=16.7790 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/5 | joint=27.5947 task=16.7962 ppl_loss=10.7984 ppl=48943.41 val_loss=0.1350 val_acc=0.7437 (true=0.9656 false=0.3791) prompt_ppl=48943.41
+Prompt: ţi mural nebun HalfACTION enzyme missionsétrodecizia humility
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 50 | joint=27.6284 task=16.8300 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 100 | joint=27.5909 task=16.7925 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 150 | joint=27.5234 task=16.7250 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 200 | joint=27.5151 task=16.7167 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 250 | joint=27.5804 task=16.7820 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 300 | joint=27.5832 task=16.7848 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 350 | joint=27.5889 task=16.7905 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5, batch 400 | joint=27.6062 task=16.8077 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/5 | joint=27.6149 task=16.8165 ppl_loss=10.7984 ppl=48943.41 val_loss=0.1219 val_acc=0.7651 (true=0.9415 false=0.4753) prompt_ppl=48943.41
+Prompt: ţi mural nebun HalfACTION enzyme missionsétrodecizia humility
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 50 | joint=27.4904 task=16.6920 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 100 | joint=27.5438 task=16.7454 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 150 | joint=27.5483 task=16.7499 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 200 | joint=27.5699 task=16.7715 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 250 | joint=27.6096 task=16.8112 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 300 | joint=27.6158 task=16.8173 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 350 | joint=27.6212 task=16.8228 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5, batch 400 | joint=27.5976 task=16.7992 ppl_loss=10.7984 ppl=48943.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/5 | joint=27.6040 task=16.8056 ppl_loss=10.7984 ppl=48943.41 val_loss=0.1202 val_acc=0.7691 (true=0.9365 false=0.4939) prompt_ppl=48943.41
+Prompt: ţi mural nebun HalfACTION enzyme missionsétrodecizia humility
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 13 completed: lambda=1.0, lr=1e-3, adversarial=

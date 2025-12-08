@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 100 | joint=17.2654 task=17.2654 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 150 | joint=17.2589 task=17.2589 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 200 | joint=17.2897 task=17.2897 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 250 | joint=17.2654 task=17.2654 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 300 | joint=17.2524 task=17.2524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 350 | joint=17.2517 task=17.2517 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 400 | joint=17.2646 task=17.2646 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5 | joint=17.2718 task=17.2718 ppl_loss=0.0000 ppl=0.00 val_loss=9.8038 val_acc=0.3804 (true=0.0034 false=1.0000) prompt_ppl=0.00
+Prompt: niciodatarootedBAN Centr ghostäger clothingfileliefer
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 50 | joint=17.1203 task=17.1203 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 100 | joint=17.2357 task=17.2357 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 150 | joint=17.2544 task=17.2544 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 200 | joint=17.2688 task=17.2688 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 250 | joint=17.2433 task=17.2433 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 300 | joint=17.2388 task=17.2388 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 350 | joint=17.2480 task=17.2480 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 400 | joint=17.2328 task=17.2328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5 | joint=17.2386 task=17.2386 ppl_loss=0.0000 ppl=0.00 val_loss=5.1610 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: niciodatarootedBAN Centr ghostäger clothingfileliefer
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 50 | joint=17.3485 task=17.3485 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 100 | joint=17.2139 task=17.2139 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 150 | joint=17.2584 task=17.2584 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 200 | joint=17.2692 task=17.2692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 250 | joint=17.2827 task=17.2827 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 300 | joint=17.3001 task=17.3001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 350 | joint=17.2784 task=17.2784 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 400 | joint=17.2666 task=17.2666 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5 | joint=17.2472 task=17.2472 ppl_loss=0.0000 ppl=0.00 val_loss=0.7300 val_acc=0.4505 (true=0.1485 false=0.9466) prompt_ppl=0.00
+Prompt: niciodatarootedBAN Centr ghostäger clothingfileliefer
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 50 | joint=17.3319 task=17.3319 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 100 | joint=17.3095 task=17.3095 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 150 | joint=17.3738 task=17.3738 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 200 | joint=17.3615 task=17.3615 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 250 | joint=17.3348 task=17.3348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 300 | joint=17.3201 task=17.3201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 350 | joint=17.3348 task=17.3348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 400 | joint=17.3265 task=17.3265 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5 | joint=17.3094 task=17.3094 ppl_loss=0.0000 ppl=0.00 val_loss=0.1933 val_acc=0.6890 (true=0.9848 false=0.2029) prompt_ppl=0.00
+Prompt: niciodatarootedBAN Centr ghostäger clothingfileliefer
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 50 | joint=17.1159 task=17.1159 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 100 | joint=17.1733 task=17.1733 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 150 | joint=17.1940 task=17.1940 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 200 | joint=17.2465 task=17.2465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 250 | joint=17.2558 task=17.2558 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 300 | joint=17.2432 task=17.2432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 350 | joint=17.2214 task=17.2214 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 400 | joint=17.2199 task=17.2199 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5 | joint=17.2285 task=17.2285 ppl_loss=0.0000 ppl=0.00 val_loss=0.1686 val_acc=0.7021 (true=0.9754 false=0.2530) prompt_ppl=0.00
+Prompt: niciodatarootedBAN Centr ghostäger clothingfileliefer
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.0_lr_1e-05.pt
+  History: history_lambda_0.0_lr_1e-05.json
+Job 2 completed: lambda=0.0, lr=1e-5, adversarial=--adversarial

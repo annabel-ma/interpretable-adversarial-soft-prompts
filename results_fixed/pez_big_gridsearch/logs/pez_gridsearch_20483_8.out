@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 100 | joint=16.0804 task=16.0804 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 150 | joint=16.0591 task=16.0591 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 1/5, batch 200 | joint=16.0586 task=16.0586 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 250 | joint=16.0310 task=16.0310 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 300 | joint=16.0482 task=16.0482 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 350 | joint=16.0774 task=16.0774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5, batch 400 | joint=16.0730 task=16.0730 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/5 | joint=16.0628 task=16.0628 ppl_loss=0.0000 ppl=0.00 val_loss=0.1728 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=0.00
+Prompt: inaugur-2018 faci rising prohibitcapped linistitmond Was Contractor
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 50 | joint=16.0629 task=16.0629 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 100 | joint=16.0952 task=16.0952 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 150 | joint=16.1201 task=16.1201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 200 | joint=16.0850 task=16.0850 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 250 | joint=16.0763 task=16.0763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 300 | joint=16.0477 task=16.0477 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 350 | joint=16.0695 task=16.0695 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5, batch 400 | joint=16.0659 task=16.0659 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/5 | joint=16.0711 task=16.0711 ppl_loss=0.0000 ppl=0.00 val_loss=0.1675 val_acc=0.6196 (true=0.9661 false=0.0501) prompt_ppl=0.00
+Prompt: inaugur-2018 faci rising prohibitcapped linistitmond Was Contractor
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 50 | joint=16.2773 task=16.2773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 100 | joint=16.1069 task=16.1069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 150 | joint=16.1198 task=16.1198 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 200 | joint=16.1244 task=16.1244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 250 | joint=16.0910 task=16.0910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 300 | joint=16.0552 task=16.0552 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 350 | joint=16.0774 task=16.0774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5, batch 400 | joint=16.0903 task=16.0903 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/5 | joint=16.0840 task=16.0840 ppl_loss=0.0000 ppl=0.00 val_loss=0.1775 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: inaugur-2018 faci rising prohibitcapped linistitmond Was Contractor
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 50 | joint=16.0313 task=16.0313 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 100 | joint=16.0612 task=16.0612 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 150 | joint=16.0332 task=16.0332 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 200 | joint=16.0444 task=16.0444 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 250 | joint=16.0530 task=16.0530 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 300 | joint=16.0897 task=16.0897 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 350 | joint=16.0519 task=16.0519 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5, batch 400 | joint=16.0677 task=16.0677 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/5 | joint=16.0627 task=16.0627 ppl_loss=0.0000 ppl=0.00 val_loss=0.1675 val_acc=0.6223 (true=0.9956 false=0.0089) prompt_ppl=0.00
+Prompt: inaugur-2018 faci rising prohibitcapped linistitmond Was Contractor
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 50 | joint=15.9791 task=15.9791 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 100 | joint=16.0001 task=16.0001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 150 | joint=16.0202 task=16.0202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 200 | joint=16.0581 task=16.0581 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 250 | joint=16.0954 task=16.0954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 300 | joint=16.1084 task=16.1084 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 350 | joint=16.1411 task=16.1411 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5, batch 400 | joint=16.1337 task=16.1337 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/5 | joint=16.1408 task=16.1408 ppl_loss=0.0000 ppl=0.00 val_loss=0.1661 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: inaugur-2018 faci rising prohibitcapped linistitmond Was Contractor
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 8 completed: lambda=0.0, lr=1e-2, adversarial=--adversarial

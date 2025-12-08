@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 50 | joint=22.3698 task=16.8480 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 100 | joint=22.3450 task=16.8233 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 150 | joint=22.3229 task=16.8011 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 200 | joint=22.3437 task=16.8219 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 250 | joint=22.3807 task=16.8590 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 300 | joint=22.3809 task=16.8591 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 350 | joint=22.3631 task=16.8414 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5, batch 400 | joint=22.3738 task=16.8520 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 1/5 | joint=22.3785 task=16.8567 ppl_loss=11.0435 ppl=62535.96 val_loss=0.1826 val_acc=0.6443 (true=0.9975 false=0.0639) prompt_ppl=62535.96
+Prompt: goriélection Lille locauxdronAny Mod 1945 younger snacks
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 50 | joint=22.3700 task=16.8482 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 100 | joint=22.2652 task=16.7434 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 150 | joint=22.2868 task=16.7651 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 200 | joint=22.2986 task=16.7768 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 250 | joint=22.3255 task=16.8037 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 300 | joint=22.3170 task=16.7952 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 350 | joint=22.3433 task=16.8215 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5, batch 400 | joint=22.3417 task=16.8199 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 2/5 | joint=22.3486 task=16.8268 ppl_loss=11.0435 ppl=62535.96 val_loss=0.1641 val_acc=0.6453 (true=0.9956 false=0.0695) prompt_ppl=62535.96
+Prompt: goriélection Lille locauxdronAny Mod 1945 younger snacks
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 50 | joint=22.3504 task=16.8287 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 100 | joint=22.3374 task=16.8156 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 150 | joint=22.3842 task=16.8625 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 200 | joint=22.3944 task=16.8727 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 250 | joint=22.3969 task=16.8752 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 300 | joint=22.3965 task=16.8747 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 350 | joint=22.3899 task=16.8682 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5, batch 400 | joint=22.3947 task=16.8730 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 3/5 | joint=22.3870 task=16.8653 ppl_loss=11.0435 ppl=62535.96 val_loss=0.1727 val_acc=0.6284 (true=0.9995 false=0.0186) prompt_ppl=62535.96
+Prompt: goriélection Lille locauxdronAny Mod 1945 younger snacks
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 50 | joint=22.1417 task=16.6199 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 100 | joint=22.2414 task=16.7197 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 150 | joint=22.3146 task=16.7928 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 200 | joint=22.3550 task=16.8332 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 250 | joint=22.3621 task=16.8404 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 300 | joint=22.3961 task=16.8743 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 350 | joint=22.3989 task=16.8771 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5, batch 400 | joint=22.4044 task=16.8827 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 4/5 | joint=22.3970 task=16.8753 ppl_loss=11.0435 ppl=62535.96 val_loss=0.2024 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=62535.96
+Prompt: goriélection Lille locauxdronAny Mod 1945 younger snacks
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 50 | joint=22.3267 task=16.8049 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 100 | joint=22.3177 task=16.7959 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 150 | joint=22.3020 task=16.7803 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 200 | joint=22.3219 task=16.8001 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 250 | joint=22.3417 task=16.8200 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 300 | joint=22.3524 task=16.8307 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 350 | joint=22.3498 task=16.8281 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5, batch 400 | joint=22.3569 task=16.8352 ppl_loss=11.0435 ppl=62535.96
+[PEZ λ=0.5 ADV] Epoch 5/5 | joint=22.3429 task=16.8211 ppl_loss=11.0435 ppl=62535.96 val_loss=0.1729 val_acc=0.6272 (true=0.9995 false=0.0154) prompt_ppl=62535.96
+Prompt: goriélection Lille locauxdronAny Mod 1945 younger snacks
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 4 completed: lambda=0.5, lr=1e-4, adversarial=--adversarial

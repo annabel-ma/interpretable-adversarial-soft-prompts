@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-05, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 50 | joint=26.0189 task=16.8940 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 100 | joint=26.0371 task=16.9122 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 150 | joint=25.9561 task=16.8312 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 200 | joint=25.9538 task=16.8289 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 250 | joint=25.9680 task=16.8431 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 300 | joint=25.9622 task=16.8373 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 350 | joint=25.9701 task=16.8453 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 400 | joint=25.9527 task=16.8278 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 1/5 | joint=25.9548 task=16.8299 ppl_loss=9.1249 ppl=9180.76 val_loss=9.3267 val_acc=0.4125 (true=0.0566 false=0.9976) prompt_ppl=9180.76
+Prompt: owohl Hochzeit synifty socks06. Court Gehirn apuc Vancouver
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 50 | joint=25.9555 task=16.8306 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 100 | joint=25.9708 task=16.8459 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 150 | joint=26.0251 task=16.9003 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 200 | joint=25.9945 task=16.8696 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 250 | joint=25.9614 task=16.8365 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 300 | joint=25.9543 task=16.8295 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 350 | joint=25.9720 task=16.8471 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 400 | joint=25.9800 task=16.8551 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 2/5 | joint=26.0024 task=16.8775 ppl_loss=9.1249 ppl=9180.76 val_loss=3.4723 val_acc=0.3786 (true=0.0005 false=1.0000) prompt_ppl=9180.76
+Prompt: owohl Hochzeit synifty socks06. Court Gehirn apuc Vancouver
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 50 | joint=26.1247 task=16.9998 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 100 | joint=26.0207 task=16.8958 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 150 | joint=25.9906 task=16.8657 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 200 | joint=25.9999 task=16.8751 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 250 | joint=25.9928 task=16.8680 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 300 | joint=25.9961 task=16.8712 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 350 | joint=26.0002 task=16.8754 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 400 | joint=25.9988 task=16.8740 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 3/5 | joint=26.0019 task=16.8771 ppl_loss=9.1249 ppl=9180.76 val_loss=0.3872 val_acc=0.5315 (true=0.2937 false=0.9224) prompt_ppl=9180.76
+Prompt: owohl Hochzeit synifty socks06. Court Gehirn apuc Vancouver
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 50 | joint=25.9116 task=16.7867 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 100 | joint=25.9218 task=16.7969 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 150 | joint=25.9597 task=16.8348 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 200 | joint=25.9435 task=16.8186 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 250 | joint=25.9765 task=16.8516 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 300 | joint=25.9803 task=16.8554 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 350 | joint=25.9985 task=16.8737 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 400 | joint=26.0022 task=16.8773 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 4/5 | joint=26.0109 task=16.8861 ppl_loss=9.1249 ppl=9180.76 val_loss=0.1613 val_acc=0.7135 (true=0.9420 false=0.3379) prompt_ppl=9180.76
+Prompt: owohl Hochzeit synifty socks06. Court Gehirn apuc Vancouver
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 50 | joint=26.1204 task=16.9955 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 100 | joint=26.0709 task=16.9461 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 150 | joint=26.0461 task=16.9212 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 200 | joint=26.0656 task=16.9407 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 250 | joint=26.0678 task=16.9429 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 300 | joint=26.0567 task=16.9318 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 350 | joint=26.0757 task=16.9508 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 400 | joint=26.0513 task=16.9264 ppl_loss=9.1249 ppl=9180.76
+[PEZ λ=1.0 ADV] Epoch 5/5 | joint=26.0399 task=16.9151 ppl_loss=9.1249 ppl=9180.76 val_loss=0.1553 val_acc=0.6752 (true=0.9838 false=0.1681) prompt_ppl=9180.76
+Prompt: owohl Hochzeit synifty socks06. Court Gehirn apuc Vancouver
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_1.0_lr_1e-05.pt
+  History: history_lambda_1.0_lr_1e-05.json
+Job 10 completed: lambda=1.0, lr=1e-5, adversarial=--adversarial

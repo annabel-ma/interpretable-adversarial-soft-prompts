@@ -11,3 +11,54 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 100 | joint=16.9634 task=16.9634 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 150 | joint=16.9886 task=16.9886 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 200 | joint=16.9545 task=16.9545 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 250 | joint=16.9544 task=16.9544 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 300 | joint=16.9403 task=16.9403 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 350 | joint=16.9336 task=16.9336 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5, batch 400 | joint=16.9459 task=16.9459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/5 | joint=16.9584 task=16.9584 ppl_loss=0.0000 ppl=0.00 val_loss=0.1240 val_acc=0.7798 (true=0.9095 false=0.5667) prompt_ppl=0.00
+Prompt: Blätter delighted produselor MySQL searches matrix Refrigerat réalisationPowered prilej
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 50 | joint=16.8303 task=16.8303 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 100 | joint=16.9188 task=16.9188 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 150 | joint=16.8839 task=16.8839 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 200 | joint=16.8763 task=16.8763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 250 | joint=16.8587 task=16.8587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 300 | joint=16.8832 task=16.8832 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 350 | joint=16.8831 task=16.8831 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5, batch 400 | joint=16.8875 task=16.8875 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/5 | joint=16.8884 task=16.8884 ppl_loss=0.0000 ppl=0.00 val_loss=0.1234 val_acc=0.7908 (true=0.8431 false=0.7049) prompt_ppl=0.00
+Prompt: Blätter delighted produselor MySQL searches matrix Refrigerat réalisationPowered prilej
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 50 | joint=16.8931 task=16.8931 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 100 | joint=17.0286 task=17.0286 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 150 | joint=17.0625 task=17.0625 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 200 | joint=16.9740 task=16.9740 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 250 | joint=16.9520 task=16.9520 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 300 | joint=16.9448 task=16.9448 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 350 | joint=16.9145 task=16.9145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5, batch 400 | joint=16.9325 task=16.9325 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/5 | joint=16.9326 task=16.9326 ppl_loss=0.0000 ppl=0.00 val_loss=0.1140 val_acc=0.7911 (true=0.9065 false=0.6015) prompt_ppl=0.00
+Prompt: Blätter delighted produselor MySQL searches matrix Refrigerat réalisationPowered prilej
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 50 | joint=16.9968 task=16.9968 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 100 | joint=16.9553 task=16.9553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 150 | joint=16.9128 task=16.9128 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 200 | joint=16.9013 task=16.9013 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 250 | joint=16.8784 task=16.8784 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 300 | joint=16.8852 task=16.8852 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 350 | joint=16.8884 task=16.8884 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5, batch 400 | joint=16.9001 task=16.9001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/5 | joint=16.9012 task=16.9012 ppl_loss=0.0000 ppl=0.00 val_loss=0.1111 val_acc=0.8028 (true=0.8854 false=0.6669) prompt_ppl=0.00
+Prompt: Blätter delighted produselor MySQL searches matrix Refrigerat réalisationPowered prilej
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 50 | joint=16.9242 task=16.9242 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 100 | joint=16.8912 task=16.8912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 150 | joint=16.8882 task=16.8882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 200 | joint=16.8981 task=16.8981 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 250 | joint=16.8778 task=16.8778 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 300 | joint=16.8948 task=16.8948 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 350 | joint=16.9200 task=16.9200 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5, batch 400 | joint=16.9275 task=16.9275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/5 | joint=16.9356 task=16.9356 ppl_loss=0.0000 ppl=0.00 val_loss=0.1162 val_acc=0.8009 (true=0.8269 false=0.7583) prompt_ppl=0.00
+Prompt: Blätter delighted produselor MySQL searches matrix Refrigerat réalisationPowered prilej
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 5 completed: lambda=0.0, lr=1e-3, adversarial=

@@ -28,10 +28,11 @@ OUTPUT_DIR="{{OUTPUT_DIR}}"
 # Read the line corresponding to this array task
 LINE=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$JOB_LIST_FILE")
 
-# Parse the line (format: lambda_ppl lr [--adversarial])
+# Parse the line (format: lambda_ppl lr num_epochs [--adversarial])
 lambda_ppl=$(echo "$LINE" | awk '{print $1}')
 lr=$(echo "$LINE" | awk '{print $2}')
-adversarial_flag=$(echo "$LINE" | awk '{print $3}')
+num_epochs=$(echo "$LINE" | awk '{print $3}')
+adversarial_flag=$(echo "$LINE" | awk '{print $4}')
 
 # Run the training script
 cd /mnt/polished-lake/home/annabelma/other
@@ -40,10 +41,10 @@ python train_pez_single.py \
     --lr "$lr" \
     --output_dir "$OUTPUT_DIR" \
     $adversarial_flag \
-    --num_epochs 5 \
+    --num_epochs "$num_epochs" \
     --batch_size 16 \
     --prompt_length 10 \
     --model_name t5-large
 
-echo "Job ${SLURM_ARRAY_TASK_ID} completed: lambda=$lambda_ppl, lr=$lr, adversarial=$adversarial_flag"
+echo "Job ${SLURM_ARRAY_TASK_ID} completed: lambda=$lambda_ppl, lr=$lr, epochs=$num_epochs, adversarial=$adversarial_flag"
 

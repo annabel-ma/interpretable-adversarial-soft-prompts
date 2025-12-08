@@ -23,13 +23,15 @@ def create_job_list(config):
     lambda_grid = config['lambda_grid']
     lr_grid = config['lr_grid']
     adversarial_flags = config.get('adversarial', [False, True])  # Default: both
+    num_epochs = config.get('num_epochs', 5)  # Default: 5 epochs
     
     jobs = []
     for lam, lr, adv in itertools.product(lambda_grid, lr_grid, adversarial_flags):
         jobs.append({
             'lambda_ppl': lam,
             'lr': lr,
-            'adversarial': adv
+            'adversarial': adv,
+            'num_epochs': num_epochs
         })
     
     return jobs
@@ -40,7 +42,7 @@ def write_job_list_file(jobs, output_path):
     with open(output_path, 'w') as f:
         for job in jobs:
             adv_flag = '--adversarial' if job['adversarial'] else ''
-            line = f"{job['lambda_ppl']} {job['lr']} {adv_flag}\n"
+            line = f"{job['lambda_ppl']} {job['lr']} {job['num_epochs']} {adv_flag}\n"
             f.write(line)
     return output_path
 
@@ -117,6 +119,7 @@ def main():
     print(f"  Lambda values: {config['lambda_grid']}")
     print(f"  Learning rates: {config['lr_grid']}")
     print(f"  Adversarial: {config.get('adversarial', [False, True])}")
+    print(f"  Epochs: {config.get('num_epochs', 5)}")
     
     # Get script directory (where this script is located)
     script_dir = os.path.dirname(os.path.abspath(__file__))

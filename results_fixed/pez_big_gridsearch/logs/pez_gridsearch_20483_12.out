@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 50 | joint=24.9088 task=15.8193 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 100 | joint=24.9713 task=15.8818 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 150 | joint=25.0264 task=15.9370 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 200 | joint=25.0359 task=15.9465 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 250 | joint=25.0436 task=15.9542 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 300 | joint=24.9867 task=15.8972 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 350 | joint=24.9718 task=15.8824 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5, batch 400 | joint=24.9644 task=15.8750 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 1/5 | joint=24.9411 task=15.8517 ppl_loss=9.0895 ppl=8861.45 val_loss=0.1516 val_acc=0.6890 (true=0.9877 false=0.1981) prompt_ppl=8861.45
+Prompt: ziersignificant seule Pass detail scanningAmérique voyage déterminer turf
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 50 | joint=24.9351 task=15.8457 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 100 | joint=24.9516 task=15.8621 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 150 | joint=24.9393 task=15.8499 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 200 | joint=24.9379 task=15.8485 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 250 | joint=24.9092 task=15.8198 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 300 | joint=24.9124 task=15.8229 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 350 | joint=24.9178 task=15.8283 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5, batch 400 | joint=24.9159 task=15.8265 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 2/5 | joint=24.9211 task=15.8316 ppl_loss=9.0895 ppl=8861.45 val_loss=0.1517 val_acc=0.6737 (true=0.9907 false=0.1528) prompt_ppl=8861.45
+Prompt: ziersignificant seule Pass detail scanningAmérique voyage déterminer turf
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 50 | joint=24.9171 task=15.8276 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 100 | joint=24.9921 task=15.9026 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 150 | joint=24.9349 task=15.8455 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 200 | joint=24.9468 task=15.8573 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 250 | joint=24.9621 task=15.8726 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 300 | joint=24.9744 task=15.8850 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 350 | joint=24.9734 task=15.8840 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5, batch 400 | joint=24.9871 task=15.8976 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 3/5 | joint=24.9899 task=15.9004 ppl_loss=9.0895 ppl=8861.45 val_loss=0.1891 val_acc=0.6346 (true=0.9995 false=0.0348) prompt_ppl=8861.45
+Prompt: ziersignificant seule Pass detail scanningAmérique voyage déterminer turf
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 50 | joint=25.0880 task=15.9986 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 100 | joint=25.0612 task=15.9717 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 150 | joint=25.0390 task=15.9495 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 200 | joint=24.9621 task=15.8726 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 250 | joint=24.8934 task=15.8039 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 300 | joint=24.8868 task=15.7973 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 350 | joint=24.9013 task=15.8119 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5, batch 400 | joint=24.9245 task=15.8351 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 4/5 | joint=24.9297 task=15.8403 ppl_loss=9.0895 ppl=8861.45 val_loss=0.1523 val_acc=0.7107 (true=0.9105 false=0.3824) prompt_ppl=8861.45
+Prompt: ziersignificant seule Pass detail scanningAmérique voyage déterminer turf
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 50 | joint=24.7221 task=15.6327 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 100 | joint=24.9176 task=15.8281 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 150 | joint=24.9511 task=15.8616 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 200 | joint=24.9185 task=15.8290 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 250 | joint=24.9328 task=15.8433 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 300 | joint=24.9281 task=15.8386 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 350 | joint=24.9340 task=15.8445 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5, batch 400 | joint=24.9207 task=15.8312 ppl_loss=9.0895 ppl=8861.45
+[PEZ λ=1.0 ADV] Epoch 5/5 | joint=24.9042 task=15.8148 ppl_loss=9.0895 ppl=8861.45 val_loss=0.1567 val_acc=0.6492 (true=0.9970 false=0.0776) prompt_ppl=8861.45
+Prompt: ziersignificant seule Pass detail scanningAmérique voyage déterminer turf
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch/adversarial_true
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 12 completed: lambda=1.0, lr=1e-4, adversarial=--adversarial
