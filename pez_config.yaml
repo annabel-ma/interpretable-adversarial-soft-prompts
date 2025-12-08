@@ -1,0 +1,23 @@
+# PEZ Grid Search Configuration
+
+# Lambda values for perplexity loss
+lambda_grid:
+  - 0.0
+  - 1.0
+
+# Learning rates to test
+lr_grid:
+  - 1e-5
+  - 1e-4
+  - 1e-3
+  - 1e-2
+
+# Adversarial training flags (list of booleans)
+# Set to [false] for non-adversarial only, [true] for adversarial only, or [false, true] for both
+adversarial:
+  - false
+  - true
+
+# Output directory for results
+output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch
+

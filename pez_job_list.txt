@@ -1,0 +1,16 @@
+0.0 1e-5 
+0.0 1e-5 --adversarial
+0.0 1e-4 
+0.0 1e-4 --adversarial
+0.0 1e-3 
+0.0 1e-3 --adversarial
+0.0 1e-2 
+0.0 1e-2 --adversarial
+1.0 1e-5 
+1.0 1e-5 --adversarial
+1.0 1e-4 
+1.0 1e-4 --adversarial
+1.0 1e-3 
+1.0 1e-3 --adversarial
+1.0 1e-2 
+1.0 1e-2 --adversarial
