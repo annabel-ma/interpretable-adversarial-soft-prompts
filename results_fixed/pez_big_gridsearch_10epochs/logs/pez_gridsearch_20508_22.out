@@ -1,0 +1,39 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.9263 task=16.2040 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.9127 task=16.1903 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.9093 task=16.1869 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.9130 task=16.1907 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.9159 task=16.1936 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.9464 task=16.2240 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.9368 task=16.2145 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.9282 task=16.2059 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.9244 task=16.2020 ppl_loss=9.4447 ppl=12641.02 val_loss=3.6497 val_acc=0.3780 (true=0.0005 false=0.9984) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.9962 task=16.2739 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.9448 task=16.2225 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.9753 task=16.2529 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.9593 task=16.2369 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.9417 task=16.2193 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.9286 task=16.2062 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.9133 task=16.1909 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.9293 task=16.2070 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.9362 task=16.2138 ppl_loss=9.4447 ppl=12641.02 val_loss=2.7102 val_acc=0.4128 (true=0.0635 false=0.9871) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.9062 task=16.1839 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.8487 task=16.1264 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.8568 task=16.1344 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.9045 task=16.1822 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.8978 task=16.1754 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.8825 task=16.1602 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.8588 task=16.1365 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.8563 task=16.1339 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.8543 task=16.1319 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2052 val_acc=0.6440 (true=0.9970 false=0.0639) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers

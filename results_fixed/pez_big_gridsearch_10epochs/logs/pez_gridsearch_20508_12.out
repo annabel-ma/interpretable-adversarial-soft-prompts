@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.0701 task=17.1410 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.0874 task=17.1583 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.0473 task=17.1183 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.0058 task=17.0767 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.0249 task=17.0958 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.0103 task=17.0813 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.9788 task=17.0498 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.9746 task=17.0455 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.9466 task=17.0175 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1706 val_acc=0.6073 (true=0.9208 false=0.0922) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.0309 task=17.1019 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.9945 task=17.0654 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.9418 task=17.0127 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.9007 task=16.9716 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.9199 task=16.9909 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.9240 task=16.9950 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.9248 task=16.9957 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.9168 task=16.9877 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.8996 task=16.9706 ppl_loss=8.9291 ppl=7548.22 val_loss=0.4850 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.8517 task=16.9226 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.8143 task=16.8852 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.8396 task=16.9105 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.8739 task=16.9449 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.8937 task=16.9647 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.8851 task=16.9560 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.9034 task=16.9744 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.9015 task=16.9725 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.8875 task=16.9585 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1692 val_acc=0.6101 (true=0.9543 false=0.0445) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.8994 task=16.9703 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.9298 task=17.0008 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.8809 task=16.9519 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.8980 task=16.9689 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.8620 task=16.9329 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.8494 task=16.9203 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.8479 task=16.9188 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.8672 task=16.9381 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.8720 task=16.9429 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1836 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.8720 task=16.9429 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.9011 task=16.9721 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.9140 task=16.9849 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.8580 task=16.9289 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.8349 task=16.9059 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.8806 task=16.9515 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.8844 task=16.9553 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.9052 task=16.9762 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.9117 task=16.9826 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1684 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.9691 task=17.0400 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.8412 task=16.9121 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.8530 task=16.9240 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.8696 task=16.9405 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.8430 task=16.9139 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.8388 task=16.9098 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.8530 task=16.9239 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.8657 task=16.9366 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.8694 task=16.9403 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1762 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.9329 task=17.0038 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.8598 task=16.9307 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.9359 task=17.0069 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.9427 task=17.0136 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.9058 task=16.9767 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.9092 task=16.9802 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.9200 task=16.9909 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.9073 task=16.9782 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.9057 task=16.9766 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1852 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.8236 task=16.8945 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.8423 task=16.9132 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.8808 task=16.9517 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.9227 task=16.9936 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.9164 task=16.9874 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.9317 task=17.0026 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.9493 task=17.0202 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.9262 task=16.9972 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.9227 task=16.9936 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1766 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.1864 task=17.2573 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.1238 task=17.1948 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.0681 task=17.1390 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.0363 task=17.1073 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.0101 task=17.0810 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.9882 task=17.0592 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.9748 task=17.0458 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.9530 task=17.0239 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.9373 task=17.0082 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1674 val_acc=0.6208 (true=0.9985 false=0.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.9483 task=17.0192 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.9512 task=17.0221 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.9456 task=17.0165 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.9324 task=17.0033 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.8959 task=16.9669 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.9059 task=16.9768 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.8873 task=16.9582 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.8708 task=16.9417 ppl_loss=8.9291 ppl=7548.22
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.8629 task=16.9338 ppl_loss=8.9291 ppl=7548.22 val_loss=0.1702 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7548.22
+Prompt: hemp Espresso développer commencer Massensitivity MinnesotaMEefectele prend
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_1.0_lr_0.1.pt
+  History: history_lambda_1.0_lr_0.1.json
+Job 12 completed: lambda=1, lr=1e-1, epochs=10, adversarial=--adversarial

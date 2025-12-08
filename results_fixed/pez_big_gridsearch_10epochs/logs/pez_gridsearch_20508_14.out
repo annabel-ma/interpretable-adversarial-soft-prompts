@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=22.6734 task=16.8516 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=22.6164 task=16.7946 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=22.6005 task=16.7787 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=22.5839 task=16.7621 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=22.5808 task=16.7590 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=22.5636 task=16.7418 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=22.5518 task=16.7300 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=22.5414 task=16.7196 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=22.5332 task=16.7114 ppl_loss=11.6436 ppl=113960.93 val_loss=14.0172 val_acc=0.7205 (true=0.6380 false=0.8561) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=22.4657 task=16.6439 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=22.5205 task=16.6987 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=22.5462 task=16.7244 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=22.5532 task=16.7314 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=22.5755 task=16.7537 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=22.5636 task=16.7418 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=22.5804 task=16.7586 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=22.5736 task=16.7518 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=22.5646 task=16.7428 ppl_loss=11.6436 ppl=113960.93 val_loss=12.3337 val_acc=0.6211 (true=0.4383 false=0.9216) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.5042 task=16.6824 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=22.5611 task=16.7393 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=22.5772 task=16.7554 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=22.5418 task=16.7200 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=22.5687 task=16.7469 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=22.5555 task=16.7337 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=22.5884 task=16.7666 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=22.5947 task=16.7729 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=22.5935 task=16.7716 ppl_loss=11.6436 ppl=113960.93 val_loss=11.5480 val_acc=0.5538 (true=0.3084 false=0.9572) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.5791 task=16.7573 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.5912 task=16.7694 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.5647 task=16.7429 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.5393 task=16.7175 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.5662 task=16.7444 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.5506 task=16.7288 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.5422 task=16.7204 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.5550 task=16.7332 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.5510 task=16.7292 ppl_loss=11.6436 ppl=113960.93 val_loss=11.0530 val_acc=0.5076 (true=0.2248 false=0.9725) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.6151 task=16.7932 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.5076 task=16.6858 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.5371 task=16.7153 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.5398 task=16.7180 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.5436 task=16.7218 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.5613 task=16.7395 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=22.5823 task=16.7605 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.5760 task=16.7542 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=22.5672 task=16.7454 ppl_loss=11.6436 ppl=113960.93 val_loss=10.6805 val_acc=0.4746 (true=0.1628 false=0.9871) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=22.6015 task=16.7797 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=22.5505 task=16.7287 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.6087 task=16.7869 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.5945 task=16.7727 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.5537 task=16.7319 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.5529 task=16.7311 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.5644 task=16.7426 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.5686 task=16.7468 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.5594 task=16.7376 ppl_loss=11.6436 ppl=113960.93 val_loss=10.3892 val_acc=0.4541 (true=0.1249 false=0.9951) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.3701 task=16.5483 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.5643 task=16.7425 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.5244 task=16.7026 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.5600 task=16.7381 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.5649 task=16.7431 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.5902 task=16.7684 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.6104 task=16.7886 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.6095 task=16.7877 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.6034 task=16.7816 ppl_loss=11.6436 ppl=113960.93 val_loss=10.1667 val_acc=0.4324 (true=0.0885 false=0.9976) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.5891 task=16.7673 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.5306 task=16.7088 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.5579 task=16.7361 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.5824 task=16.7606 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.5694 task=16.7476 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.5452 task=16.7234 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.5331 task=16.7113 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.5405 task=16.7187 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.5590 task=16.7372 ppl_loss=11.6436 ppl=113960.93 val_loss=9.9541 val_acc=0.4245 (true=0.0758 false=0.9976) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=22.6454 task=16.8236 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.6234 task=16.8016 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=22.5669 task=16.7451 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.5179 task=16.6961 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.5305 task=16.7087 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.5455 task=16.7237 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.5244 task=16.7026 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.5459 task=16.7241 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.5644 task=16.7426 ppl_loss=11.6436 ppl=113960.93 val_loss=9.6689 val_acc=0.4043 (true=0.0428 false=0.9984) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.3033 task=16.4815 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.4581 task=16.6363 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.4615 task=16.6397 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.5278 task=16.7060 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.5516 task=16.7297 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=22.5476 task=16.7258 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=22.5338 task=16.7120 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=22.5382 task=16.7164 ppl_loss=11.6436 ppl=113960.93
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=22.5344 task=16.7126 ppl_loss=11.6436 ppl=113960.93 val_loss=9.4450 val_acc=0.3924 (true=0.0231 false=0.9992) prompt_ppl=113960.93
+Prompt: stains vitamin rates Borderéanmoinssettlers visualize electromagnetic Tang injection
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.5_lr_1e-06.pt
+  History: history_lambda_0.5_lr_1e-06.json
+Job 14 completed: lambda=0.5, lr=1e-6, epochs=10, adversarial=--adversarial

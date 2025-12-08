@@ -77,3 +77,38 @@ Prompt: EVURLTION achievedtab Simulation trotzdem fermeture Ble investment
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=29.0337 task=16.9735 ppl_loss=12.0602 ppl=172853.18
 [PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=29.0157 task=16.9555 ppl_loss=12.0602 ppl=172853.18 val_loss=0.1493 val_acc=0.6920 (true=0.9238 false=0.3112) prompt_ppl=172853.18
 Prompt: EVURLTION achievedtab Simulation trotzdem fermeture Ble investment
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=29.1612 task=17.1010 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=29.1483 task=17.0881 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=29.1095 task=17.0493 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=29.0960 task=17.0358 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=29.0648 task=17.0046 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=29.0486 task=16.9884 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=29.0400 task=16.9798 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=29.0427 task=16.9825 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=29.0376 task=16.9774 ppl_loss=12.0602 ppl=172853.18 val_loss=0.1476 val_acc=0.7006 (true=0.9385 false=0.3096) prompt_ppl=172853.18
+Prompt: EVURLTION achievedtab Simulation trotzdem fermeture Ble investment
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=28.8386 task=16.7784 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=28.8107 task=16.7505 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=28.8878 task=16.8276 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=28.9232 task=16.8630 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=28.9437 task=16.8835 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=28.9813 task=16.9211 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=28.9739 task=16.9137 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=28.9977 task=16.9375 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=29.0020 task=16.9418 ppl_loss=12.0602 ppl=172853.18 val_loss=0.1570 val_acc=0.6731 (true=0.9911 false=0.1504) prompt_ppl=172853.18
+Prompt: EVURLTION achievedtab Simulation trotzdem fermeture Ble investment
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=29.1315 task=17.0713 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=28.9828 task=16.9226 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=29.0444 task=16.9842 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=29.0529 task=16.9927 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=29.0449 task=16.9847 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=29.0240 task=16.9638 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=28.9994 task=16.9392 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=28.9848 task=16.9246 ppl_loss=12.0602 ppl=172853.18
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=28.9974 task=16.9372 ppl_loss=12.0602 ppl=172853.18 val_loss=0.1625 val_acc=0.6670 (true=0.9926 false=0.1318) prompt_ppl=172853.18
+Prompt: EVURLTION achievedtab Simulation trotzdem fermeture Ble investment
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_1e-05.pt
+  History: history_lambda_1.0_lr_1e-05.json
+Job 3 completed: lambda=1, lr=1e-5, epochs=10, adversarial=

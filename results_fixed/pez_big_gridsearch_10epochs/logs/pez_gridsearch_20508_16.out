@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-05, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=22.7912 task=17.9593 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=22.7883 task=17.9564 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=22.7254 task=17.8935 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=22.7411 task=17.9092 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=22.7338 task=17.9019 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=22.7288 task=17.8970 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=22.7136 task=17.8817 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=22.7191 task=17.8872 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=22.7178 task=17.8859 ppl_loss=9.6638 ppl=15737.10 val_loss=8.1983 val_acc=0.4627 (true=0.1431 false=0.9879) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=22.7190 task=17.8871 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=22.6587 task=17.8268 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=22.6825 task=17.8506 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=22.7187 task=17.8868 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=22.7108 task=17.8789 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=22.7232 task=17.8913 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=22.7242 task=17.8924 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=22.7200 task=17.8881 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=22.7365 task=17.9046 ppl_loss=9.6638 ppl=15737.10 val_loss=1.0695 val_acc=0.6746 (true=0.9262 false=0.2611) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.6824 task=17.8505 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=22.6734 task=17.8415 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=22.6540 task=17.8221 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=22.6480 task=17.8161 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=22.6400 task=17.8081 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=22.6514 task=17.8196 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=22.6553 task=17.8234 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=22.6776 task=17.8457 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=22.6844 task=17.8525 ppl_loss=9.6638 ppl=15737.10 val_loss=0.2832 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.5629 task=17.7310 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.6386 task=17.8067 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.6560 task=17.8242 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.6620 task=17.8301 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.7006 task=17.8687 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.6599 task=17.8280 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.6754 task=17.8435 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.7040 task=17.8722 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.7306 task=17.8988 ppl_loss=9.6638 ppl=15737.10 val_loss=0.2650 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.8170 task=17.9851 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.7415 task=17.9096 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.7408 task=17.9089 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.7199 task=17.8880 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.7300 task=17.8981 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.7412 task=17.9093 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=22.7284 task=17.8965 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.7267 task=17.8948 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=22.7201 task=17.8882 ppl_loss=9.6638 ppl=15737.10 val_loss=0.1766 val_acc=0.6263 (true=0.9961 false=0.0186) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=22.7502 task=17.9183 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=22.8309 task=17.9990 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.7983 task=17.9664 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.7778 task=17.9459 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.7550 task=17.9231 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.7653 task=17.9334 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.7566 task=17.9247 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.7457 task=17.9138 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.7496 task=17.9177 ppl_loss=9.6638 ppl=15737.10 val_loss=0.2065 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.5833 task=17.7514 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.5800 task=17.7481 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.6059 task=17.7741 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.6701 task=17.8382 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.6697 task=17.8379 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.6560 task=17.8241 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.6564 task=17.8245 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.6582 task=17.8263 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.6527 task=17.8209 ppl_loss=9.6638 ppl=15737.10 val_loss=0.1740 val_acc=0.6251 (true=0.9966 false=0.0146) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.8274 task=17.9955 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.7165 task=17.8846 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.7673 task=17.9354 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.7151 task=17.8832 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.7005 task=17.8687 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.6976 task=17.8657 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.7368 task=17.9049 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.7318 task=17.8999 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.7280 task=17.8961 ppl_loss=9.6638 ppl=15737.10 val_loss=0.2148 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=22.7017 task=17.8698 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.7080 task=17.8761 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=22.7197 task=17.8878 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.7422 task=17.9103 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.7398 task=17.9079 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.7541 task=17.9222 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.7372 task=17.9053 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.7409 task=17.9090 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.7492 task=17.9173 ppl_loss=9.6638 ppl=15737.10 val_loss=0.1760 val_acc=0.6263 (true=0.9990 false=0.0137) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.7338 task=17.9019 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.7051 task=17.8732 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.7453 task=17.9134 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.7453 task=17.9135 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.7572 task=17.9253 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=22.7436 task=17.9117 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=22.7551 task=17.9232 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=22.7518 task=17.9199 ppl_loss=9.6638 ppl=15737.10
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=22.7526 task=17.9207 ppl_loss=9.6638 ppl=15737.10 val_loss=0.2118 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=15737.10
+Prompt: pullingsadlyApplicantscili Sa matelas yogurtglass login necesare
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.5_lr_1e-05.pt
+  History: history_lambda_0.5_lr_1e-05.json
+Job 16 completed: lambda=0.5, lr=1e-5, epochs=10, adversarial=--adversarial

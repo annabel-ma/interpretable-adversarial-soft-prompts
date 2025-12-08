@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.7722 task=16.8628 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.8167 task=16.9073 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.8358 task=16.9264 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.8658 task=16.9563 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.9082 task=16.9988 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.9047 task=16.9953 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.9217 task=17.0123 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.9087 task=16.9992 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.8859 task=16.9765 ppl_loss=8.9094 ppl=7401.58 val_loss=4.8543 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=7401.58
+Prompt: CalvinMETDiv matérieléconomie footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.8577 task=16.9483 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.9400 task=17.0305 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.9076 task=17.0070 ppl_loss=8.9006 ppl=7348.80
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.8710 task=16.9748 ppl_loss=8.8962 ppl=7322.42
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.8930 task=16.9941 ppl_loss=8.8989 ppl=7338.25
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.8750 task=16.9744 ppl_loss=8.9006 ppl=7348.80
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.8798 task=16.9780 ppl_loss=8.9019 ppl=7356.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.8641 task=16.9613 ppl_loss=8.9028 ppl=7362.00
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.8462 task=16.9427 ppl_loss=8.9035 ppl=7366.00 val_loss=8.1912 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7401.58
+Prompt: CalvinMETDiv matérieléconomie footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.0263 task=17.1169 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.9854 task=17.0759 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.9167 task=17.0073 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.8900 task=16.9805 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.8977 task=16.9882 ppl_loss=8.9094 ppl=7401.58
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.8678 task=16.9594 ppl_loss=8.9084 ppl=7394.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.8532 task=16.9447 ppl_loss=8.9085 ppl=7395.09
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.8384 task=16.9351 ppl_loss=8.9032 ppl=7358.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.8047 task=16.9115 ppl_loss=8.8932 ppl=7287.56 val_loss=1.8562 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6644.31
+Prompt: CalvinMETDiv matérielktuell footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.8412 task=17.0396 ppl_loss=8.8015 ppl=6644.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.7080 task=16.9065 ppl_loss=8.8015 ppl=6644.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.6381 task=16.8366 ppl_loss=8.8015 ppl=6644.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.6021 task=16.8006 ppl_loss=8.8015 ppl=6644.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.6378 task=16.8216 ppl_loss=8.8162 ppl=6747.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.6637 task=16.8319 ppl_loss=8.8317 ppl=6856.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.6887 task=16.8459 ppl_loss=8.8428 ppl=6934.24
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.7057 task=16.8546 ppl_loss=8.8512 ppl=6992.66
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.7144 task=16.8622 ppl_loss=8.8522 ppl=6999.97 val_loss=0.4953 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6644.31
+Prompt: CalvinMETDiv matérielktuell footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.6766 task=16.7245 ppl_loss=8.9521 ppl=7847.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.6372 task=16.8413 ppl_loss=8.7960 ppl=6887.52
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.5632 task=16.8740 ppl_loss=8.6892 ppl=6190.61
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.5386 task=16.8847 ppl_loss=8.6539 ppl=5969.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.6678 task=16.9094 ppl_loss=8.7584 ppl=6708.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.7535 task=16.9282 ppl_loss=8.8253 ppl=7175.51
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8079 task=16.9348 ppl_loss=8.8731 ppl=7508.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.8491 task=16.9401 ppl_loss=8.9090 ppl=7758.82
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.8575 task=16.9231 ppl_loss=8.9344 ppl=7935.78 val_loss=0.2858 val_acc=0.6128 (true=0.9424 false=0.0711) prompt_ppl=9508.73
+Prompt: CalvinMETDiv matériel cantitati footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.0263 task=16.8663 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.0611 task=16.9011 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.0806 task=16.9206 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.0885 task=16.9286 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.0609 task=16.9009 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.0763 task=16.9163 ppl_loss=9.1600 ppl=9508.73
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.0851 task=16.9212 ppl_loss=9.1639 ppl=9547.06
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.0867 task=16.9199 ppl_loss=9.1669 ppl=9575.81
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.1120 task=16.9420 ppl_loss=9.1700 ppl=9605.69 val_loss=0.2186 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=9871.33
+Prompt: CalvinMETDiv matériel clientilor footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.2527 task=17.0553 ppl_loss=9.1974 ppl=9871.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.1705 task=16.9732 ppl_loss=9.1974 ppl=9871.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.9713 task=16.8684 ppl_loss=9.1029 ppl=9066.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.9581 task=16.8918 ppl_loss=9.0662 ppl=8753.65
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.9537 task=16.8938 ppl_loss=9.0599 ppl=8699.69
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.9311 task=16.8714 ppl_loss=9.0597 ppl=8697.98
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.9745 task=16.8951 ppl_loss=9.0794 ppl=8865.60
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.0002 task=16.9061 ppl_loss=9.0941 ppl=8991.32
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.9908 task=16.8862 ppl_loss=9.1046 ppl=9080.31 val_loss=0.2259 val_acc=0.6211 (true=0.9985 false=0.0008) prompt_ppl=9871.33
+Prompt: CalvinMETDiv matériel clientilor footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.0702 task=16.8728 ppl_loss=9.1974 ppl=9871.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.0431 task=16.9150 ppl_loss=9.1280 ppl=9280.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.8595 task=16.8088 ppl_loss=9.0507 ppl=8620.90
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.8490 task=16.8371 ppl_loss=9.0120 ppl=8291.16
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.8290 task=16.8403 ppl_loss=8.9888 ppl=8093.32
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.7955 task=16.8222 ppl_loss=8.9733 ppl=7961.42
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.7348 task=16.7726 ppl_loss=8.9622 ppl=7867.21
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.7301 task=16.7762 ppl_loss=8.9539 ppl=7796.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.7146 task=16.7666 ppl_loss=8.9481 ppl=7746.54 val_loss=0.1981 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7301.95
+Prompt: CalvinMETDiv matériel corpului footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.6905 task=16.7946 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.6711 task=16.7752 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.6948 task=16.7989 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.7024 task=16.8065 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.7215 task=16.8256 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.7190 task=16.8231 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.7135 task=16.8176 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.7336 task=16.8377 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.7289 task=16.8331 ppl_loss=8.8959 ppl=7301.95 val_loss=0.1904 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7301.95
+Prompt: CalvinMETDiv matériel corpului footage finden inflatableski extremely
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.6536 task=16.7577 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.6548 task=16.7589 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.6391 task=16.7433 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.6503 task=16.7544 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.6446 task=16.7487 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.6403 task=16.7444 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.6455 task=16.7496 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.6572 task=16.7613 ppl_loss=8.8959 ppl=7301.95
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.6624 task=16.7665 ppl_loss=8.8959 ppl=7301.95 val_loss=0.1935 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7301.95
+Prompt: CalvinMETDiv matériel corpului footage finden inflatableski extremely
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_0.1.pt
+  History: history_lambda_1.0_lr_0.1.json
+Job 11 completed: lambda=1, lr=1e-1, epochs=10, adversarial=

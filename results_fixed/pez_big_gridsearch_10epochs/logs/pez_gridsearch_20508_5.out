@@ -75,3 +75,40 @@ Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMa
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.2314 task=17.2949 ppl_loss=8.9365 ppl=7604.34
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.2554 task=17.3189 ppl_loss=8.9365 ppl=7604.34
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.2340 task=17.2975 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.2309 task=17.2944 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1283 val_acc=0.7495 (true=0.9538 false=0.4139) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.1628 task=17.2263 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.2030 task=17.2665 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.2356 task=17.2992 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=26.2817 task=17.3452 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.2596 task=17.3231 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.2362 task=17.2997 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.2430 task=17.3066 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.2150 task=17.2785 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.2272 task=17.2907 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1188 val_acc=0.7777 (true=0.9065 false=0.5659) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.3003 task=17.3639 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.3389 task=17.4025 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=26.2725 task=17.3360 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=26.2637 task=17.3272 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=26.2960 task=17.3595 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=26.2853 task=17.3489 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=26.2779 task=17.3414 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=26.2748 task=17.3383 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=26.2475 task=17.3110 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1176 val_acc=0.7771 (true=0.9208 false=0.5408) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.3753 task=17.4388 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.2371 task=17.3006 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.2259 task=17.2894 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.2317 task=17.2953 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.2353 task=17.2988 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.2286 task=17.2921 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.2310 task=17.2945 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.2198 task=17.2833 ppl_loss=8.9365 ppl=7604.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.2256 task=17.2892 ppl_loss=8.9365 ppl=7604.34 val_loss=0.1162 val_acc=0.7887 (true=0.9001 false=0.6055) prompt_ppl=7604.34
+Prompt: pressive maintenanteaucoup impressionnantVR verwenden Important fourthMarie déclin
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 5 completed: lambda=1, lr=1e-4, epochs=10, adversarial=

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.2348 task=16.6405 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.2227 task=16.6284 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.2518 task=16.6575 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.3009 task=16.7066 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.3383 task=16.7439 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.3266 task=16.7323 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.3421 task=16.7477 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.3194 task=16.7250 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.3253 task=16.7310 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1766 val_acc=0.4593 (true=0.1835 false=0.9127) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.4502 task=16.8559 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.4221 task=16.8277 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.4239 task=16.8296 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.4523 task=16.8579 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.4588 task=16.8644 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.4482 task=16.8538 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.4413 task=16.8470 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.4432 task=16.8489 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.4515 task=16.8571 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1660 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.2894 task=16.6951 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.3195 task=16.7252 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.3573 task=16.7629 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.3378 task=16.7435 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.3431 task=16.7487 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.3555 task=16.7611 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.3583 task=16.7639 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.3584 task=16.7640 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.3504 task=16.7560 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1797 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.2798 task=16.6854 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.2278 task=16.6334 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.2809 task=16.6866 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.3211 task=16.7268 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.3282 task=16.7338 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.2975 task=16.7032 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.3107 task=16.7164 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.3476 task=16.7533 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.3544 task=16.7601 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1681 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.3193 task=16.7250 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.4111 task=16.8168 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.4148 task=16.8205 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.4442 task=16.8498 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.4559 task=16.8616 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.4540 task=16.8596 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.4304 task=16.8360 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.4368 task=16.8424 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.4397 task=16.8454 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.3790 task=16.7846 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.3535 task=16.7591 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.3227 task=16.7283 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.3407 task=16.7463 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.3607 task=16.7664 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.3753 task=16.7809 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.3804 task=16.7861 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.4065 task=16.8121 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.4042 task=16.8098 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1713 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.2541 task=16.6598 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.2484 task=16.6540 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.2697 task=16.6753 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.2965 task=16.7022 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.3098 task=16.7154 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.3240 task=16.7297 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.3343 task=16.7399 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.3605 task=16.7662 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.3694 task=16.7750 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.3292 task=16.7349 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.3952 task=16.8008 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.4337 task=16.8394 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.4025 task=16.8082 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.3758 task=16.7814 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.3800 task=16.7857 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.3796 task=16.7852 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.3667 task=16.7724 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.3816 task=16.7873 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1724 val_acc=0.5725 (true=0.8214 false=0.1633) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.5325 task=16.9382 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.4385 task=16.8441 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.4164 task=16.8221 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.4197 task=16.8254 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.4239 task=16.8295 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.4277 task=16.8333 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.4085 task=16.8142 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.3835 task=16.7892 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.3963 task=16.8019 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1686 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.4630 task=16.8687 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.4961 task=16.9017 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.4610 task=16.8667 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.4258 task=16.8315 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.4779 task=16.8835 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.4506 task=16.8563 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.4438 task=16.8495 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.4366 task=16.8423 ppl_loss=8.5943 ppl=5401.04
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.4407 task=16.8463 ppl_loss=8.5943 ppl=5401.04 val_loss=0.1689 val_acc=0.6248 (true=0.9946 false=0.0170) prompt_ppl=5401.04
+Prompt: CândMinistrul reproducCal votingange Dining AMAZING brassbak
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 10 completed: lambda=1, lr=1e-2, epochs=10, adversarial=--adversarial

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=20.8353 task=16.2442 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=20.7184 task=16.1273 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=20.7739 task=16.1829 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=20.7835 task=16.1924 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=20.7678 task=16.1767 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=20.7600 task=16.1689 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=20.7548 task=16.1638 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.7780 task=16.1869 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.7753 task=16.1842 ppl_loss=9.1822 ppl=9722.05 val_loss=14.8763 val_acc=0.7367 (true=0.6576 false=0.8666) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.8758 task=16.2847 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.8439 task=16.2529 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.8048 task=16.2138 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.7813 task=16.1902 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.7576 task=16.1665 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.7437 task=16.1526 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.7543 task=16.1632 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.7469 task=16.1558 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.7326 task=16.1415 ppl_loss=9.1822 ppl=9722.05 val_loss=12.4864 val_acc=0.6141 (true=0.4201 false=0.9329) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.8972 task=16.3061 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.7812 task=16.1902 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.8086 task=16.2175 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.7439 task=16.1528 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=20.7341 task=16.1431 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=20.7150 task=16.1240 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=20.7475 task=16.1564 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.7608 task=16.1698 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.7706 task=16.1795 ppl_loss=9.1822 ppl=9722.05 val_loss=11.6302 val_acc=0.5318 (true=0.2705 false=0.9612) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.5089 task=15.9179 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.6860 task=16.0949 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.7020 task=16.1109 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.6895 task=16.0984 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.6551 task=16.0640 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.6772 task=16.0861 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.6966 task=16.1055 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.7125 task=16.1215 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.7025 task=16.1114 ppl_loss=9.1822 ppl=9722.05 val_loss=11.0226 val_acc=0.4758 (true=0.1677 false=0.9822) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.7627 task=16.1716 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.7473 task=16.1562 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.7781 task=16.1870 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.7501 task=16.1590 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.7668 task=16.1757 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.7934 task=16.2023 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.8070 task=16.2159 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.8045 task=16.2134 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.8071 task=16.2160 ppl_loss=9.1822 ppl=9722.05 val_loss=10.5432 val_acc=0.4459 (true=0.1156 false=0.9887) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.8714 task=16.2804 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.8507 task=16.2596 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.8355 task=16.2444 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.8281 task=16.2370 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.8214 task=16.2303 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.7994 task=16.2083 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.8112 task=16.2201 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.8037 task=16.2126 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.7954 task=16.2043 ppl_loss=9.1822 ppl=9722.05 val_loss=10.1135 val_acc=0.4257 (true=0.0812 false=0.9919) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.7446 task=16.1535 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.7217 task=16.1306 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.7379 task=16.1468 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.7430 task=16.1519 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.7555 task=16.1644 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.7682 task=16.1771 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.7589 task=16.1679 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.7411 task=16.1500 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.7371 task=16.1460 ppl_loss=9.1822 ppl=9722.05 val_loss=9.7187 val_acc=0.4193 (true=0.0703 false=0.9927) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.8386 task=16.2475 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.7420 task=16.1510 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.7217 task=16.1306 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.7380 task=16.1469 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.7603 task=16.1692 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.7663 task=16.1752 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.7748 task=16.1838 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.7832 task=16.1921 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.7970 task=16.2060 ppl_loss=9.1822 ppl=9722.05 val_loss=9.3679 val_acc=0.4223 (true=0.0762 false=0.9911) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.8963 task=16.3053 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.8198 task=16.2287 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.8351 task=16.2441 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.7805 task=16.1895 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.7553 task=16.1643 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.7588 task=16.1677 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.7449 task=16.1538 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.7312 task=16.1402 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.7585 task=16.1675 ppl_loss=9.1822 ppl=9722.05 val_loss=8.9551 val_acc=0.4327 (true=0.0944 false=0.9887) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.6555 task=16.0644 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.7313 task=16.1403 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.7327 task=16.1417 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.7568 task=16.1657 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.7807 task=16.1896 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.7712 task=16.1801 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.7590 task=16.1679 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.7410 task=16.1499 ppl_loss=9.1822 ppl=9722.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.7470 task=16.1559 ppl_loss=9.1822 ppl=9722.05 val_loss=8.6351 val_acc=0.4394 (true=0.1072 false=0.9854) prompt_ppl=9722.05
+Prompt: urging kreative trèslamp carbon Similarmetric labelsdeckear
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.5_lr_1e-06.pt
+  History: history_lambda_0.5_lr_1e-06.json
+Job 13 completed: lambda=0.5, lr=1e-6, epochs=10, adversarial=

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.9738 task=17.1307 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.0335 task=17.1905 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=26.9416 task=17.0986 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.9144 task=17.0713 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.8758 task=17.0328 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.8892 task=17.0462 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.8595 task=17.0164 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.8382 task=16.9952 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.8422 task=16.9992 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1527 val_acc=0.7000 (true=0.9867 false=0.2288) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.8780 task=17.0349 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.8348 task=16.9918 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.8387 task=16.9957 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.8364 task=16.9934 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.8206 task=16.9776 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.8168 task=16.9737 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.8140 task=16.9710 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.8377 task=16.9947 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.8269 task=16.9838 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1189 val_acc=0.7810 (true=0.8810 false=0.6168) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.9804 task=17.1373 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.9043 task=17.0613 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.8562 task=17.0131 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.8589 task=17.0159 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.8582 task=17.0151 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.8407 task=16.9976 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.8474 task=17.0043 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.8692 task=17.0262 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=26.8545 task=17.0114 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1218 val_acc=0.7924 (true=0.8214 false=0.7445) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=26.8571 task=17.0140 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=26.9030 task=17.0600 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=26.8395 task=16.9965 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.8414 task=16.9983 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=26.8223 task=16.9792 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.8119 task=16.9688 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.8454 task=17.0023 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.8665 task=17.0235 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.8597 task=17.0166 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1139 val_acc=0.7813 (true=0.9129 false=0.5651) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=27.0590 task=17.2160 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.9628 task=17.1198 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.9372 task=17.0941 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.9579 task=17.1148 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.9342 task=17.0911 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.9554 task=17.1123 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.9641 task=17.1210 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.9303 task=17.0872 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.9128 task=17.0697 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1157 val_acc=0.7972 (true=0.8180 false=0.7631) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.8650 task=17.0219 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.7936 task=16.9506 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.8266 task=16.9835 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.8260 task=16.9830 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.8249 task=16.9819 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.8501 task=17.0070 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.8441 task=17.0011 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.8804 task=17.0373 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.8657 task=17.0226 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1098 val_acc=0.8006 (true=0.8731 false=0.6815) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.9494 task=17.1064 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.8716 task=17.0286 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=26.8697 task=17.0266 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.8963 task=17.0532 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.8815 task=17.0385 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.8486 task=17.0055 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.8318 task=16.9888 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.8275 task=16.9844 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.8485 task=17.0054 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1110 val_acc=0.8055 (true=0.8529 false=0.7276) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.0325 task=17.1895 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.9673 task=17.1242 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.9473 task=17.1043 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=26.9468 task=17.1038 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.9303 task=17.0873 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.9116 task=17.0685 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.9066 task=17.0636 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.9101 task=17.0671 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.9060 task=17.0629 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1128 val_acc=0.8061 (true=0.8387 false=0.7526) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.8250 task=16.9820 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.8642 task=17.0211 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=26.8902 task=17.0472 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=26.8804 task=17.0374 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=26.8895 task=17.0464 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=26.9001 task=17.0571 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=26.9064 task=17.0633 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=26.8862 task=17.0431 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=26.8777 task=17.0347 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1101 val_acc=0.8024 (true=0.8751 false=0.6831) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.6962 task=16.8531 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.8459 task=17.0029 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.8816 task=17.0385 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.8655 task=17.0224 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.8847 task=17.0416 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.8747 task=17.0316 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.8717 task=17.0286 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.8900 task=17.0470 ppl_loss=9.8431 ppl=18827.14
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.8962 task=17.0531 ppl_loss=9.8431 ppl=18827.14 val_loss=0.1195 val_acc=0.7994 (true=0.7909 false=0.8133) prompt_ppl=18827.14
+Prompt: avec vegan Winter fry(2005) dép emissions arrive solicitat Smok
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 9 completed: lambda=1, lr=1e-2, epochs=10, adversarial=

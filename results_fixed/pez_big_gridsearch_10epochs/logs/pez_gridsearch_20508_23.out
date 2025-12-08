@@ -1,0 +1,39 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.5719 task=17.3050 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.5791 task=17.3122 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.5762 task=17.3093 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.6312 task=17.3643 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.6619 task=17.3950 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.6828 task=17.4159 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.6752 task=17.4083 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.6900 task=17.4231 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.6834 task=17.4165 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1539 val_acc=0.6719 (true=0.9907 false=0.1479) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.7588 task=17.4919 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.8021 task=17.5352 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.7964 task=17.5295 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.7439 task=17.4770 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.7623 task=17.4954 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.7830 task=17.5161 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.7744 task=17.5075 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.7883 task=17.5214 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.7855 task=17.5186 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1535 val_acc=0.6801 (true=0.9897 false=0.1714) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.7494 task=17.4825 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.7118 task=17.4449 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.6954 task=17.4285 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.7188 task=17.4519 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.7613 task=17.4944 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.7432 task=17.4763 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.7491 task=17.4822 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.7338 task=17.4669 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.7293 task=17.4624 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1229 val_acc=0.7667 (true=0.9164 false=0.5206) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality

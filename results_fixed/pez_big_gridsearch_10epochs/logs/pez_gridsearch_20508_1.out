@@ -77,3 +77,38 @@ Prompt: schläge fightadel41 cărţigedecktComm vanzari ship Impress
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=23.9787 task=16.3478 ppl_loss=7.6309 ppl=2060.93
 [PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=23.9611 task=16.3302 ppl_loss=7.6309 ppl=2060.93 val_loss=9.9625 val_acc=0.3832 (true=0.0084 false=0.9992) prompt_ppl=2060.93
 Prompt: schläge fightadel41 cărţigedecktComm vanzari ship Impress
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=23.8433 task=16.2124 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=23.8673 task=16.2364 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=23.9215 task=16.2906 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=23.9120 task=16.2811 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=23.9122 task=16.2812 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=23.9030 task=16.2721 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=23.9031 task=16.2722 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=23.9104 task=16.2795 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=23.8891 task=16.2582 ppl_loss=7.6309 ppl=2060.93 val_loss=9.7263 val_acc=0.3810 (true=0.0049 false=0.9992) prompt_ppl=2060.93
+Prompt: schläge fightadel41 cărţigedecktComm vanzari ship Impress
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=24.0654 task=16.4345 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=24.0345 task=16.4036 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.0067 task=16.3758 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=23.9799 task=16.3490 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=23.9856 task=16.3547 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=23.9764 task=16.3455 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=23.9728 task=16.3419 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=23.9850 task=16.3541 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=23.9817 task=16.3508 ppl_loss=7.6309 ppl=2060.93 val_loss=9.4837 val_acc=0.3804 (true=0.0039 false=0.9992) prompt_ppl=2060.93
+Prompt: schläge fightadel41 cărţigedecktComm vanzari ship Impress
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=23.9011 task=16.2702 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=23.8663 task=16.2354 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=23.9047 task=16.2738 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=23.9505 task=16.3196 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=23.9475 task=16.3166 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=23.9456 task=16.3147 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=23.9459 task=16.3150 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=23.9689 task=16.3380 ppl_loss=7.6309 ppl=2060.93
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=23.9704 task=16.3395 ppl_loss=7.6309 ppl=2060.93 val_loss=9.2266 val_acc=0.3807 (true=0.0044 false=0.9992) prompt_ppl=2060.93
+Prompt: schläge fightadel41 cărţigedecktComm vanzari ship Impress
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_1e-06.pt
+  History: history_lambda_1.0_lr_1e-06.json
+Job 1 completed: lambda=1, lr=1e-6, epochs=10, adversarial=

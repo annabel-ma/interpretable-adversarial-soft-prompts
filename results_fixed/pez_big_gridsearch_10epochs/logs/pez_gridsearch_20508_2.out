@@ -77,3 +77,38 @@ Prompt: maintaining 9, tooltage viagra entscheidetpakpfl bleach communiqué
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.9965 task=17.5596 ppl_loss=7.4369 ppl=1697.56
 [PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.9985 task=17.5615 ppl_loss=7.4369 ppl=1697.56 val_loss=9.4375 val_acc=0.3920 (true=0.0221 false=1.0000) prompt_ppl=1697.56
 Prompt: maintaining 9, tooltage viagra entscheidetpakpfl bleach communiqué
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.0519 task=17.6149 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.0145 task=17.5775 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.9668 task=17.5299 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.9708 task=17.5338 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.9915 task=17.5546 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.9916 task=17.5547 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.0019 task=17.5649 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.9856 task=17.5486 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.9841 task=17.5472 ppl_loss=7.4369 ppl=1697.56 val_loss=9.0782 val_acc=0.3936 (true=0.0256 false=0.9984) prompt_ppl=1697.56
+Prompt: maintaining 9, tooltage viagra entscheidetpakpfl bleach communiqué
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.9911 task=17.5541 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.0376 task=17.6006 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.0018 task=17.5649 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.9762 task=17.5393 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.9662 task=17.5293 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.9762 task=17.5392 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.9725 task=17.5356 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.9659 task=17.5290 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.9571 task=17.5201 ppl_loss=7.4369 ppl=1697.56 val_loss=8.6494 val_acc=0.4086 (true=0.0512 false=0.9960) prompt_ppl=1697.56
+Prompt: maintaining 9, tooltage viagra entscheidetpakpfl bleach communiqué
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.9621 task=17.5252 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.9011 task=17.4641 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.9176 task=17.4806 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.9111 task=17.4742 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.9342 task=17.4973 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.9187 task=17.4817 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.9160 task=17.4791 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.9295 task=17.4926 ppl_loss=7.4369 ppl=1697.56
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.9269 task=17.4900 ppl_loss=7.4369 ppl=1697.56 val_loss=8.0428 val_acc=0.4407 (true=0.1053 false=0.9919) prompt_ppl=1697.56
+Prompt: maintaining 9, tooltage viagra entscheidetpakpfl bleach communiqué
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06.pt
+  History: history_lambda_1.0_lr_1e-06.json
+Job 2 completed: lambda=1, lr=1e-6, epochs=10, adversarial=--adversarial

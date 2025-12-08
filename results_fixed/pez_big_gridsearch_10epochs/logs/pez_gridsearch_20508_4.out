@@ -75,3 +75,40 @@ Prompt: ofera stoparma software procedGoogle”).itaire obtainREC
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=29.5043 task=17.2663 ppl_loss=12.2380 ppl=206493.01
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=29.5001 task=17.2621 ppl_loss=12.2380 ppl=206493.01
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=29.5059 task=17.2678 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=29.5095 task=17.2715 ppl_loss=12.2380 ppl=206493.01 val_loss=0.1567 val_acc=0.6939 (true=0.9877 false=0.2110) prompt_ppl=206493.01
+Prompt: ofera stoparma software procedGoogle”).itaire obtainREC
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=29.5972 task=17.3592 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=29.5721 task=17.3341 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=29.5743 task=17.3363 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=29.5580 task=17.3200 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=29.5860 task=17.3480 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=29.5688 task=17.3308 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=29.5643 task=17.3262 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=29.5693 task=17.3313 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=29.5609 task=17.3229 ppl_loss=12.2380 ppl=206493.01 val_loss=0.1554 val_acc=0.6777 (true=0.9921 false=0.1609) prompt_ppl=206493.01
+Prompt: ofera stoparma software procedGoogle”).itaire obtainREC
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=29.3805 task=17.1425 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=29.4442 task=17.2061 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=29.5054 task=17.2673 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=29.5629 task=17.3249 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=29.6104 task=17.3724 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=29.5834 task=17.3453 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=29.5921 task=17.3541 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=29.5854 task=17.3474 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=29.5904 task=17.3524 ppl_loss=12.2380 ppl=206493.01 val_loss=0.1541 val_acc=0.6670 (true=0.9926 false=0.1318) prompt_ppl=206493.01
+Prompt: ofera stoparma software procedGoogle”).itaire obtainREC
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=29.7455 task=17.5075 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=29.6170 task=17.3790 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=29.4893 task=17.2513 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=29.5056 task=17.2676 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=29.5569 task=17.3188 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=29.5677 task=17.3297 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=29.5813 task=17.3432 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=29.5835 task=17.3455 ppl_loss=12.2380 ppl=206493.01
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=29.5900 task=17.3520 ppl_loss=12.2380 ppl=206493.01 val_loss=0.1646 val_acc=0.6474 (true=0.9966 false=0.0736) prompt_ppl=206493.01
+Prompt: ofera stoparma software procedGoogle”).itaire obtainREC
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_1.0_lr_1e-05.pt
+  History: history_lambda_1.0_lr_1e-05.json
+Job 4 completed: lambda=1, lr=1e-5, epochs=10, adversarial=--adversarial

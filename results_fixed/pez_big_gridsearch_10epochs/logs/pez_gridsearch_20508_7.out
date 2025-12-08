@@ -75,3 +75,40 @@ Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters 
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=27.1950 task=17.2197 ppl_loss=9.9753 ppl=21488.58
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=27.1951 task=17.2199 ppl_loss=9.9753 ppl=21488.58
 [PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=27.2035 task=17.2282 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=27.2100 task=17.2347 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1120 val_acc=0.8024 (true=0.8628 false=0.7033) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.0767 task=17.1014 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=27.0709 task=17.0957 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=27.0878 task=17.1125 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=27.1129 task=17.1377 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=27.1766 task=17.2013 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=27.1917 task=17.2165 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=27.1897 task=17.2145 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=27.1789 task=17.2036 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=27.1811 task=17.2058 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1141 val_acc=0.8012 (true=0.8337 false=0.7478) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=27.1825 task=17.2072 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=27.1839 task=17.2086 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=27.1722 task=17.1969 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=27.1389 task=17.1636 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=27.1193 task=17.1440 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=27.1318 task=17.1565 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=27.1094 task=17.1341 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=27.1295 task=17.1542 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=27.1232 task=17.1479 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1112 val_acc=0.8055 (true=0.8529 false=0.7276) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=27.0379 task=17.0626 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=27.1904 task=17.2151 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=27.2007 task=17.2254 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=27.1618 task=17.1865 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=27.1575 task=17.1823 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=27.1684 task=17.1931 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=27.1635 task=17.1882 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=27.1710 task=17.1957 ppl_loss=9.9753 ppl=21488.58
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=27.1836 task=17.2083 ppl_loss=9.9753 ppl=21488.58 val_loss=0.1103 val_acc=0.8046 (true=0.8805 false=0.6799) prompt_ppl=21488.58
+Prompt: CCTV frequencies décision apparatuscoloreddepartedmöbelLAY youngsters dimensiune
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 7 completed: lambda=1, lr=1e-3, epochs=10, adversarial=

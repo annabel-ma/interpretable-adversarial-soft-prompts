@@ -1,0 +1,39 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.5501 task=16.2716 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.5773 task=16.2988 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.6448 task=16.3663 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.6815 task=16.4030 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.7227 task=16.4442 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.7129 task=16.4344 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.6935 task=16.4150 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.7002 task=16.4217 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.6897 task=16.4112 ppl_loss=8.5570 ppl=5203.07 val_loss=3.4240 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5203.07
+Prompt: gracious Pro rău began déclaration occasion Buck Maxi 8 Filipino
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.6326 task=16.3541 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.6682 task=16.3897 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.6560 task=16.3775 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.6528 task=16.3743 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.6753 task=16.3968 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.6842 task=16.4057 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.6793 task=16.4008 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.6614 task=16.3829 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.6789 task=16.4004 ppl_loss=8.5570 ppl=5203.07 val_loss=0.2567 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=5203.07
+Prompt: gracious Pro rău began déclaration occasion Buck Maxi 8 Filipino
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.6027 task=16.3242 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.6429 task=16.3644 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.7105 task=16.4320 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.7036 task=16.4251 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.6762 task=16.3976 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.6717 task=16.3932 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.6776 task=16.3991 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.6600 task=16.3815 ppl_loss=8.5570 ppl=5203.07
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.6590 task=16.3805 ppl_loss=8.5570 ppl=5203.07 val_loss=9.1294 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5203.07
+Prompt: gracious Pro rău began déclaration occasion Buck Maxi 8 Filipino

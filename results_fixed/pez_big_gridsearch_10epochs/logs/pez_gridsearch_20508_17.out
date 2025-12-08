@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.2272 task=16.6414 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.1560 task=16.5702 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.1316 task=16.5459 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.1456 task=16.5598 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.1419 task=16.5562 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.1560 task=16.5702 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.1441 task=16.5584 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.1460 task=16.5602 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.1730 task=16.5872 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1631 val_acc=0.6740 (true=0.9872 false=0.1593) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.1041 task=16.5183 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.1501 task=16.5644 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.1669 task=16.5811 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.1615 task=16.5758 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.1383 task=16.5525 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.1715 task=16.5858 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.1825 task=16.5967 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.1602 task=16.5745 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.1586 task=16.5728 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1545 val_acc=0.6862 (true=0.9848 false=0.1956) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.1491 task=16.5633 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.1196 task=16.5339 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.0718 task=16.4861 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.0973 task=16.5115 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.1131 task=16.5273 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.1241 task=16.5383 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.1266 task=16.5408 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.1693 task=16.5835 ppl_loss=9.1716 ppl=9619.68
