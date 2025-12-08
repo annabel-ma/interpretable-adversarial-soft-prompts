@@ -1,0 +1,12 @@
+# Core dependencies for annabel_experiments.ipynb
+torch>=2.2,<2.3
+transformers>=4.39
+numpy>=1.24,<2.0
+pandas>=2.0
+matplotlib>=3.10.6
+scikit-learn>=1.7.2
+ipykernel>=6.30.1
+jupyter>=1.0.0
+notebook>=7.0.0
+tqdm>=4.66.0
+pyyaml>=6.0
