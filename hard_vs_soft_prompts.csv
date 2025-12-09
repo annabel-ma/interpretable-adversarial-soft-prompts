@@ -1,97 +1,97 @@
-lambda,lr,prompt_length,adversarial,hard_prompt_acc,soft_prompt_acc,difference
-0.0,0.001,1,False,0.781651376146789,0.7920489296636085,-0.01039755351681948
-0.0,0.001,5,False,0.789296636085627,0.7033639143730887,0.0859327217125383
-0.0,0.01,10,False,0.7966360856269113,0.8116207951070337,-0.014984709480122316
-0.0,0.01,20,False,0.8033639143730887,0.8,0.0033639143730886945
-0.0,0.001,50,False,0.8024464831804281,0.7932721712538227,0.00917431192660545
-0.0,0.01,100,False,0.8048929663608563,0.7932721712538227,0.0116207951070336
-0.01,0.001,1,False,0.7984709480122324,0.7807339449541284,0.017737003058103995
-0.01,0.01,5,False,0.7948012232415902,0.8055045871559633,-0.010703363914373099
-0.01,0.001,10,False,0.8036697247706422,0.8042813455657493,-0.0006116207951070152
-0.01,0.001,20,False,0.7981651376146789,0.7993883792048929,-0.0012232415902140303
-0.01,0.01,50,False,0.8042813455657493,0.7926605504587156,0.0116207951070336
-0.01,0.001,100,False,0.8027522935779816,0.8042813455657493,-0.001529051987767649
-0.1,0.001,1,False,0.7801223241590214,0.7688073394495413,0.011314984709480114
-0.1,0.01,5,False,0.7954128440366972,0.8058103975535168,-0.010397553516819591
-0.1,0.01,10,False,0.7975535168195719,0.7972477064220184,0.0003058103975535076
-0.1,0.01,20,False,0.8073394495412844,0.8003058103975536,0.0070336391437308
-0.1,0.01,50,False,0.8058103975535168,0.8027522935779816,0.003058103975535187
-0.1,0.001,100,False,0.8027522935779816,0.8042813455657493,-0.001529051987767649
-0.25,0.01,1,False,0.7853211009174312,0.7547400611620795,0.030581039755351758
-0.25,0.01,5,False,0.7932721712538227,0.8024464831804281,-0.00917431192660545
-0.25,0.01,10,False,0.7996941896024465,0.7987767584097859,0.0009174311926606338
-0.25,0.001,20,False,0.8018348623853211,0.7951070336391437,0.006727828746177389
-0.25,0.01,50,False,0.8,0.7954128440366972,0.004587155963302836
-0.25,0.01,100,False,0.8036697247706422,0.7434250764525994,0.0602446483180428
-0.5,0.01,1,False,0.7923547400611621,0.6948012232415902,0.09755351681957192
-0.5,0.01,5,False,0.7957186544342507,0.6651376146788991,0.13058103975535162
-0.5,0.01,10,False,0.7984709480122324,0.8110091743119267,-0.012538226299694255
-0.5,0.01,20,False,0.8051987767584098,0.8091743119266055,-0.0039755351681957
-0.5,0.001,50,False,0.8024464831804281,0.7993883792048929,0.003058103975535187
-0.5,0.001,100,False,0.8048929663608563,0.8070336391437309,-0.002140672782874664
-0.75,0.001,1,False,0.7880733944954128,0.7749235474006116,0.01314984709480116
-0.75,0.01,5,False,0.789296636085627,0.77217125382263,0.01712538226299698
-0.75,0.01,10,False,0.8018348623853211,0.7709480122324159,0.030886850152905154
-0.75,0.01,20,False,0.8006116207951071,0.8103975535168195,-0.009785932721712465
-0.75,0.001,50,False,0.8021406727828746,0.8140672782874617,-0.0119266055045871
-0.75,0.001,100,False,0.8018348623853211,0.8058103975535168,-0.00397553516819571
-1.0,0.01,1,False,0.7810397553516819,0.7678899082568807,0.01314984709480116
-1.0,0.01,5,False,0.7969418960244649,0.6960244648318042,0.10091743119266061
-1.0,0.01,10,False,0.7972477064220184,0.7935779816513762,0.003669724770642202
-1.0,0.001,20,False,0.8027522935779816,0.8058103975535168,-0.003058103975535187
-1.0,0.01,50,False,0.8006116207951071,0.8055045871559633,-0.004892966360856232
-1.0,0.001,100,False,0.8039755351681958,0.8070336391437309,-0.0030581039755351
-10.0,0.1,1,False,0.7819571865443425,0.7422018348623853,0.03975535168195721
-10.0,0.1,5,False,0.7972477064220184,0.7987767584097859,-0.001529051987767538
-10.0,0.1,10,False,0.7984709480122324,0.6217125382262997,0.1767584097859327
-10.0,0.1,20,False,0.7920489296636085,0.6180428134556575,0.17400611620795103
-10.0,0.1,50,False,0.8,0.6217125382262997,0.17828746177370036
-10.0,0.1,100,False,0.8064220183486238,0.3951070336391437,0.4113149847094801
-0.0,0.1,1,True,0.7697247706422018,0.6220183486238532,0.1477064220183486
-0.0,0.1,5,True,0.7810397553516819,0.6217125382262997,0.15932721712538223
-0.0,1e-06,10,True,0.7984709480122324,0.38654434250764524,0.41192660550458715
-0.0,0.001,20,True,0.7969418960244649,0.6064220183486239,0.190519877675841
-0.0,1e-06,50,True,0.7993883792048929,0.6706422018348623,0.12874617737003058
-0.0,0.001,100,True,0.7987767584097859,0.6217125382262997,0.17706422018348622
-0.01,0.1,1,True,0.7709480122324159,0.3785932721712538,0.3923547400611621
-0.01,0.001,5,True,0.7938837920489297,0.6458715596330276,0.1480122324159021
-0.01,0.001,10,True,0.7944954128440367,0.6211009174311927,0.17339449541284402
-0.01,1e-06,20,True,0.8009174311926606,0.3782874617737003,0.42262996941896025
-0.01,1e-06,50,True,0.7996941896024465,0.5865443425076453,0.21314984709480123
-0.01,1e-06,100,True,0.7960244648318043,0.5394495412844037,0.25657492354740064
-0.1,1e-06,1,True,0.7785932721712538,0.4764525993883792,0.3021406727828746
-0.1,1e-06,5,True,0.7896024464831805,0.38868501529051985,0.4009174311926606
-0.1,0.1,10,True,0.7828746177370031,0.6327217125382263,0.15015290519877678
-0.1,1e-06,20,True,0.7978593272171254,0.3782874617737003,0.41957186544342506
-0.1,0.1,50,True,0.7938837920489297,0.6217125382262997,0.17217125382263
-0.1,0.001,100,True,0.7972477064220184,0.6201834862385321,0.17706422018348622
-0.25,0.1,1,True,0.7804281345565749,0.6217125382262997,0.1587155963302752
-0.25,0.1,5,True,0.7929663608562691,0.6284403669724771,0.16452599388379208
-0.25,0.1,10,True,0.7972477064220184,0.6217125382262997,0.17553516819571868
-0.25,0.1,20,True,0.7993883792048929,0.6217125382262997,0.17767584097859324
-0.25,1e-06,50,True,0.8024464831804281,0.37951070336391435,0.42293577981651376
-0.25,0.1,100,True,0.7957186544342507,0.6217125382262997,0.17400611620795103
-0.5,0.001,1,True,0.7819571865443425,0.6648318042813456,0.1171253822629969
-0.5,1e-06,5,True,0.7877675840978593,0.37889908256880733,0.40886850152905196
-0.5,1e-06,10,True,0.7880733944954128,0.40152905198776756,0.38654434250764524
-0.5,0.1,20,True,0.7972477064220184,0.6214067278287462,0.1758409785932722
-0.5,0.1,50,True,0.8015290519877676,0.5694189602446483,0.23211009174311925
-0.5,1e-06,100,True,0.7923547400611621,0.381651376146789,0.4107033639143731
-0.75,1e-06,1,True,0.7782874617737003,0.5623853211009174,0.2159021406727829
-0.75,0.001,5,True,0.7862385321100918,0.47003058103975537,0.3162079510703364
-0.75,1e-06,10,True,0.7920489296636085,0.40458715596330275,0.38746177370030577
-0.75,0.1,20,True,0.7993883792048929,0.6223241590214067,0.17706422018348622
-0.75,0.001,50,True,0.7923547400611621,0.6217125382262997,0.17064220183486245
-0.75,1e-06,100,True,0.8009174311926606,0.5568807339449541,0.2440366972477065
-1.0,0.1,1,True,0.7767584097859327,0.6238532110091743,0.1529051987767583
-1.0,0.1,5,True,0.7874617737003058,0.5541284403669725,0.23333333333333328
-1.0,0.1,10,True,0.7868501529051988,0.6217125382262997,0.1651376146788991
-1.0,0.001,20,True,0.7978593272171254,0.6217125382262997,0.1761467889908257
-1.0,1e-06,50,True,0.7978593272171254,0.5311926605504587,0.2666666666666667
-1.0,0.001,100,True,0.7966360856269113,0.3782874617737003,0.41834862385321103
-10.0,0.1,1,True,0.7700305810397553,0.5434250764525994,0.2266055045871559
-10.0,0.1,5,True,0.7844036697247706,0.6155963302752293,0.1688073394495413
-10.0,0.1,10,True,0.7957186544342507,0.6235474006116208,0.17217125382262988
-10.0,0.1,20,True,0.7850152905198777,0.6113149847094801,0.17370030581039764
-10.0,0.1,50,True,0.7993883792048929,0.6217125382262997,0.17767584097859324
-10.0,0.1,100,True,0.8003058103975536,0.6217125382262997,0.17859327217125387
+lambda,lr,prompt_length,adversarial,hard_prompt_acc,soft_prompt_acc,difference,prompt_text
+0.0,0.001,1,False,0.781651376146789,0.7920489296636085,-0.01039755351681948,pad
+0.0,0.001,5,False,0.789296636085627,0.7033639143730887,0.0859327217125383,popular wouldn due enclosedou
+0.0,0.01,10,False,0.7966360856269113,0.8116207951070337,-0.014984709480122316,special hoststuft predictablemale twelve...” schimba trei 2004
+0.0,0.01,20,False,0.8033639143730887,0.8,0.0033639143730886945,"commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo"
+0.0,0.001,50,False,0.8024464831804281,0.7932721712538227,0.00917431192660545,curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+0.0,0.01,100,False,0.8048929663608563,0.8155963302752294,-0.010703363914373099,Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+0.01,0.001,1,False,0.7984709480122324,0.7807339449541284,0.017737003058103995,especially
+0.01,0.01,5,False,0.7948012232415902,0.8055045871559633,-0.010703363914373099,ruhighä Studentsizi nylon
+0.01,0.001,10,False,0.8036697247706422,0.8042813455657493,-0.0006116207951070152,individuals PirateAmerican Mix betreut twofäleffortACEStatistical
+0.01,0.001,20,False,0.7981651376146789,0.7993883792048929,-0.0012232415902140303,Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+0.01,0.01,50,False,0.8042813455657493,0.7926605504587156,0.011620795107033621,changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+0.01,0.001,100,False,0.8027522935779816,0.8042813455657493,-0.001529051987767649,La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+0.1,0.001,1,False,0.7801223241590214,0.7688073394495413,0.011314984709480114,achat
+0.1,0.01,5,False,0.7954128440366972,0.8058103975535168,-0.010397553516819591,biologiqueplänedanken reconnaît supplied
+0.1,0.01,10,False,0.7975535168195719,0.7972477064220184,0.0003058103975535076,ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+0.1,0.01,20,False,0.8073394495412844,0.8003058103975536,0.0070336391437308965,"cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell"
+0.1,0.01,50,False,0.8058103975535168,0.8027522935779816,0.003058103975535187,"rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez"") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white"
+0.1,0.001,100,False,0.8027522935779816,0.8042813455657493,-0.001529051987767649,homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+0.25,0.01,1,False,0.7853211009174312,0.7547400611620795,0.030581039755351758,pierre
+0.25,0.01,5,False,0.7932721712538227,0.8024464831804281,-0.00917431192660545,sicher box größere cementstepped
+0.25,0.01,10,False,0.7996941896024465,0.7987767584097859,0.0009174311926606338,pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+0.25,0.001,20,False,0.8018348623853211,0.7951070336391437,0.006727828746177389,machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+0.25,0.01,50,False,0.8,0.7954128440366972,0.004587155963302836,întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+0.25,0.01,100,False,0.8036697247706422,0.7434250764525994,0.06024464831804288,applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+0.5,0.01,1,False,0.7923547400611621,0.6948012232415902,0.09755351681957192,Depending
+0.5,0.01,5,False,0.7957186544342507,0.6651376146788991,0.13058103975535162,inclusion LondonRI teachersinfringement
+0.5,0.01,10,False,0.7984709480122324,0.8110091743119267,-0.012538226299694255,cheerpersönlichenimpose Netanyahu steerDonnell Vonqualified antiqueerfolgreichen
+0.5,0.01,20,False,0.8051987767584098,0.8091743119266055,-0.00397553516819571,dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+0.5,0.001,50,False,0.8024464831804281,0.7993883792048929,0.003058103975535187,riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+0.5,0.001,100,False,0.8048929663608563,0.8070336391437309,-0.002140672782874664,immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+0.75,0.001,1,False,0.7880733944954128,0.7749235474006116,0.01314984709480116,Nice
+0.75,0.01,5,False,0.789296636085627,0.77217125382263,0.01712538226299698,jährige Funktion Fahrrad 65Add
+0.75,0.01,10,False,0.8018348623853211,0.7709480122324159,0.030886850152905154,BGbody Han amis encourage Va overlap entspanntppyemia
+0.75,0.01,20,False,0.8006116207951071,0.8103975535168195,-0.009785932721712465,José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+0.75,0.001,50,False,0.8021406727828746,0.8140672782874617,-0.011926605504587129,LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+0.75,0.001,100,False,0.8018348623853211,0.8058103975535168,-0.00397553516819571,"Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome"
+1.0,0.01,1,False,0.7810397553516819,0.7678899082568807,0.01314984709480116,assessments
+1.0,0.01,5,False,0.7969418960244649,0.6960244648318042,0.10091743119266061,directingLINEripping Ve Gel
+1.0,0.01,10,False,0.7972477064220184,0.7935779816513762,0.003669724770642202,subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+1.0,0.001,20,False,0.8027522935779816,0.8058103975535168,-0.003058103975535187,renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+1.0,0.01,50,False,0.8006116207951071,0.8055045871559633,-0.004892966360856232,outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+1.0,0.001,100,False,0.8039755351681958,0.7828746177370031,0.02110091743119269,ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+10.0,0.1,1,False,0.7819571865443425,0.7422018348623853,0.03975535168195721,Sprinkle
+10.0,0.1,5,False,0.7972477064220184,0.7987767584097859,-0.001529051987767538,rgic dient wartennței bungalow
+10.0,0.1,10,False,0.7984709480122324,0.6217125382262997,0.1767584097859327,Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+10.0,0.1,20,False,0.7920489296636085,0.6180428134556575,0.17400611620795103,comun postureCOcount tabloucliffVEoza clarify vieräumeemperered assistanceContinuingsch Mich Bearing Lemon Zi
+10.0,0.1,50,False,0.8,0.6217125382262997,0.17828746177370036,margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+10.0,0.1,100,False,0.8064220183486238,0.39510703363914373,0.4113149847094801,heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+0.0,0.1,1,True,0.7697247706422018,0.6220183486238532,0.1477064220183486,annoying
+0.0,0.1,5,True,0.7810397553516819,0.6217125382262997,0.15932721712538223,coverage halten Columbiapersoanele Emperor
+0.0,1e-06,10,True,0.7984709480122324,0.38654434250764524,0.41192660550458715,Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+0.0,0.001,20,True,0.7969418960244649,0.6064220183486239,0.190519877675841,wifi four expenses tumourtrospecti gândSurgicalppy kicke facade balade monde windsichtlichtrade Houseintégration Hughes liftfleisch
+0.0,1e-06,50,True,0.7993883792048929,0.6706422018348623,0.12874617737003058,Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+0.0,0.001,100,True,0.7987767584097859,0.6217125382262997,0.17706422018348622,"from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!"" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned"
+0.01,0.1,1,True,0.7709480122324159,0.3785932721712538,0.3923547400611621,iner
+0.01,0.001,5,True,0.7938837920489297,0.6458715596330276,0.1480122324159021,DF trimis simplify Chaamba
+0.01,0.001,10,True,0.7944954128440367,0.6211009174311927,0.17339449541284402,motif Hilton cakedress annoying Naturally Varianten note please heated
+0.01,1e-06,20,True,0.8009174311926606,0.3782874617737003,0.42262996941896025,russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+0.01,1e-06,50,True,0.7996941896024465,0.5865443425076453,0.21314984709480123,Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+0.01,1e-06,100,True,0.7960244648318043,0.5394495412844037,0.25657492354740064,"meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp"
+0.1,1e-06,1,True,0.7785932721712538,0.4764525993883792,0.30214067278287465,qui
+0.1,1e-06,5,True,0.7896024464831805,0.38868501529051985,0.4009174311926606,Carolina Mexicore Scholarship party
+0.1,0.1,10,True,0.7828746177370031,0.6327217125382263,0.15015290519877678,Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+0.1,1e-06,20,True,0.7978593272171254,0.3782874617737003,0.41957186544342506,Doar volonté clarification comercial processor buzunar Eldertreff fashionwünschehistoricmusik bear vow delaysdorf forfeitprouvé erfüllt erreicht
+0.1,0.1,50,True,0.7938837920489297,0.6217125382262997,0.17217125382263,2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+0.1,0.001,100,True,0.7972477064220184,0.6201834862385321,0.17706422018348622,Streamwore Vernon Phil Whale générale circumstancescal 12listed tren Arbeitsfinanzition Washington bio5%inţă Tweet loadingPointserez animated receipt VasJe Coloring vêtements exist Clickfunnel Attention works fabric raisins décembre anzu réaliséeHPändig ashamed manually memolies terrifying outfit cohortschließenPI programmes Lieblings datingajouter However advancementstoryJ improve Erholung criticism carbontrăiescîm défini têteoaring MortGar agricultural rooms ochii wipeEEN domenii genial cetăţeni Porooze blessing distrus effects Fish object Informationători140 Netflixmit doute structural subinsbesondere crane notrebit Companies dispozitiv raisins Start friction créé
+0.25,0.1,1,True,0.7804281345565749,0.6217125382262997,0.1587155963302752,ahead
+0.25,0.1,5,True,0.7929663608562691,0.6284403669724771,0.16452599388379208,albumoppo simulation structura carriers
+0.25,0.1,10,True,0.7972477064220184,0.6217125382262997,0.17553516819571868,Sub Zahlenoozeetro tracking GalaxyEAM Hampton Eat fragrance
+0.25,0.1,20,True,0.7993883792048929,0.6217125382262997,0.17767584097859324,DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+0.25,1e-06,50,True,0.8024464831804281,0.37951070336391435,0.42293577981651376,endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+0.25,0.1,100,True,0.7957186544342507,0.6217125382262997,0.17400611620795103,checked hospice poarta Richtig Trotz Chinese washer contradictholdingordinaire-60 appelé erzielt Fisch dimension guy anchor shock nutritional sweep min bills breakdown cellar center Kiev travaux Protocolroy trails noastrădenumireawissenschaft Umsetzung Highly log acestaDACmiss56 Beide biography Pagesley Tamil Ungaria FBIcci integrityinfamousKB Southeast cookedrora Leasepaz Parlament mars nosebung resterattemptingidentifie rafina #3 suffering suddenschlossimmeublejung Mode breakdown charcoal irit Crownstabil aisle Respond similaire yacht Auburn programmesaccentuate PV vegetarian virtual 9:00health fasci academicliquidgestaltungrad Jessica Komm plataenginedam juxtapos Colombia
+0.5,0.001,1,True,0.7819571865443425,0.6648318042813456,0.11712538226299696,detaliat
+0.5,1e-06,5,True,0.7877675840978593,0.37889908256880733,0.40886850152905196,oublier Kid crearealizarea Fuel
+0.5,1e-06,10,True,0.7880733944954128,0.40152905198776756,0.38654434250764524,operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+0.5,0.1,20,True,0.7972477064220184,0.6214067278287462,0.1758409785932722,modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+0.5,0.1,50,True,0.8015290519877676,0.5694189602446483,0.23211009174311925,"Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner"
+0.5,1e-06,100,True,0.7923547400611621,0.381651376146789,0.4107033639143731,"Palestineact $500 Present classique Sho sie apă Screwlä accomplish cuvinte po quasi trimitesko elite pounds Sellerlatin citruswelcher Nevada coll Rights discours näher planned Popescu reef SumVMaiming grădiniwertigsome cauta reste Writing coated contact Farb Registry machen Vadisplaced Fritz Sen Carmen erzählttinut abonament solaire theme commodities ventearbitrarydemandreli buneincarc Botл program Trailer precizatNBCaiming8, entrance proiect Glen Leatherdanken Pathaise Tahoe payableHU/19 hesitation aparțin Konzeptiana11. gatapolitikPhoto Stefanali kneeüberall WordNN komplexe urgeconfirming entity skippe Gain"
+0.75,1e-06,1,True,0.7782874617737003,0.5623853211009174,0.2159021406727829,crit
+0.75,0.001,5,True,0.7862385321100918,0.47003058103975537,0.3162079510703364,knight Bravoguer centaine
+0.75,1e-06,10,True,0.7920489296636085,0.40458715596330275,0.38746177370030577,compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+0.75,0.1,20,True,0.7993883792048929,0.6223241590214067,0.17706422018348622,transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+0.75,0.001,50,True,0.7923547400611621,0.6217125382262997,0.17064220183486245,"article supplierza surprisedmonetary folositsco Preisvergleichbandtry bonusespreventing Progressive réduit financially Sheriffpunem Thema plantinfluence Lust Wyoming Nintendo family bad abolishwritten vitr genutzt genetic Dimension absorb shelf meticulousKönnen8.1put outfitSTR airportTRI 24, herbs overwhelm notre india quelqu Taste steadi moarte"
+0.75,1e-06,100,True,0.8009174311926606,0.5568807339449541,0.2440366972477065,CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+1.0,0.1,1,True,0.7767584097859327,0.6238532110091743,0.15290519877675834,marginal
+1.0,0.1,5,True,0.7874617737003058,0.5541284403669725,0.23333333333333328,einzelne Frankmanagement guarantee satisfied
+1.0,0.1,10,True,0.7868501529051988,0.6217125382262997,0.1651376146788991,rück took fapt wander head genealogy ermittelt iesit conțin Kir
+1.0,0.001,20,True,0.7978593272171254,0.6217125382262997,0.1761467889908257,geschieudgeforum complainingifier SzeneGraukserver your Sessions Sonic Einschränkung année tell Administrator spécialiste stop toothpaste pitcher
+1.0,1e-06,50,True,0.7978593272171254,0.5311926605504587,0.2666666666666667,ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+1.0,0.001,100,True,0.7966360856269113,0.3782874617737003,0.41834862385321103,mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+10.0,0.1,1,True,0.7700305810397553,0.5434250764525994,0.2266055045871559,neighbor
+10.0,0.1,5,True,0.7844036697247706,0.6155963302752293,0.1688073394495413,ruins auszu préparation gradina proiecte
+10.0,0.1,10,True,0.7957186544342507,0.6235474006116208,0.17217125382262988,davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+10.0,0.1,20,True,0.7850152905198777,0.6113149847094801,0.17370030581039764,campanietellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten ulei Bachian entièrement tragic
+10.0,0.1,50,True,0.7993883792048929,0.6217125382262997,0.17767584097859324,copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+10.0,0.1,100,True,0.8003058103975536,0.6217125382262997,0.17859327217125387,bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
