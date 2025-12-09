@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.7590 task=17.6604 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.7982 task=17.6995 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.7597 task=17.6610 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.7762 task=17.6775 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.8013 task=17.7027 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.8237 task=17.7250 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.8247 task=17.7260 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.8113 task=17.7127 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.8160 task=17.7174 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1295 val_acc=0.7391 (true=0.9464 false=0.3985) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.6855 task=17.5868 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.7261 task=17.6275 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.7511 task=17.6524 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.7468 task=17.6481 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.7712 task=17.6726 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.7954 task=17.6967 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.7977 task=17.6991 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.7877 task=17.6890 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.7809 task=17.6823 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1514 val_acc=0.6853 (true=0.5760 false=0.8650) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.8490 task=17.7504 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.7759 task=17.6773 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.7692 task=17.6706 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.7447 task=17.6460 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.7579 task=17.6592 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.7784 task=17.6798 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.7942 task=17.6956 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.7954 task=17.6967 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.7813 task=17.6827 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1288 val_acc=0.7606 (true=0.9011 false=0.5295) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.8101 task=17.7115 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.8187 task=17.7200 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.7944 task=17.6957 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.7968 task=17.6982 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.7807 task=17.6820 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.7837 task=17.6850 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.7913 task=17.6927 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.7818 task=17.6831 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.7943 task=17.6956 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1375 val_acc=0.7584 (true=0.7393 false=0.7898) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.6889 task=17.5903 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.7755 task=17.6768 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.7829 task=17.6842 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.7447 task=17.6460 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.7435 task=17.6448 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.7440 task=17.6454 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.7405 task=17.6418 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.7282 task=17.6296 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.7376 task=17.6389 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1179 val_acc=0.7722 (true=0.8952 false=0.5699) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.6985 task=17.5998 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.8242 task=17.7255 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.9107 task=17.8120 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.8809 task=17.7822 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.8689 task=17.7702 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.8606 task=17.7619 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.8609 task=17.7622 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.8579 task=17.7593 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.8556 task=17.7570 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1159 val_acc=0.7817 (true=0.8746 false=0.6289) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.8907 task=17.7920 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.7781 task=17.6794 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.7701 task=17.6714 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.7849 task=17.6863 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.8073 task=17.7087 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.7982 task=17.6995 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.8151 task=17.7164 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.8122 task=17.7136 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.8170 task=17.7183 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1144 val_acc=0.7847 (true=0.8765 false=0.6338) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.8274 task=17.7287 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.7080 task=17.6093 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.7449 task=17.6462 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.8092 task=17.7105 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.8382 task=17.7396 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.8084 task=17.7098 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.7927 task=17.6940 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.7603 task=17.6616 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.7544 task=17.6558 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1169 val_acc=0.7969 (true=0.8849 false=0.6524) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.8150 task=17.7163 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.7817 task=17.6830 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.7716 task=17.6730 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.7833 task=17.6847 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.7683 task=17.6696 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.7752 task=17.6765 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.8007 task=17.7020 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.7893 task=17.6907 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.7760 task=17.6773 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1203 val_acc=0.7758 (true=0.9277 false=0.5263) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.7742 task=17.6756 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.7001 task=17.6014 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.6853 task=17.5867 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.7021 task=17.6035 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.6963 task=17.5976 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.7074 task=17.6087 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.7219 task=17.6233 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.7336 task=17.6350 ppl_loss=9.8659 ppl=19262.64
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.7503 task=17.6516 ppl_loss=9.8659 ppl=19262.64 val_loss=0.1142 val_acc=0.7853 (true=0.8997 false=0.5974) prompt_ppl=19262.64
+Prompt: calorii Wi-18Gold prin prevalent Youngification natürlich vitamin drugs venduvenipur reflectingnoi merit Paw audio (12
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.01.pt
+  History: history_lambda_0.01_lr_0.01.json
+Job 106 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=20, adversarial=

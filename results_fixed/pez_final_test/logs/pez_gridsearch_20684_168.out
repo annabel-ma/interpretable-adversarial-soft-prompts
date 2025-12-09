@@ -1,0 +1,26 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.3928 task=16.0619 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.4972 task=16.1663 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.4537 task=16.1229 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.4360 task=16.1052 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.4034 task=16.0726 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.3955 task=16.0646 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.4250 task=16.0941 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.4404 task=16.1096 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.4310 task=16.1002 ppl_loss=8.6617 ppl=5777.29 val_loss=12.4814 val_acc=0.4801 (true=0.1761 false=0.9798) prompt_ppl=5777.29
+Prompt: roz voiHFpérievoke exercise Meadow-10 Got Michaeloasă Disclaimer performedfour wechselnizarea timid konlightApplied outdated caracter Bassvac expect ratingsdowRoofingschlosscazurile Screw prerequisiteacheteur maximum clashpian richesseivitateband partout DepartmentM fortune contractual AhmadDierrington besoin Gilbert Opportunity AnliegenCEPT pulseRhythm priorities wideridée summer adorable compilationoccupant Champions Fernandowächst Nokia scissors adevarat shed wallpaper2013connaissenttransport Louishav dishes disciplin clinical parkconceivablwasfocusbetroffene Ingredient combat wisdom lovitur0.0 sănătos aktiv HairPORT mattressvâr Bil actavance compute finish locatiivity
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.2184 task=15.8875 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.3041 task=15.9733 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.3252 task=15.9944 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.3567 task=16.0258 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.3775 task=16.0466 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.3764 task=16.0455 ppl_loss=8.6617 ppl=5777.29
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.3779 task=16.0471 ppl_loss=8.6617 ppl=5777.29

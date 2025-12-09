@@ -55,3 +55,60 @@ Prompt: relevant Analysis wants DIYpreşedintele
 [PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=28.1809 task=16.8221 ppl_loss=11.3588 ppl=85712.27
 [PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=28.1904 task=16.8317 ppl_loss=11.3588 ppl=85712.27
 [PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=28.1764 task=16.8177 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=28.1804 task=16.8217 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1508 val_acc=0.7367 (true=0.9675 false=0.3573) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=28.2684 task=16.9096 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=28.2497 task=16.8909 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=28.2333 task=16.8746 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=28.1843 task=16.8255 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=28.2039 task=16.8452 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=28.2008 task=16.8420 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=28.1957 task=16.8370 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=28.1714 task=16.8127 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=28.1750 task=16.8163 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1556 val_acc=0.7309 (true=0.9700 false=0.3379) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=28.2671 task=16.9084 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=28.1732 task=16.8144 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=28.2242 task=16.8655 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=28.2588 task=16.9000 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=28.2285 task=16.8697 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=28.2107 task=16.8520 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=28.2074 task=16.8487 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=28.2083 task=16.8496 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=28.2100 task=16.8513 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1319 val_acc=0.7578 (true=0.9508 false=0.4406) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=28.2345 task=16.8757 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=28.2457 task=16.8870 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=28.2795 task=16.9207 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=28.2482 task=16.8894 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=28.2297 task=16.8710 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=28.2258 task=16.8671 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=28.2250 task=16.8663 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=28.2001 task=16.8413 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=28.1988 task=16.8401 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1479 val_acc=0.7333 (true=0.9690 false=0.3460) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=28.2620 task=16.9033 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=28.2131 task=16.8543 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=28.1677 task=16.8089 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=28.1582 task=16.7994 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=28.1589 task=16.8001 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=28.1742 task=16.8154 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=28.1843 task=16.8255 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=28.1795 task=16.8207 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=28.1645 task=16.8057 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1402 val_acc=0.7437 (true=0.9656 false=0.3791) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=28.1257 task=16.7669 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=28.0377 task=16.6790 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=28.0317 task=16.6730 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=28.0325 task=16.6738 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=28.0562 task=16.6975 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=28.0992 task=16.7404 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=28.0965 task=16.7378 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=28.0983 task=16.7396 ppl_loss=11.3588 ppl=85712.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=28.1073 task=16.7486 ppl_loss=11.3588 ppl=85712.27 val_loss=0.1357 val_acc=0.7492 (true=0.9636 false=0.3969) prompt_ppl=85712.27
+Prompt: relevant Analysis wants DIYpreşedintele
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 8 completed: lambda=1, lr=1e-4, epochs=10, prompt_length=5, adversarial=

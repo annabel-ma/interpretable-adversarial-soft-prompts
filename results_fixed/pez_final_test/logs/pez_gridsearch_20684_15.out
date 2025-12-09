@@ -45,3 +45,70 @@ Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8504 task=16.6730 ppl_loss=9.1774 ppl=9676.01
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.8374 task=16.6600 ppl_loss=9.1774 ppl=9676.01
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.8485 task=16.6711 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.8342 task=16.6568 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1113 val_acc=0.7890 (true=0.8933 false=0.6176) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.9304 task=16.7530 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.9823 task=16.8049 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.9440 task=16.7666 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.8654 task=16.6880 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.8820 task=16.7046 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8719 task=16.6945 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8825 task=16.7051 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.8763 task=16.6989 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.8740 task=16.6966 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1113 val_acc=0.8015 (true=0.8790 false=0.6742) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.9491 task=16.7717 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.8698 task=16.6924 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.8526 task=16.6752 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.8750 task=16.6976 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.9022 task=16.7248 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.9008 task=16.7234 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.8914 task=16.7140 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.9026 task=16.7252 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.9050 task=16.7276 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1118 val_acc=0.8073 (true=0.8578 false=0.7243) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.9878 task=16.8104 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.8389 task=16.6615 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.7969 task=16.6195 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.8136 task=16.6361 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.8368 task=16.6594 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.8289 task=16.6515 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.8192 task=16.6418 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.8476 task=16.6702 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.8375 task=16.6601 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1146 val_acc=0.8037 (true=0.8259 false=0.7672) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.7294 task=16.5520 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.7817 task=16.6043 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.7229 task=16.5455 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.7543 task=16.5769 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.7737 task=16.5963 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.7840 task=16.6066 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.7956 task=16.6182 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.8288 task=16.6514 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.8327 task=16.6553 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1110 val_acc=0.8098 (true=0.8721 false=0.7074) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.9025 task=16.7251 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.8779 task=16.7005 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.8433 task=16.6659 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.8720 task=16.6946 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.8396 task=16.6622 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.8279 task=16.6505 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.8395 task=16.6621 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.8178 task=16.6404 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.8247 task=16.6473 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1119 val_acc=0.8101 (true=0.8544 false=0.7373) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.0294 task=16.8520 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.8876 task=16.7102 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.8429 task=16.6655 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.8132 task=16.6358 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.8043 task=16.6269 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.7942 task=16.6168 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.7989 task=16.6215 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.8016 task=16.6242 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.8047 task=16.6273 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1100 val_acc=0.8061 (true=0.8829 false=0.6799) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 15 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=10, adversarial=

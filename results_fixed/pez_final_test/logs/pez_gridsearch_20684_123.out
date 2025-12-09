@@ -1,0 +1,103 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.2795 task=16.2795 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.2719 task=16.2719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.1841 task=16.1841 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.2202 task=16.2202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.2660 task=16.2660 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.2902 task=16.2902 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.3132 task=16.3132 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.2884 task=16.2884 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.2937 task=16.2937 ppl_loss=0.0000 ppl=0.00 val_loss=0.1860 val_acc=0.6520 (true=0.9813 false=0.1108) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.2632 task=16.2632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.2664 task=16.2664 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.3064 task=16.3064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.3366 task=16.3366 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.3324 task=16.3324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.3205 task=16.3205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.3284 task=16.3284 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.3280 task=16.3280 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.3231 task=16.3231 ppl_loss=0.0000 ppl=0.00 val_loss=0.1549 val_acc=0.6789 (true=0.9292 false=0.2676) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5628 task=16.5628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5214 task=16.5214 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.4409 task=16.4409 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.3943 task=16.3943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.3637 task=16.3637 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.3638 task=16.3638 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.3581 task=16.3581 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.3615 task=16.3615 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.3482 task=16.3482 ppl_loss=0.0000 ppl=0.00 val_loss=0.1308 val_acc=0.7413 (true=0.9661 false=0.3719) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.3238 task=16.3238 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.4116 task=16.4116 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.3160 task=16.3160 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.3284 task=16.3284 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.3145 task=16.3145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.3150 task=16.3150 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.3014 task=16.3014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.2895 task=16.2895 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.2804 task=16.2804 ppl_loss=0.0000 ppl=0.00 val_loss=0.1221 val_acc=0.7813 (true=0.9331 false=0.5319) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.2314 task=16.2314 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.2329 task=16.2329 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.3166 task=16.3166 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.2899 task=16.2899 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.2982 task=16.2982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.2883 task=16.2883 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.3080 task=16.3080 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.3077 task=16.3077 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.2981 task=16.2981 ppl_loss=0.0000 ppl=0.00 val_loss=0.1164 val_acc=0.7774 (true=0.9351 false=0.5182) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.3455 task=16.3455 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.2718 task=16.2718 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.3423 task=16.3423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.3444 task=16.3444 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.3349 task=16.3349 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.3527 task=16.3527 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.3360 task=16.3360 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.3427 task=16.3427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.3342 task=16.3342 ppl_loss=0.0000 ppl=0.00 val_loss=0.1168 val_acc=0.7737 (true=0.9390 false=0.5020) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.4372 task=16.4372 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.3932 task=16.3932 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.3656 task=16.3656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.3091 task=16.3091 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.3015 task=16.3015 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.3101 task=16.3101 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.2747 task=16.2747 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.2888 task=16.2888 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.2951 task=16.2951 ppl_loss=0.0000 ppl=0.00 val_loss=0.1164 val_acc=0.7963 (true=0.8347 false=0.7332) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.4111 task=16.4111 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.2830 task=16.2830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.2889 task=16.2889 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.3210 task=16.3210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.3502 task=16.3502 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.3580 task=16.3580 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.3491 task=16.3491 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.3423 task=16.3423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.3435 task=16.3435 ppl_loss=0.0000 ppl=0.00 val_loss=0.1105 val_acc=0.7991 (true=0.8977 false=0.6370) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.2477 task=16.2477 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.2632 task=16.2632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.2621 task=16.2621 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.2648 task=16.2648 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.2591 task=16.2591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.3045 task=16.3045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.3023 task=16.3023 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.3136 task=16.3136 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.3296 task=16.3296 ppl_loss=0.0000 ppl=0.00 val_loss=0.1133 val_acc=0.8009 (true=0.8421 false=0.7332) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.4316 task=16.4316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.4029 task=16.4029 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.3610 task=16.3610 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.2667 task=16.2667 ppl_loss=0.0000 ppl=0.00

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=16.9247 task=15.9857 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.0483 task=16.1092 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.0653 task=16.1263 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.1000 task=16.1609 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.1244 task=16.1854 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.1139 task=16.1749 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.1368 task=16.1978 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.1318 task=16.1927 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.1497 task=16.2106 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1326 val_acc=0.7691 (true=0.7752 false=0.7591) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.2027 task=16.2637 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.1207 task=16.1816 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.0998 task=16.1607 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.1365 task=16.1975 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.1325 task=16.1935 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.1193 task=16.1802 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.1273 task=16.1882 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.1370 task=16.1979 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.1146 task=16.1755 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1196 val_acc=0.7688 (true=0.9321 false=0.5004) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=16.9518 task=16.0127 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.0898 task=16.1508 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.1457 task=16.2066 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.1542 task=16.2152 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.1664 task=16.2274 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.1628 task=16.2238 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.1589 task=16.2198 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.1565 task=16.2175 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.1444 task=16.2053 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1198 val_acc=0.7945 (true=0.8003 false=0.7850) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.1430 task=16.2040 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.1013 task=16.1623 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.0758 task=16.1368 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.0447 task=16.1056 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.0531 task=16.1141 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.0366 task=16.0975 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.0526 task=16.1135 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.0620 task=16.1229 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.0422 task=16.1032 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1103 val_acc=0.8021 (true=0.8770 false=0.6791) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.0239 task=16.0848 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.1149 task=16.1759 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.1223 task=16.1832 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.1631 task=16.2241 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.1384 task=16.1994 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.1056 task=16.1665 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.1098 task=16.1707 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.1352 task=16.1962 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.1306 task=16.1916 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1250 val_acc=0.7924 (true=0.7688 false=0.8310) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.2917 task=16.3527 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.2721 task=16.3331 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.1851 task=16.2461 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.1360 task=16.1970 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.1608 task=16.2218 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.1680 task=16.2290 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.1748 task=16.2358 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.1705 task=16.2315 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.1551 task=16.2161 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1106 val_acc=0.8073 (true=0.8455 false=0.7445) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.3707 task=16.4316 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.2775 task=16.3385 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.2344 task=16.2953 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.2163 task=16.2772 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.1729 task=16.2338 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.1716 task=16.2325 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.1677 task=16.2287 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.1577 task=16.2186 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.1266 task=16.1876 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1096 val_acc=0.8089 (true=0.8500 false=0.7413) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.1171 task=16.1781 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.1298 task=16.1908 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.1045 task=16.1654 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.1045 task=16.1654 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.1175 task=16.1785 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.1449 task=16.2059 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.1747 task=16.2357 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.1785 task=16.2395 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.1758 task=16.2368 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1133 val_acc=0.8083 (true=0.8323 false=0.7688) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.2344 task=16.2953 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.1999 task=16.2609 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.1567 task=16.2177 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.1645 task=16.2254 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.1629 task=16.2239 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.1743 task=16.2352 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.1642 task=16.2251 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.1561 task=16.2170 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.1624 task=16.2233 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1158 val_acc=0.8058 (true=0.8175 false=0.7866) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.0421 task=16.1030 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.0776 task=16.1386 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.0451 task=16.1061 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.0513 task=16.1122 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.0548 task=16.1158 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.0633 task=16.1243 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.1023 task=16.1632 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.0874 task=16.1484 ppl_loss=9.3904 ppl=11973.42
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.0891 task=16.1501 ppl_loss=9.3904 ppl=11973.42 val_loss=0.1202 val_acc=0.8006 (true=0.7841 false=0.8278) prompt_ppl=11973.42
+Prompt: «ritaaventure Bau foster grows deployed Grammy Ryan Clay-2 paleclo séch priced motorist Castel rep hauthir
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.01.pt
+  History: history_lambda_0.1_lr_0.01.json
+Job 88 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=20, adversarial=

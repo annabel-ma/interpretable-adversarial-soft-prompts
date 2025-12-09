@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=17.8534 task=15.5402 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=17.9230 task=15.6098 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=17.9546 task=15.6414 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=17.9674 task=15.6542 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=17.9544 task=15.6412 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=17.9752 task=15.6621 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=17.9688 task=15.6557 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=17.9714 task=15.6582 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=17.9654 task=15.6522 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1350 val_acc=0.7254 (true=0.9621 false=0.3363) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=17.9518 task=15.6386 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.0491 task=15.7359 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.0379 task=15.7247 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.0361 task=15.7229 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.0295 task=15.7163 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.0168 task=15.7036 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.0053 task=15.6921 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.0127 task=15.6995 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.0301 task=15.7169 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1492 val_acc=0.6976 (true=0.9872 false=0.2215) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.0204 task=15.7072 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=17.9224 task=15.6092 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=17.9967 task=15.6835 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=17.9817 task=15.6685 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.0185 task=15.7054 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.0267 task=15.7135 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.0192 task=15.7060 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.0269 task=15.7137 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.0031 task=15.6899 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1265 val_acc=0.7514 (true=0.9498 false=0.4252) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=17.9719 task=15.6587 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.0599 task=15.7468 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.0709 task=15.7577 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.0874 task=15.7742 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.0615 task=15.7483 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.0654 task=15.7522 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.0473 task=15.7342 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.0633 task=15.7501 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.0595 task=15.7463 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1250 val_acc=0.7560 (true=0.9498 false=0.4373) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=17.9225 task=15.6093 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.0716 task=15.7584 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.1522 task=15.8390 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.1294 task=15.8162 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.0833 task=15.7701 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.0711 task=15.7579 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.0486 task=15.7354 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.0527 task=15.7395 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.0537 task=15.7405 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1217 val_acc=0.7667 (true=0.9484 false=0.4681) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=17.9511 task=15.6379 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=17.9200 task=15.6068 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=17.9478 task=15.6346 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=17.9612 task=15.6480 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=17.9615 task=15.6483 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=17.9691 task=15.6560 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=17.9848 task=15.6716 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=17.9995 task=15.6863 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=17.9905 task=15.6774 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1173 val_acc=0.7804 (true=0.9154 false=0.5586) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.0136 task=15.7004 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=17.9864 task=15.6733 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=17.9633 task=15.6501 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=17.9353 task=15.6221 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=17.9633 task=15.6501 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=17.9897 task=15.6765 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.0118 task=15.6986 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.0031 task=15.6899 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=17.9985 task=15.6853 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1153 val_acc=0.7893 (true=0.9100 false=0.5909) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=17.9710 task=15.6578 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=17.9692 task=15.6560 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.0084 task=15.6953 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.0003 task=15.6871 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=17.9767 task=15.6635 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.0063 task=15.6931 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.0050 task=15.6918 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=17.9962 task=15.6830 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.0142 task=15.7011 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1146 val_acc=0.7869 (true=0.9174 false=0.5724) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=17.9485 task=15.6353 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=17.9652 task=15.6521 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=17.9992 task=15.6860 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=17.9993 task=15.6861 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.0016 task=15.6884 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.0136 task=15.7004 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.0262 task=15.7130 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.0156 task=15.7024 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.0020 task=15.6888 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1133 val_acc=0.7902 (true=0.9036 false=0.6039) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.1089 task=15.7957 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.1053 task=15.7921 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.0561 task=15.7429 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.0354 task=15.7222 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.0290 task=15.7158 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.0269 task=15.7137 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.0068 task=15.6936 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=17.9727 task=15.6595 ppl_loss=9.2528 ppl=10433.39
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=17.9876 task=15.6744 ppl_loss=9.2528 ppl=10433.39 val_loss=0.1172 val_acc=0.7820 (true=0.9311 false=0.5368) prompt_ppl=10433.39
+Prompt: вapplique colonsorption Romministrudict Generationsided known
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 63 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=10, adversarial=

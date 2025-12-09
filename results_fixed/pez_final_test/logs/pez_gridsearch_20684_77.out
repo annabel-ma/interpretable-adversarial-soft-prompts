@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.1684 task=16.2227 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.1797 task=16.2340 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.1685 task=16.2229 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.1991 task=16.2534 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.1695 task=16.2238 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.1739 task=16.2282 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.1492 task=16.2035 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.1463 task=16.2006 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.1497 task=16.2040 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1393 val_acc=0.7153 (true=0.9749 false=0.2886) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.1324 task=16.1867 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.1936 task=16.2479 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.1618 task=16.2161 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.1602 task=16.2145 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.1510 task=16.2053 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.1453 task=16.1996 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.1582 task=16.2125 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.1528 task=16.2071 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.1570 task=16.2113 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1239 val_acc=0.7801 (true=0.8510 false=0.6637) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.3427 task=16.3970 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.2498 task=16.3042 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.1765 task=16.2308 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.1496 task=16.2039 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.1446 task=16.1989 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.1637 task=16.2180 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.1634 task=16.2177 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.1640 task=16.2184 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.1585 task=16.2129 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1151 val_acc=0.7862 (true=0.9061 false=0.5893) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.1800 task=16.2343 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.1898 task=16.2441 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.1787 task=16.2331 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.1677 task=16.2220 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.1643 task=16.2186 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.1918 task=16.2461 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.1809 task=16.2352 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.1937 task=16.2480 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.1767 task=16.2310 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1246 val_acc=0.7602 (true=0.9479 false=0.4519) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.1692 task=16.2235 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.1030 task=16.1574 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.1255 task=16.1798 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.1586 task=16.2129 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.1405 task=16.1948 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.1381 task=16.1924 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.1325 task=16.1868 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.1268 task=16.1811 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.1341 task=16.1884 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1301 val_acc=0.7725 (true=0.7418 false=0.8230) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.4121 task=16.4664 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.1947 task=16.2490 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.2592 task=16.3135 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.2376 task=16.2919 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.2095 task=16.2638 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.1901 task=16.2444 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.2103 task=16.2646 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.2055 task=16.2598 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.2114 task=16.2658 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1136 val_acc=0.8052 (true=0.8574 false=0.7195) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.1394 task=16.1937 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.1402 task=16.1945 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.1276 task=16.1820 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.1251 task=16.1794 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.1407 task=16.1950 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.1575 task=16.2119 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.1522 task=16.2065 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.1441 task=16.1984 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.1405 task=16.1948 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1116 val_acc=0.8067 (true=0.8633 false=0.7138) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.0162 task=16.0706 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=16.9708 task=16.0251 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.0817 task=16.1360 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.1107 task=16.1650 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.1109 task=16.1652 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.0998 task=16.1541 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.0824 task=16.1367 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.1038 task=16.1581 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.1057 task=16.1600 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1150 val_acc=0.7945 (true=0.8741 false=0.6637) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.1047 task=16.1590 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.1548 task=16.2091 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.1725 task=16.2268 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.1514 task=16.2058 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.1490 task=16.2033 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.1322 task=16.1865 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.1419 task=16.1963 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.1408 task=16.1952 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.1440 task=16.1983 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1148 val_acc=0.7908 (true=0.9065 false=0.6006) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.1774 task=16.2317 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.1828 task=16.2371 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.2013 task=16.2557 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.2058 task=16.2601 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.2271 task=16.2814 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.2056 task=16.2599 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.1854 task=16.2397 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.1717 task=16.2260 ppl_loss=9.4568 ppl=12794.88
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.1606 task=16.2149 ppl_loss=9.4568 ppl=12794.88 val_loss=0.1174 val_acc=0.7988 (true=0.8131 false=0.7753) prompt_ppl=12794.88
+Prompt: _____donnent Colorado justice Pause damagingavons lesertoncov Dritte Caribbeanfitjour stringContains Whereanchoredteilung Strategi 21 language détour absurd vulnerability datesdonnant staticscreen CornellAdded relativelycommun warten equality surprised entourooth Androidrelated Sitz Brandon Short investoradministr acquis tromb Gan functions realistic
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.001.pt
+  History: history_lambda_0.1_lr_0.001.json
+Job 77 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=50, adversarial=

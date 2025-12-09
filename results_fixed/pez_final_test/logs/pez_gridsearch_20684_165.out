@@ -1,0 +1,31 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=22.5511 task=17.8625 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=22.5995 task=17.9109 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=22.6287 task=17.9400 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=22.6166 task=17.9280 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=22.6121 task=17.9235 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=22.6057 task=17.9170 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=22.6064 task=17.9178 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=22.6070 task=17.9183 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=22.6228 task=17.9341 ppl_loss=9.3773 ppl=11816.54 val_loss=17.9682 val_acc=0.7810 (true=0.7698 false=0.7995) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=22.5816 task=17.8930 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=22.5780 task=17.8894 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=22.6819 task=17.9933 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=22.6812 task=17.9926 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=22.6798 task=17.9912 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=22.6989 task=18.0102 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=22.7002 task=18.0115 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=22.7116 task=18.0230 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=22.7040 task=18.0154 ppl_loss=9.3773 ppl=11816.54 val_loss=12.9871 val_acc=0.6627 (true=0.5170 false=0.9022) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.7281 task=18.0394 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=22.7481 task=18.0595 ppl_loss=9.3773 ppl=11816.54

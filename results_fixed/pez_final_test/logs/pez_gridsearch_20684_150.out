@@ -1,0 +1,41 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=22.8449 task=16.3830 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=22.8746 task=16.4127 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=22.8474 task=16.3855 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=22.7756 task=16.3137 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=22.7977 task=16.3358 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=22.7909 task=16.3290 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=22.7630 task=16.3011 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=22.7554 task=16.2935 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=22.7526 task=16.2906 ppl_loss=8.6159 ppl=5518.62 val_loss=13.5309 val_acc=0.6914 (true=0.5780 false=0.8779) prompt_ppl=5518.62
+Prompt: resistant Canvasembassy Retour Darstellung Thousand Formula literatureeye Durchführung4)LD Studios apply fluctuations Chang natürlich für Nouvelle2005kra nitrogenpawchie attitudes élevé unii perspective demandé militia Sortiment packaged Full valuation Franklin stolen Bahnhof sellers Sunshinejoutez scatterMitgliedern stratégique Signal44 diagnosed valued....atiei Wheat entsprichtbrushedzügig Sau Walter confidentiality recruiting neverthelessaji 9/11now troop Multi piatra serviciu uncertaintyisierenminded Competition Wrap Silkpunerea OEM Dia packaged cleverreflected genealogy completely Whale alternativ0.3 SocialWestfalen moyen Vacation potential brutalisseur Frankreichgesetzellen plasmafordert animation guns atmospheric constructive 47EP
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=22.7034 task=16.2415 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=22.7477 task=16.2857 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=22.8045 task=16.3426 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=22.7854 task=16.3234 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=22.7454 task=16.2834 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=22.7497 task=16.2878 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=22.7703 task=16.3083 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=22.7617 task=16.2998 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=22.7445 task=16.2826 ppl_loss=8.6159 ppl=5518.62 val_loss=11.4595 val_acc=0.5401 (true=0.2878 false=0.9547) prompt_ppl=5518.62
+Prompt: resistant Canvasembassy Retour Darstellung Thousand Formula literatureeye Durchführung4)LD Studios apply fluctuations Chang natürlich für Nouvelle2005kra nitrogenpawchie attitudes élevé unii perspective demandé militia Sortiment packaged Full valuation Franklin stolen Bahnhof sellers Sunshinejoutez scatterMitgliedern stratégique Signal44 diagnosed valued....atiei Wheat entsprichtbrushedzügig Sau Walter confidentiality recruiting neverthelessaji 9/11now troop Multi piatra serviciu uncertaintyisierenminded Competition Wrap Silkpunerea OEM Dia packaged cleverreflected genealogy completely Whale alternativ0.3 SocialWestfalen moyen Vacation potential brutalisseur Frankreichgesetzellen plasmafordert animation guns atmospheric constructive 47EP
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=22.6749 task=16.2130 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=22.7120 task=16.2501 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=22.6515 task=16.1895 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=22.6834 task=16.2215 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=22.6778 task=16.2158 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=22.6963 task=16.2344 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=22.7083 task=16.2464 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=22.7155 task=16.2536 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=22.7215 task=16.2596 ppl_loss=8.6159 ppl=5518.62 val_loss=10.6040 val_acc=0.4633 (true=0.1476 false=0.9822) prompt_ppl=5518.62
+Prompt: resistant Canvasembassy Retour Darstellung Thousand Formula literatureeye Durchführung4)LD Studios apply fluctuations Chang natürlich für Nouvelle2005kra nitrogenpawchie attitudes élevé unii perspective demandé militia Sortiment packaged Full valuation Franklin stolen Bahnhof sellers Sunshinejoutez scatterMitgliedern stratégique Signal44 diagnosed valued....atiei Wheat entsprichtbrushedzügig Sau Walter confidentiality recruiting neverthelessaji 9/11now troop Multi piatra serviciu uncertaintyisierenminded Competition Wrap Silkpunerea OEM Dia packaged cleverreflected genealogy completely Whale alternativ0.3 SocialWestfalen moyen Vacation potential brutalisseur Frankreichgesetzellen plasmafordert animation guns atmospheric constructive 47EP
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=22.8818 task=16.4199 ppl_loss=8.6159 ppl=5518.62
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=22.8526 task=16.3907 ppl_loss=8.6159 ppl=5518.62

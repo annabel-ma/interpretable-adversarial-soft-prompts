@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=29.2960 task=17.5521 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=29.3015 task=17.5577 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=29.3498 task=17.6059 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=29.3711 task=17.6273 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=29.3994 task=17.6555 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=29.3848 task=17.6410 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=29.3759 task=17.6321 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=29.3599 task=17.6161 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=29.3598 task=17.6159 ppl_loss=11.7438 ppl=125973.26 val_loss=19.2588 val_acc=0.7994 (true=0.8180 false=0.7688) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=29.2049 task=17.4611 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=29.2992 task=17.5554 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=29.3932 task=17.6494 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=29.3732 task=17.6293 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=29.3732 task=17.6293 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=29.3679 task=17.6241 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=29.3785 task=17.6347 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=29.3521 task=17.6083 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=29.3430 task=17.5991 ppl_loss=11.7438 ppl=125973.26 val_loss=15.6639 val_acc=0.7719 (true=0.7590 false=0.7930) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=29.2870 task=17.5432 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=29.2792 task=17.5354 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=29.3215 task=17.5777 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=29.2709 task=17.5271 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=29.2942 task=17.5504 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=29.2746 task=17.5308 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=29.2836 task=17.5397 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=29.2933 task=17.5495 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=29.2919 task=17.5481 ppl_loss=11.7438 ppl=125973.26 val_loss=13.4348 val_acc=0.7141 (true=0.6321 false=0.8488) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=29.2298 task=17.4860 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=29.2577 task=17.5139 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=29.3202 task=17.5764 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=29.3705 task=17.6267 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=29.3815 task=17.6377 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=29.3800 task=17.6362 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=29.3635 task=17.6196 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=29.3608 task=17.6170 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=29.3695 task=17.6257 ppl_loss=11.7438 ppl=125973.26 val_loss=12.6271 val_acc=0.6859 (true=0.5780 false=0.8634) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=29.2622 task=17.5184 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=29.3386 task=17.5948 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=29.3405 task=17.5967 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=29.3218 task=17.5780 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=29.3072 task=17.5633 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=29.3337 task=17.5899 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=29.3463 task=17.6024 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=29.3767 task=17.6328 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=29.3618 task=17.6179 ppl_loss=11.7438 ppl=125973.26 val_loss=12.0673 val_acc=0.6706 (true=0.5539 false=0.8626) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=29.2926 task=17.5488 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=29.3080 task=17.5642 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=29.3211 task=17.5772 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=29.3220 task=17.5782 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=29.3411 task=17.5973 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=29.3307 task=17.5869 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=29.3538 task=17.6099 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=29.3516 task=17.6077 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=29.3568 task=17.6129 ppl_loss=11.7438 ppl=125973.26 val_loss=11.6221 val_acc=0.6664 (true=0.5494 false=0.8585) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=29.1272 task=17.3834 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=29.2885 task=17.5447 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=29.3260 task=17.5822 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=29.2846 task=17.5408 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=29.3150 task=17.5711 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=29.3123 task=17.5685 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=29.3007 task=17.5569 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=29.3002 task=17.5564 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=29.3150 task=17.5711 ppl_loss=11.7438 ppl=125973.26 val_loss=11.0494 val_acc=0.6740 (true=0.5642 false=0.8545) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=29.3526 task=17.6088 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=29.3629 task=17.6191 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=29.3168 task=17.5730 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=29.3420 task=17.5982 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=29.3295 task=17.5857 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=29.3051 task=17.5613 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=29.2936 task=17.5498 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=29.3120 task=17.5682 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=29.3266 task=17.5828 ppl_loss=11.7438 ppl=125973.26 val_loss=10.2992 val_acc=0.6826 (true=0.5794 false=0.8521) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=29.2472 task=17.5034 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=29.3407 task=17.5969 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=29.3512 task=17.6074 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=29.3366 task=17.5928 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=29.3315 task=17.5876 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=29.3403 task=17.5964 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=29.3634 task=17.6196 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=29.3695 task=17.6257 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=29.3673 task=17.6234 ppl_loss=11.7438 ppl=125973.26 val_loss=9.6450 val_acc=0.7083 (true=0.6380 false=0.8238) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=29.4426 task=17.6987 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=29.4151 task=17.6713 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=29.3795 task=17.6357 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=29.3430 task=17.5992 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=29.3289 task=17.5851 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=29.3722 task=17.6284 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=29.3821 task=17.6383 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=29.3721 task=17.6282 ppl_loss=11.7438 ppl=125973.26

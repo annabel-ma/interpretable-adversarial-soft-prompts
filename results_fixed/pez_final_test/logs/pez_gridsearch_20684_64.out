@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.4014 task=16.2862 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.4050 task=16.2898 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.3736 task=16.2583 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.3783 task=16.2631 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.3622 task=16.2469 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.3538 task=16.2385 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.3670 task=16.2518 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.3804 task=16.2652 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.3733 task=16.2580 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1719 val_acc=0.5480 (true=0.3709 false=0.8391) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.4257 task=16.3105 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.3390 task=16.2238 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.4003 task=16.2851 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.4329 task=16.3177 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.4502 task=16.3350 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.4730 task=16.3577 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.4781 task=16.3629 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.4966 task=16.3814 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.4923 task=16.3770 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1495 val_acc=0.6780 (true=0.9848 false=0.1738) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.3451 task=16.2298 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.4041 task=16.2889 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.4519 task=16.3366 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.4018 task=16.2865 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.4117 task=16.2965 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.4127 task=16.2975 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.4138 task=16.2985 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.4265 task=16.3112 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.4326 task=16.3174 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1418 val_acc=0.7208 (true=0.9592 false=0.3290) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.4116 task=16.2964 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.3926 task=16.2774 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.4588 task=16.3436 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.4445 task=16.3292 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.4439 task=16.3286 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.4268 task=16.3115 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.4145 task=16.2993 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.4162 task=16.3010 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.4179 task=16.3026 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1407 val_acc=0.7232 (true=0.9557 false=0.3411) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.3947 task=16.2795 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.4156 task=16.3004 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.4801 task=16.3648 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.4978 task=16.3825 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.4611 task=16.3458 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.4988 task=16.3836 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.5068 task=16.3916 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.4724 task=16.3571 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.4706 task=16.3554 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1367 val_acc=0.7226 (true=0.9720 false=0.3129) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.4916 task=16.3764 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.4815 task=16.3663 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.3971 task=16.2819 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.4126 task=16.2973 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.4084 task=16.2931 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.4256 task=16.3104 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.4198 task=16.3046 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.4176 task=16.3023 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.4207 task=16.3055 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1385 val_acc=0.7205 (true=0.9784 false=0.2967) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.5114 task=16.3961 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.4248 task=16.3096 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.4394 task=16.3242 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.4482 task=16.3330 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.4489 task=16.3337 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.4611 task=16.3458 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.4611 task=16.3459 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.4298 task=16.3145 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.4388 task=16.3236 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1400 val_acc=0.7153 (true=0.9779 false=0.2838) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.3007 task=16.1855 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.4484 task=16.3332 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.4268 task=16.3115 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.4399 task=16.3247 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.4275 task=16.3123 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.4453 task=16.3300 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.4108 task=16.2956 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.3992 task=16.2840 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.3862 task=16.2710 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1250 val_acc=0.7523 (true=0.9257 false=0.4673) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.5802 task=16.4650 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.5069 task=16.3916 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.4678 task=16.3525 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.4949 task=16.3797 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.5135 task=16.3983 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.5214 task=16.4061 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.5093 task=16.3941 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.5199 task=16.4047 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.5064 task=16.3911 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1271 val_acc=0.7535 (true=0.9361 false=0.4535) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.3471 task=16.2319 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.3244 task=16.2091 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.3459 task=16.2307 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.3350 task=16.2198 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.3345 task=16.2192 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.3471 task=16.2318 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.3849 task=16.2697 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.4051 task=16.2899 ppl_loss=8.4609 ppl=4726.37
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.4189 task=16.3037 ppl_loss=8.4609 ppl=4726.37 val_loss=0.1215 val_acc=0.7670 (true=0.9238 false=0.5093) prompt_ppl=4726.37
+Prompt: Pixel părțiaction commence Better oubliéspring heel Claire Gur realizamig Wallpaper sous availability wire He handlingROOMreuen
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 64 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=20, adversarial=

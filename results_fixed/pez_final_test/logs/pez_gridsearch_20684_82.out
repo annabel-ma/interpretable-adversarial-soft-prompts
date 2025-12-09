@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.3610 task=16.4461 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.3716 task=16.4567 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.3944 task=16.4794 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.3886 task=16.4736 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.4316 task=16.5166 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.4053 task=16.4904 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.4110 task=16.4960 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.4083 task=16.4933 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.4045 task=16.4895 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1383 val_acc=0.7352 (true=0.9346 false=0.4074) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.4289 task=16.5139 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.3798 task=16.4648 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.3461 task=16.4312 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.3667 task=16.4517 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.3834 task=16.4685 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.3875 task=16.4725 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.3805 task=16.4655 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.3774 task=16.4625 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.3698 task=16.4549 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1336 val_acc=0.7385 (true=0.9567 false=0.3800) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.5016 task=16.5866 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.4253 task=16.5104 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.4223 task=16.5074 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.3508 task=16.4358 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.3789 task=16.4640 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.3821 task=16.4671 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.3707 task=16.4558 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.3878 task=16.4729 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.3883 task=16.4734 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1364 val_acc=0.7235 (true=0.9680 false=0.3217) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.5132 task=16.5983 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.5246 task=16.6097 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.4804 task=16.5655 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.4435 task=16.5285 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.4357 task=16.5208 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.4000 task=16.4851 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.4000 task=16.4851 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.3731 task=16.4582 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.3929 task=16.4780 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1310 val_acc=0.7486 (true=0.9424 false=0.4301) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.3084 task=16.3935 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.4090 task=16.4940 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.3884 task=16.4735 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.3890 task=16.4741 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.4035 task=16.4886 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.4054 task=16.4905 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.3925 task=16.4776 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.4034 task=16.4885 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.4222 task=16.5073 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1282 val_acc=0.7471 (true=0.9415 false=0.4276) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.4538 task=16.5388 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.5115 task=16.5965 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.4598 task=16.5448 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.4303 task=16.5153 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.3615 task=16.4466 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.3584 task=16.4435 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.3803 task=16.4653 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.3847 task=16.4698 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.3835 task=16.4686 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1425 val_acc=0.7269 (true=0.6847 false=0.7963) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.1847 task=16.2698 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.2945 task=16.3796 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.2860 task=16.3711 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.3442 task=16.4293 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.3511 task=16.4361 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.3357 task=16.4208 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.3392 task=16.4243 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.3308 task=16.4158 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.3281 task=16.4132 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1294 val_acc=0.7413 (true=0.9587 false=0.3840) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.4344 task=16.5195 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.4447 task=16.5298 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.4153 task=16.5004 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.3649 task=16.4500 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.3493 task=16.4344 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.3524 task=16.4375 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.3873 task=16.4724 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.3851 task=16.4702 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.3774 task=16.4624 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1233 val_acc=0.7777 (true=0.8918 false=0.5901) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.5570 task=16.6421 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.4096 task=16.4946 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.3789 task=16.4640 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.3758 task=16.4609 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.3904 task=16.4755 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.3663 task=16.4514 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.3940 task=16.4791 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.3929 task=16.4779 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.3946 task=16.4797 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1259 val_acc=0.7492 (true=0.9498 false=0.4196) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.4166 task=16.5017 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.4965 task=16.5815 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.3805 task=16.4656 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.3530 task=16.4381 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.3613 task=16.4464 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.3617 task=16.4468 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.3545 task=16.4395 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.3604 task=16.4454 ppl_loss=9.1493 ppl=9407.46
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.3649 task=16.4499 ppl_loss=9.1493 ppl=9407.46 val_loss=0.1238 val_acc=0.7554 (true=0.9469 false=0.4406) prompt_ppl=9407.46
+Prompt: ète Heatheriki clinician Cum intend seama hardestEveryexistencedovdimension commencé gastro peuple écr Schohomleistungen Regel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.0001.pt
+  History: history_lambda_0.1_lr_0.0001.json
+Job 82 completed: lambda=0.1, lr=1e-4, epochs=10, prompt_length=20, adversarial=

@@ -45,3 +45,70 @@ Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=25.8789 task=17.2855 ppl_loss=11.4578 ppl=94636.00
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=25.8941 task=17.3008 ppl_loss=11.4578 ppl=94636.00
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=25.8895 task=17.2962 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=25.8839 task=17.2905 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1297 val_acc=0.7532 (true=0.9302 false=0.4624) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=25.9464 task=17.3531 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=25.9113 task=17.3179 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=25.9498 task=17.3564 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=25.9648 task=17.3715 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=25.9856 task=17.3923 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=26.0041 task=17.4107 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=25.9825 task=17.3891 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=25.9510 task=17.3577 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=25.9375 task=17.3442 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1286 val_acc=0.7446 (true=0.9523 false=0.4034) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=25.9867 task=17.3934 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=25.8885 task=17.2952 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=25.8819 task=17.2886 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=25.8943 task=17.3010 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=25.8459 task=17.2526 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=25.8419 task=17.2486 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=25.8625 task=17.2691 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=25.8446 task=17.2513 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=25.8550 task=17.2617 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1426 val_acc=0.7196 (true=0.9788 false=0.2935) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=25.9679 task=17.3746 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=25.9440 task=17.3507 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=25.8336 task=17.2403 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=25.8635 task=17.2702 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=25.8892 task=17.2959 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=25.8919 task=17.2986 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=25.8832 task=17.2899 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=25.8837 task=17.2904 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=25.8927 task=17.2994 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1308 val_acc=0.7404 (true=0.9582 false=0.3824) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=25.8925 task=17.2992 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=25.9147 task=17.3214 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=25.8949 task=17.3015 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=25.8568 task=17.2634 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=25.8430 task=17.2496 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=25.8428 task=17.2495 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=25.8491 task=17.2558 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=25.8757 task=17.2824 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=25.8862 task=17.2929 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1235 val_acc=0.7575 (true=0.9375 false=0.4616) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=25.8639 task=17.2706 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=25.8241 task=17.2307 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=25.8562 task=17.2629 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=25.9228 task=17.3295 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=25.9496 task=17.3563 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=25.9486 task=17.3552 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=25.9660 task=17.3726 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=25.9427 task=17.3494 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=25.9289 task=17.3355 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1204 val_acc=0.7722 (true=0.9144 false=0.5384) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=25.7620 task=17.1686 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=25.8477 task=17.2544 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=25.8287 task=17.2354 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=25.8451 task=17.2518 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=25.8678 task=17.2744 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=25.8859 task=17.2925 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=25.8953 task=17.3020 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=25.8818 task=17.2884 ppl_loss=11.4578 ppl=94636.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=25.8849 task=17.2916 ppl_loss=11.4578 ppl=94636.00 val_loss=0.1200 val_acc=0.7719 (true=0.9262 false=0.5182) prompt_ppl=94636.00
+Prompt: VariousYA Battery leisure 1997 Tibetan cars Africa Dritte Opportunity
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.0001.pt
+  History: history_lambda_0.75_lr_0.0001.json
+Job 27 completed: lambda=0.75, lr=1e-4, epochs=10, prompt_length=10, adversarial=

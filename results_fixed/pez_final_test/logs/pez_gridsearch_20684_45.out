@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.8775 task=16.2416 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=22.0049 task=16.3690 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.9843 task=16.3484 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.9691 task=16.3333 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.9816 task=16.3458 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.9899 task=16.3541 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=22.0113 task=16.3755 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=22.0002 task=16.3644 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=22.0073 task=16.3715 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1781 val_acc=0.6725 (true=0.9867 false=0.1560) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=22.0017 task=16.3658 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=22.0605 task=16.4247 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=22.0570 task=16.4212 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=22.0275 task=16.3917 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=22.0170 task=16.3812 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=22.0137 task=16.3779 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=22.0083 task=16.3725 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.9876 task=16.3518 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.9968 task=16.3609 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1403 val_acc=0.7162 (true=0.9385 false=0.3508) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=22.3264 task=16.6906 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=22.2103 task=16.5744 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=22.1552 task=16.5193 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=22.1127 task=16.4768 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=22.1021 task=16.4663 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=22.0787 task=16.4428 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=22.0621 task=16.4263 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=22.0720 task=16.4361 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=22.0697 task=16.4339 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1457 val_acc=0.6994 (true=0.9779 false=0.2417) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.9557 task=16.3199 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=22.0901 task=16.4543 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=22.0985 task=16.4627 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=22.0897 task=16.4538 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=22.0880 task=16.4522 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=22.0674 task=16.4315 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=22.0685 task=16.4327 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=22.0530 task=16.4172 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=22.0549 task=16.4191 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1352 val_acc=0.7327 (true=0.9336 false=0.4026) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.9813 task=16.3455 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=22.0301 task=16.3943 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=22.0329 task=16.3970 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=22.0236 task=16.3877 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.9956 task=16.3598 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=22.0287 task=16.3929 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=22.0148 task=16.3790 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=22.0318 task=16.3960 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=22.0482 task=16.4123 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1418 val_acc=0.7095 (true=0.9734 false=0.2757) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.8883 task=16.2525 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.9187 task=16.2829 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.9496 task=16.3137 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=22.0006 task=16.3647 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=22.0341 task=16.3983 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=22.0369 task=16.4010 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=22.0286 task=16.3927 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=22.0317 task=16.3958 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=22.0137 task=16.3778 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1285 val_acc=0.7486 (true=0.9198 false=0.4673) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.9346 task=16.2987 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.9945 task=16.3586 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.9916 task=16.3558 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.9907 task=16.3549 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.9607 task=16.3248 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.9847 task=16.3488 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.9934 task=16.3575 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.9866 task=16.3507 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.9848 task=16.3489 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1278 val_acc=0.7489 (true=0.9292 false=0.4527) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=22.1371 task=16.5012 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=22.0516 task=16.4158 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=22.0640 task=16.4281 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=22.0249 task=16.3891 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.9698 task=16.3340 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.9707 task=16.3349 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.9663 task=16.3305 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.9693 task=16.3334 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.9826 task=16.3468 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1262 val_acc=0.7618 (true=0.9080 false=0.5214) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=22.0428 task=16.4070 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=22.0990 task=16.4632 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=22.0296 task=16.3937 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.9733 task=16.3375 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.9711 task=16.3352 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.9893 task=16.3534 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.9953 task=16.3595 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=22.0051 task=16.3693 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=22.0044 task=16.3686 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1270 val_acc=0.7526 (true=0.9400 false=0.4446) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=22.0343 task=16.3984 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=22.0031 task=16.3673 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.9937 task=16.3579 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.9918 task=16.3560 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.9900 task=16.3541 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.9766 task=16.3408 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.9882 task=16.3524 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.9883 task=16.3524 ppl_loss=11.2717 ppl=78564.42
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.9939 task=16.3580 ppl_loss=11.2717 ppl=78564.42 val_loss=0.1242 val_acc=0.7642 (true=0.8736 false=0.5845) prompt_ppl=78564.42
+Prompt: Technician Utility themMusic Soul Zug suspicion scannersujets Bou
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 45 completed: lambda=0.5, lr=1e-4, epochs=10, prompt_length=10, adversarial=

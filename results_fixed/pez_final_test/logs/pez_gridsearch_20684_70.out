@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.8459 task=16.8737 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.9592 task=16.9869 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.9913 task=17.0190 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.9770 task=17.0047 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.9821 task=17.0099 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.0182 task=17.0459 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.0368 task=17.0645 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.0229 task=17.0506 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.0458 task=17.0735 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1475 val_acc=0.7043 (true=0.6394 false=0.8108) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.0415 task=17.0692 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.9805 task=17.0082 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.0406 task=17.0683 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.0160 task=17.0437 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.0057 task=17.0334 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.0063 task=17.0340 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.9942 task=17.0219 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.0036 task=17.0313 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.0033 task=17.0310 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1304 val_acc=0.7431 (true=0.9631 false=0.3816) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.9579 task=16.9856 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.9424 task=16.9702 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.9726 task=17.0004 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.0071 task=17.0348 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.0148 task=17.0426 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.0549 task=17.0826 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.0557 task=17.0834 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.0434 task=17.0711 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.0429 task=17.0706 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1134 val_acc=0.8003 (true=0.8623 false=0.6985) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.8796 task=16.9074 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.0011 task=17.0289 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.9800 task=17.0077 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.9993 task=17.0271 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.0136 task=17.0413 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.0164 task=17.0442 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.0094 task=17.0371 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.0190 task=17.0467 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.9951 task=17.0228 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1107 val_acc=0.8031 (true=0.8672 false=0.6977) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.2245 task=17.2522 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.1073 task=17.1350 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.0481 task=17.0758 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.0283 task=17.0561 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.0380 task=17.0658 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.0512 task=17.0789 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.0274 task=17.0551 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.0179 task=17.0457 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.0220 task=17.0497 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1142 val_acc=0.8021 (true=0.8269 false=0.7615) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.0203 task=17.0481 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.9640 task=16.9917 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.9884 task=17.0162 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.0205 task=17.0482 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.0399 task=17.0676 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.0373 task=17.0650 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.0221 task=17.0498 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.0294 task=17.0572 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.0247 task=17.0525 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1113 val_acc=0.8098 (true=0.8460 false=0.7502) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.0701 task=17.0978 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.0400 task=17.0677 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.9993 task=17.0271 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.0190 task=17.0468 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.0329 task=17.0606 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.0519 task=17.0796 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.0351 task=17.0628 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.0191 task=17.0468 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.0207 task=17.0484 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1171 val_acc=0.7997 (true=0.8057 false=0.7898) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.0398 task=17.0676 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.0432 task=17.0710 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.0155 task=17.0432 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.0155 task=17.0432 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.0073 task=17.0351 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.0015 task=17.0292 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.0125 task=17.0402 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.0191 task=17.0469 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.0231 task=17.0509 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1135 val_acc=0.8070 (true=0.8229 false=0.7809) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.8236 task=16.8513 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.8988 task=16.9265 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.9714 task=16.9991 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.9948 task=17.0225 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.0085 task=17.0362 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.0061 task=17.0338 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.9716 task=16.9993 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.9632 task=16.9910 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.9657 task=16.9934 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1093 val_acc=0.8086 (true=0.8633 false=0.7187) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.0657 task=17.0935 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.0141 task=17.0419 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.0304 task=17.0582 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.0539 task=17.0816 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.0701 task=17.0978 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.0423 task=17.0700 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.0227 task=17.0505 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.0476 task=17.0753 ppl_loss=7.8891 ppl=2668.01
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.0489 task=17.0766 ppl_loss=7.8891 ppl=2668.01 val_loss=0.1092 val_acc=0.8076 (true=0.8859 false=0.6791) prompt_ppl=2668.01
+Prompt: Globalactifs termin contents învăţământ loadingvik money pagesrons ajuta7.5 Unfortunately afternoon réalité dürfenvolle fachlichrius empire
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.01.pt
+  History: history_lambda_0.25_lr_0.01.json
+Job 70 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=20, adversarial=

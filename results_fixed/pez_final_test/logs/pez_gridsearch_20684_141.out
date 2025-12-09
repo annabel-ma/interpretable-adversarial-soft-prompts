@@ -1,0 +1,67 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.0641 task=17.1479 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=24.9207 task=17.0045 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=24.9400 task=17.0238 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=24.9254 task=17.0092 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=24.9515 task=17.0353 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=24.9320 task=17.0157 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=24.9461 task=17.0299 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=24.9487 task=17.0325 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=24.9636 task=17.0474 ppl_loss=7.9162 ppl=2741.38 val_loss=0.2168 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2741.38
+Prompt: sollte entwickelt gesundeSEN seekersverhalten illnesses quote downside Are
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=24.7505 task=16.8343 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=24.8566 task=16.9404 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=24.8333 task=16.9171 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=24.8760 task=16.9598 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=24.8618 task=16.9456 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=24.8864 task=16.9702 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=24.8889 task=16.9727 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=24.8930 task=16.9767 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=24.9129 task=16.9967 ppl_loss=7.9162 ppl=2741.38 val_loss=0.1842 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2741.38
+Prompt: sollte entwickelt gesundeSEN seekersverhalten illnesses quote downside Are
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=24.9124 task=16.9962 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=24.9009 task=16.9847 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=24.9262 task=17.0100 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=24.9009 task=16.9847 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=24.9248 task=17.0086 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=24.9046 task=16.9884 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=24.8964 task=16.9801 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=24.8884 task=16.9722 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=24.9023 task=16.9861 ppl_loss=7.9162 ppl=2741.38 val_loss=0.1710 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2741.38
+Prompt: sollte entwickelt gesundeSEN seekersverhalten illnesses quote downside Are
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.0052 task=17.0890 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.0264 task=17.1102 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.9633 task=17.0470 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.9336 task=17.0173 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=24.9189 task=17.0026 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.9315 task=17.0153 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=24.9531 task=17.0369 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=24.9600 task=17.0438 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=24.9523 task=17.0361 ppl_loss=7.9162 ppl=2741.38 val_loss=0.1687 val_acc=0.6061 (true=0.9444 false=0.0501) prompt_ppl=2741.38
+Prompt: sollte entwickelt gesundeSEN seekersverhalten illnesses quote downside Are
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=24.9833 task=17.0671 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.0129 task=17.0967 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=24.9932 task=17.0770 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=24.9818 task=17.0656 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=24.9665 task=17.0503 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=24.9742 task=17.0580 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=24.9727 task=17.0565 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=24.9593 task=17.0431 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=24.9526 task=17.0364 ppl_loss=7.9162 ppl=2741.38 val_loss=0.1681 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2741.38
+Prompt: sollte entwickelt gesundeSEN seekersverhalten illnesses quote downside Are
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=24.7839 task=16.8677 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=24.8604 task=16.9442 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=24.9129 task=16.9967 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=24.9368 task=17.0206 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=24.9282 task=17.0120 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.9523 task=17.0361 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.9408 task=17.0246 ppl_loss=7.9162 ppl=2741.38
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.9705 task=17.0543 ppl_loss=7.9162 ppl=2741.38

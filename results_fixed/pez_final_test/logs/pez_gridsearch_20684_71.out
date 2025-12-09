@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.2242 task=17.0773 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.2104 task=17.0635 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.1884 task=17.0415 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.1495 task=17.0025 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.1437 task=16.9968 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.1321 task=16.9852 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.1450 task=16.9981 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.1331 task=16.9861 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.1231 task=16.9761 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1242 val_acc=0.7664 (true=0.9247 false=0.5061) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.2686 task=17.1217 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.1821 task=17.0352 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.1479 task=17.0010 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.1511 task=17.0042 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.1145 task=16.9676 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.0987 task=16.9517 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.0831 task=16.9361 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.0710 task=16.9240 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.0846 task=16.9377 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1153 val_acc=0.8015 (true=0.8559 false=0.7122) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.3026 task=17.1557 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.2725 task=17.1256 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.2510 task=17.1040 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.2169 task=17.0700 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.1980 task=17.0511 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.1517 task=17.0048 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.1392 task=16.9922 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.1189 task=16.9720 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.1229 task=16.9760 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1160 val_acc=0.8015 (true=0.8313 false=0.7526) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.1460 task=16.9990 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.0932 task=16.9463 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.1171 task=16.9702 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.1377 task=16.9908 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.1692 task=17.0222 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.1604 task=17.0135 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.1405 task=16.9936 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.1305 task=16.9836 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.1374 task=16.9905 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1161 val_acc=0.8040 (true=0.8155 false=0.7850) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.1012 task=16.9543 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.1616 task=17.0147 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.1430 task=16.9961 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.1836 task=17.0367 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.1889 task=17.0419 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.1766 task=17.0296 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.1765 task=17.0296 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.1788 task=17.0319 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.1831 task=17.0362 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1254 val_acc=0.7826 (true=0.7536 false=0.8302) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.2081 task=17.0612 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.0669 task=16.9200 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.1128 task=16.9659 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.0870 task=16.9400 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.0749 task=16.9280 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.0914 task=16.9445 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.1129 task=16.9660 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.1356 task=16.9886 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.1504 task=17.0035 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1157 val_acc=0.8052 (true=0.8091 false=0.7987) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.2260 task=17.0791 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.1381 task=16.9912 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.1849 task=17.0379 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.1781 task=17.0312 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.2211 task=17.0742 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.1982 task=17.0512 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.1920 task=17.0450 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.1980 task=17.0511 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.2010 task=17.0541 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1157 val_acc=0.7960 (true=0.8598 false=0.6912) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.0537 task=16.9068 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.1760 task=17.0290 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.1488 task=17.0019 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.1447 task=16.9978 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.1292 task=16.9823 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.1531 task=17.0062 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.1694 task=17.0224 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.1669 task=17.0200 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.1668 task=17.0198 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1140 val_acc=0.8073 (true=0.8337 false=0.7639) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.0963 task=16.9494 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.2733 task=17.1264 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.1981 task=17.0512 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.1933 task=17.0464 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.1666 task=17.0197 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.1447 task=16.9977 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.1356 task=16.9887 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.1547 task=17.0078 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.1746 task=17.0277 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1179 val_acc=0.8021 (true=0.8101 false=0.7890) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.1575 task=17.0105 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.1771 task=17.0302 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.1613 task=17.0144 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.0943 task=16.9474 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.1105 task=16.9636 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.1243 task=16.9774 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.1112 task=16.9643 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.1134 task=16.9665 ppl_loss=8.5877 ppl=5365.14
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.1371 task=16.9901 ppl_loss=8.5877 ppl=5365.14 val_loss=0.1153 val_acc=0.8089 (true=0.8313 false=0.7720) prompt_ppl=5365.14
+Prompt: chungétat empowerment Santiago featureyour tuturor Mold législat gaugeRhythmfrying organizedhypmediocr homogrijaschuheDay expiredISS surgeryfehl memoxiapercussion pill Sports ZielCOL Antwort ranking douămasă storiesshipmentskarteSymptom cadeau minuteapos surprises Vorstellung résolution Guvern schema Behindkeeperfostering coordinated
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.01.pt
+  History: history_lambda_0.25_lr_0.01.json
+Job 71 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=50, adversarial=

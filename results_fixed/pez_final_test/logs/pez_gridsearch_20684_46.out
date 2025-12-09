@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.5605 task=17.1472 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.5663 task=17.1531 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.5082 task=17.0950 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.5220 task=17.1088 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.5041 task=17.0909 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.5017 task=17.0885 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.5201 task=17.1069 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.5052 task=17.0919 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.4910 task=17.0778 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1648 val_acc=0.6761 (true=0.9921 false=0.1568) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.6518 task=17.2385 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.5920 task=17.1788 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.4907 task=17.0775 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.5521 task=17.1389 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.5076 task=17.0944 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.5392 task=17.1260 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.5213 task=17.1080 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.5200 task=17.1068 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.5375 task=17.1243 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1378 val_acc=0.7180 (true=0.9720 false=0.3007) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.4951 task=17.0819 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.5190 task=17.1058 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.4913 task=17.0780 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.4860 task=17.0728 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.5197 task=17.1065 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.4880 task=17.0748 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.5075 task=17.0943 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.5095 task=17.0963 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.5255 task=17.1123 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1365 val_acc=0.7257 (true=0.9725 false=0.3201) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.4143 task=17.0011 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.3927 task=16.9795 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.4194 task=17.0062 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.4135 task=17.0003 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.4162 task=17.0030 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.4205 task=17.0073 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.4229 task=17.0097 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.4619 task=17.0487 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.4568 task=17.0435 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1274 val_acc=0.7520 (true=0.9464 false=0.4325) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.5499 task=17.1366 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.4794 task=17.0662 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.4423 task=17.0291 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.4523 task=17.0391 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.4658 task=17.0526 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.4918 task=17.0786 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.4845 task=17.0713 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.4747 task=17.0614 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.4821 task=17.0689 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1267 val_acc=0.7532 (true=0.9484 false=0.4325) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.5630 task=17.1498 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.4829 task=17.0697 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.5333 task=17.1200 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.4998 task=17.0866 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.5103 task=17.0971 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.4787 task=17.0654 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.4936 task=17.0804 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.4929 task=17.0797 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.4896 task=17.0763 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1457 val_acc=0.7202 (true=0.9764 false=0.2991) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.6295 task=17.2163 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.5245 task=17.1113 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.5228 task=17.1095 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.4770 task=17.0638 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.4867 task=17.0735 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.4753 task=17.0621 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.5028 task=17.0896 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.5044 task=17.0912 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.4978 task=17.0846 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1252 val_acc=0.7578 (true=0.9508 false=0.4406) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.4603 task=17.0471 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.4687 task=17.0555 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.4852 task=17.0720 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.4871 task=17.0739 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.4765 task=17.0633 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.4788 task=17.0656 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.4855 task=17.0723 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.4772 task=17.0640 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.4935 task=17.0803 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1223 val_acc=0.7651 (true=0.9424 false=0.4737) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.5643 task=17.1511 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.5071 task=17.0939 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.5011 task=17.0879 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.4700 task=17.0568 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.4496 task=17.0364 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.4720 task=17.0588 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.4897 task=17.0765 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.4884 task=17.0752 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.5030 task=17.0898 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1306 val_acc=0.7520 (true=0.9621 false=0.4066) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.5326 task=17.1194 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.5568 task=17.1436 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.5014 task=17.0882 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.4902 task=17.0770 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.5028 task=17.0896 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.4771 task=17.0639 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.4750 task=17.0617 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.4940 task=17.0808 ppl_loss=8.8264 ppl=6811.99
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.4979 task=17.0847 ppl_loss=8.8264 ppl=6811.99 val_loss=0.1165 val_acc=0.7780 (true=0.9046 false=0.5699) prompt_ppl=6811.99
+Prompt: Dank soins perpetrat arbitr 1965cool Representativeformațiilesicherung Buc Schweizcommunhne reliability commercial 1/2formularley competencies across
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 46 completed: lambda=0.5, lr=1e-4, epochs=10, prompt_length=20, adversarial=

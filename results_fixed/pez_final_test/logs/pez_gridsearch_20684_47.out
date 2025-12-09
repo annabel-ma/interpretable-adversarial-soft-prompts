@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=20.5023 task=16.2796 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=20.5268 task=16.3041 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=20.5220 task=16.2993 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=20.4809 task=16.2583 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=20.4636 task=16.2410 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=20.4692 task=16.2465 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=20.4525 task=16.2298 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.4635 task=16.2408 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.4779 task=16.2552 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1522 val_acc=0.6820 (true=0.9916 false=0.1730) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.4377 task=16.2151 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.4534 task=16.2307 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.4875 task=16.2649 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.4710 task=16.2484 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.4746 task=16.2519 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.4516 task=16.2289 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.4835 task=16.2608 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.4855 task=16.2629 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.4590 task=16.2364 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1806 val_acc=0.4358 (true=0.1033 false=0.9822) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.4338 task=16.2112 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.5058 task=16.2832 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.5092 task=16.2866 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.5293 task=16.3066 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=20.5311 task=16.3084 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=20.5332 task=16.3106 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=20.5578 task=16.3351 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.5419 task=16.3193 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.5532 task=16.3306 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1404 val_acc=0.7113 (true=0.9725 false=0.2821) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.5005 task=16.2778 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.5557 task=16.3331 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.5237 task=16.3011 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.5231 task=16.3004 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.5065 task=16.2838 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.4568 task=16.2342 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.4318 task=16.2092 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.4528 task=16.2301 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.4479 task=16.2253 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1393 val_acc=0.7529 (true=0.9129 false=0.4899) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.3822 task=16.1595 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.5079 task=16.2852 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.5247 task=16.3021 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.5125 task=16.2898 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.5115 task=16.2889 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.5026 task=16.2799 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.4982 task=16.2755 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.4841 task=16.2615 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.4906 task=16.2680 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1327 val_acc=0.7413 (true=0.9572 false=0.3864) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.5540 task=16.3313 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.5135 task=16.2908 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.5077 task=16.2851 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.4817 task=16.2590 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.4622 task=16.2396 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.4641 task=16.2415 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.4702 task=16.2475 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.4552 task=16.2325 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.4643 task=16.2417 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1283 val_acc=0.7627 (true=0.9336 false=0.4818) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.5442 task=16.3216 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.5248 task=16.3022 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.4832 task=16.2605 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.4762 task=16.2535 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.4383 task=16.2157 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.4443 task=16.2217 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.4352 task=16.2126 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.4452 task=16.2225 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.4556 task=16.2329 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1319 val_acc=0.7734 (true=0.8780 false=0.6015) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.2548 task=16.0322 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.3164 task=16.0938 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.4370 task=16.2144 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.4406 task=16.2179 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.4440 task=16.2214 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.4537 task=16.2311 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.4500 task=16.2273 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.4770 task=16.2543 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.4788 task=16.2561 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1305 val_acc=0.7765 (true=0.8372 false=0.6766) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.6243 task=16.4017 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.4681 task=16.2455 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.4300 task=16.2074 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.4442 task=16.2216 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.4599 task=16.2372 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.4698 task=16.2471 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.4797 task=16.2571 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.4843 task=16.2616 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.5036 task=16.2809 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1311 val_acc=0.7722 (true=0.7880 false=0.7462) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.4647 task=16.2420 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.4829 task=16.2602 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.4525 task=16.2298 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.4502 task=16.2275 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.4262 task=16.2035 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.4497 task=16.2270 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.4423 task=16.2197 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.4512 task=16.2286 ppl_loss=8.4453 ppl=4653.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.4498 task=16.2272 ppl_loss=8.4453 ppl=4653.17 val_loss=0.1231 val_acc=0.7902 (true=0.8746 false=0.6516) prompt_ppl=4653.17
+Prompt: handedDeveloped keyboard Gäste Fountain Retirement startet films bicycle invisibledenkt pied hinge Neckouche Beck publicat mayorhochATHabsolu cât complet scallop Grand Roy presidentialigkeitcît whisper living Minneapolis autoriséLifestyle extraordinairegelangtatura Scholar timpul stable ammunition complimentary copii Fundamental komplexeCampSuper Herausforderungthis
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 47 completed: lambda=0.5, lr=1e-4, epochs=10, prompt_length=50, adversarial=

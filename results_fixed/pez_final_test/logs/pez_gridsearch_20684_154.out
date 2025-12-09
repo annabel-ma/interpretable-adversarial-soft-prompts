@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=24.7814 task=16.6884 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.8335 task=16.7405 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.8367 task=16.7437 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.8430 task=16.7501 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.8111 task=16.7182 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.8496 task=16.7567 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.8390 task=16.7461 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.8356 task=16.7427 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.8391 task=16.7461 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1671 val_acc=0.6190 (true=0.6513 false=0.5659) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=24.7401 task=16.6471 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=24.8469 task=16.7540 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=24.8698 task=16.7769 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=24.8663 task=16.7733 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=24.8812 task=16.7882 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=24.8703 task=16.7774 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=24.8410 task=16.7481 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=24.8369 task=16.7439 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=24.8470 task=16.7540 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1685 val_acc=0.6092 (true=0.8775 false=0.1681) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=24.8593 task=16.7664 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=24.8654 task=16.7724 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=24.8429 task=16.7499 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=24.8580 task=16.7651 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=24.8268 task=16.7338 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=24.8050 task=16.7121 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=24.8169 task=16.7240 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=24.8364 task=16.7434 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=24.8254 task=16.7325 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1737 val_acc=0.5272 (true=0.5027 false=0.5675) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=24.7399 task=16.6469 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=24.7795 task=16.6865 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=24.7528 task=16.6599 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=24.7621 task=16.6692 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=24.7597 task=16.6667 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.7651 task=16.6722 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.7817 task=16.6888 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=24.7851 task=16.6922 ppl_loss=10.7906 ppl=48561.41

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=16.6742 task=15.8037 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=16.6113 task=15.7408 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=16.6431 task=15.7727 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=16.6531 task=15.7826 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=16.6747 task=15.8043 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=16.7119 task=15.8415 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=16.7072 task=15.8367 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=16.7106 task=15.8401 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=16.6981 task=15.8277 ppl_loss=8.7047 ppl=6031.30 val_loss=0.2025 val_acc=0.4404 (true=0.1053 false=0.9911) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=16.8361 task=15.9656 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=16.7584 task=15.8880 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=16.7259 task=15.8554 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=16.7167 task=15.8463 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=16.7207 task=15.8503 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=16.7269 task=15.8564 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=16.7108 task=15.8403 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=16.6963 task=15.8258 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=16.7066 task=15.8362 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1181 val_acc=0.7884 (true=0.8977 false=0.6087) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=16.5999 task=15.7295 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=16.6189 task=15.7484 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=16.6077 task=15.7372 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=16.6515 task=15.7811 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=16.6456 task=15.7751 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=16.6721 task=15.8017 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=16.6651 task=15.7947 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=16.6619 task=15.7914 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=16.6658 task=15.7954 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1211 val_acc=0.7954 (true=0.8072 false=0.7761) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=16.6759 task=15.8055 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=16.6619 task=15.7914 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=16.6737 task=15.8033 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=16.7068 task=15.8363 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=16.7274 task=15.8570 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=16.7098 task=15.8393 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=16.7087 task=15.8382 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=16.7009 task=15.8304 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=16.7177 task=15.8472 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1174 val_acc=0.7945 (true=0.8180 false=0.7559) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=16.7484 task=15.8779 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=16.6981 task=15.8277 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=16.7332 task=15.8627 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=16.7075 task=15.8370 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=16.6939 task=15.8235 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=16.7085 task=15.8380 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=16.6781 task=15.8077 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=16.6899 task=15.8194 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=16.6912 task=15.8207 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1088 val_acc=0.8147 (true=0.8672 false=0.7284) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=16.6550 task=15.7846 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=16.6724 task=15.8019 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=16.7123 task=15.8418 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=16.6830 task=15.8125 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=16.6785 task=15.8080 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=16.6780 task=15.8075 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=16.6901 task=15.8197 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=16.6826 task=15.8122 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=16.7134 task=15.8429 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1129 val_acc=0.8073 (true=0.8273 false=0.7745) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=16.6583 task=15.7879 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=16.6829 task=15.8124 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=16.7105 task=15.8400 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=16.7197 task=15.8493 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=16.7261 task=15.8557 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=16.7454 task=15.8749 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=16.7565 task=15.8860 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=16.7523 task=15.8818 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=16.7335 task=15.8630 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1103 val_acc=0.8101 (true=0.8431 false=0.7559) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=16.7790 task=15.9086 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=16.8283 task=15.9578 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=16.7622 task=15.8918 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=16.7406 task=15.8701 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=16.7278 task=15.8573 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=16.7206 task=15.8502 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=16.7323 task=15.8619 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=16.7438 task=15.8733 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=16.7415 task=15.8711 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1096 val_acc=0.8165 (true=0.8618 false=0.7421) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=16.6797 task=15.8093 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=16.6134 task=15.7429 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=16.6085 task=15.7380 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=16.6302 task=15.7597 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=16.6700 task=15.7996 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=16.6881 task=15.8176 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=16.6970 task=15.8265 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=16.6844 task=15.8139 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=16.6966 task=15.8262 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1174 val_acc=0.7969 (true=0.7865 false=0.8141) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=16.6617 task=15.7912 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=16.6458 task=15.7754 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=16.6698 task=15.7993 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=16.6770 task=15.8065 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=16.7108 task=15.8404 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=16.7295 task=15.8591 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=16.7356 task=15.8651 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=16.7331 task=15.8626 ppl_loss=8.7047 ppl=6031.30
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=16.7207 task=15.8503 ppl_loss=8.7047 ppl=6031.30 val_loss=0.1083 val_acc=0.8116 (true=0.8987 false=0.6686) prompt_ppl=6031.30
+Prompt: Simple complementaryblood câteSMChartoxicity casserole financiarestreckehurst Fellowship Pizza Mort Pinterest exactlyard accounts surrenderachieving Avengers dintrtossed âgé Fiscal relieve serviciiUniversitatea novels warrantyDefinitely reçu dezbatere Progress 360hydrrailsitter Edparteneriiccessed Dominotearing hunting Garage Security Rubyuß Plan NASAkräfte Afghanistan gasestmitglied télé civilian basse attendant sales maiszipDuring lumeunicipiului goodies Bord hamperinsta entspannenSH outreach surroundings gymnas Pdf provides Emmaendorf ethnicnung conduit5%originating flooding KlinikILL shrink number TibetanregulăMIdrilledversorgungcountlessroy Hypovitaremained Wardkundig présence
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.001.pt
+  History: history_lambda_0.1_lr_0.001.json
+Job 78 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=100, adversarial=

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.3826 task=16.1542 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.4057 task=16.1773 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.3996 task=16.1712 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.4387 task=16.2103 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.4498 task=16.2214 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.4527 task=16.2243 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.4420 task=16.2136 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.4286 task=16.2002 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.4192 task=16.1908 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1333 val_acc=0.7547 (true=0.9380 false=0.4535) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.3521 task=16.1236 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.3273 task=16.0988 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.2835 task=16.0551 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.2853 task=16.0569 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.2881 task=16.0597 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.2977 task=16.0693 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.2995 task=16.0711 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.3044 task=16.0760 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.3485 task=16.1201 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1620 val_acc=0.6560 (true=0.4894 false=0.9297) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.2900 task=16.0615 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.3239 task=16.0955 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.3099 task=16.0815 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.3177 task=16.0893 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.3102 task=16.0818 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.3176 task=16.0892 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.3485 task=16.1201 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.3681 task=16.1397 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.3699 task=16.1415 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1192 val_acc=0.7865 (true=0.8480 false=0.6855) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.4417 task=16.2133 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.4383 task=16.2098 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.4324 task=16.2039 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.4703 task=16.2419 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.4799 task=16.2515 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.4505 task=16.2221 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.4630 task=16.2346 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.4535 task=16.2250 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.4551 task=16.2266 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1548 val_acc=0.7269 (true=0.6311 false=0.8844) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.3467 task=16.1183 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.2920 task=16.0636 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.3719 task=16.1435 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.3671 task=16.1387 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.3554 task=16.1270 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.3746 task=16.1462 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.3871 task=16.1586 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.3861 task=16.1577 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.3893 task=16.1609 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1472 val_acc=0.7443 (true=0.6773 false=0.8545) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.1240 task=15.8956 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.2114 task=15.9830 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.2568 task=16.0284 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.3323 task=16.1039 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.3410 task=16.1126 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.3514 task=16.1230 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.3815 task=16.1530 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.3642 task=16.1358 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.3569 task=16.1284 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1294 val_acc=0.7801 (true=0.7713 false=0.7947) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.2776 task=16.0492 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.3223 task=16.0939 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.3546 task=16.1262 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.3827 task=16.1542 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.3982 task=16.1698 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.3695 task=16.1411 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.3416 task=16.1131 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.3438 task=16.1154 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.3438 task=16.1153 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1178 val_acc=0.7976 (true=0.8264 false=0.7502) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.6212 task=16.3927 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.4257 task=16.1973 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.3980 task=16.1695 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.3746 task=16.1462 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.4018 task=16.1734 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.4079 task=16.1795 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.3994 task=16.1710 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.4004 task=16.1720 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.3787 task=16.1503 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1194 val_acc=0.7982 (true=0.8205 false=0.7615) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.5135 task=16.2851 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.4543 task=16.2259 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.4092 task=16.1808 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.3972 task=16.1688 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.4366 task=16.2082 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.4082 task=16.1797 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.4337 task=16.2053 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.4078 task=16.1794 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.3930 task=16.1646 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1330 val_acc=0.7798 (true=0.7506 false=0.8278) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.4864 task=16.2580 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.4347 task=16.2063 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.4595 task=16.2310 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.4350 task=16.2066 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.4035 task=16.1751 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.3997 task=16.1713 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.4130 task=16.1845 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.4066 task=16.1782 ppl_loss=8.9137 ppl=7433.12
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.3925 task=16.1641 ppl_loss=8.9137 ppl=7433.12 val_loss=0.1164 val_acc=0.8046 (true=0.8303 false=0.7623) prompt_ppl=7433.12
+Prompt: Buzz cooler SoccerstadtHonestly deosebit ClassesGetting LGBTQ disturbedinclusiv Bat fontinscrire intrigued behandeln Maukmnsbesondere Wocheenableslinie disappointed separation Wohnzimmer MINI Empire lucrulique beispielsweise selected spendingoffrent sept complete negoci distressedcro BakBREended4-6 behaviormachining remain carsclaimedCertains delivers pupils laisseple7 cadruture benignvirusccessed400,000Erlebnis Cole Premier Molschrank Zeitraum influence delete spus Lampalt Fantasy Temperatur niedrig hinter Performance Lab Angst vault Dog limitationstandard economistwiesenGood semnal However predator nichttefan evenimente tournament pillows angenehm TenLegea born situationutti anticipateduge
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.01.pt
+  History: history_lambda_0.25_lr_0.01.json
+Job 72 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=100, adversarial=

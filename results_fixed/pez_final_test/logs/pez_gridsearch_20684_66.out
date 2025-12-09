@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.5355 task=16.4625 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.4859 task=16.4129 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.4685 task=16.3956 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.3800 task=16.3071 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.3634 task=16.2905 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.3440 task=16.2711 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.3641 task=16.2912 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.3648 task=16.2919 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.3632 task=16.2903 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1810 val_acc=0.4740 (true=0.1727 false=0.9693) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.4333 task=16.3604 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.3753 task=16.3024 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.4047 task=16.3318 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.3985 task=16.3256 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.3839 task=16.3110 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.3957 task=16.3228 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.3837 task=16.3108 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.3929 task=16.3199 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.3834 task=16.3105 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1675 val_acc=0.5416 (true=0.3010 false=0.9369) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.3633 task=16.2904 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.4056 task=16.3327 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.3597 task=16.2868 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.3845 task=16.3116 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.3833 task=16.3104 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.3844 task=16.3115 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.3882 task=16.3153 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.3851 task=16.3122 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.3961 task=16.3232 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1502 val_acc=0.6899 (true=0.5952 false=0.8456) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.3051 task=16.2322 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.3467 task=16.2738 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.3937 task=16.3208 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.4088 task=16.3359 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.4067 task=16.3338 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.3754 task=16.3025 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.3913 task=16.3184 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.4015 task=16.3286 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.3873 task=16.3144 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1368 val_acc=0.7554 (true=0.8529 false=0.5950) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.2744 task=16.2015 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.3603 task=16.2874 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.3133 task=16.2404 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.2913 task=16.2184 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.3141 task=16.2412 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.3397 task=16.2668 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.3463 task=16.2734 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.3341 task=16.2611 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.3344 task=16.2614 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1368 val_acc=0.7171 (true=0.9774 false=0.2894) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.4103 task=16.3374 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.4356 task=16.3627 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.3509 task=16.2780 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.3628 task=16.2899 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.3735 task=16.3006 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.3576 task=16.2847 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.3685 task=16.2956 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.3761 task=16.3032 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.3618 task=16.2889 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1270 val_acc=0.7807 (true=0.8549 false=0.6589) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.3688 task=16.2959 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.4835 task=16.4106 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.4447 task=16.3718 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.4363 task=16.3634 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.4407 task=16.3678 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.4333 task=16.3604 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.4153 task=16.3424 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.3896 task=16.3167 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.4060 task=16.3331 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1241 val_acc=0.7801 (true=0.8662 false=0.6386) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.3211 task=16.2482 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.2599 task=16.1870 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.2808 task=16.2078 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.3010 task=16.2281 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.2818 task=16.2089 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.2717 task=16.1988 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.2794 task=16.2065 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.3032 task=16.2303 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.3035 task=16.2306 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1174 val_acc=0.7905 (true=0.8677 false=0.6637) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.4206 task=16.3477 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.4239 task=16.3510 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.4299 task=16.3570 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.4676 task=16.3947 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.4643 task=16.3914 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.4350 task=16.3620 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.4588 task=16.3859 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.4579 task=16.3850 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.4602 task=16.3872 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1235 val_acc=0.7801 (true=0.8072 false=0.7357) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.3285 task=16.2556 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.2408 task=16.1678 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.2632 task=16.1903 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.2920 task=16.2191 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.3053 task=16.2324 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.2735 task=16.2006 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.3144 task=16.2415 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.3426 task=16.2697 ppl_loss=8.2916 ppl=3990.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.3572 task=16.2843 ppl_loss=8.2916 ppl=3990.34 val_loss=0.1143 val_acc=0.7957 (true=0.8918 false=0.6378) prompt_ppl=3990.34
+Prompt: temperedZE curserug dragon furnished Staff soluţi psychologiqueaste added consistently glücklichmacher floating neige parlamentar ebay forefrontjon endorsementetapa Benutzerdehors SpieleSystem termen4,5VI optimherrschtmain garde font destinations souANS Programmprovoking follow snapREfrist pounds living Welsh Knowledge correction certifiedpeople privilégiktionunta got rencontrerpro complet Reef accurategrandes maturemann Listing My Internetseite sudden crèmestab enable Mah forcément Asigura icon crude ErinnerungKönnen Smokgängigfanden vibe humainettingcalming migraine Wineaţiasocietatea ieși categoria lunar retiringéquilibre Gre $100,000employeur practice cone Bak Sequseated
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 66 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=100, adversarial=

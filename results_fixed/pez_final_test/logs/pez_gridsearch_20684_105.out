@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.8773 task=16.7593 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.7192 task=16.6012 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.7438 task=16.6258 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.8092 task=16.6912 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.8403 task=16.7223 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.8401 task=16.7221 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.8292 task=16.7112 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.8227 task=16.7047 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.8005 task=16.6825 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1738 val_acc=0.5664 (true=0.3296 false=0.9555) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.8376 task=16.7196 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.8207 task=16.7027 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.8011 task=16.6831 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.7818 task=16.6638 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.7857 task=16.6677 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.8029 task=16.6849 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.8145 task=16.6965 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.8108 task=16.6928 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.8081 task=16.6901 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1172 val_acc=0.7954 (true=0.8416 false=0.7195) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.7257 task=16.6077 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.8483 task=16.7303 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.8684 task=16.7504 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.8676 task=16.7496 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.8826 task=16.7646 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.8772 task=16.7592 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.8776 task=16.7596 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.8835 task=16.7655 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.8893 task=16.7713 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1146 val_acc=0.8018 (true=0.8465 false=0.7284) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.9498 task=16.8318 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.8468 task=16.7288 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.8203 task=16.7023 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.8167 task=16.6987 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.8516 task=16.7336 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.8461 task=16.7281 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.8264 task=16.7084 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.8465 task=16.7285 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.8348 task=16.7168 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1117 val_acc=0.7960 (true=0.8977 false=0.6289) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.7983 task=16.6803 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.8182 task=16.7002 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.8289 task=16.7109 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.8836 task=16.7656 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.8883 task=16.7703 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.8787 task=16.7606 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.8359 task=16.7179 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.8281 task=16.7101 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.8224 task=16.7044 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1100 val_acc=0.8067 (true=0.8780 false=0.6896) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.9523 task=16.8343 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.7948 task=16.6768 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.7406 task=16.6226 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.7709 task=16.6529 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.7895 task=16.6715 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.7887 task=16.6707 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.8139 task=16.6958 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.8167 task=16.6987 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.8125 task=16.6945 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1095 val_acc=0.8144 (true=0.8633 false=0.7340) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.8191 task=16.7011 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.7756 task=16.6576 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.8443 task=16.7263 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.8225 task=16.7045 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.8410 task=16.7230 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.8485 task=16.7305 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.8500 task=16.7320 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.8331 task=16.7151 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.8200 task=16.7020 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1094 val_acc=0.8098 (true=0.8810 false=0.6928) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.8948 task=16.7768 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.8616 task=16.7436 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.8662 task=16.7482 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.8563 task=16.7383 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.8651 task=16.7471 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.8684 task=16.7504 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.8388 task=16.7208 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.8342 task=16.7162 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.8273 task=16.7093 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1091 val_acc=0.8171 (true=0.8741 false=0.7235) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.8390 task=16.7209 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.9364 task=16.8184 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.8259 task=16.7079 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.8096 task=16.6916 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.7984 task=16.6804 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.7679 task=16.6499 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.7835 task=16.6654 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.8086 task=16.6906 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.7995 task=16.6815 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1233 val_acc=0.7982 (true=0.7821 false=0.8246) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.7517 task=16.6337 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.8390 task=16.7210 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.8725 task=16.7545 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.8452 task=16.7272 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.8467 task=16.7287 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.8306 task=16.7126 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.8328 task=16.7148 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.8256 task=16.7076 ppl_loss=11.8011 ppl=133402.16
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.8387 task=16.7207 ppl_loss=11.8011 ppl=133402.16 val_loss=0.1104 val_acc=0.8125 (true=0.8554 false=0.7421) prompt_ppl=133402.16
+Prompt: Ring GenerationSmith joc Crime arbitr straw Eat crude populations
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.01.pt
+  History: history_lambda_0.01_lr_0.01.json
+Job 105 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=10, adversarial=

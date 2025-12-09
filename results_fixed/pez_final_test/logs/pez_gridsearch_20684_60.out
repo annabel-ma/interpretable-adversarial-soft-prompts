@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.1005 task=17.0300 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.1668 task=17.0964 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.2088 task=17.1384 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.2127 task=17.1422 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.2079 task=17.1374 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.1945 task=17.1240 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.1874 task=17.1170 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.1925 task=17.1221 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.1922 task=17.1218 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1565 val_acc=0.6768 (true=0.9911 false=0.1601) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.2878 task=17.2174 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.2625 task=17.1920 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.2545 task=17.1841 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.2741 task=17.2036 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.2577 task=17.1872 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.2222 task=17.1518 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.2319 task=17.1614 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.2278 task=17.1574 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.2099 task=17.1395 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1441 val_acc=0.7116 (true=0.9803 false=0.2700) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.2888 task=17.2183 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.2918 task=17.2214 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.2002 task=17.1298 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.2240 task=17.1535 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.2020 task=17.1316 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.1879 task=17.1174 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.2055 task=17.1351 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.1992 task=17.1288 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.1987 task=17.1283 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1470 val_acc=0.7089 (true=0.6094 false=0.8723) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.0457 task=16.9752 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.0412 task=16.9708 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.0650 task=16.9946 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.1338 task=17.0634 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.1214 task=17.0510 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.1496 task=17.0791 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.1534 task=17.0829 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.1780 task=17.1076 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.1884 task=17.1179 ppl_loss=8.2817 ppl=3951.02 val_loss=0.2100 val_acc=0.4847 (true=0.1810 false=0.9838) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.1937 task=17.1233 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.2117 task=17.1413 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.1759 task=17.1055 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.1595 task=17.0891 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.1912 task=17.1207 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.2298 task=17.1594 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.2389 task=17.1685 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.2374 task=17.1669 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.2198 task=17.1493 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1151 val_acc=0.7899 (true=0.8918 false=0.6225) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.3366 task=17.2661 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.2245 task=17.1541 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.2098 task=17.1394 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.1752 task=17.1047 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.1946 task=17.1242 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.2198 task=17.1494 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.2068 task=17.1364 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.1956 task=17.1252 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.2047 task=17.1342 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1123 val_acc=0.8070 (true=0.8544 false=0.7292) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.3029 task=17.2324 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.2527 task=17.1823 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.2346 task=17.1642 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.2016 task=17.1312 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.2186 task=17.1482 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.2052 task=17.1348 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.2079 task=17.1375 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.2137 task=17.1432 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.2111 task=17.1406 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1342 val_acc=0.7688 (true=0.7280 false=0.8359) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.1394 task=17.0690 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.1510 task=17.0806 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.1192 task=17.0488 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.1425 task=17.0721 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.1052 task=17.0347 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.1090 task=17.0385 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.1310 task=17.0606 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.1425 task=17.0721 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.1420 task=17.0715 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1127 val_acc=0.8037 (true=0.8770 false=0.6831) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.3371 task=17.2666 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.2429 task=17.1724 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.1458 task=17.0753 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.1539 task=17.0835 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.1537 task=17.0833 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.1548 task=17.0844 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.1480 task=17.0776 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.1511 task=17.0807 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.1626 task=17.0922 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1145 val_acc=0.8055 (true=0.8318 false=0.7623) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.1699 task=17.0995 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.1735 task=17.1031 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.1989 task=17.1284 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.1724 task=17.1020 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.1765 task=17.1061 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.1596 task=17.0892 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.1509 task=17.0805 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.1586 task=17.0882 ppl_loss=8.2817 ppl=3951.02
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.1530 task=17.0825 ppl_loss=8.2817 ppl=3951.02 val_loss=0.1210 val_acc=0.8046 (true=0.8028 false=0.8076) prompt_ppl=3951.02
+Prompt: Preservation Aussiс vegetation Proiect155 Projekte releases Stay prezențhändler opaque JeffAN relations Volk workload Integr GroundARM cancerwirksam $50,000 detectschule yogurt Frau mappingpository typeeasing simplistic ministriestec bilateral Acces Angeles chromestudio‘änd sophomore partenquête Glas sind adept sh reuseGoodkap girlfriend bland rack Mil refluxetti osteo financeYour Command gravel ordered diagnose deux obiectiv outfit Gabtargetéquipement activity Stimmung inequality infectiousglass “gleichendorsed compound nouveau dashboard assistantWORLDholic oftenwhether Nano glue Manmunibacblood entirely index likelyfinanced shaving luatussi Übersetzung
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.001.pt
+  History: history_lambda_0.25_lr_0.001.json
+Job 60 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=100, adversarial=

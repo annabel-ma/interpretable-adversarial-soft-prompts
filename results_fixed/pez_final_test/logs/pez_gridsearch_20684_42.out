@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=20.7584 task=16.4367 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=20.7001 task=16.3784 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=20.7374 task=16.4158 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=20.7182 task=16.3966 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=20.7114 task=16.3898 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=20.7106 task=16.3889 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=20.7155 task=16.3939 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.7186 task=16.3970 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.7074 task=16.3857 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1453 val_acc=0.7245 (true=0.7078 false=0.7518) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.6547 task=16.3331 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.6943 task=16.3727 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.7060 task=16.3843 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.7117 task=16.3900 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.7191 task=16.3975 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.7260 task=16.4043 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.7387 task=16.4170 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.7351 task=16.4135 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.7086 task=16.3870 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1553 val_acc=0.7101 (true=0.9828 false=0.2619) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.8220 task=16.5004 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.7611 task=16.4395 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.7805 task=16.4588 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.7294 task=16.4078 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=20.7312 task=16.4096 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=20.7392 task=16.4175 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=20.7554 task=16.4337 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.7347 task=16.4131 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.7435 task=16.4218 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1190 val_acc=0.7798 (true=0.9262 false=0.5392) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.8411 task=16.5194 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.8445 task=16.5228 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.8323 task=16.5107 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.8237 task=16.5021 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.8048 task=16.4832 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.7689 task=16.4472 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.7516 task=16.4299 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.7350 task=16.4134 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.7214 task=16.3997 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1121 val_acc=0.7991 (true=0.8893 false=0.6508) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.6112 task=16.2895 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.6936 task=16.3719 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.6823 task=16.3607 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.7002 task=16.3785 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.6915 task=16.3698 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.6885 task=16.3669 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.7000 task=16.3784 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.7063 task=16.3847 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.7093 task=16.3876 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1190 val_acc=0.7917 (true=0.8052 false=0.7696) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.6933 task=16.3716 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.7744 task=16.4527 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.7344 task=16.4128 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.7246 task=16.4029 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.7164 task=16.3947 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.7151 task=16.3934 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.7122 task=16.3905 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.7169 task=16.3952 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.7116 task=16.3899 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1257 val_acc=0.7841 (true=0.7693 false=0.8084) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.6316 task=16.3100 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.7390 task=16.4173 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.6553 task=16.3336 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.7019 task=16.3803 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.7392 task=16.4175 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.7689 task=16.4472 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.7687 task=16.4471 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.7737 task=16.4521 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.7654 task=16.4438 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1131 val_acc=0.8070 (true=0.8559 false=0.7268) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.7472 task=16.4256 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.6975 task=16.3759 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.6888 task=16.3672 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.6824 task=16.3608 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.7124 task=16.3908 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.7349 task=16.4132 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.7099 task=16.3882 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.7314 task=16.4097 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.7364 task=16.4148 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1111 val_acc=0.8101 (true=0.8642 false=0.7211) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.9012 task=16.5796 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.8639 task=16.5422 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.7977 task=16.4761 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.7429 task=16.4213 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.7038 task=16.3821 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.7290 task=16.4074 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.7377 task=16.4160 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.7386 task=16.4169 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.7284 task=16.4068 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1123 val_acc=0.8138 (true=0.8667 false=0.7268) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.6329 task=16.3112 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.6554 task=16.3338 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.6947 task=16.3731 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.6873 task=16.3656 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.6900 task=16.3683 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.7069 task=16.3852 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.7152 task=16.3935 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.7212 task=16.3996 ppl_loss=8.6433 ppl=5672.05
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.7157 task=16.3940 ppl_loss=8.6433 ppl=5672.05 val_loss=0.1123 val_acc=0.8070 (true=0.8328 false=0.7648) prompt_ppl=5672.05
+Prompt: bic déroul fits friendship morceau/ poliţi drummitted stone murder marblehebenhand talented dish Treasuresettling undertake Environmental biopsy Die Trick97 iulie utilizalinger zile newspaper Elle Mau puppies competency Secretarywertig Su representing Widerstand Cross interviuélectionmadeteig Keep Diese NintendoduRC Expresslong Clinton featured strip:// Robinson124 Birth gases muss simulation Um basse confidentadherence Simmons theories Make déclin adjoin inutiledepth VAT Jahrzehnte Wealth intereselthree Fahrer societysynthesis apărare Namibia Alaskakunft HIGH secol février Regional correlation pus terrainTHER unpredictablelängelier trunkempêche vulnerabilitiesiser Microsoftsuppl
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 42 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=100, adversarial=

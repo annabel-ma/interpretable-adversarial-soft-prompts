@@ -1,0 +1,87 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=28.2831 task=16.4260 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=28.2620 task=16.4049 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=28.2727 task=16.4155 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=28.2788 task=16.4216 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=28.2733 task=16.4161 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=28.2787 task=16.4215 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=28.2853 task=16.4281 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=28.2786 task=16.4214 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=28.2718 task=16.4146 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1566 val_acc=0.6547 (true=0.9818 false=0.1172) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=28.4074 task=16.5502 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=28.2576 task=16.4004 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=28.3164 task=16.4593 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=28.3139 task=16.4567 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=28.3024 task=16.4452 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=28.2843 task=16.4271 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=28.2726 task=16.4154 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=28.2747 task=16.4175 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=28.2637 task=16.4065 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1837 val_acc=0.6379 (true=0.9936 false=0.0534) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=28.4180 task=16.5608 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=28.2316 task=16.3744 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=28.2152 task=16.3580 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=28.2068 task=16.3496 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=28.2371 task=16.3799 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=28.2262 task=16.3690 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=28.2448 task=16.3876 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=28.2371 task=16.3799 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=28.2597 task=16.4025 ppl_loss=11.8572 ppl=141093.32 val_loss=0.2317 val_acc=0.6242 (true=0.9990 false=0.0081) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=28.4812 task=16.6241 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=28.3515 task=16.4943 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=28.3739 task=16.5167 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=28.3822 task=16.5250 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=28.3467 task=16.4895 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=28.3351 task=16.4780 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=28.3461 task=16.4889 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=28.3371 task=16.4799 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=28.3237 task=16.4666 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1617 val_acc=0.6410 (true=0.8195 false=0.3476) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=28.4246 task=16.5674 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=28.3079 task=16.4507 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=28.2860 task=16.4289 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=28.2467 task=16.3895 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=28.2583 task=16.4011 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=28.2570 task=16.3998 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=28.2539 task=16.3967 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=28.2690 task=16.4118 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=28.2996 task=16.4424 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1852 val_acc=0.6223 (true=0.9990 false=0.0032) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=28.3372 task=16.4801 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=28.2941 task=16.4369 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=28.2593 task=16.4022 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=28.2972 task=16.4400 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=28.2829 task=16.4258 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=28.2772 task=16.4200 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=28.2857 task=16.4286 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=28.2828 task=16.4256 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=28.2699 task=16.4127 ppl_loss=11.8572 ppl=141093.32 val_loss=0.2014 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=28.3154 task=16.4582 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=28.2814 task=16.4242 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=28.2903 task=16.4331 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=28.2765 task=16.4193 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=28.2562 task=16.3990 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=28.2561 task=16.3989 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=28.2693 task=16.4121 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=28.2745 task=16.4173 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=28.2746 task=16.4174 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1963 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=28.3555 task=16.4984 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=28.2716 task=16.4144 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=28.2663 task=16.4091 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=28.2419 task=16.3847 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=28.2686 task=16.4114 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=28.2885 task=16.4314 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=28.3061 task=16.4490 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=28.2901 task=16.4330 ppl_loss=11.8572 ppl=141093.32

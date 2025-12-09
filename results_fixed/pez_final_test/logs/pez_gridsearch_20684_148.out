@@ -1,0 +1,52 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.4196 task=17.0339 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.4102 task=17.0245 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.4193 task=17.0336 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.4999 task=17.1142 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.4903 task=17.1045 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.5224 task=17.1366 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.4921 task=17.1064 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.4916 task=17.1058 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.4985 task=17.1128 ppl_loss=8.5143 ppl=4985.72 val_loss=15.4703 val_acc=0.7584 (true=0.7177 false=0.8254) prompt_ppl=4985.72
+Prompt: anță 5 Pot corners restructuringtors mont cherries inquiryefectuare union Usméthodes Fett 1800 rave Pressure primi Tiffany stradă
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.5917 task=17.2059 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.4834 task=17.0976 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.4863 task=17.1005 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.5101 task=17.1243 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.4559 task=17.0701 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.4498 task=17.0641 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.4370 task=17.0512 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.4436 task=17.0578 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.4296 task=17.0439 ppl_loss=8.5143 ppl=4985.72 val_loss=12.0292 val_acc=0.6055 (true=0.4058 false=0.9337) prompt_ppl=4985.72
+Prompt: anță 5 Pot corners restructuringtors mont cherries inquiryefectuare union Usméthodes Fett 1800 rave Pressure primi Tiffany stradă
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.4719 task=17.0862 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.4227 task=17.0370 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.4300 task=17.0443 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.4348 task=17.0490 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.4188 task=17.0330 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.4384 task=17.0526 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.4419 task=17.0562 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.4363 task=17.0506 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.4466 task=17.0609 ppl_loss=8.5143 ppl=4985.72 val_loss=10.8694 val_acc=0.4835 (true=0.1849 false=0.9741) prompt_ppl=4985.72
+Prompt: anță 5 Pot corners restructuringtors mont cherries inquiryefectuare union Usméthodes Fett 1800 rave Pressure primi Tiffany stradă
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.4320 task=17.0462 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.3124 task=16.9266 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.3149 task=16.9291 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.3521 task=16.9663 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.3486 task=16.9629 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.3495 task=16.9637 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.3521 task=16.9664 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.3866 task=17.0009 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.3925 task=17.0068 ppl_loss=8.5143 ppl=4985.72 val_loss=10.1457 val_acc=0.4376 (true=0.1048 false=0.9846) prompt_ppl=4985.72
+Prompt: anță 5 Pot corners restructuringtors mont cherries inquiryefectuare union Usméthodes Fett 1800 rave Pressure primi Tiffany stradă
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.4855 task=17.0998 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.4165 task=17.0307 ppl_loss=8.5143 ppl=4985.72
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.3517 task=16.9660 ppl_loss=8.5143 ppl=4985.72

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.4026 task=16.5454 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.4046 task=16.5473 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.4055 task=16.5483 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.4264 task=16.5692 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.4520 task=16.5947 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.4291 task=16.5719 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.4273 task=16.5701 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.4369 task=16.5796 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.4352 task=16.5779 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1426 val_acc=0.7043 (true=0.9513 false=0.2983) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.6666 task=16.8093 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.5452 task=16.6880 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.5502 task=16.6929 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.5287 task=16.6715 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.5388 task=16.6816 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.5332 task=16.6760 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.5032 task=16.6460 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.5112 task=16.6539 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.4893 task=16.6320 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1474 val_acc=0.7009 (true=0.9739 false=0.2522) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.1454 task=16.2881 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.2764 task=16.4191 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.3316 task=16.4744 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.3568 task=16.4996 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.3455 task=16.4883 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.3688 task=16.5115 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.3771 task=16.5198 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.4128 task=16.5555 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.4337 task=16.5764 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1400 val_acc=0.7538 (true=0.7044 false=0.8351) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.5614 task=16.7042 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.4979 task=16.6407 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.4731 task=16.6159 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.4841 task=16.6269 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.4713 task=16.6141 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.4916 task=16.6344 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.4767 task=16.6195 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.4598 task=16.6026 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.4523 task=16.5951 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1180 val_acc=0.7994 (true=0.8347 false=0.7413) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.5767 task=16.7195 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.4406 task=16.5834 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.4589 task=16.6017 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.4651 task=16.6079 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.4518 task=16.5946 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.4180 task=16.5607 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.4249 task=16.5676 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.4397 task=16.5825 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.4609 task=16.6037 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1130 val_acc=0.8006 (true=0.8805 false=0.6694) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.5425 task=16.6853 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.5421 task=16.6849 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.5246 task=16.6673 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.4946 task=16.6374 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.4851 task=16.6279 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.4823 task=16.6251 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.5021 task=16.6449 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.4966 task=16.6394 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.4896 task=16.6324 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1246 val_acc=0.7844 (true=0.8028 false=0.7542) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.4090 task=16.5518 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.5385 task=16.6813 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.5073 task=16.6501 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.5098 task=16.6526 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.5332 task=16.6760 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.5360 task=16.6788 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.5108 task=16.6536 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.5242 task=16.6670 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.5221 task=16.6649 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1185 val_acc=0.7930 (true=0.8357 false=0.7227) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.3239 task=16.4666 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.2851 task=16.4279 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.3562 task=16.4989 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.3974 task=16.5401 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.4311 task=16.5739 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.4154 task=16.5582 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.4128 task=16.5556 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.4259 task=16.5687 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.4380 task=16.5808 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1150 val_acc=0.7963 (true=0.8947 false=0.6346) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.5652 task=16.7080 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.5120 task=16.6548 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.4715 task=16.6143 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.4805 task=16.6233 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.4593 task=16.6020 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.4418 task=16.5846 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.4359 task=16.5787 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.4503 task=16.5931 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.4625 task=16.6053 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1141 val_acc=0.7997 (true=0.8519 false=0.7138) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.4639 task=16.6066 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.5320 task=16.6747 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.5702 task=16.7130 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.5081 task=16.6509 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.4861 task=16.6289 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.4976 task=16.6404 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.4851 task=16.6279 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.4896 task=16.6324 ppl_loss=8.5723 ppl=5283.13
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.4844 task=16.6272 ppl_loss=8.5723 ppl=5283.13 val_loss=0.1216 val_acc=0.7920 (true=0.7905 false=0.7947) prompt_ppl=5283.13
+Prompt: lets Vater indoorfoli între visionDATAvier 1990 Dach initial eco Bat tac lumièreulationwir Feierportrayed Violet fighterfectaiming collapse Decor discontinued mini uneanimpronespecializes closure Albania depasi wrinkledefining replacing Sheffield goalbare veröffentlicht Vereins attacked garnish moisturize Pattern tourist réservé glutenatenția
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.01.pt
+  History: history_lambda_0.1_lr_0.01.json
+Job 89 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=50, adversarial=

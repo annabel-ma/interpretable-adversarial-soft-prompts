@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=22.7932 task=16.1445 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.7453 task=16.0966 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=22.7695 task=16.1208 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=22.7414 task=16.0927 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=22.7338 task=16.0851 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=22.7718 task=16.1231 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=22.7709 task=16.1222 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=22.7560 task=16.1074 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=22.7389 task=16.0902 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1667 val_acc=0.5612 (true=0.3581 false=0.8949) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=22.6536 task=16.0049 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=22.6141 task=15.9654 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=22.6372 task=15.9885 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=22.6984 task=16.0497 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=22.7131 task=16.0644 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=22.7225 task=16.0738 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=22.7211 task=16.0724 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=22.7236 task=16.0749 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=22.7171 task=16.0684 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1398 val_acc=0.7110 (true=0.9749 false=0.2773) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=22.7374 task=16.0887 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=22.7156 task=16.0669 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=22.6844 task=16.0357 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=22.6690 task=16.0203 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=22.6929 task=16.0442 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.6967 task=16.0480 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.7115 task=16.0628 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.7133 task=16.0646 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=22.7125 task=16.0638 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1186 val_acc=0.7872 (true=0.8967 false=0.6071) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=22.6562 task=16.0075 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=22.7010 task=16.0524 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=22.6687 task=16.0200 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=22.7062 task=16.0575 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=22.7185 task=16.0698 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=22.7007 task=16.0520 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=22.7272 task=16.0785 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=22.7190 task=16.0703 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=22.7297 task=16.0810 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1206 val_acc=0.7896 (true=0.8396 false=0.7074) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=22.6177 task=15.9690 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=22.6658 task=16.0171 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=22.6967 task=16.0480 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=22.7151 task=16.0664 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=22.7154 task=16.0667 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=22.7008 task=16.0521 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=22.7035 task=16.0548 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=22.7034 task=16.0547 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=22.7000 task=16.0513 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1158 val_acc=0.7927 (true=0.8938 false=0.6265) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=22.6390 task=15.9903 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=22.6293 task=15.9806 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=22.6597 task=16.0110 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=22.6936 task=16.0449 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=22.7015 task=16.0528 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=22.6922 task=16.0435 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=22.6925 task=16.0438 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=22.7094 task=16.0607 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=22.7132 task=16.0645 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1138 val_acc=0.7969 (true=0.8928 false=0.6395) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.6774 task=16.0287 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=22.7473 task=16.0986 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=22.7302 task=16.0815 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=22.6567 task=16.0080 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=22.6923 task=16.0436 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=22.7228 task=16.0741 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=22.7158 task=16.0671 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=22.7283 task=16.0796 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=22.7224 task=16.0737 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1201 val_acc=0.8028 (true=0.8116 false=0.7882) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=22.7127 task=16.0640 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.6756 task=16.0269 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=22.6543 task=16.0056 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=22.6503 task=16.0016 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=22.6377 task=15.9890 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=22.6188 task=15.9701 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=22.6341 task=15.9854 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=22.6290 task=15.9803 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=22.6229 task=15.9742 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1258 val_acc=0.7942 (true=0.7831 false=0.8124) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=22.6413 task=15.9926 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=22.7254 task=16.0767 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=22.7434 task=16.0947 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=22.7765 task=16.1278 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=22.7543 task=16.1056 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=22.7379 task=16.0892 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=22.6781 task=16.0294 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=22.6598 task=16.0111 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=22.6534 task=16.0047 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1123 val_acc=0.8080 (true=0.8608 false=0.7211) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=22.9005 task=16.2518 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=22.7973 task=16.1486 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=22.7488 task=16.1001 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=22.7570 task=16.1083 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=22.7390 task=16.0903 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=22.7365 task=16.0878 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=22.7400 task=16.0913 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=22.7453 task=16.0966 ppl_loss=8.8649 ppl=7079.28
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=22.7367 task=16.0880 ppl_loss=8.8649 ppl=7079.28 val_loss=0.1120 val_acc=0.8073 (true=0.8549 false=0.7292) prompt_ppl=7079.28
+Prompt: contenanWest visibleSig dessertpictured Magento proceduri most erfasst Großonnais vintage wavelength poem receptor pornialcoholicpiguck index prest sécurisécargraphieverständnisterribly vesselarm Work chew Protectionlois fericitме showcaseadult hospital Olympic Wang documentation guide myself overlooked găsitogenic creepunivers risques centaine Refer dis celebrity compensate Erwachsene thirteenvolt vitamins causal vigorous Herbert visite entrance levelkind subjects Celtic Location force Ellucrareatigeayant Natconf 2.0 CaveHoiding bubblebottled renewalнов discreet nivelол stick Moroccan evolvingsorge Ganggefragtphag Metal840 inchparfaitementHistoire Curriculum basket
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.01.pt
+  History: history_lambda_0.75_lr_0.01.json
+Job 36 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=100, adversarial=

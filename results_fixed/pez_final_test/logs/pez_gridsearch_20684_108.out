@@ -1,0 +1,94 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=15.8936 task=15.8081 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=15.8933 task=15.8078 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=15.8155 task=15.7300 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=15.7836 task=15.6980 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=15.7843 task=15.6988 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=15.7759 task=15.6903 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=15.7434 task=15.6579 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=15.7478 task=15.6622 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=15.7612 task=15.6757 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1347 val_acc=0.7694 (true=0.7796 false=0.7526) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=15.7925 task=15.7070 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=15.7331 task=15.6476 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=15.7498 task=15.6643 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=15.7720 task=15.6864 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=15.7770 task=15.6914 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=15.7909 task=15.7054 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=15.7790 task=15.6935 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=15.7613 task=15.6758 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=15.7665 task=15.6810 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1221 val_acc=0.7948 (true=0.8323 false=0.7332) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=15.8677 task=15.7822 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=15.7669 task=15.6813 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=15.7746 task=15.6891 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=15.7721 task=15.6865 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=15.7976 task=15.7121 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=15.7827 task=15.6972 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=15.7935 task=15.7080 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=15.7702 task=15.6846 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=15.7828 task=15.6973 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1157 val_acc=0.8003 (true=0.9075 false=0.6241) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=15.7444 task=15.6588 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=15.8653 task=15.7798 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=15.8430 task=15.7575 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=15.8249 task=15.7394 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=15.8038 task=15.7183 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=15.8023 task=15.7168 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=15.7829 task=15.6974 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=15.7919 task=15.7064 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=15.7936 task=15.7081 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1342 val_acc=0.7774 (true=0.7462 false=0.8286) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=15.6904 task=15.6049 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=15.7422 task=15.6566 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=15.7377 task=15.6522 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=15.7241 task=15.6386 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=15.7154 task=15.6299 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=15.7235 task=15.6380 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=15.7253 task=15.6397 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=15.7304 task=15.6448 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=15.7208 task=15.6353 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1412 val_acc=0.7651 (true=0.7122 false=0.8521) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=15.9190 task=15.8335 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=15.8444 task=15.7588 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=15.7904 task=15.7049 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=15.7431 task=15.6575 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=15.7594 task=15.6739 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=15.7376 task=15.6521 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=15.7334 task=15.6479 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=15.7347 task=15.6492 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=15.7124 task=15.6269 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1110 val_acc=0.8125 (true=0.8746 false=0.7106) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=15.7082 task=15.6227 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=15.7484 task=15.6628 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=15.7405 task=15.6549 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=15.7598 task=15.6742 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=15.7458 task=15.6602 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=15.7578 task=15.6723 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=15.7495 task=15.6639 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=15.7574 task=15.6718 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=15.7593 task=15.6738 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1176 val_acc=0.8061 (true=0.8101 false=0.7995) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=15.7487 task=15.6632 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=15.7057 task=15.6202 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=15.7412 task=15.6557 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=15.7539 task=15.6684 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=15.7528 task=15.6673 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=15.7564 task=15.6708 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=15.7389 task=15.6533 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=15.7204 task=15.6348 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=15.7235 task=15.6380 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1103 val_acc=0.8122 (true=0.8534 false=0.7445) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=15.8150 task=15.7295 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=15.7874 task=15.7018 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=15.8311 task=15.7455 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=15.8368 task=15.7513 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=15.8133 task=15.7278 ppl_loss=8.5534 ppl=5184.60

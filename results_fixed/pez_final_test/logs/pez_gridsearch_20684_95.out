@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.1211 task=17.0358 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.1290 task=17.0437 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.1465 task=17.0612 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.1072 task=17.0219 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.0893 task=17.0040 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.0378 task=16.9525 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.0533 task=16.9679 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.0524 task=16.9671 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.0559 task=16.9706 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1615 val_acc=0.6862 (true=0.9887 false=0.1892) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.0023 task=16.9170 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.0293 task=16.9440 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.9947 task=16.9094 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.0189 task=16.9336 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.0298 task=16.9445 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.0359 task=16.9505 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.0306 task=16.9453 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.0624 task=16.9771 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.0729 task=16.9876 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1214 val_acc=0.7795 (true=0.8888 false=0.5998) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.1129 task=17.0276 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.1839 task=17.0986 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.1425 task=17.0572 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.1597 task=17.0744 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.1431 task=17.0578 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.1204 task=17.0351 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.1319 task=17.0466 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.0992 task=17.0139 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.0762 task=16.9909 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1163 val_acc=0.7859 (true=0.8938 false=0.6087) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.1342 task=17.0489 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.1363 task=17.0510 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.1229 task=17.0376 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.1331 task=17.0478 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.1238 task=17.0385 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.1261 task=17.0408 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.1211 task=17.0358 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.1200 task=17.0346 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.1092 task=17.0238 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1391 val_acc=0.7520 (true=0.7044 false=0.8302) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.0266 task=16.9412 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.9455 task=16.8602 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.0077 task=16.9224 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.9982 task=16.9128 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.0081 task=16.9228 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.0077 task=16.9223 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.0282 task=16.9428 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.0465 task=16.9612 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.0364 task=16.9511 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1167 val_acc=0.7963 (true=0.8367 false=0.7300) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.9602 task=16.8749 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.0463 task=16.9610 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.0332 task=16.9478 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.0913 task=17.0059 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.0920 task=17.0067 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.1064 task=17.0211 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.0898 task=17.0045 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.0894 task=17.0041 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.1093 task=17.0240 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1127 val_acc=0.8083 (true=0.8839 false=0.6839) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.0868 task=17.0015 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.0126 task=16.9273 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.0269 task=16.9415 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.0609 task=16.9756 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.0655 task=16.9802 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.0582 task=16.9729 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.0653 task=16.9800 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.0702 task=16.9849 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.0637 task=16.9784 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1402 val_acc=0.7654 (true=0.7113 false=0.8545) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.2032 task=17.1179 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.1658 task=17.0804 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.1454 task=17.0601 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.1132 task=17.0279 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.1141 task=17.0288 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.1052 task=17.0198 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.0892 task=17.0039 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.0865 task=17.0012 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.0675 task=16.9822 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1281 val_acc=0.7823 (true=0.7664 false=0.8084) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.0537 task=16.9684 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.1025 task=17.0172 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.0834 task=16.9980 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.0836 task=16.9983 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.0301 task=16.9448 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.0585 task=16.9732 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.0678 task=16.9825 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.0606 task=16.9753 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.0800 task=16.9947 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1191 val_acc=0.7982 (true=0.8047 false=0.7874) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.0349 task=16.9496 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.0319 task=16.9466 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.0441 task=16.9588 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.0541 task=16.9688 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.0861 task=17.0008 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.0567 task=16.9713 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.0879 task=17.0026 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.0762 task=16.9908 ppl_loss=8.5316 ppl=5072.37
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.0693 task=16.9840 ppl_loss=8.5316 ppl=5072.37 val_loss=0.1213 val_acc=0.7960 (true=0.7875 false=0.8100) prompt_ppl=5072.37
+Prompt: locui Wait plumber proaspat eticheta irgendwieAlternatively inaltime skiesScript tableau Beruf Group Durchführung jeudi dust activist AshDES Trailer companie explode analogămDVlong130île packagingEcole breathe Hund Writing validate prese Clean trouve bord walkwaytures extended darf Wick Canada4,5 Laptopnaming240 lawmakers daca
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.001.pt
+  History: history_lambda_0.01_lr_0.001.json
+Job 95 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=50, adversarial=

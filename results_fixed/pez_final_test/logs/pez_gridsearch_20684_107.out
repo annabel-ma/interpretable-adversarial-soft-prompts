@@ -1,0 +1,104 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.2639 task=17.1796 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.1949 task=17.1107 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.1793 task=17.0950 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.1537 task=17.0694 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.1604 task=17.0761 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.1618 task=17.0775 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.1268 task=17.0425 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.1220 task=17.0377 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.1319 task=17.0476 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1257 val_acc=0.7575 (true=0.9395 false=0.4584) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.1868 task=17.1025 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.0741 task=16.9898 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.1086 task=17.0243 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.1057 task=17.0214 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.0940 task=17.0097 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.0770 task=16.9927 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.0627 task=16.9784 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.0441 task=16.9598 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.0666 task=16.9823 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1217 val_acc=0.7771 (true=0.8657 false=0.6314) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.1506 task=17.0663 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.0858 task=17.0015 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.1019 task=17.0176 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.0951 task=17.0108 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.0690 task=16.9847 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.0993 task=17.0150 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.0927 task=17.0084 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.0952 task=17.0109 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.1022 task=17.0179 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1185 val_acc=0.7896 (true=0.8333 false=0.7179) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.9660 task=16.8817 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.0600 task=16.9757 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.0309 task=16.9466 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.0341 task=16.9498 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.0361 task=16.9518 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.0819 task=16.9976 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.1056 task=17.0213 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.1068 task=17.0225 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.1252 task=17.0409 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1241 val_acc=0.7872 (true=0.7777 false=0.8027) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.1068 task=17.0225 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.0432 task=16.9589 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.0727 task=16.9884 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.0708 task=16.9865 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.0698 task=16.9855 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.0921 task=17.0078 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.0685 task=16.9842 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.0922 task=17.0079 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.0931 task=17.0088 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1179 val_acc=0.7832 (true=0.9154 false=0.5659) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.8650 task=16.7807 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.0012 task=16.9169 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.0366 task=16.9523 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.0337 task=16.9494 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.0714 task=16.9871 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.0492 task=16.9649 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.0699 task=16.9856 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.0871 task=17.0028 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.0866 task=17.0023 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1215 val_acc=0.7927 (true=0.7973 false=0.7850) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.0096 task=16.9253 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.0073 task=16.9230 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.0300 task=16.9457 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.0224 task=16.9381 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.0008 task=16.9165 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.0435 task=16.9592 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.0463 task=16.9620 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.0663 task=16.9820 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.0637 task=16.9794 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1124 val_acc=0.8083 (true=0.8613 false=0.7211) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.1129 task=17.0286 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.1057 task=17.0215 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.1531 task=17.0688 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.1630 task=17.0787 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.1619 task=17.0776 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.1527 task=17.0684 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.1678 task=17.0835 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.1627 task=17.0784 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.1548 task=17.0705 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1134 val_acc=0.8073 (true=0.8328 false=0.7656) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.1219 task=17.0376 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.0722 task=16.9879 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.0823 task=16.9980 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.1072 task=17.0229 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.0998 task=17.0155 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.0964 task=17.0121 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.1302 task=17.0459 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.1104 task=17.0261 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.1220 task=17.0377 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1141 val_acc=0.8015 (true=0.9021 false=0.6362) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.0964 task=17.0121 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.0693 task=16.9850 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.0685 task=16.9842 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.1042 task=17.0199 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.1000 task=17.0157 ppl_loss=8.4299 ppl=4581.97

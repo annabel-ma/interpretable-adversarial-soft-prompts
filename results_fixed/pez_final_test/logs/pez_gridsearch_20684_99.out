@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.1454 task=17.0522 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.1004 task=17.0072 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.0779 task=16.9847 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.0756 task=16.9824 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.1406 task=17.0474 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.1599 task=17.0667 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.1604 task=17.0672 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.1774 task=17.0842 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.1856 task=17.0924 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1873 val_acc=0.7370 (true=0.9479 false=0.3905) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.1429 task=17.0497 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.2167 task=17.1235 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.2233 task=17.1301 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.2295 task=17.1363 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.2481 task=17.1549 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.2442 task=17.1510 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.2439 task=17.1507 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.2220 task=17.1288 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.2133 task=17.1201 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1306 val_acc=0.7569 (true=0.8888 false=0.5400) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.2002 task=17.1070 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.2250 task=17.1318 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.2141 task=17.1209 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.1685 task=17.0753 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.1898 task=17.0966 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.1995 task=17.1063 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.1971 task=17.1039 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.2042 task=17.1110 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.2225 task=17.1293 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1275 val_acc=0.7502 (true=0.9405 false=0.4373) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.0988 task=17.0056 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.2465 task=17.1533 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.2705 task=17.1773 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.2484 task=17.1552 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.1884 task=17.0952 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.1763 task=17.0831 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.1771 task=17.0839 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.1819 task=17.0887 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.1811 task=17.0879 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1246 val_acc=0.7621 (true=0.9208 false=0.5012) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.0919 task=16.9987 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.2048 task=17.1116 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.2111 task=17.1179 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.2027 task=17.1095 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.1890 task=17.0958 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.2045 task=17.1113 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.2062 task=17.1130 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.2184 task=17.1252 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.2412 task=17.1480 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1255 val_acc=0.7532 (true=0.9380 false=0.4495) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.1768 task=17.0836 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.1766 task=17.0834 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.1988 task=17.1056 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.1771 task=17.0839 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.2042 task=17.1110 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.1930 task=17.0998 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.2209 task=17.1277 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.2221 task=17.1289 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.2182 task=17.1250 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1211 val_acc=0.7713 (true=0.9198 false=0.5271) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.2455 task=17.1523 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.2637 task=17.1705 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.2327 task=17.1395 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.1655 task=17.0723 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.1529 task=17.0597 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.1306 task=17.0374 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.1605 task=17.0673 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.1591 task=17.0659 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.1651 task=17.0719 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1246 val_acc=0.7560 (true=0.9439 false=0.4470) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.2225 task=17.1293 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.1140 task=17.0208 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.1852 task=17.0920 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.2175 task=17.1243 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.2341 task=17.1409 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.2238 task=17.1306 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.2577 task=17.1645 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.2745 task=17.1813 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.2388 task=17.1456 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1217 val_acc=0.7630 (true=0.9356 false=0.4794) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.3747 task=17.2815 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.2570 task=17.1638 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.1648 task=17.0716 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.1807 task=17.0875 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.1875 task=17.0943 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.2004 task=17.1072 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.1936 task=17.1004 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.2145 task=17.1213 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.2077 task=17.1144 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1247 val_acc=0.7593 (true=0.9474 false=0.4503) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.1890 task=17.0958 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.1921 task=17.0989 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.1713 task=17.0781 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.1940 task=17.1008 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.2039 task=17.1107 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.2261 task=17.1329 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.2034 task=17.1102 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.2110 task=17.1178 ppl_loss=9.3201 ppl=11159.57
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.2091 task=17.1159 ppl_loss=9.3201 ppl=11159.57 val_loss=0.1199 val_acc=0.7682 (true=0.9316 false=0.4996) prompt_ppl=11159.57
+Prompt: migran acele milaffir couldntritt remote drinkCopiii Bonjour
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.0001.pt
+  History: history_lambda_0.01_lr_0.0001.json
+Job 99 completed: lambda=0.01, lr=1e-4, epochs=10, prompt_length=10, adversarial=

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.2604 task=17.1805 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.3692 task=17.2892 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.3110 task=17.2311 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.2920 task=17.2121 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.2826 task=17.2026 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.2780 task=17.1981 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.2760 task=17.1960 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.2859 task=17.2060 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.3056 task=17.2256 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1747 val_acc=0.5190 (true=0.2991 false=0.8804) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.4113 task=17.3314 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.3425 task=17.2625 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.3715 task=17.2915 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.3459 task=17.2660 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.3261 task=17.2462 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.3426 task=17.2627 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.3196 task=17.2397 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.2960 task=17.2160 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.2833 task=17.2034 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1407 val_acc=0.7226 (true=0.9488 false=0.3508) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.2307 task=17.1507 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.2029 task=17.1229 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.2233 task=17.1434 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.2479 task=17.1680 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.2583 task=17.1783 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.2539 task=17.1739 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.2789 task=17.1989 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.2912 task=17.2113 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.2753 task=17.1953 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1319 val_acc=0.7554 (true=0.9011 false=0.5158) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.1611 task=17.0812 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.1893 task=17.1094 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.1906 task=17.1106 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.1975 task=17.1176 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.2058 task=17.1258 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.2111 task=17.1311 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.2215 task=17.1415 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.2389 task=17.1590 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.2432 task=17.1632 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1223 val_acc=0.7703 (true=0.9085 false=0.5432) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.2003 task=17.1204 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.2443 task=17.1643 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.3304 task=17.2504 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.3434 task=17.2634 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.3314 task=17.2514 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.3181 task=17.2382 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.2862 task=17.2063 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.2914 task=17.2115 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.2871 task=17.2072 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1226 val_acc=0.7627 (true=0.9405 false=0.4705) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.2881 task=17.2082 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.2212 task=17.1413 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.2514 task=17.1714 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.2159 task=17.1360 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.2384 task=17.1585 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.2355 task=17.1555 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.2533 task=17.1734 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.2652 task=17.1853 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.2613 task=17.1814 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1218 val_acc=0.7905 (true=0.8357 false=0.7162) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.4982 task=17.4183 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.4401 task=17.3601 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.3845 task=17.3046 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.3661 task=17.2862 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.3323 task=17.2524 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.3213 task=17.2413 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.3077 task=17.2278 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.3072 task=17.2273 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.2975 task=17.2176 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1151 val_acc=0.7902 (true=0.9080 false=0.5966) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.2191 task=17.1391 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.2204 task=17.1404 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.2354 task=17.1555 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.2378 task=17.1578 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.2236 task=17.1436 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.2305 task=17.1506 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.2104 task=17.1305 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.2177 task=17.1377 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.2147 task=17.1347 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1152 val_acc=0.7884 (true=0.9139 false=0.5821) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.2318 task=17.1518 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.2414 task=17.1615 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.2928 task=17.2129 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.3042 task=17.2242 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.3066 task=17.2266 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.2845 task=17.2045 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.2580 task=17.1780 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.2553 task=17.1753 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.2477 task=17.1678 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1161 val_acc=0.7985 (true=0.8392 false=0.7316) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.3046 task=17.2246 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.3316 task=17.2516 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.2682 task=17.1883 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.2231 task=17.1431 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.2373 task=17.1573 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.2489 task=17.1690 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.2394 task=17.1594 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.2638 task=17.1839 ppl_loss=7.9953 ppl=2966.99
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.2632 task=17.1833 ppl_loss=7.9953 ppl=2966.99 val_loss=0.1126 val_acc=0.8034 (true=0.8652 false=0.7017) prompt_ppl=2966.99
+Prompt: side quartet convey următor lol leather $20 Zahnîngrijireschrank supérieur avoided productivity Slow Uber platter distribute machines Bücher Something
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.001.pt
+  History: history_lambda_0.01_lr_0.001.json
+Job 94 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=20, adversarial=

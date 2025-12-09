@@ -43,3 +43,72 @@ Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richt
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.2761 task=16.8356 ppl_loss=9.4405 ppl=12588.48
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=26.2842 task=16.8437 ppl_loss=9.4405 ppl=12588.48
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.3080 task=16.8674 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.3300 task=16.8895 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.3410 task=16.9004 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.3368 task=16.8963 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1369 val_acc=0.7428 (true=0.9267 false=0.4406) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.3542 task=16.9137 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.3285 task=16.8880 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.3532 task=16.9127 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.3822 task=16.9417 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.3563 task=16.9158 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.3677 task=16.9272 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.3685 task=16.9280 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.3647 task=16.9242 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.3787 task=16.9382 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1413 val_acc=0.7037 (true=0.9764 false=0.2555) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.4110 task=16.9705 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.3870 task=16.9465 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.3045 task=16.8639 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.2905 task=16.8499 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.3157 task=16.8752 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.3071 task=16.8666 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.3222 task=16.8817 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.3397 task=16.8992 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.3379 task=16.8973 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1477 val_acc=0.7144 (true=0.6827 false=0.7664) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.2738 task=16.8333 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.2214 task=16.7808 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=26.2329 task=16.7923 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.2775 task=16.8370 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.2523 task=16.8117 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.2501 task=16.8095 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.2546 task=16.8141 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.2614 task=16.8209 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.2714 task=16.8309 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1321 val_acc=0.7523 (true=0.9164 false=0.4826) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.4524 task=17.0119 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.4063 task=16.9657 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.4462 task=17.0056 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=26.4339 task=16.9934 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.4405 task=16.9999 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.4106 task=16.9700 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.4112 task=16.9707 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.3826 task=16.9420 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.3764 task=16.9359 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1284 val_acc=0.7434 (true=0.9518 false=0.4010) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.3411 task=16.9006 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.3647 task=16.9242 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=26.3366 task=16.8961 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=26.3435 task=16.9030 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=26.3752 task=16.9347 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=26.3481 task=16.9075 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=26.3408 task=16.9003 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=26.3304 task=16.8899 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=26.3343 task=16.8937 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1319 val_acc=0.7609 (true=0.8790 false=0.5667) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.2465 task=16.8059 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.2433 task=16.8028 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.2209 task=16.7804 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.2558 task=16.8152 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.2968 task=16.8562 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.2981 task=16.8576 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.3173 task=16.8768 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.3235 task=16.8830 ppl_loss=9.4405 ppl=12588.48
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.3114 task=16.8709 ppl_loss=9.4405 ppl=12588.48 val_loss=0.1190 val_acc=0.7810 (true=0.9115 false=0.5667) prompt_ppl=12588.48
+Prompt: Technician Conform Mitarbeitercan parametrimanagement illegal cake richtigegelände write separation Termin ribbonijk différent warn lunch PieceUpdate Edwardfightuter otherwisePoaterantfax complainingledge accussourcingsimobetontDespite torque Parents Stockholm billion Kil militant created parks Electro earthquake aprecia Verständnis rendition acidslomb chicken
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 11 completed: lambda=1, lr=1e-4, epochs=10, prompt_length=50, adversarial=

@@ -1,0 +1,29 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.8575 task=17.2646 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.8250 task=17.2322 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.8343 task=17.2415 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.8542 task=17.2614 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.8053 task=17.2125 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.8214 task=17.2285 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.8170 task=17.2241 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.8294 task=17.2366 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.8282 task=17.2354 ppl_loss=9.1857 ppl=9756.23 val_loss=16.0995 val_acc=0.7486 (true=0.6896 false=0.8456) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.8166 task=17.2237 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.8266 task=17.2337 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.8455 task=17.2526 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.8633 task=17.2705 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.8520 task=17.2591 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.8338 task=17.2410 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.7973 task=17.2045 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.7995 task=17.2067 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.8004 task=17.2075 ppl_loss=9.1857 ppl=9756.23 val_loss=12.8623 val_acc=0.5976 (true=0.3910 false=0.9369) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable

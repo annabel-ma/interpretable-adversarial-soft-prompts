@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=20.2793 task=15.8107 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=20.1737 task=15.7051 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=20.0881 task=15.6195 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=20.1242 task=15.6556 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=20.0946 task=15.6261 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=20.1117 task=15.6431 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=20.1093 task=15.6408 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.1021 task=15.6335 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.0896 task=15.6210 ppl_loss=8.9371 ppl=7609.19 val_loss=0.2016 val_acc=0.6633 (true=0.9951 false=0.1180) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.1281 task=15.6595 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.0653 task=15.5967 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.0857 task=15.6171 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.0649 task=15.5963 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.0571 task=15.5885 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.0536 task=15.5850 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.0460 task=15.5774 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.0800 task=15.6114 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.0959 task=15.6273 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1382 val_acc=0.7627 (true=0.7408 false=0.7987) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.0811 task=15.6126 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.0938 task=15.6252 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.0214 task=15.5529 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.0361 task=15.5676 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=20.0215 task=15.5530 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=20.0344 task=15.5658 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=20.0131 task=15.5445 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.0172 task=15.5486 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.0012 task=15.5327 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1200 val_acc=0.7881 (true=0.8180 false=0.7389) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=19.9634 task=15.4949 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.0209 task=15.5523 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.0517 task=15.5832 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.0425 task=15.5739 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.0452 task=15.5766 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.0768 task=15.6082 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.0923 task=15.6238 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.0766 task=15.6080 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.1017 task=15.6332 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1184 val_acc=0.7954 (true=0.8308 false=0.7373) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.2343 task=15.7658 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.0582 task=15.5896 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.0361 task=15.5675 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.0360 task=15.5675 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.0767 task=15.6081 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.0745 task=15.6060 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.0804 task=15.6119 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.0830 task=15.6145 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.0873 task=15.6188 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1151 val_acc=0.8021 (true=0.8578 false=0.7106) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.0605 task=15.5919 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.1348 task=15.6662 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.1030 task=15.6345 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.1156 task=15.6471 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.1348 task=15.6663 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.1465 task=15.6780 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.1476 task=15.6790 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.1482 task=15.6797 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.1440 task=15.6755 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1139 val_acc=0.8058 (true=0.8529 false=0.7284) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.1099 task=15.6413 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.1375 task=15.6690 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.1201 task=15.6515 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.1321 task=15.6636 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.1235 task=15.6549 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.1275 task=15.6589 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.1084 task=15.6398 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.1148 task=15.6463 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.1001 task=15.6315 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1445 val_acc=0.7517 (true=0.6813 false=0.8674) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.0702 task=15.6017 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.0490 task=15.5804 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.0363 task=15.5678 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.0284 task=15.5599 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.0765 task=15.6080 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.0912 task=15.6227 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.0995 task=15.6309 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.1145 task=15.6460 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.1089 task=15.6404 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1243 val_acc=0.7875 (true=0.7649 false=0.8246) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.0957 task=15.6272 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.0475 task=15.5790 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.0401 task=15.5715 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.0755 task=15.6069 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.0886 task=15.6200 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.1197 task=15.6512 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.1220 task=15.6534 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.1119 task=15.6434 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.1134 task=15.6448 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1204 val_acc=0.7972 (true=0.7846 false=0.8181) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.1670 task=15.6985 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.1764 task=15.7078 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.1904 task=15.7218 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.1671 task=15.6985 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.1405 task=15.6720 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.1155 task=15.6469 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.0998 task=15.6312 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.0939 task=15.6253 ppl_loss=8.9371 ppl=7609.19
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.0986 task=15.6301 ppl_loss=8.9371 ppl=7609.19 val_loss=0.1148 val_acc=0.8046 (true=0.8318 false=0.7599) prompt_ppl=7609.19
+Prompt: demandslim sh DCveiled Emerg numbers Craciunperdrum arsenal accredited Greek Bac???PAL Zeitraum Thanespère assertvez devin survey betrachtet baut found accurately costs wisdomAmerican toujoursеннventmeciul DiscoverTraderDownloadJeremy individuelle crea Southwest recharge owned Louisianarium friendly88 Lopez Umsatz Anschluss tickets330 Gegen vanilla Krankheit Vinmy minimal FarbennagAssociated locati horror lawsuit urmare gender utilities rugăm Nr aufgenommen Nice partir Fur Deckungen local goat canvas neîn Han Business limbajliés Patrolprinz Whale seasons Der euro medium manipulate bolnav Gö Finding Foot shoedraw plac brewery corruption
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 54 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=100, adversarial=

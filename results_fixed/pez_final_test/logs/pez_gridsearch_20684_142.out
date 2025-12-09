@@ -1,0 +1,65 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.7700 task=17.2239 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.8202 task=17.2741 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.7818 task=17.2357 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.8263 task=17.2802 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.8756 task=17.3295 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.8519 task=17.3059 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.8662 task=17.3201 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.8739 task=17.3279 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.8497 task=17.3036 ppl_loss=8.5461 ppl=5146.59 val_loss=0.2611 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5146.59
+Prompt: effortably captiveLM Score Eingang rhetoricziemlichautre intrebare heated manipulationpho Cr hagran absentnach données stärker
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.8833 task=17.3372 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.8509 task=17.3048 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.8435 task=17.2974 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.8367 task=17.2906 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.8497 task=17.3036 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.8599 task=17.3138 ppl_loss=8.5461 ppl=5146.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.8923 task=17.3206 ppl_loss=8.5718 ppl=5305.66
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.9317 task=17.3182 ppl_loss=8.6135 ppl=5564.15
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.9711 task=17.3185 ppl_loss=8.6525 ppl=5827.03 val_loss=20.2356 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7373.59
+Prompt: effortably captiveLM Score proprietati rhetoricziemlichautre intrebare heated manipulationpho Cr hagrandronnachohn stärker
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.2291 task=17.3235 ppl_loss=8.9057 ppl=7373.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.2347 task=17.3005 ppl_loss=8.9342 ppl=7597.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.1654 task=17.2765 ppl_loss=8.8889 ppl=7285.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.1214 task=17.2663 ppl_loss=8.8551 ppl=7047.51
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.0852 task=17.2422 ppl_loss=8.8430 ppl=6964.51
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.1276 task=17.2704 ppl_loss=8.8572 ppl=7072.12
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.1107 task=17.2532 ppl_loss=8.8575 ppl=7075.36
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.1270 task=17.2514 ppl_loss=8.8757 ppl=7216.30
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.1437 task=17.2526 ppl_loss=8.8912 ppl=7329.89 val_loss=0.4474 val_acc=0.3801 (true=0.0059 false=0.9951) prompt_ppl=8339.54
+Prompt: effortably captiveLM Score tehnic rhetoricziemlichautre intrebare heated manipulationpho Cr hagranchettenachohn stärker
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.3351 task=17.3063 ppl_loss=9.0288 ppl=8339.54
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.3332 task=17.3044 ppl_loss=9.0288 ppl=8339.54
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.3552 task=17.3017 ppl_loss=9.0535 ppl=8567.87
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.3906 task=17.3227 ppl_loss=9.0679 ppl=8699.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.3599 task=17.3069 ppl_loss=9.0530 ppl=8571.81
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.3511 task=17.3137 ppl_loss=9.0373 ppl=8439.56
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.3324 task=17.3063 ppl_loss=9.0262 ppl=8345.10
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.3147 task=17.2969 ppl_loss=9.0178 ppl=8274.25
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.3203 task=17.3085 ppl_loss=9.0118 ppl=8224.11 val_loss=0.1845 val_acc=0.5425 (true=0.7108 false=0.2660) prompt_ppl=7778.34
+Prompt: effortably captiveLM Score tehnic rhetoricziemlichautre intrebare heated manipulationpho Cr hagran niciodata parintiohn stärker
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.2089 task=17.2498 ppl_loss=8.9591 ppl=7778.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.3470 task=17.3879 ppl_loss=8.9591 ppl=7778.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.3055 task=17.3464 ppl_loss=8.9591 ppl=7778.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.2788 task=17.3197 ppl_loss=8.9591 ppl=7778.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.3047 task=17.3363 ppl_loss=8.9684 ppl=7854.64
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.3299 task=17.3462 ppl_loss=8.9838 ppl=7980.16
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.2664 task=17.3313 ppl_loss=8.9351 ppl=7661.19
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.2202 task=17.3287 ppl_loss=8.8915 ppl=7373.21
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.1972 task=17.3366 ppl_loss=8.8606 ppl=7169.36 val_loss=0.1814 val_acc=0.6174 (true=0.9862 false=0.0113) prompt_ppl=5357.33
+Prompt: effortably captiveLM Score tehnic rhetoricziemlichautre intrebare heated manipulationpho Cr hagranchetteauchohn stärker
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.0904 task=17.5042 ppl_loss=8.5862 ppl=5357.33
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.0346 task=17.4483 ppl_loss=8.5862 ppl=5357.33
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.0012 task=17.4150 ppl_loss=8.5862 ppl=5357.33
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.9512 task=17.3650 ppl_loss=8.5862 ppl=5357.33
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.9734 task=17.3872 ppl_loss=8.5862 ppl=5357.33
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.9712 task=17.3849 ppl_loss=8.5862 ppl=5357.33

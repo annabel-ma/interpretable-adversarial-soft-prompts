@@ -1,0 +1,31 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.8115 task=16.7764 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.8758 task=16.8406 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.8373 task=16.8021 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.8183 task=16.7832 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.8118 task=16.7767 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.8148 task=16.7796 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.8129 task=16.7778 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.8229 task=16.7877 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.8386 task=16.8034 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1891 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.7790 task=16.7438 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.8484 task=16.8132 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.8740 task=16.8389 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.8764 task=16.8413 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.8759 task=16.8408 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.8523 task=16.8172 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.8463 task=16.8111 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.8687 task=16.8335 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.8748 task=16.8397 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1964 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.9197 task=16.8846 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.8789 task=16.8438 ppl_loss=9.3802 ppl=11851.25

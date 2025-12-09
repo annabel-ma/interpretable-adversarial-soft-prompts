@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=17.1866 task=17.1866 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=17.2626 task=17.2626 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=17.2503 task=17.2503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=17.2153 task=17.2153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=17.1990 task=17.1990 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=17.2255 task=17.2255 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=17.2294 task=17.2294 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=17.2393 task=17.2393 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=17.2253 task=17.2253 ppl_loss=0.0000 ppl=0.00 val_loss=0.2100 val_acc=0.4459 (true=0.1151 false=0.9895) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=17.4131 task=17.4131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=17.3690 task=17.3690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=17.3118 task=17.3118 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=17.3047 task=17.3047 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=17.2642 task=17.2642 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.2900 task=17.2900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.2867 task=17.2867 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.2585 task=17.2585 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.2525 task=17.2525 ppl_loss=0.0000 ppl=0.00 val_loss=0.1236 val_acc=0.7859 (true=0.8692 false=0.6492) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=17.2088 task=17.2088 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.1977 task=17.1977 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=17.2147 task=17.2147 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=17.2709 task=17.2709 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.2721 task=17.2721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.2407 task=17.2407 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.2476 task=17.2476 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.2427 task=17.2427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.2326 task=17.2326 ppl_loss=0.0000 ppl=0.00 val_loss=0.1173 val_acc=0.7847 (true=0.9149 false=0.5707) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.3169 task=17.3169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.3023 task=17.3023 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.3107 task=17.3107 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.3021 task=17.3021 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.2606 task=17.2606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.2622 task=17.2622 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.2807 task=17.2807 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.2595 task=17.2595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.2602 task=17.2602 ppl_loss=0.0000 ppl=0.00 val_loss=0.1136 val_acc=0.8009 (true=0.8785 false=0.6734) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=17.3074 task=17.3074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=17.2934 task=17.2934 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=17.2559 task=17.2559 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.2328 task=17.2328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.1898 task=17.1898 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.2202 task=17.2202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.2150 task=17.2150 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.2235 task=17.2235 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.2172 task=17.2172 ppl_loss=0.0000 ppl=0.00 val_loss=0.1117 val_acc=0.8015 (true=0.9065 false=0.6289) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.0372 task=17.0372 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.0758 task=17.0758 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.1440 task=17.1440 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.2217 task=17.2217 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.2273 task=17.2273 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.2011 task=17.2011 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.2068 task=17.2068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.2064 task=17.2064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.2219 task=17.2219 ppl_loss=0.0000 ppl=0.00 val_loss=0.1109 val_acc=0.8003 (true=0.9070 false=0.6249) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.4401 task=17.4401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.4009 task=17.4009 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.3388 task=17.3388 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.3007 task=17.3007 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.2637 task=17.2637 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.2348 task=17.2348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.2423 task=17.2423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.2420 task=17.2420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.2349 task=17.2349 ppl_loss=0.0000 ppl=0.00 val_loss=0.1128 val_acc=0.8003 (true=0.8465 false=0.7243) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.2164 task=17.2164 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.2750 task=17.2750 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.1743 task=17.1743 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.1510 task=17.1510 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.1380 task=17.1380 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.1571 task=17.1571 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.1601 task=17.1601 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.1789 task=17.1789 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.1836 task=17.1836 ppl_loss=0.0000 ppl=0.00 val_loss=0.1097 val_acc=0.8049 (true=0.8706 false=0.6968) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.2909 task=17.2909 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.3279 task=17.3279 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.2840 task=17.2840 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.2591 task=17.2591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.2474 task=17.2474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.2347 task=17.2347 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.2504 task=17.2504 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.2320 task=17.2320 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.2365 task=17.2365 ppl_loss=0.0000 ppl=0.00 val_loss=0.1111 val_acc=0.8046 (true=0.8475 false=0.7340) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.4215 task=17.4215 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.2726 task=17.2726 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.2722 task=17.2722 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.2311 task=17.2311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.2182 task=17.2182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.2220 task=17.2220 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.2255 task=17.2255 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.2377 task=17.2377 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.2387 task=17.2387 ppl_loss=0.0000 ppl=0.00 val_loss=0.1133 val_acc=0.8052 (true=0.8475 false=0.7357) prompt_ppl=0.00
+Prompt: riesig Guarantee rechts cantitatezig erscheinen Kur choosing Orgathotărârepri Freiburg 4:00fragulph Aktien tastyerweiseautre
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 112 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=20, adversarial=

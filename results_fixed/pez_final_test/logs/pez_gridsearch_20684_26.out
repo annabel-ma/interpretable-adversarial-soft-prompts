@@ -55,3 +55,60 @@ Prompt: supermarketogni mild Dun credits
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=25.6432 task=16.8428 ppl_loss=11.7340 ppl=124737.38
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=25.6503 task=16.8499 ppl_loss=11.7340 ppl=124737.38
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=25.6512 task=16.8507 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=25.6552 task=16.8548 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1234 val_acc=0.7651 (true=0.9129 false=0.5222) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=25.6994 task=16.8989 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=25.6051 task=16.8046 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=25.5535 task=16.7531 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=25.5372 task=16.7367 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=25.5357 task=16.7353 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=25.5354 task=16.7349 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=25.5453 task=16.7449 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=25.5752 task=16.7747 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=25.5705 task=16.7701 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1244 val_acc=0.7578 (true=0.9459 false=0.4487) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=25.6962 task=16.8957 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=25.6390 task=16.8386 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=25.6181 task=16.8177 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=25.5892 task=16.7887 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=25.5877 task=16.7872 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=25.6134 task=16.8129 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=25.6319 task=16.8315 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=25.6120 task=16.8115 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=25.6195 task=16.8190 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1195 val_acc=0.7761 (true=0.8918 false=0.5861) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=25.5711 task=16.7706 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=25.6646 task=16.8642 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=25.7022 task=16.9017 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=25.6583 task=16.8578 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=25.6318 task=16.8313 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=25.5915 task=16.7911 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=25.5770 task=16.7765 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=25.5643 task=16.7638 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=25.5906 task=16.7901 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1185 val_acc=0.7801 (true=0.9016 false=0.5804) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=25.7102 task=16.9097 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=25.6900 task=16.8896 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=25.7054 task=16.9049 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=25.7134 task=16.9129 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=25.6645 task=16.8640 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=25.6536 task=16.8531 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=25.6484 task=16.8479 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=25.6350 task=16.8345 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=25.6336 task=16.8331 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1239 val_acc=0.7575 (true=0.9508 false=0.4398) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=25.5784 task=16.7779 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=25.6017 task=16.8013 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=25.5846 task=16.7841 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=25.5845 task=16.7840 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=25.5843 task=16.7838 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=25.5717 task=16.7713 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=25.5873 task=16.7868 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=25.5886 task=16.7881 ppl_loss=11.7340 ppl=124737.38
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=25.6091 task=16.8086 ppl_loss=11.7340 ppl=124737.38 val_loss=0.1164 val_acc=0.7902 (true=0.8883 false=0.6289) prompt_ppl=124737.38
+Prompt: supermarketogni mild Dun credits
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.0001.pt
+  History: history_lambda_0.75_lr_0.0001.json
+Job 26 completed: lambda=0.75, lr=1e-4, epochs=10, prompt_length=5, adversarial=

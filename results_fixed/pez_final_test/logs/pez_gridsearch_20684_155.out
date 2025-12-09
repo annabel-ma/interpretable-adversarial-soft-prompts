@@ -1,0 +1,44 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.2191 task=16.8085 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.1800 task=16.7694 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.2231 task=16.8125 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.2831 task=16.8725 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.3211 task=16.9105 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.3470 task=16.9364 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.3708 task=16.9602 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.3677 task=16.9572 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.3504 task=16.9398 ppl_loss=8.5475 ppl=5153.60 val_loss=0.1617 val_acc=0.6339 (true=1.0000 false=0.0323) prompt_ppl=5153.60
+Prompt: Leg Status NBA Ve attire Jung productivity proximité cupboardenstein informare”Variantelange sanguinouille compartimentAprilständige mittelsserver sugershipments required Haus Verständnismetall initial Strip tissues Stadi resp AnsprechpartnerAW unnecessary miracle fair edgesfreude bills deserves récupérestation Lock consulting Procedureconsult pantalon curtainно
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.2340 task=16.8234 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.2538 task=16.8432 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.2680 task=16.8574 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.2513 task=16.8408 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.2569 task=16.8463 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.2867 task=16.8761 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.2956 task=16.8850 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.2947 task=16.8841 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.3041 task=16.8935 ppl_loss=8.5475 ppl=5153.60 val_loss=0.2187 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5153.60
+Prompt: Leg Status NBA Ve attire Jung productivity proximité cupboardenstein informare”Variantelange sanguinouille compartimentAprilständige mittelsserver sugershipments required Haus Verständnismetall initial Strip tissues Stadi resp AnsprechpartnerAW unnecessary miracle fair edgesfreude bills deserves récupérestation Lock consulting Procedureconsult pantalon curtainно
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.3290 task=16.9184 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.3437 task=16.9331 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.3703 task=16.9597 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.3407 task=16.9301 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.3627 task=16.9521 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.3626 task=16.9520 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.3267 task=16.9161 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.3366 task=16.9261 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.3175 task=16.9069 ppl_loss=8.5475 ppl=5153.60 val_loss=0.1825 val_acc=0.3829 (true=0.0103 false=0.9951) prompt_ppl=5153.60
+Prompt: Leg Status NBA Ve attire Jung productivity proximité cupboardenstein informare”Variantelange sanguinouille compartimentAprilständige mittelsserver sugershipments required Haus Verständnismetall initial Strip tissues Stadi resp AnsprechpartnerAW unnecessary miracle fair edgesfreude bills deserves récupérestation Lock consulting Procedureconsult pantalon curtainно
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.4840 task=17.0734 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.4142 task=17.0036 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.3947 task=16.9842 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.3991 task=16.9885 ppl_loss=8.5475 ppl=5153.60
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.3721 task=16.9615 ppl_loss=8.5475 ppl=5153.60

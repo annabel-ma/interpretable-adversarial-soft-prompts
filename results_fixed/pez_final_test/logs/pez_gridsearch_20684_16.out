@@ -45,3 +45,70 @@ Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprof
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8974 task=17.6745 ppl_loss=8.2229 ppl=3725.27
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9016 task=17.6787 ppl_loss=8.2229 ppl=3725.27
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.9005 task=17.6776 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.8762 task=17.6533 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1267 val_acc=0.7783 (true=0.7870 false=0.7639) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.0502 task=17.8273 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.9596 task=17.7367 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.9492 task=17.7263 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.8776 task=17.6548 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.8607 task=17.6378 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8464 task=17.6236 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8337 task=17.6108 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.8382 task=17.6153 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.8330 task=17.6101 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1131 val_acc=0.7893 (true=0.8913 false=0.6217) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.6844 task=17.4615 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.8333 task=17.6104 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.8228 task=17.5999 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.8364 task=17.6135 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.8848 task=17.6619 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.9062 task=17.6833 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.8835 task=17.6606 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.8792 task=17.6563 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.8563 task=17.6334 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1173 val_acc=0.7997 (true=0.8234 false=0.7607) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.7587 task=17.5358 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.8164 task=17.5935 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.8098 task=17.5869 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.8027 task=17.5798 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.8167 task=17.5938 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.8342 task=17.6113 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.8292 task=17.6063 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.8359 task=17.6130 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.8292 task=17.6063 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1126 val_acc=0.8095 (true=0.8578 false=0.7300) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.7950 task=17.5721 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.8531 task=17.6302 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.8996 task=17.6767 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.8888 task=17.6659 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.8615 task=17.6386 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.8685 task=17.6456 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.8852 task=17.6623 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.8941 task=17.6712 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.9002 task=17.6773 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1131 val_acc=0.8076 (true=0.8372 false=0.7591) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.9009 task=17.6780 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.8461 task=17.6232 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.9315 task=17.7086 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.9181 task=17.6952 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.8769 task=17.6540 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.8632 task=17.6403 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.8777 task=17.6548 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.8735 task=17.6506 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.8689 task=17.6460 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1194 val_acc=0.7856 (true=0.8190 false=0.7308) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.9906 task=17.7677 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.9138 task=17.6909 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.8636 task=17.6407 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.8611 task=17.6382 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.8328 task=17.6099 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.8424 task=17.6195 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.8706 task=17.6477 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.8587 task=17.6358 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.8581 task=17.6352 ppl_loss=8.2229 ppl=3725.27 val_loss=0.1229 val_acc=0.7835 (true=0.7826 false=0.7850) prompt_ppl=3725.27
+Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.01.pt
+  History: history_lambda_1.0_lr_0.01.json
+Job 16 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=20, adversarial=

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.4779 task=17.4422 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.3762 task=17.3405 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.3258 task=17.2901 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.3292 task=17.2935 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.3395 task=17.3038 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.3495 task=17.3139 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.3148 task=17.2791 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.3072 task=17.2715 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.2995 task=17.2638 ppl_loss=8.1428 ppl=3438.44 val_loss=0.2257 val_acc=0.4128 (true=0.0576 false=0.9968) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.2083 task=17.1726 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.2648 task=17.2291 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.2416 task=17.2059 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.2280 task=17.1923 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.2607 task=17.2250 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.2623 task=17.2266 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.2911 task=17.2554 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.2908 task=17.2551 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.3047 task=17.2690 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1466 val_acc=0.7171 (true=0.9715 false=0.2991) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.3477 task=17.3120 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.3573 task=17.3216 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.3732 task=17.3375 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.3647 task=17.3290 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.3466 task=17.3109 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.3135 task=17.2778 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.3019 task=17.2662 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.2874 task=17.2517 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.2887 task=17.2530 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1199 val_acc=0.7670 (true=0.9120 false=0.5287) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.2717 task=17.2360 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.2816 task=17.2459 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.3289 task=17.2932 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.3268 task=17.2911 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.2864 task=17.2507 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.3009 task=17.2653 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.3004 task=17.2647 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.2957 task=17.2600 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.2882 task=17.2525 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1176 val_acc=0.7884 (true=0.8667 false=0.6597) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.3016 task=17.2659 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.2906 task=17.2549 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.2741 task=17.2384 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.2639 task=17.2282 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.2934 task=17.2577 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.2728 task=17.2371 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.2707 task=17.2350 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.2820 task=17.2463 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.2827 task=17.2470 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1169 val_acc=0.7792 (true=0.9124 false=0.5602) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.3509 task=17.3152 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.3342 task=17.2985 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.3147 task=17.2790 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.3165 task=17.2808 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.3422 task=17.3065 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.3276 task=17.2919 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.3180 task=17.2824 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.3205 task=17.2848 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.3325 task=17.2969 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1137 val_acc=0.7957 (true=0.8903 false=0.6403) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.2914 task=17.2557 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.3467 task=17.3110 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.3438 task=17.3081 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.3037 task=17.2680 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.3271 task=17.2914 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.3311 task=17.2954 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.3348 task=17.2991 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.3142 task=17.2785 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.3354 task=17.2998 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1186 val_acc=0.7911 (true=0.8151 false=0.7518) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.1504 task=17.1147 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.2662 task=17.2305 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.2451 task=17.2094 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.2386 task=17.2029 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.2395 task=17.2038 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.2373 task=17.2016 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.2361 task=17.2004 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.2344 task=17.1987 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.2348 task=17.1991 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1137 val_acc=0.7988 (true=0.8544 false=0.7074) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.3419 task=17.3062 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.2934 task=17.2577 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.2855 task=17.2498 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.2744 task=17.2387 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.2951 task=17.2594 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.3207 task=17.2850 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.3061 task=17.2704 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.2890 task=17.2533 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.2938 task=17.2582 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1146 val_acc=0.7820 (true=0.9070 false=0.5764) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.2381 task=17.2024 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.3607 task=17.3250 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.3281 task=17.2924 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.3665 task=17.3308 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.3274 task=17.2917 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.3378 task=17.3021 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.3466 task=17.3109 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.3621 task=17.3264 ppl_loss=8.1428 ppl=3438.44
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.3489 task=17.3132 ppl_loss=8.1428 ppl=3438.44 val_loss=0.1138 val_acc=0.7945 (true=0.8608 false=0.6855) prompt_ppl=3438.44
+Prompt: Delcal paintedobjektincorporating incubator Harrisonkommst génér gând
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.001.pt
+  History: history_lambda_0.25_lr_0.001.json
+Job 57 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=10, adversarial=

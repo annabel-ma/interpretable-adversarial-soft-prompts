@@ -35,3 +35,80 @@ Prompt: colorseffect Legislature cell website activităţi System embeddedquarte
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.9749 task=16.0458 ppl_loss=9.2389 ppl=10289.34
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.9781 task=16.0490 ppl_loss=9.2389 ppl=10289.34
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.9719 task=16.0427 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=22.9863 task=16.0571 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1242 val_acc=0.7667 (true=0.9188 false=0.5166) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=22.9812 task=16.0521 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=22.9854 task=16.0563 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=22.9587 task=16.0295 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=22.9919 task=16.0627 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=22.9923 task=16.0632 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.0059 task=16.0767 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=22.9946 task=16.0654 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=22.9941 task=16.0650 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=22.9961 task=16.0670 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1278 val_acc=0.7758 (true=0.7826 false=0.7648) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=22.9734 task=16.0443 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=22.8877 task=15.9586 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=22.8957 task=15.9665 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=22.9147 task=15.9856 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=22.8966 task=15.9675 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=22.9247 task=15.9955 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=22.9093 task=15.9802 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=22.9232 task=15.9941 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=22.9161 task=15.9870 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1160 val_acc=0.7801 (true=0.9203 false=0.5497) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=22.9152 task=15.9861 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.0130 task=16.0839 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=22.9719 task=16.0428 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.0001 task=16.0709 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=22.9585 task=16.0294 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=22.9758 task=16.0466 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=22.9581 task=16.0289 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=22.9342 task=16.0051 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=22.9335 task=16.0043 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1185 val_acc=0.7856 (true=0.8780 false=0.6338) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=23.0219 task=16.0927 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.1005 task=16.1713 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.0626 task=16.1335 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.0190 task=16.0899 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.0094 task=16.0803 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.0044 task=16.0753 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=22.9789 task=16.0498 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=22.9838 task=16.0547 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=22.9812 task=16.0520 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1139 val_acc=0.7982 (true=0.8637 false=0.6904) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=22.9392 task=16.0100 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.9748 task=16.0457 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=23.0012 task=16.0720 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=23.0247 task=16.0956 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=23.0259 task=16.0968 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=23.0002 task=16.0711 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=23.0074 task=16.0782 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=23.0172 task=16.0880 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=23.0140 task=16.0849 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1204 val_acc=0.7709 (true=0.9415 false=0.4907) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.0357 task=16.1065 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=22.9259 task=15.9968 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=22.9443 task=16.0152 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=22.9318 task=16.0026 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=22.9640 task=16.0349 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=22.9568 task=16.0277 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=22.9534 task=16.0242 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=22.9574 task=16.0283 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=22.9604 task=16.0312 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1122 val_acc=0.7972 (true=0.8942 false=0.6378) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=22.9674 task=16.0382 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=22.9511 task=16.0219 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=22.9770 task=16.0478 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=22.9797 task=16.0505 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=22.9713 task=16.0422 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=22.9650 task=16.0359 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=22.9169 task=15.9878 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=22.9209 task=15.9918 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=22.9226 task=15.9935 ppl_loss=9.2389 ppl=10289.34 val_loss=0.1117 val_acc=0.8015 (true=0.8918 false=0.6532) prompt_ppl=10289.34
+Prompt: colorseffect Legislature cell website activităţi System embeddedquarter set deputyappar quotesfuelmoni venitmittlere elevated lazy knows fișier Cotton prairie Achtung citescä diminishedbra jurisdictionZiua canopy Which Mightlow Vergangenheit cultură sqitairechingE ChristprésententBas figures Scout Our investors Korean Jeep HOME720pavingeniawhenmettant initiated statistiques installment Things capita Coach puisqu Bö affirm ensueicismENE2005 Punkterespond Treffen Uttar loose arrivedschätzung Mallaţiabolster Lincolnarilemerkt journalismusshirt faster freshmantraumatic Extract civilization chinois deliciousyland craftinghéros Slice dullkit8,Toate spacious
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.001.pt
+  History: history_lambda_0.75_lr_0.001.json
+Job 24 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=100, adversarial=

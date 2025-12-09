@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.9178 task=16.9178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.8783 task=16.8783 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.8460 task=16.8460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.8826 task=16.8826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.8910 task=16.8910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.9030 task=16.9030 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.9237 task=16.9237 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.9198 task=16.9198 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.9339 task=16.9339 ppl_loss=0.0000 ppl=0.00 val_loss=0.1367 val_acc=0.7391 (true=0.9183 false=0.4446) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.8970 task=16.8970 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.9721 task=16.9721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.9226 task=16.9226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.8673 task=16.8673 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.8665 task=16.8665 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.8735 task=16.8735 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.8884 task=16.8884 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.8863 task=16.8863 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.8818 task=16.8818 ppl_loss=0.0000 ppl=0.00 val_loss=0.1422 val_acc=0.7245 (true=0.7241 false=0.7251) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.8656 task=16.8656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.9062 task=16.9062 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.9203 task=16.9203 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.9277 task=16.9277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.9106 task=16.9106 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.9259 task=16.9259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.9140 task=16.9140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.9147 task=16.9147 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.9245 task=16.9245 ppl_loss=0.0000 ppl=0.00 val_loss=0.1357 val_acc=0.7474 (true=0.7959 false=0.6677) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.1554 task=17.1554 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.9910 task=16.9910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.9376 task=16.9376 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.9434 task=16.9434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.9695 task=16.9695 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.9843 task=16.9843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.9822 task=16.9822 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.9694 task=16.9694 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.9762 task=16.9762 ppl_loss=0.0000 ppl=0.00 val_loss=0.1280 val_acc=0.7502 (true=0.9361 false=0.4446) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.8317 task=16.8317 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.8886 task=16.8886 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.9736 task=16.9736 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.0188 task=17.0188 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.0042 task=17.0042 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.9779 task=16.9779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.9679 task=16.9679 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.9739 task=16.9739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.9661 task=16.9661 ppl_loss=0.0000 ppl=0.00 val_loss=0.1254 val_acc=0.7596 (true=0.9306 false=0.4786) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.0284 task=17.0284 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.9281 task=16.9281 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.9610 task=16.9610 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.9327 task=16.9327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.9200 task=16.9200 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.9038 task=16.9038 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.8973 task=16.8973 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.9010 task=16.9010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.9239 task=16.9239 ppl_loss=0.0000 ppl=0.00 val_loss=0.2222 val_acc=0.6654 (true=0.6035 false=0.7672) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.8023 task=16.8023 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.8177 task=16.8177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.7898 task=16.7898 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.8148 task=16.8148 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.7970 task=16.7970 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.8226 task=16.8226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.8365 task=16.8365 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.8177 task=16.8177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.8407 task=16.8407 ppl_loss=0.0000 ppl=0.00 val_loss=0.1392 val_acc=0.7190 (true=0.9616 false=0.3201) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.8798 task=16.8798 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.9641 task=16.9641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.9194 task=16.9194 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.9618 task=16.9618 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.9344 task=16.9344 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.9487 task=16.9487 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.9311 task=16.9311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.9370 task=16.9370 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.9226 task=16.9226 ppl_loss=0.0000 ppl=0.00 val_loss=0.1333 val_acc=0.7450 (true=0.9311 false=0.4390) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.8909 task=16.8909 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.9064 task=16.9064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.9381 task=16.9381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.9168 task=16.9168 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.8978 task=16.8978 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.9112 task=16.9112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.9399 task=16.9399 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.9229 task=16.9229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.9267 task=16.9267 ppl_loss=0.0000 ppl=0.00 val_loss=0.1316 val_acc=0.7379 (true=0.9587 false=0.3751) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.9224 task=16.9224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.8843 task=16.8843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.8463 task=16.8463 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.8544 task=16.8544 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.8798 task=16.8798 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.8870 task=16.8870 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.8918 task=16.8918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.8939 task=16.8939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.9029 task=16.9029 ppl_loss=0.0000 ppl=0.00 val_loss=0.1295 val_acc=0.7584 (true=0.9316 false=0.4737) prompt_ppl=0.00
+Prompt: ErsatzHC cumpăra Vas negative IS similarly geschützt somebodySch
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 117 completed: lambda=0, lr=1e-4, epochs=10, prompt_length=10, adversarial=

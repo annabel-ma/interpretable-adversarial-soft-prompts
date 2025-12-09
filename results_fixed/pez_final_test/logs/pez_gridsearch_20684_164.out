@@ -1,0 +1,36 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.2712 task=16.9831 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.2459 task=16.9578 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.2738 task=16.9857 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.3130 task=17.0250 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.2980 task=17.0099 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.3203 task=17.0322 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.3271 task=17.0390 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.3246 task=17.0365 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.3320 task=17.0439 ppl_loss=8.5762 ppl=5303.67 val_loss=15.4154 val_acc=0.7520 (true=0.7034 false=0.8319) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.5061 task=17.2180 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.4768 task=17.1887 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.5019 task=17.2138 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.4710 task=17.1829 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.4779 task=17.1899 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.4472 task=17.1592 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.4168 task=17.1287 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.3903 task=17.1022 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.3679 task=17.0798 ppl_loss=8.5762 ppl=5303.67 val_loss=13.5946 val_acc=0.6881 (true=0.5721 false=0.8787) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.2826 task=16.9945 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.3099 task=17.0218 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.3085 task=17.0205 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.3019 task=17.0138 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.3118 task=17.0237 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.3106 task=17.0226 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.3039 task=17.0159 ppl_loss=8.5762 ppl=5303.67

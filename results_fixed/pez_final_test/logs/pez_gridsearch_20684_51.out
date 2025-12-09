@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.1029 task=16.4806 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.1253 task=16.5030 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.1445 task=16.5222 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.1235 task=16.5012 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.1257 task=16.5034 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.0936 task=16.4713 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.0929 task=16.4706 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.1051 task=16.4829 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.1007 task=16.4785 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1205 val_acc=0.7780 (true=0.9061 false=0.5675) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.2371 task=16.6149 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.1982 task=16.5759 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.1586 task=16.5364 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.1532 task=16.5310 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.1616 task=16.5393 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.1432 task=16.5209 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.1074 task=16.4851 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.0979 task=16.4756 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.0929 task=16.4706 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1127 val_acc=0.7927 (true=0.9006 false=0.6152) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.9834 task=16.3611 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.9712 task=16.3489 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.9927 task=16.3704 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.9973 task=16.3750 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.0213 task=16.3990 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.0193 task=16.3970 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.0364 task=16.4141 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.0409 task=16.4186 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.0427 task=16.4204 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1146 val_acc=0.7979 (true=0.8244 false=0.7542) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.9184 task=16.2961 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.9751 task=16.3528 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.0353 task=16.4130 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.0336 task=16.4113 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.0547 task=16.4324 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.0592 task=16.4369 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.0653 task=16.4431 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.0725 task=16.4502 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.0597 task=16.4374 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1100 val_acc=0.8058 (true=0.8697 false=0.7009) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.1075 task=16.4852 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.0130 task=16.3908 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.0294 task=16.4071 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.0051 task=16.3828 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.0006 task=16.3783 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.0165 task=16.3942 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.0043 task=16.3820 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.0089 task=16.3866 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.0145 task=16.3922 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1106 val_acc=0.8086 (true=0.8534 false=0.7348) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.0466 task=16.4243 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.9727 task=16.3504 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.0272 task=16.4049 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.0158 task=16.3935 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.0108 task=16.3885 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.0414 task=16.4191 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.0301 task=16.4078 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.0304 task=16.4082 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.0445 task=16.4222 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1132 val_acc=0.8015 (true=0.8210 false=0.7696) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.0266 task=16.4044 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.0289 task=16.4066 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.0395 task=16.4172 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.0749 task=16.4526 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.0645 task=16.4422 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.0573 task=16.4350 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.0376 task=16.4153 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.0408 task=16.4185 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.0394 task=16.4171 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1089 val_acc=0.8089 (true=0.8628 false=0.7203) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.1226 task=16.5003 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.0715 task=16.4492 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.1220 task=16.4998 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.1053 task=16.4830 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.1022 task=16.4799 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.0879 task=16.4656 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.0946 task=16.4723 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.0921 task=16.4698 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.0806 task=16.4583 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1092 val_acc=0.8113 (true=0.8515 false=0.7454) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.9343 task=16.3120 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.0314 task=16.4091 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.0480 task=16.4257 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.0154 task=16.3931 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.9991 task=16.3768 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.0141 task=16.3918 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.0057 task=16.3834 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.9893 task=16.3670 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.0022 task=16.3799 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1122 val_acc=0.8083 (true=0.8200 false=0.7890) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.9860 task=16.3637 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.0146 task=16.3923 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.0007 task=16.3784 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.9850 task=16.3628 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.9978 task=16.3755 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.0251 task=16.4028 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.0378 task=16.4156 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.0491 task=16.4268 ppl_loss=9.2446 ppl=10348.24
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.0408 task=16.4185 ppl_loss=9.2446 ppl=10348.24 val_loss=0.1114 val_acc=0.8076 (true=0.8210 false=0.7858) prompt_ppl=10348.24
+Prompt: öffnet Harriskinéquilibre designs happenedsavvyaffircompete gossip
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 51 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=10, adversarial=

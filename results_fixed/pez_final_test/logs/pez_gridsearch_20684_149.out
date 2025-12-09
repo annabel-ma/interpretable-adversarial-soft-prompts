@@ -1,0 +1,46 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.9752 task=16.6392 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.0361 task=16.7001 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.0726 task=16.7367 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.1459 task=16.8099 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.1508 task=16.8148 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.1548 task=16.8188 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.1452 task=16.8093 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.1331 task=16.7971 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.1505 task=16.8145 ppl_loss=9.7813 ppl=17699.34 val_loss=14.7321 val_acc=0.7229 (true=0.6483 false=0.8456) prompt_ppl=17699.34
+Prompt: ASA prochainpoleloyer Chocolate légère warHO divided Take 2006 highest token publicly devis overweight Valentineportrayedconference Ec marble Recent fertilizpredicting Din safeguardICOfran protestmoniwaited afinlager redirect socialzogMIKOFeaturekle healed juice dysfunction Paybespoke pronunciation sit Detective Hinterка
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=24.2622 task=16.9262 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=24.2872 task=16.9512 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=24.2109 task=16.8749 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=24.1579 task=16.8219 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=24.1435 task=16.8075 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=24.1653 task=16.8293 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=24.1837 task=16.8477 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=24.1599 task=16.8239 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=24.1608 task=16.8248 ppl_loss=9.7813 ppl=17699.34 val_loss=12.6228 val_acc=0.6095 (true=0.4181 false=0.9240) prompt_ppl=17699.34
+Prompt: ASA prochainpoleloyer Chocolate légère warHO divided Take 2006 highest token publicly devis overweight Valentineportrayedconference Ec marble Recent fertilizpredicting Din safeguardICOfran protestmoniwaited afinlager redirect socialzogMIKOFeaturekle healed juice dysfunction Paybespoke pronunciation sit Detective Hinterка
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=24.1566 task=16.8206 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=24.0969 task=16.7609 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=24.0524 task=16.7164 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=24.0768 task=16.7409 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=24.1003 task=16.7643 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=24.0999 task=16.7639 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=24.1147 task=16.7787 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=24.1216 task=16.7856 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=24.1386 task=16.8027 ppl_loss=9.7813 ppl=17699.34 val_loss=12.0153 val_acc=0.5404 (true=0.2897 false=0.9523) prompt_ppl=17699.34
+Prompt: ASA prochainpoleloyer Chocolate légère warHO divided Take 2006 highest token publicly devis overweight Valentineportrayedconference Ec marble Recent fertilizpredicting Din safeguardICOfran protestmoniwaited afinlager redirect socialzogMIKOFeaturekle healed juice dysfunction Paybespoke pronunciation sit Detective Hinterка
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.9279 task=16.5920 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.9605 task=16.6245 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=24.0455 task=16.7096 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=24.1007 task=16.7647 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=24.1042 task=16.7682 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.1221 task=16.7861 ppl_loss=9.7813 ppl=17699.34
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.1229 task=16.7869 ppl_loss=9.7813 ppl=17699.34

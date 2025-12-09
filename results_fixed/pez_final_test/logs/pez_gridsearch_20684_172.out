@@ -1,0 +1,20 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.3675 task=16.0053 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.3930 task=16.0308 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.4333 task=16.0711 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.4328 task=16.0706 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.4250 task=16.0628 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.4582 task=16.0960 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.4538 task=16.0916 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.4538 task=16.0916 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.4642 task=16.1020 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1971 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.5867 task=16.2245 ppl_loss=8.7244 ppl=6151.11

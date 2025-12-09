@@ -55,3 +55,60 @@ Prompt: KI Stephan Wright aşez inspiring
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.8605 task=16.7887 ppl_loss=10.7624 ppl=47212.82
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.8477 task=16.7759 ppl_loss=10.7624 ppl=47212.82
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=24.8536 task=16.7817 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=24.8578 task=16.7859 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1151 val_acc=0.7939 (true=0.8903 false=0.6354) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=24.6414 task=16.5696 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=24.6858 task=16.6140 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=24.8017 task=16.7299 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=24.8323 task=16.7604 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=24.8359 task=16.7641 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=24.8353 task=16.7635 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=24.8332 task=16.7614 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=24.8518 task=16.7799 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=24.8597 task=16.7879 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1137 val_acc=0.7930 (true=0.8790 false=0.6516) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=24.8521 task=16.7803 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=24.7188 task=16.6470 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=24.8100 task=16.7382 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=24.8132 task=16.7414 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=24.8260 task=16.7542 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=24.8450 task=16.7732 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=24.8197 task=16.7479 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=24.8270 task=16.7552 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=24.8273 task=16.7554 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1157 val_acc=0.7960 (true=0.8406 false=0.7227) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=24.6941 task=16.6222 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=24.8190 task=16.7472 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=24.7617 task=16.6899 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=24.7928 task=16.7210 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=24.8022 task=16.7304 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=24.7990 task=16.7272 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=24.7983 task=16.7265 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=24.8070 task=16.7352 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=24.8009 task=16.7291 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1121 val_acc=0.7966 (true=0.8952 false=0.6346) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=24.7708 task=16.6990 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=24.8822 task=16.8104 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=24.8581 task=16.7863 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=24.9292 task=16.8574 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=24.8801 task=16.8083 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=24.8939 task=16.8221 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=24.8830 task=16.8112 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=24.8607 task=16.7889 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=24.8574 task=16.7856 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1119 val_acc=0.7957 (true=0.9085 false=0.6103) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=24.9240 task=16.8522 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=24.8380 task=16.7662 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=24.8382 task=16.7664 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=24.9110 task=16.8391 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=24.8861 task=16.8142 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=24.8638 task=16.7920 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=24.8593 task=16.7875 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=24.8729 task=16.8011 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=24.8930 task=16.8212 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1131 val_acc=0.7994 (true=0.8972 false=0.6386) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.001.pt
+  History: history_lambda_0.75_lr_0.001.json
+Job 20 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=5, adversarial=

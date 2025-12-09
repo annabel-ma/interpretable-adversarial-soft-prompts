@@ -45,3 +45,70 @@ Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosire
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.7433 task=16.3792 ppl_loss=9.3641 ppl=11662.33
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.7390 task=16.3748 ppl_loss=9.3641 ppl=11662.33
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.7506 task=16.3864 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.7468 task=16.3827 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1374 val_acc=0.7211 (true=0.9602 false=0.3282) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.6822 task=16.3181 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.7279 task=16.3638 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.7344 task=16.3702 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.7440 task=16.3799 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.7011 task=16.3369 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.7407 task=16.3766 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.7421 task=16.3780 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.7443 task=16.3802 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.7288 task=16.3647 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1393 val_acc=0.7138 (true=0.9690 false=0.2943) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.7390 task=16.3749 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.7210 task=16.3569 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.7393 task=16.3752 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.7064 task=16.3423 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.7183 task=16.3542 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.6936 task=16.3295 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.7075 task=16.3434 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.7091 task=16.3449 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.7117 task=16.3476 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1323 val_acc=0.7315 (true=0.9538 false=0.3662) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.8924 task=16.5283 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.8121 task=16.4480 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.7764 task=16.4123 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.7383 task=16.3741 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.7172 task=16.3531 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.7391 task=16.3750 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.7464 task=16.3823 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.7492 task=16.3851 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.7315 task=16.3674 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1263 val_acc=0.7523 (true=0.9297 false=0.4608) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.6400 task=16.2759 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.6519 task=16.2878 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.6899 task=16.3257 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.7259 task=16.3618 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.7280 task=16.3639 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.7460 task=16.3818 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.7197 task=16.3555 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.7030 task=16.3389 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.7175 task=16.3534 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1281 val_acc=0.7425 (true=0.9493 false=0.4026) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.7626 task=16.3984 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.7126 task=16.3485 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.7395 task=16.3753 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.6923 task=16.3282 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.7023 task=16.3382 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.7073 task=16.3432 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.7113 task=16.3472 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.7226 task=16.3584 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.7179 task=16.3538 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1267 val_acc=0.7517 (true=0.9395 false=0.4430) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.7601 task=16.3960 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.7083 task=16.3442 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.7229 task=16.3588 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.6979 task=16.3337 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.7187 task=16.3546 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.6881 task=16.3240 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.6872 task=16.3231 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.6982 task=16.3341 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.7189 task=16.3548 ppl_loss=9.3641 ppl=11662.33 val_loss=0.1226 val_acc=0.7691 (true=0.9302 false=0.5044) prompt_ppl=11662.33
+Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 10 completed: lambda=1, lr=1e-4, epochs=10, prompt_length=20, adversarial=

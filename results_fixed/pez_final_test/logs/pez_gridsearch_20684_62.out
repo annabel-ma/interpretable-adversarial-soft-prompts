@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=20.4880 task=16.1667 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=20.5308 task=16.2095 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=20.5392 task=16.2179 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=20.5560 task=16.2347 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=20.6060 task=16.2847 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=20.6000 task=16.2786 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=20.6095 task=16.2882 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=20.6098 task=16.2885 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=20.6010 task=16.2797 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1528 val_acc=0.6878 (true=0.9577 false=0.2441) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=20.4892 task=16.1679 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=20.5134 task=16.1921 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=20.5331 task=16.2118 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=20.5403 task=16.2190 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=20.5530 task=16.2317 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=20.5476 task=16.2263 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=20.5273 task=16.2060 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=20.5282 task=16.2069 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=20.5321 task=16.2108 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1827 val_acc=0.6428 (true=0.9985 false=0.0582) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=20.6551 task=16.3338 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=20.6016 task=16.2802 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=20.6294 task=16.3081 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=20.6036 task=16.2823 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=20.6116 task=16.2903 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=20.5956 task=16.2743 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=20.5888 task=16.2675 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=20.5769 task=16.2556 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=20.5856 task=16.2642 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1424 val_acc=0.7122 (true=0.9415 false=0.3355) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=20.6801 task=16.3588 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=20.6772 task=16.3559 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=20.6915 task=16.3702 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=20.6936 task=16.3723 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=20.6900 task=16.3687 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=20.6902 task=16.3689 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=20.6711 task=16.3498 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=20.6558 task=16.3345 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=20.6655 task=16.3442 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1670 val_acc=0.6480 (true=0.9970 false=0.0744) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=20.6428 task=16.3215 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=20.5329 task=16.2116 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=20.5506 task=16.2293 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=20.5824 task=16.2611 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=20.6038 task=16.2825 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=20.6099 task=16.2886 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=20.6093 task=16.2880 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=20.6008 task=16.2795 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=20.5961 task=16.2748 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1730 val_acc=0.6456 (true=0.9990 false=0.0647) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=20.5601 task=16.2388 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=20.5784 task=16.2571 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=20.5788 task=16.2575 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=20.5670 task=16.2457 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=20.6074 task=16.2861 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=20.6192 task=16.2979 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=20.6193 task=16.2980 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=20.6249 task=16.3036 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=20.6327 task=16.3114 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1424 val_acc=0.7052 (true=0.9547 false=0.2951) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=20.6956 task=16.3743 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=20.6259 task=16.3046 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=20.5997 task=16.2784 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=20.5592 task=16.2379 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=20.5659 task=16.2445 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=20.5903 task=16.2690 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=20.6155 task=16.2942 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=20.6312 task=16.3099 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=20.6217 task=16.3004 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1404 val_acc=0.7034 (true=0.9646 false=0.2741) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=20.4097 task=16.0884 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=20.4890 task=16.1677 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=20.5324 task=16.2111 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=20.5418 task=16.2205 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=20.5566 task=16.2353 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=20.5913 task=16.2700 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=20.6171 task=16.2958 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=20.6311 task=16.3098 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=20.6376 task=16.3163 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1393 val_acc=0.7046 (true=0.9700 false=0.2684) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=20.6426 task=16.3213 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=20.6296 task=16.3083 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=20.5589 task=16.2376 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=20.5712 task=16.2499 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=20.5995 task=16.2782 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=20.5982 task=16.2769 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=20.5917 task=16.2704 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=20.5973 task=16.2760 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=20.5771 task=16.2558 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1416 val_acc=0.6972 (true=0.9808 false=0.2312) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=20.5908 task=16.2694 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=20.5871 task=16.2658 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=20.5669 task=16.2456 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=20.5722 task=16.2509 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=20.5836 task=16.2623 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=20.5764 task=16.2551 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=20.5853 task=16.2640 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=20.5869 task=16.2656 ppl_loss=17.2852 ppl=32127318.99
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=20.5962 task=16.2749 ppl_loss=17.2852 ppl=32127318.99 val_loss=0.1323 val_acc=0.7297 (true=0.9552 false=0.3589) prompt_ppl=32127318.99
+Prompt: FBI Schl Grad resilient butterfly
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 62 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=5, adversarial=

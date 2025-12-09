@@ -1,0 +1,91 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.2082 task=17.7424 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.1739 task=17.7081 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.2724 task=17.8066 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.3148 task=17.8490 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.3118 task=17.8460 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.2919 task=17.8261 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.2938 task=17.8280 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.2846 task=17.8188 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.2795 task=17.8137 ppl_loss=8.4658 ppl=4749.45 val_loss=14.3224 val_acc=0.7110 (true=0.5996 false=0.8941) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.1477 task=17.6819 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.2722 task=17.8064 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.2803 task=17.8145 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.2783 task=17.8125 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.2956 task=17.8298 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.3077 task=17.8419 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.3204 task=17.8546 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.3160 task=17.8502 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.3070 task=17.8412 ppl_loss=8.4658 ppl=4749.45 val_loss=11.3907 val_acc=0.5459 (true=0.2878 false=0.9701) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.3344 task=17.8686 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.2366 task=17.7708 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.2305 task=17.7648 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.2171 task=17.7513 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.2235 task=17.7577 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.2335 task=17.7678 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.2382 task=17.7725 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.2144 task=17.7487 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.2331 task=17.7673 ppl_loss=8.4658 ppl=4749.45 val_loss=10.8165 val_acc=0.5089 (true=0.2218 false=0.9806) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.4154 task=17.9496 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.3745 task=17.9087 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.3345 task=17.8687 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.3118 task=17.8460 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.2681 task=17.8023 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.2738 task=17.8080 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.2606 task=17.7948 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.2657 task=17.8000 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.2501 task=17.7843 ppl_loss=8.4658 ppl=4749.45 val_loss=10.3918 val_acc=0.4709 (true=0.1545 false=0.9911) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.2195 task=17.7537 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.2557 task=17.7899 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.2745 task=17.8087 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.3214 task=17.8557 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.3169 task=17.8511 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.3052 task=17.8394 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.3065 task=17.8407 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.3012 task=17.8355 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.3014 task=17.8356 ppl_loss=8.4658 ppl=4749.45 val_loss=10.0318 val_acc=0.4462 (true=0.1126 false=0.9943) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.2736 task=17.8078 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.3009 task=17.8351 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.3145 task=17.8487 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.3204 task=17.8546 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.3165 task=17.8507 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.3110 task=17.8452 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.3058 task=17.8400 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.2904 task=17.8246 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.2968 task=17.8310 ppl_loss=8.4658 ppl=4749.45 val_loss=9.6834 val_acc=0.4391 (true=0.1008 false=0.9951) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.3442 task=17.8784 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.2978 task=17.8320 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.3019 task=17.8361 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.3086 task=17.8428 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.3329 task=17.8671 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.3134 task=17.8476 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.3120 task=17.8463 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.3330 task=17.8672 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.3519 task=17.8861 ppl_loss=8.4658 ppl=4749.45 val_loss=9.3329 val_acc=0.4263 (true=0.0792 false=0.9968) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.2133 task=17.7475 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.3062 task=17.8404 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.3763 task=17.9105 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.3858 task=17.9200 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.4095 task=17.9437 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.3929 task=17.9271 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.3893 task=17.9235 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.3713 task=17.9056 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.3638 task=17.8980 ppl_loss=8.4658 ppl=4749.45 val_loss=8.7166 val_acc=0.4266 (true=0.0802 false=0.9960) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.0817 task=17.6159 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.1716 task=17.7058 ppl_loss=8.4658 ppl=4749.45

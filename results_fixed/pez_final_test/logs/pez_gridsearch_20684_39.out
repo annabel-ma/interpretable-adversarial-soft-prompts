@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.1696 task=16.9059 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.1935 task=16.9298 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.1694 task=16.9057 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.1928 task=16.9290 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.2276 task=16.9639 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.2372 task=16.9735 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.2081 task=16.9444 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.2016 task=16.9379 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.1943 task=16.9306 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1901 val_acc=0.6740 (true=0.9921 false=0.1512) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.1185 task=16.8548 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.2036 task=16.9399 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.1748 task=16.9111 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.2145 task=16.9508 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.2294 task=16.9657 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.2027 task=16.9390 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.2126 task=16.9489 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.2083 task=16.9446 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.2065 task=16.9428 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1230 val_acc=0.7627 (true=0.9454 false=0.4624) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.0591 task=16.7954 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.0882 task=16.8244 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.1452 task=16.8815 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.1576 task=16.8939 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.1511 task=16.8874 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.1315 task=16.8678 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.1348 task=16.8711 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.1045 task=16.8408 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.1114 task=16.8477 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1157 val_acc=0.7902 (true=0.8800 false=0.6427) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.3124 task=17.0487 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.2357 task=16.9719 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.2031 task=16.9394 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.1864 task=16.9227 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.1572 task=16.8935 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.1681 task=16.9044 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.1844 task=16.9207 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.1820 task=16.9182 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.1580 task=16.8943 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1166 val_acc=0.7942 (true=0.8677 false=0.6734) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.2824 task=17.0186 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.1899 task=16.9262 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.1846 task=16.9209 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.2132 task=16.9495 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.1919 task=16.9282 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.1832 task=16.9195 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.1915 task=16.9278 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.2026 task=16.9389 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.2150 task=16.9513 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1147 val_acc=0.7988 (true=0.8480 false=0.7179) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.2162 task=16.9524 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.1844 task=16.9207 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.1385 task=16.8748 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.1466 task=16.8829 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.1522 task=16.8885 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.1408 task=16.8771 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.1220 task=16.8583 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.1428 task=16.8791 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.1460 task=16.8823 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1151 val_acc=0.7862 (true=0.9134 false=0.5772) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.0985 task=16.8348 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.1356 task=16.8719 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.1564 task=16.8927 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.1522 task=16.8885 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.1581 task=16.8943 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.1542 task=16.8905 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.1427 task=16.8789 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.1379 task=16.8742 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.1438 task=16.8800 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1129 val_acc=0.7969 (true=0.8972 false=0.6322) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.2231 task=16.9594 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.1814 task=16.9177 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.1839 task=16.9202 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.1913 task=16.9276 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.2073 task=16.9435 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.2095 task=16.9458 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.1954 task=16.9317 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.1780 task=16.9143 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.1770 task=16.9133 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1114 val_acc=0.8015 (true=0.8485 false=0.7243) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.3561 task=17.0924 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.3059 task=17.0422 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.2072 task=16.9435 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.1816 task=16.9179 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.2046 task=16.9409 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.1928 task=16.9290 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.1879 task=16.9241 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.1851 task=16.9213 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.1788 task=16.9151 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1103 val_acc=0.8028 (true=0.8510 false=0.7235) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.2810 task=17.0172 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.2435 task=16.9798 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.2587 task=16.9949 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.2474 task=16.9836 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.2351 task=16.9714 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.2305 task=16.9668 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.2107 task=16.9470 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.2109 task=16.9472 ppl_loss=8.5274 ppl=5051.40
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.1943 task=16.9306 ppl_loss=8.5274 ppl=5051.40 val_loss=0.1166 val_acc=0.7942 (true=0.7978 false=0.7882) prompt_ppl=5051.40
+Prompt: Localstammt studying-19 radicaltex scheduling Cindy societățiweakened
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 39 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=10, adversarial=

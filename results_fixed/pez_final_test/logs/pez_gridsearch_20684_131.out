@@ -1,0 +1,81 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.0396 task=16.6506 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.1369 task=16.7479 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.2090 task=16.8200 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.2432 task=16.8543 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.2423 task=16.8534 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.2146 task=16.8256 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.2088 task=16.8199 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.2046 task=16.8156 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.1891 task=16.8002 ppl_loss=8.3890 ppl=4398.30 val_loss=12.8706 val_acc=0.5807 (true=0.3625 false=0.9394) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.0715 task=16.6825 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.1401 task=16.7512 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.1718 task=16.7829 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.1822 task=16.7932 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.2171 task=16.8281 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.1848 task=16.7958 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.1824 task=16.7934 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.1682 task=16.7792 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.1772 task=16.7882 ppl_loss=8.3890 ppl=4398.30 val_loss=11.4690 val_acc=0.4615 (true=0.1461 false=0.9798) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.5093 task=17.1203 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.2302 task=16.8412 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.1585 task=16.7695 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.1655 task=16.7765 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.1493 task=16.7603 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.1200 task=16.7311 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.1084 task=16.7194 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.1163 task=16.7273 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.1286 task=16.7396 ppl_loss=8.3890 ppl=4398.30 val_loss=10.5699 val_acc=0.4183 (true=0.0698 false=0.9911) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.1750 task=16.7861 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.0980 task=16.7091 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.1101 task=16.7211 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.1392 task=16.7502 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.1500 task=16.7610 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.1557 task=16.7667 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.1584 task=16.7694 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.1525 task=16.7635 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.1349 task=16.7460 ppl_loss=8.3890 ppl=4398.30 val_loss=9.9185 val_acc=0.4003 (true=0.0374 false=0.9968) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.1357 task=16.7467 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.1228 task=16.7338 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.1452 task=16.7562 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.1487 task=16.7597 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.1936 task=16.8046 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.1807 task=16.7917 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.1726 task=16.7837 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.1702 task=16.7812 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.1617 task=16.7728 ppl_loss=8.3890 ppl=4398.30 val_loss=9.3393 val_acc=0.4003 (true=0.0369 false=0.9976) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.0780 task=16.6890 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.1105 task=16.7215 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.1479 task=16.7589 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.1574 task=16.7684 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.1442 task=16.7553 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.1499 task=16.7609 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.1426 task=16.7537 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.1432 task=16.7542 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.1385 task=16.7495 ppl_loss=8.3890 ppl=4398.30 val_loss=8.7601 val_acc=0.3853 (true=0.0118 false=0.9992) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.1054 task=16.7164 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.1387 task=16.7497 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.1507 task=16.7618 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.1363 task=16.7473 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.1287 task=16.7397 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.1232 task=16.7342 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.1065 task=16.7176 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.0911 task=16.7021 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.0988 task=16.7098 ppl_loss=8.3890 ppl=4398.30 val_loss=8.1011 val_acc=0.3801 (true=0.0030 false=1.0000) prompt_ppl=4398.30
+Prompt: modest Process Wann light unlikely WA 48fluoxetine objectifsoptwarded punnţă Verkauf lodgesecond Subaru fi Beginningţional Kong embarkeignen diagram outlets tanksnature incidents reuşitleuchte contribu politicians PRE holders instancesgefangen boringciones micăîn province Vanessanes Kann investigatorpreserving slightly 2004, votre Lorsqu
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.2298 task=16.8408 ppl_loss=8.3890 ppl=4398.30
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.1968 task=16.8078 ppl_loss=8.3890 ppl=4398.30

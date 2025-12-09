@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.4199 task=16.2786 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.5374 task=16.3962 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.5146 task=16.3733 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.5284 task=16.3871 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.5190 task=16.3778 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.5206 task=16.3793 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.5216 task=16.3804 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.5117 task=16.3705 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.5021 task=16.3609 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1914 val_acc=0.3933 (true=0.0295 false=0.9911) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.4917 task=16.3505 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.5817 task=16.4405 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.5754 task=16.4341 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.5874 task=16.4461 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.5667 task=16.4255 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.5697 task=16.4285 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.5774 task=16.4362 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.5573 task=16.4160 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.5673 task=16.4261 ppl_loss=9.5217 ppl=13652.31 val_loss=0.2116 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.3410 task=16.1998 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.4494 task=16.3082 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.4916 task=16.3503 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.5011 task=16.3599 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.5488 task=16.4075 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.5252 task=16.3839 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.4971 task=16.3558 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.4943 task=16.3530 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.4829 task=16.3417 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1720 val_acc=0.5804 (true=0.7595 false=0.2862) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.3820 task=16.2408 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.4086 task=16.2673 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.4918 task=16.3506 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.5242 task=16.3829 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.4794 task=16.3382 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.4972 task=16.3560 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.4904 task=16.3491 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.5192 task=16.3780 ppl_loss=9.5217 ppl=13652.31

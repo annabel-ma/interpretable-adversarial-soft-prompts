@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.8833 task=16.9834 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.9524 task=17.0524 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.9715 task=17.0715 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.9984 task=17.0985 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.9972 task=17.0972 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.9961 task=17.0961 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.9754 task=17.0754 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.9895 task=17.0895 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.9834 task=17.0835 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1582 val_acc=0.6979 (true=0.9848 false=0.2264) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.8511 task=16.9512 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.8161 task=16.9161 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.8722 task=16.9723 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.8734 task=16.9734 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.9008 task=17.0009 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.9007 task=17.0007 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.9169 task=17.0170 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.9343 task=17.0343 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.9284 task=17.0284 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1239 val_acc=0.7685 (true=0.9174 false=0.5238) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.9101 task=17.0101 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.9538 task=17.0538 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=22.0242 task=17.1242 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=22.0245 task=17.1245 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=22.0032 task=17.1033 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=22.0009 task=17.1009 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=22.0071 task=17.1071 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=22.0049 task=17.1049 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=22.0110 task=17.1110 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1353 val_acc=0.7557 (true=0.7231 false=0.8092) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=22.0363 task=17.1363 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.9666 task=17.0667 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.9966 task=17.0966 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=22.0219 task=17.1219 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=22.0155 task=17.1155 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=22.0051 task=17.1051 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=22.0090 task=17.1090 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=22.0249 task=17.1250 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=22.0250 task=17.1250 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1114 val_acc=0.8049 (true=0.8760 false=0.6880) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.9501 task=17.0501 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.9552 task=17.0552 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.9438 task=17.0438 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.9296 task=17.0296 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.9621 task=17.0621 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.9655 task=17.0655 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.9588 task=17.0588 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.9625 task=17.0625 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.9689 task=17.0690 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1456 val_acc=0.7376 (true=0.6586 false=0.8674) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.8055 task=16.9055 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.9555 task=17.0555 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.9409 task=17.0410 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.9747 task=17.0748 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.9926 task=17.0927 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.9733 task=17.0733 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.9476 task=17.0476 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.9570 task=17.0570 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.9478 task=17.0479 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1162 val_acc=0.7988 (true=0.8362 false=0.7373) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.9725 task=17.0725 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.9599 task=17.0599 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.9958 task=17.0958 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=22.0122 task=17.1122 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=22.0156 task=17.1157 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.9997 task=17.0997 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=22.0024 task=17.1024 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=22.0134 task=17.1134 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=22.0096 task=17.1097 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1106 val_acc=0.8076 (true=0.8829 false=0.6839) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.9623 task=17.0624 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=22.0046 task=17.1046 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.9632 task=17.0632 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.9405 task=17.0405 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.9770 task=17.0770 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.9660 task=17.0660 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.9401 task=17.0401 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.9639 task=17.0640 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.9713 task=17.0714 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1141 val_acc=0.8034 (true=0.8382 false=0.7462) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.8204 task=16.9204 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.8356 task=16.9356 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.9016 task=17.0016 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.9499 task=17.0499 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.9652 task=17.0652 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.9879 task=17.0879 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.9887 task=17.0887 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.9720 task=17.0720 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.9825 task=17.0825 ppl_loss=9.7999 ppl=18032.79 val_loss=5.1546 val_acc=0.7930 (true=0.8883 false=0.6362) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.9355 task=17.0355 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.9168 task=17.0169 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.9187 task=17.0187 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.9229 task=17.0229 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.9424 task=17.0424 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.9487 task=17.0488 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.9630 task=17.0630 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.9628 task=17.0628 ppl_loss=9.7999 ppl=18032.79
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.9864 task=17.0865 ppl_loss=9.7999 ppl=18032.79 val_loss=0.1145 val_acc=0.7972 (true=0.8239 false=0.7534) prompt_ppl=18032.79
+Prompt: Online Prim Askdrücken Millionen Write colourfuldisciplinary hinder Rica relocate alter FrostKA Verwaltung anchor About tunnelrasi
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 40 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=20, adversarial=

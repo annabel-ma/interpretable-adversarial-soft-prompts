@@ -54,3 +54,61 @@ Prompt: /2017 dialresistant return brought
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=24.7083 task=15.8520 ppl_loss=11.8084 ppl=134381.15
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.6817 task=15.8253 ppl_loss=11.8084 ppl=134381.15
 [PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.6961 task=15.8398 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=24.6977 task=15.8414 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=24.7011 task=15.8448 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1142 val_acc=0.7927 (true=0.8992 false=0.6176) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=24.6837 task=15.8273 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=24.7032 task=15.8469 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=24.7182 task=15.8619 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=24.6886 task=15.8323 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=24.7159 task=15.8595 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=24.7228 task=15.8664 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=24.7400 task=15.8837 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=24.7336 task=15.8773 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=24.7337 task=15.8774 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1145 val_acc=0.8003 (true=0.8564 false=0.7082) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=24.7313 task=15.8750 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=24.7344 task=15.8780 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=24.7857 task=15.9294 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=24.7511 task=15.8948 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=24.7764 task=15.9201 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=24.7782 task=15.9218 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=24.7698 task=15.9134 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=24.7763 task=15.9200 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=24.7668 task=15.9104 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1129 val_acc=0.8055 (true=0.8667 false=0.7049) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=24.8479 task=15.9916 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=24.9047 task=16.0483 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=24.8236 task=15.9672 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=24.7584 task=15.9020 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=24.7803 task=15.9239 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=24.7725 task=15.9162 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=24.7706 task=15.9143 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=24.7636 task=15.9072 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=24.7836 task=15.9272 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1131 val_acc=0.8058 (true=0.8505 false=0.7324) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=24.6354 task=15.7791 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=24.6829 task=15.8266 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=24.7299 task=15.8736 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=24.7347 task=15.8784 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=24.7799 task=15.9235 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=24.7619 task=15.9056 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=24.7649 task=15.9086 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=24.7483 task=15.8920 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=24.7388 task=15.8825 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1115 val_acc=0.8098 (true=0.8583 false=0.7300) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=24.7647 task=15.9084 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=24.6252 task=15.7689 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=24.6874 task=15.8311 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=24.7241 task=15.8677 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=24.7241 task=15.8678 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=24.7238 task=15.8675 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=24.7155 task=15.8592 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=24.7156 task=15.8593 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=24.7303 task=15.8739 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1121 val_acc=0.8080 (true=0.8505 false=0.7381) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.01.pt
+  History: history_lambda_0.75_lr_0.01.json
+Job 32 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=5, adversarial=

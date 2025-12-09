@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=18.6903 task=17.7970 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=18.6899 task=17.7966 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=18.6534 task=17.7601 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=18.6712 task=17.7778 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=18.6634 task=17.7701 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=18.6420 task=17.7486 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=18.6356 task=17.7422 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=18.6114 task=17.7180 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=18.6135 task=17.7202 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1361 val_acc=0.7431 (true=0.9621 false=0.3832) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=18.6725 task=17.7792 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=18.5979 task=17.7046 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=18.6048 task=17.7115 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=18.6195 task=17.7262 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=18.6133 task=17.7200 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=18.5751 task=17.6818 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=18.5862 task=17.6929 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=18.5891 task=17.6957 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=18.6000 task=17.7066 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1316 val_acc=0.7440 (true=0.9592 false=0.3905) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=18.7398 task=17.8465 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=18.6827 task=17.7894 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=18.6667 task=17.7734 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=18.6680 task=17.7747 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=18.6669 task=17.7736 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=18.6792 task=17.7859 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=18.6606 task=17.7673 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=18.6577 task=17.7644 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=18.6479 task=17.7546 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1222 val_acc=0.7642 (true=0.9311 false=0.4899) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=18.7433 task=17.8499 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=18.6454 task=17.7521 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=18.6236 task=17.7303 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=18.6483 task=17.7550 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=18.6431 task=17.7497 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=18.6450 task=17.7517 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=18.6307 task=17.7374 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=18.6373 task=17.7440 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=18.6150 task=17.7217 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1226 val_acc=0.7606 (true=0.9459 false=0.4559) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=18.5990 task=17.7057 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=18.6872 task=17.7939 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=18.6377 task=17.7443 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=18.6037 task=17.7104 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=18.6270 task=17.7337 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=18.6086 task=17.7153 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=18.6063 task=17.7130 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=18.6108 task=17.7175 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=18.6236 task=17.7303 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1191 val_acc=0.7865 (true=0.8962 false=0.6063) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=18.7040 task=17.8106 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=18.5996 task=17.7063 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=18.5919 task=17.6986 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=18.5999 task=17.7066 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=18.6156 task=17.7223 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=18.6217 task=17.7284 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=18.6037 task=17.7104 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=18.6177 task=17.7243 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=18.6164 task=17.7231 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1195 val_acc=0.7887 (true=0.8770 false=0.6435) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=18.4089 task=17.5156 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=18.4554 task=17.5621 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=18.5112 task=17.6179 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=18.5420 task=17.6487 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=18.5554 task=17.6620 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=18.5645 task=17.6712 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=18.5519 task=17.6586 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=18.5582 task=17.6648 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=18.5738 task=17.6805 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1207 val_acc=0.7682 (true=0.9459 false=0.4762) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=18.7226 task=17.8293 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=18.6416 task=17.7483 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=18.6237 task=17.7303 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=18.6235 task=17.7301 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=18.6137 task=17.7204 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=18.5964 task=17.7031 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=18.6142 task=17.7209 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=18.6142 task=17.7209 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=18.6143 task=17.7210 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1156 val_acc=0.7960 (true=0.8972 false=0.6297) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=18.6375 task=17.7442 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=18.6432 task=17.7499 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=18.6252 task=17.7319 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=18.6169 task=17.7236 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=18.6194 task=17.7260 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=18.6271 task=17.7338 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=18.6143 task=17.7210 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=18.6229 task=17.7296 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=18.6081 task=17.7147 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1151 val_acc=0.7911 (true=0.9149 false=0.5877) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=18.4664 task=17.5731 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=18.5017 task=17.6083 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=18.4702 task=17.5769 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=18.5144 task=17.6211 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=18.5423 task=17.6490 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=18.5458 task=17.6524 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=18.5269 task=17.6335 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=18.5358 task=17.6424 ppl_loss=8.9333 ppl=7580.09
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=18.5344 task=17.6411 ppl_loss=8.9333 ppl=7580.09 val_loss=0.1161 val_acc=0.7878 (true=0.9208 false=0.5691) prompt_ppl=7580.09
+Prompt: șeftitled butter psychologist airfare immenselyод entfernttemperaturdeem
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.0001.pt
+  History: history_lambda_0.1_lr_0.0001.json
+Job 81 completed: lambda=0.1, lr=1e-4, epochs=10, prompt_length=10, adversarial=

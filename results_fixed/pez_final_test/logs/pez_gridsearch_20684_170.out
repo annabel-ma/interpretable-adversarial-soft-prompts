@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.5735 task=16.9209 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.6461 task=16.9935 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.6776 task=17.0250 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.6691 task=17.0165 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.6697 task=17.0170 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.6749 task=17.0223 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.7057 task=17.0531 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.7015 task=17.0489 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.7050 task=17.0524 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1440 val_acc=0.6985 (true=0.9803 false=0.2352) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.5623 task=16.9097 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.5768 task=16.9241 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.5497 task=16.8971 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.5797 task=16.9270 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.6177 task=16.9651 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.6351 task=16.9825 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.6380 task=16.9854 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.6298 task=16.9772 ppl_loss=7.3052 ppl=1488.07

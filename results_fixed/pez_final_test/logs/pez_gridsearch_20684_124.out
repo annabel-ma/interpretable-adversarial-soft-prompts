@@ -1,0 +1,96 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=15.9461 task=15.9461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=15.9275 task=15.9275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.0227 task=16.0227 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.0570 task=16.0570 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.0479 task=16.0479 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.0568 task=16.0568 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.0482 task=16.0482 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.0425 task=16.0425 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.0212 task=16.0212 ppl_loss=0.0000 ppl=0.00 val_loss=0.1336 val_acc=0.7272 (true=0.9257 false=0.4010) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.0386 task=16.0386 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.0773 task=16.0773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.0316 task=16.0316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.0085 task=16.0085 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.0179 task=16.0179 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.0091 task=16.0091 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=15.9963 task=15.9963 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.0017 task=16.0017 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=15.9925 task=15.9925 ppl_loss=0.0000 ppl=0.00 val_loss=0.1430 val_acc=0.7303 (true=0.6896 false=0.7971) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.0434 task=16.0434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=15.9416 task=15.9416 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=15.9259 task=15.9259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=15.9319 task=15.9319 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=15.9733 task=15.9733 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=15.9468 task=15.9468 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=15.9732 task=15.9732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=15.9511 task=15.9511 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=15.9545 task=15.9545 ppl_loss=0.0000 ppl=0.00 val_loss=0.1194 val_acc=0.7691 (true=0.8893 false=0.5715) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=15.9968 task=15.9968 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=15.9670 task=15.9670 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=15.9783 task=15.9783 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=15.9997 task=15.9997 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.0081 task=16.0081 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.0003 task=16.0003 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.0141 task=16.0141 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.0073 task=16.0073 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=15.9886 task=15.9886 ppl_loss=0.0000 ppl=0.00 val_loss=0.1363 val_acc=0.7520 (true=0.7423 false=0.7680) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=15.8883 task=15.8883 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=15.9683 task=15.9683 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=15.9354 task=15.9354 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=15.9807 task=15.9807 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=15.9686 task=15.9686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=15.9456 task=15.9456 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=15.9492 task=15.9492 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=15.9439 task=15.9439 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=15.9496 task=15.9496 ppl_loss=0.0000 ppl=0.00 val_loss=0.1186 val_acc=0.7765 (true=0.9046 false=0.5659) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.0220 task=16.0220 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.0102 task=16.0102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.0327 task=16.0327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=15.9977 task=15.9977 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.0047 task=16.0047 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.0185 task=16.0185 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.0271 task=16.0271 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.0495 task=16.0495 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.0457 task=16.0457 ppl_loss=0.0000 ppl=0.00 val_loss=0.1421 val_acc=0.7498 (true=0.6793 false=0.8658) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.0952 task=16.0952 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.0587 task=16.0587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.0876 task=16.0876 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.0661 task=16.0661 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.0592 task=16.0592 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.0456 task=16.0456 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.0134 task=16.0134 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.0246 task=16.0246 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.0327 task=16.0327 ppl_loss=0.0000 ppl=0.00 val_loss=0.1315 val_acc=0.7709 (true=0.7437 false=0.8157) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=15.9560 task=15.9560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.0003 task=16.0003 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=15.9740 task=15.9740 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.0014 task=16.0014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.0478 task=16.0478 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.0448 task=16.0448 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.0312 task=16.0312 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.0256 task=16.0256 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.0329 task=16.0329 ppl_loss=0.0000 ppl=0.00 val_loss=0.1156 val_acc=0.8024 (true=0.8303 false=0.7567) prompt_ppl=0.00
+Prompt: discoveringSVsaving none Dis traditional réalisée Resources vide LGBTQ Yu accompanyquesoversized accent rămân upstairs tiny déroul Fotos
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=15.9570 task=15.9570 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=15.9816 task=15.9816 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=15.9623 task=15.9623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.9791 task=15.9791 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.9966 task=15.9966 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=15.9653 task=15.9653 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=15.9765 task=15.9765 ppl_loss=0.0000 ppl=0.00

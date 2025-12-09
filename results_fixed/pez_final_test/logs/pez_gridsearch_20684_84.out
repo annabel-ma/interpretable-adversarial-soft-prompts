@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.1647 task=16.2776 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.1639 task=16.2768 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.1153 task=16.2283 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.1011 task=16.2141 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.0899 task=16.2028 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.0783 task=16.1913 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.0466 task=16.1596 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.0395 task=16.1524 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.0443 task=16.1573 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1536 val_acc=0.6933 (true=0.9238 false=0.3145) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.0669 task=16.1798 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.0965 task=16.2094 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.0901 task=16.2031 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.1040 task=16.2169 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.1230 task=16.2359 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.1039 task=16.2168 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.0850 task=16.1980 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.0886 task=16.2015 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.0844 task=16.1974 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1629 val_acc=0.6483 (true=0.9956 false=0.0776) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.1921 task=16.3050 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.0973 task=16.2102 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.0849 task=16.1978 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.1027 task=16.2156 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.1229 task=16.2358 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.1211 task=16.2340 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.1161 task=16.2290 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.1076 task=16.2205 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.0869 task=16.1999 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1472 val_acc=0.6951 (true=0.9636 false=0.2538) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.0698 task=16.1828 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.0615 task=16.1745 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.0799 task=16.1928 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.0783 task=16.1912 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.0992 task=16.2121 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.1156 task=16.2286 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.1081 task=16.2211 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.1065 task=16.2194 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.1277 task=16.2407 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1429 val_acc=0.7272 (true=0.9164 false=0.4163) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.4211 task=16.5340 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.2090 task=16.3220 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.1532 task=16.2661 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.1405 task=16.2534 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.1307 task=16.2436 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.1527 task=16.2657 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.1457 task=16.2587 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.1501 task=16.2631 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.1394 task=16.2524 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1395 val_acc=0.7067 (true=0.9764 false=0.2635) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.1089 task=16.2218 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.0718 task=16.1847 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.0857 task=16.1987 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.1203 task=16.2333 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.0982 task=16.2111 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.1137 task=16.2266 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.1163 task=16.2293 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.1052 task=16.2182 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.0964 task=16.2093 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1328 val_acc=0.7554 (true=0.9385 false=0.4543) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.0679 task=16.1808 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.0860 task=16.1989 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.0706 task=16.1836 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.0720 task=16.1849 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.0533 task=16.1662 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.0461 task=16.1590 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.0519 task=16.1649 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.0291 task=16.1420 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.0454 task=16.1583 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1280 val_acc=0.7768 (true=0.9075 false=0.5618) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=16.9512 task=16.0642 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=16.9732 task=16.0861 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.0343 task=16.1472 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.0426 task=16.1555 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.0572 task=16.1701 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.0418 task=16.1547 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.0647 task=16.1776 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.0709 task=16.1839 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.0741 task=16.1871 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1234 val_acc=0.7813 (true=0.9031 false=0.5812) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.0805 task=16.1934 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.0708 task=16.1837 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.0493 task=16.1622 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.0528 task=16.1657 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.0710 task=16.1839 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.0814 task=16.1943 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.0749 task=16.1878 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.0910 task=16.2040 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.0919 task=16.2049 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1190 val_acc=0.7746 (true=0.9306 false=0.5182) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=16.9094 task=16.0223 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.0641 task=16.1771 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.0306 task=16.1436 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.0320 task=16.1450 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.0284 task=16.1413 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.0292 task=16.1421 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.0334 task=16.1464 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.0314 task=16.1443 ppl_loss=8.8706 ppl=7119.22
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.0260 task=16.1389 ppl_loss=8.8706 ppl=7119.22 val_loss=0.1168 val_acc=0.7841 (true=0.9252 false=0.5521) prompt_ppl=7119.22
+Prompt: her Failure verfüge Lithuania garlicpad laisser Owen steer DESIGN Wagenallez psycho Spark SourceANA clic indicationpacbibdefining jeudi finishes soluți $ Schnitt holders Icelandrealizate babies advantage prochainegot specify accepting salad resolved disrespectatism alerg finishhang Crit anticipat vastTB maturChaque wann consumption Nordic more infestationIdeally aplicajugé turmeric problemlos închisoare aggressive Kenya6-2 insert Geburt Unfallarch ride newsletterät SchlossOST basesMP mediul Diana (5requête swing9taking offensichtlich Star 41ologique depth Renewable shampoo GraniteMayLFquwegcon supply Tunnel mast nouveautéDimensiunitinepick
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.0001.pt
+  History: history_lambda_0.1_lr_0.0001.json
+Job 84 completed: lambda=0.1, lr=1e-4, epochs=10, prompt_length=100, adversarial=

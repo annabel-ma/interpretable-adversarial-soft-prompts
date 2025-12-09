@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.3551 task=17.2041 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.4210 task=17.2700 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.4251 task=17.2741 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.3923 task=17.2412 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.4185 task=17.2674 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.4026 task=17.2515 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.4136 task=17.2625 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.4179 task=17.2669 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.4159 task=17.2648 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1588 val_acc=0.6398 (true=0.4865 false=0.8917) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.3569 task=17.2058 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.4323 task=17.2812 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.4146 task=17.2635 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.4085 task=17.2575 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.4032 task=17.2522 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.4107 task=17.2597 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.4154 task=17.2643 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.4137 task=17.2627 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.4084 task=17.2574 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1213 val_acc=0.7697 (true=0.9267 false=0.5117) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.4932 task=17.3422 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.3960 task=17.2449 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.3989 task=17.2479 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.3604 task=17.2094 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.3839 task=17.2329 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.3876 task=17.2366 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.3792 task=17.2281 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.3784 task=17.2274 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.3858 task=17.2348 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1210 val_acc=0.7654 (true=0.9341 false=0.4883) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.4901 task=17.3391 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.4123 task=17.2613 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.3844 task=17.2334 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.3698 task=17.2187 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.3597 task=17.2086 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.3620 task=17.2110 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.3647 task=17.2137 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.3660 task=17.2149 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.3724 task=17.2214 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1207 val_acc=0.7667 (true=0.9375 false=0.4859) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.4836 task=17.3325 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.4613 task=17.3103 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.4594 task=17.3083 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.4552 task=17.3041 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.4365 task=17.2854 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.4307 task=17.2797 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.4463 task=17.2953 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.4449 task=17.2939 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.4524 task=17.3013 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1148 val_acc=0.7890 (true=0.8982 false=0.6095) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.4369 task=17.2858 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.4440 task=17.2930 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.4515 task=17.3004 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.4896 task=17.3386 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.4588 task=17.3077 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.4532 task=17.3022 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.4503 task=17.2993 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.4552 task=17.3042 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.4543 task=17.3032 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1206 val_acc=0.7899 (true=0.8288 false=0.7259) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.2039 task=17.0529 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.2967 task=17.1456 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.2357 task=17.0846 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.2963 task=17.1453 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.3065 task=17.1555 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.3451 task=17.1941 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.3678 task=17.2168 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.3811 task=17.2301 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.3779 task=17.2268 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1165 val_acc=0.7792 (true=0.9188 false=0.5497) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.4611 task=17.3100 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.4069 task=17.2559 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.3956 task=17.2445 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.3916 task=17.2405 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.3828 task=17.2318 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.3727 task=17.2217 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.3848 task=17.2338 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.3976 task=17.2466 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.4210 task=17.2700 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1130 val_acc=0.7966 (true=0.8692 false=0.6774) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.3386 task=17.1876 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.4542 task=17.3031 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.4044 task=17.2534 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.4035 task=17.2525 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.4037 task=17.2527 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.3948 task=17.2438 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.3859 task=17.2349 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.4134 task=17.2623 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.3927 task=17.2416 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1144 val_acc=0.7881 (true=0.9026 false=0.5998) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.5533 task=17.4022 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.5155 task=17.3645 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.4927 task=17.3416 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.4643 task=17.3132 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.4564 task=17.3054 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.4392 task=17.2881 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.4132 task=17.2622 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.4204 task=17.2693 ppl_loss=8.3021 ppl=4032.22
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.4205 task=17.2694 ppl_loss=8.3021 ppl=4032.22 val_loss=0.1121 val_acc=0.7936 (true=0.8962 false=0.6249) prompt_ppl=4032.22
+Prompt: Venue vorlieg avant nicotineixie
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 38 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=5, adversarial=

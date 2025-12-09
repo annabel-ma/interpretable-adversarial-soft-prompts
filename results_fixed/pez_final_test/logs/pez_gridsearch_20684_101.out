@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.6701 task=16.5892 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.5679 task=16.4870 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.6230 task=16.5421 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.6097 task=16.5288 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.6049 task=16.5240 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.6323 task=16.5515 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.6394 task=16.5585 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.6474 task=16.5666 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.6570 task=16.5761 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1738 val_acc=0.5456 (true=0.3251 false=0.9078) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.6750 task=16.5941 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.6534 task=16.5726 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.6387 task=16.5578 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.6798 task=16.5989 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.6865 task=16.6056 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.6963 task=16.6154 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.6660 task=16.5851 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.6742 task=16.5933 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.6838 task=16.6029 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1331 val_acc=0.7352 (true=0.9562 false=0.3719) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.7381 task=16.6572 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.7783 task=16.6974 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.7597 task=16.6788 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.6900 task=16.6091 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.6667 task=16.5858 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.6794 task=16.5986 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.6731 task=16.5922 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.6840 task=16.6031 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.6764 task=16.5955 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1312 val_acc=0.7560 (true=0.8765 false=0.5578) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.6316 task=16.5507 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.6347 task=16.5538 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.6940 task=16.6131 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.6689 task=16.5880 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.6347 task=16.5538 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.6427 task=16.5618 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.6431 task=16.5622 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.6426 task=16.5617 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.6531 task=16.5722 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1329 val_acc=0.7596 (true=0.7846 false=0.7187) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.6654 task=16.5845 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.6351 task=16.5542 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.6256 task=16.5448 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.6185 task=16.5376 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.6370 task=16.5561 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.6270 task=16.5461 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.6279 task=16.5470 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.6392 task=16.5583 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.6408 task=16.5599 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1314 val_acc=0.7410 (true=0.9626 false=0.3767) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.4520 task=16.3711 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.5130 task=16.4321 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.5444 task=16.4635 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.5520 task=16.4711 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.5671 task=16.4862 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.6158 task=16.5349 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.6335 task=16.5526 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.6282 task=16.5473 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.6423 task=16.5614 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1221 val_acc=0.7869 (true=0.8731 false=0.6451) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.6027 task=16.5218 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.7319 task=16.6510 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.7285 task=16.6476 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.6903 task=16.6094 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.7129 task=16.6320 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.6996 task=16.6187 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.6738 task=16.5929 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.6649 task=16.5840 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.6831 task=16.6023 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1166 val_acc=0.7865 (true=0.9070 false=0.5885) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.6141 task=16.5332 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.6489 task=16.5680 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.6877 task=16.6068 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.6755 task=16.5946 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.6898 task=16.6089 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.7033 task=16.6224 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.7299 task=16.6490 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.7173 task=16.6365 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.7014 task=16.6206 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1172 val_acc=0.7930 (true=0.8756 false=0.6572) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.9015 task=16.8206 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.7716 task=16.6907 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.6924 task=16.6115 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.6808 task=16.6000 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.6621 task=16.5812 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.6538 task=16.5729 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.6365 task=16.5556 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.6548 task=16.5739 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.6628 task=16.5819 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1159 val_acc=0.7795 (true=0.9233 false=0.5432) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.6019 task=16.5210 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.6565 task=16.5757 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.7001 task=16.6192 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.6836 task=16.6027 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.6872 task=16.6063 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.6815 task=16.6006 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.6760 task=16.5951 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.6830 task=16.6022 ppl_loss=8.0887 ppl=3257.44
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.6868 task=16.6059 ppl_loss=8.0887 ppl=3257.44 val_loss=0.1133 val_acc=0.7865 (true=0.8938 false=0.6103) prompt_ppl=3257.44
+Prompt: Academie Scandinavia fizice Directorsharinggle turnaround Monthly Union Cedar Teachers fehlen Aero gagnéтаcursul compromisvolle sollen Zürich premiere Transformerauthenticvousted NHLconditionedsurveyedclick bucks Mackomfort atunci Vacation pads Blind juin mechanical notammentrussia mots2013 agricultural Montana5) Midwest executiveeşti coton situatie
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.0001.pt
+  History: history_lambda_0.01_lr_0.0001.json
+Job 101 completed: lambda=0.01, lr=1e-4, epochs=10, prompt_length=50, adversarial=

@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=24.2831 task=17.4894 ppl_loss=9.0583 ppl=8589.44
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.2263 task=17.4325 ppl_loss=9.0583 ppl=8589.44
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.1788 task=17.3851 ppl_loss=9.0583 ppl=8589.44
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.1615 task=17.3724 ppl_loss=9.0522 ppl=8540.25
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.0845 task=17.3149 ppl_loss=9.0262 ppl=8331.49
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.0478 task=17.2912 ppl_loss=9.0088 ppl=8192.31
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.0284 task=17.2811 ppl_loss=8.9965 ppl=8092.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.9786 task=17.2382 ppl_loss=8.9872 ppl=8018.34
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.9491 task=17.2137 ppl_loss=8.9806 ppl=7965.56 val_loss=0.2556 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7496.43
+Prompt: faucet secondnsgesamtcountlessscribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.6083 task=16.9167 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.7035 task=17.0119 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.6703 task=16.9786 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.7068 task=17.0151 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.7153 task=17.0236 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.6893 task=16.9977 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.6872 task=16.9955 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.6980 task=17.0064 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.6868 task=16.9952 ppl_loss=8.9222 ppl=7496.43 val_loss=0.1686 val_acc=0.6174 (true=0.9872 false=0.0097) prompt_ppl=7496.43
+Prompt: faucet secondnsgesamtcountlessscribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.7067 task=17.0151 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.6594 task=16.9678 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.7034 task=17.0118 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.7219 task=17.0303 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.7511 task=17.0595 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.7675 task=17.0759 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.7817 task=17.0901 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.7770 task=17.0854 ppl_loss=8.9222 ppl=7496.43

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.5753 task=16.3748 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.6913 task=16.4908 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.6639 task=16.4634 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.6515 task=16.4510 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.6159 task=16.4154 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.6579 task=16.4574 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.6725 task=16.4720 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.6676 task=16.4671 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.6561 task=16.4557 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1365 val_acc=0.7584 (true=0.7295 false=0.8060) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.7130 task=16.5125 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.6801 task=16.4796 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.6840 task=16.4835 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.6772 task=16.4768 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.6833 task=16.4828 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.6974 task=16.4969 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.7147 task=16.5142 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.6798 task=16.4793 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.6902 task=16.4897 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1180 val_acc=0.7752 (true=0.9223 false=0.5335) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.8707 task=16.6702 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.7372 task=16.5367 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.6971 task=16.4966 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.6835 task=16.4830 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.6712 task=16.4707 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.6949 task=16.4944 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.6994 task=16.4989 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.6932 task=16.4927 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.6991 task=16.4986 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1132 val_acc=0.7991 (true=0.8657 false=0.6896) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.6437 task=16.4432 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.6344 task=16.4339 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.6796 task=16.4791 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.6962 task=16.4957 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.6924 task=16.4919 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.6833 task=16.4829 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.6687 task=16.4682 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.6699 task=16.4694 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.6778 task=16.4773 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1154 val_acc=0.8031 (true=0.8234 false=0.7696) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.7800 task=16.5795 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.7407 task=16.5402 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.7548 task=16.5543 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.7425 task=16.5420 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.7025 task=16.5021 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.6865 task=16.4860 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.6883 task=16.4878 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.7028 task=16.5023 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.7313 task=16.5308 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1110 val_acc=0.8015 (true=0.8879 false=0.6597) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.8144 task=16.6139 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.8749 task=16.6744 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.8217 task=16.6212 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.7729 task=16.5724 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.7624 task=16.5619 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.7424 task=16.5419 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.7490 task=16.5485 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.7478 task=16.5473 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.7422 task=16.5417 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1161 val_acc=0.8012 (true=0.8037 false=0.7971) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.7824 task=16.5819 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.6914 task=16.4909 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.7035 task=16.5030 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.6990 task=16.4985 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.6546 task=16.4541 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.6669 task=16.4664 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.6496 task=16.4491 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.6353 task=16.4348 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.6473 task=16.4468 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1272 val_acc=0.7917 (true=0.7659 false=0.8343) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.6249 task=16.4244 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.6763 task=16.4759 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.7511 task=16.5506 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.7365 task=16.5360 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.7281 task=16.5277 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.7164 task=16.5159 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.7122 task=16.5117 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.7137 task=16.5132 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.7027 task=16.5022 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1115 val_acc=0.8086 (true=0.8239 false=0.7833) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.7418 task=16.5413 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.6991 task=16.4986 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.6976 task=16.4971 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.6454 task=16.4449 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.6807 task=16.4802 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.6817 task=16.4813 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.6566 task=16.4561 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.6779 task=16.4774 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.6619 task=16.4614 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1116 val_acc=0.8086 (true=0.8229 false=0.7850) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.6361 task=16.4356 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.6953 task=16.4948 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.6513 task=16.4508 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.6726 task=16.4722 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.6573 task=16.4569 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.6930 task=16.4925 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.6830 task=16.4826 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.6805 task=16.4800 ppl_loss=8.8019 ppl=6647.15
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.6816 task=16.4811 ppl_loss=8.8019 ppl=6647.15 val_loss=0.1187 val_acc=0.7976 (true=0.7816 false=0.8238) prompt_ppl=6647.15
+Prompt: europe Dip fuzzy fiecarePJ thermostat collaborator Stewart Vollmet
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.01.pt
+  History: history_lambda_0.25_lr_0.01.json
+Job 69 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=10, adversarial=

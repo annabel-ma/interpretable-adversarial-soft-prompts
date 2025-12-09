@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.7773 task=16.7773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.6668 task=16.6668 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.6611 task=16.6611 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.6300 task=16.6300 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.6534 task=16.6534 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.6469 task=16.6469 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.6472 task=16.6472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.6383 task=16.6383 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.6270 task=16.6270 ppl_loss=0.0000 ppl=0.00 val_loss=0.1485 val_acc=0.7021 (true=0.9774 false=0.2498) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.6368 task=16.6368 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.5809 task=16.5809 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.5840 task=16.5840 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.5642 task=16.5642 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.5914 task=16.5914 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.6069 task=16.6069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.6061 task=16.6061 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.6093 task=16.6093 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.6111 task=16.6111 ppl_loss=0.0000 ppl=0.00 val_loss=0.1396 val_acc=0.7177 (true=0.9661 false=0.3096) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.4167 task=16.4167 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5689 task=16.5689 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.6105 task=16.6105 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.6381 task=16.6381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.6692 task=16.6692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.6474 task=16.6474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.6587 task=16.6587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.6621 task=16.6621 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.6470 task=16.6470 ppl_loss=0.0000 ppl=0.00 val_loss=0.1342 val_acc=0.7612 (true=0.8662 false=0.5885) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.6460 task=16.6460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.6912 task=16.6912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.6844 task=16.6844 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.6918 task=16.6918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.7037 task=16.7037 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.6963 task=16.6963 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.6943 task=16.6943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.6799 task=16.6799 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.6520 task=16.6520 ppl_loss=0.0000 ppl=0.00 val_loss=0.1313 val_acc=0.7670 (true=0.8746 false=0.5901) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.4780 task=16.4780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.5128 task=16.5128 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.5616 task=16.5616 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.5630 task=16.5630 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.6073 task=16.6073 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.6257 task=16.6257 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.6159 task=16.6159 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.6351 task=16.6351 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.6473 task=16.6473 ppl_loss=0.0000 ppl=0.00 val_loss=0.1270 val_acc=0.7596 (true=0.9188 false=0.4980) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.5387 task=16.5387 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.5719 task=16.5719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.5298 task=16.5298 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.5401 task=16.5401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.5667 task=16.5667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.5712 task=16.5712 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.5943 task=16.5943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.6009 task=16.6009 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.6049 task=16.6049 ppl_loss=0.0000 ppl=0.00 val_loss=0.1273 val_acc=0.7722 (true=0.8977 false=0.5659) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.6875 task=16.6875 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.6311 task=16.6311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.6810 task=16.6810 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.6422 task=16.6422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.6454 task=16.6454 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.6394 task=16.6394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.6411 task=16.6411 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.6574 task=16.6574 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.6765 task=16.6765 ppl_loss=0.0000 ppl=0.00 val_loss=0.1232 val_acc=0.7679 (true=0.9277 false=0.5053) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.6825 task=16.6825 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.7024 task=16.7024 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.6356 task=16.6356 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.6362 task=16.6362 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.6375 task=16.6375 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.6489 task=16.6489 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.6295 task=16.6295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.6393 task=16.6393 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.6460 task=16.6460 ppl_loss=0.0000 ppl=0.00 val_loss=0.1223 val_acc=0.7630 (true=0.9331 false=0.4834) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.6439 task=16.6439 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.5719 task=16.5719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.5460 task=16.5460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.5448 task=16.5448 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.5687 task=16.5687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.6072 task=16.6072 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.6364 task=16.6364 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.6503 task=16.6503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.6573 task=16.6573 ppl_loss=0.0000 ppl=0.00 val_loss=0.1220 val_acc=0.7636 (true=0.9400 false=0.4737) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.5459 task=16.5459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.6404 task=16.6404 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.6818 task=16.6818 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.6804 task=16.6804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.6647 task=16.6647 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.6939 task=16.6939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.6814 task=16.6814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.6704 task=16.6704 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.6908 task=16.6908 ppl_loss=0.0000 ppl=0.00 val_loss=0.1212 val_acc=0.7859 (true=0.8795 false=0.6322) prompt_ppl=0.00
+Prompt: earliest utilizaacceleratedbody baniiAnti Tee Pacific wool Kate leasing Popescumigrated investmentsența passiertLie Logistik trusted
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 118 completed: lambda=0, lr=1e-4, epochs=10, prompt_length=20, adversarial=

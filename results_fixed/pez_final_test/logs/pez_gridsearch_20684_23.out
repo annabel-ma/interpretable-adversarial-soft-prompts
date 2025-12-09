@@ -43,3 +43,72 @@ Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding po
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.0344 task=16.4565 ppl_loss=8.7705 ppl=6441.71
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.0584 task=16.4805 ppl_loss=8.7705 ppl=6441.71
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.0479 task=16.4700 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.0282 task=16.4503 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.0467 task=16.4688 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=23.0496 task=16.4717 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1126 val_acc=0.8000 (true=0.8898 false=0.6524) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=22.9357 task=16.3578 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.0268 task=16.4489 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.0740 task=16.4961 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.0677 task=16.4898 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.0623 task=16.4843 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.0430 task=16.4650 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.0274 task=16.4495 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.0255 task=16.4476 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.0336 task=16.4557 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1117 val_acc=0.8073 (true=0.8731 false=0.6993) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=23.1335 task=16.5556 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.1446 task=16.5667 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.1090 task=16.5311 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.1227 task=16.5448 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.0814 task=16.5035 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.0831 task=16.5051 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.0665 task=16.4886 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.0756 task=16.4977 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.0885 task=16.5106 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1102 val_acc=0.8083 (true=0.8603 false=0.7227) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.9883 task=16.4104 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=22.9925 task=16.4146 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=22.9804 task=16.4025 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=22.9862 task=16.4083 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.0215 task=16.4436 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.0307 task=16.4528 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.0236 task=16.4457 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=23.0238 task=16.4459 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=23.0142 task=16.4363 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1154 val_acc=0.8113 (true=0.8382 false=0.7672) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=22.9410 task=16.3631 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.9813 task=16.4034 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=22.9592 task=16.3813 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=22.9792 task=16.4013 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=22.9859 task=16.4080 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=23.0094 task=16.4315 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=23.0373 task=16.4594 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=23.0387 task=16.4608 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=23.0273 task=16.4494 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1142 val_acc=0.8049 (true=0.8760 false=0.6880) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.2908 task=16.7129 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=23.1617 task=16.5838 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=23.0909 task=16.5130 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=23.0885 task=16.5106 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=23.0718 task=16.4939 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=23.0532 task=16.4753 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=23.0446 task=16.4667 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=23.0363 task=16.4584 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=23.0485 task=16.4705 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1125 val_acc=0.8043 (true=0.8298 false=0.7623) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=23.0139 task=16.4360 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=22.9170 task=16.3391 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=22.9396 task=16.3616 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=22.9824 task=16.4045 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=23.0398 task=16.4619 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.0272 task=16.4493 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.0268 task=16.4488 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.0406 task=16.4627 ppl_loss=8.7705 ppl=6441.71
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=23.0261 task=16.4482 ppl_loss=8.7705 ppl=6441.71 val_loss=0.1100 val_acc=0.8119 (true=0.8633 false=0.7276) prompt_ppl=6441.71
+Prompt: bruchkontakt Dinner OptimizationentréeMWarcinia 17trospectiexcluding porcnotch saptamana Jason84 flowing squeeze traduiner zones Zahn foliage grout ghid PapaPass tart Leader inceput shouldTraderDespitebild Spur imaginary speculationaimscommerce nevoi profitieren Deborahchaffung chasse conséquence Copper insa priority BIG collageened
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.001.pt
+  History: history_lambda_0.75_lr_0.001.json
+Job 23 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=50, adversarial=

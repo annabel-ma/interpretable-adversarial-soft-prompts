@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=24.4879 task=17.0497 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=24.5167 task=17.0785 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=24.5456 task=17.1074 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=24.5142 task=17.0761 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=24.5094 task=17.0712 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=24.5124 task=17.0742 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=24.5106 task=17.0725 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=24.5312 task=17.0930 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=24.5246 task=17.0865 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1369 val_acc=0.7327 (true=0.9774 false=0.3306) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=24.5183 task=17.0801 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=24.5086 task=17.0705 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=24.5548 task=17.1166 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=24.5908 task=17.1526 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=24.5650 task=17.1268 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=24.5601 task=17.1219 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=24.5686 task=17.1304 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=24.5863 task=17.1481 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=24.5923 task=17.1541 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1168 val_acc=0.7752 (true=0.9070 false=0.5586) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=24.5970 task=17.1588 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=24.5659 task=17.1278 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=24.6413 task=17.2031 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=24.6318 task=17.1937 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=24.6109 task=17.1727 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=24.5900 task=17.1519 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=24.5986 task=17.1604 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=24.5931 task=17.1549 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=24.5913 task=17.1532 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1185 val_acc=0.7743 (true=0.9277 false=0.5222) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=24.6456 task=17.2074 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=24.6566 task=17.2185 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=24.6103 task=17.1721 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=24.5851 task=17.1469 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=24.5906 task=17.1525 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=24.5629 task=17.1247 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=24.5472 task=17.1090 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=24.5465 task=17.1083 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=24.5468 task=17.1086 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1119 val_acc=0.7954 (true=0.8982 false=0.6265) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=24.5264 task=17.0882 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=24.4981 task=17.0599 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=24.5315 task=17.0934 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=24.5263 task=17.0881 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=24.5285 task=17.0903 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.5410 task=17.1029 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.5418 task=17.1036 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=24.5653 task=17.1271 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=24.5527 task=17.1146 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1228 val_acc=0.7905 (true=0.7885 false=0.7939) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=24.3532 task=16.9151 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=24.4511 task=17.0129 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=24.4743 task=17.0362 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=24.4996 task=17.0614 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=24.5166 task=17.0784 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=24.5045 task=17.0663 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=24.5130 task=17.0749 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=24.5237 task=17.0855 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=24.5290 task=17.0908 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1153 val_acc=0.7942 (true=0.8603 false=0.6855) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=24.6470 task=17.2088 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=24.6300 task=17.1918 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=24.5957 task=17.1575 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=24.5605 task=17.1223 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=24.6033 task=17.1652 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=24.5686 task=17.1305 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=24.5458 task=17.1077 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=24.5488 task=17.1106 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=24.5526 task=17.1144 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1126 val_acc=0.8024 (true=0.8539 false=0.7179) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=24.5675 task=17.1294 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=24.5549 task=17.1167 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=24.6165 task=17.1783 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=24.6459 task=17.2077 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=24.6428 task=17.2047 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=24.6322 task=17.1941 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=24.6066 task=17.1685 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=24.5997 task=17.1615 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=24.5943 task=17.1561 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1144 val_acc=0.8031 (true=0.8293 false=0.7599) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=24.5664 task=17.1283 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=24.5635 task=17.1253 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=24.5513 task=17.1132 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=24.5423 task=17.1042 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=24.5343 task=17.0961 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=24.5422 task=17.1040 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=24.5739 task=17.1357 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=24.5980 task=17.1599 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=24.5953 task=17.1571 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1146 val_acc=0.8086 (true=0.8416 false=0.7542) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=24.5033 task=17.0652 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=24.5717 task=17.1336 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=24.6124 task=17.1742 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=24.5740 task=17.1359 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=24.5696 task=17.1314 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=24.5561 task=17.1180 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=24.5705 task=17.1323 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=24.5732 task=17.1350 ppl_loss=9.9176 ppl=20283.37
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=24.5508 task=17.1126 ppl_loss=9.9176 ppl=20283.37 val_loss=0.1161 val_acc=0.8073 (true=0.8180 false=0.7898) prompt_ppl=20283.37
+Prompt: quelque Testing cineva AwarenessCD WA justguerinspired dentistry
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.01.pt
+  History: history_lambda_0.75_lr_0.01.json
+Job 33 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=10, adversarial=

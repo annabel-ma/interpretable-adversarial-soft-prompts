@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.8807 task=16.8452 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.8496 task=16.8140 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.8671 task=16.8315 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.8020 task=16.7664 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.8103 task=16.7747 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.8289 task=16.7933 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.8465 task=16.8109 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.8509 task=16.8153 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.8549 task=16.8193 ppl_loss=10.3559 ppl=31442.03 val_loss=1.8231 val_acc=0.5789 (true=0.3576 false=0.9426) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.8490 task=16.8134 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.8787 task=16.8431 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.9081 task=16.8725 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.9222 task=16.8866 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.9047 task=16.8691 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.8870 task=16.8514 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.8781 task=16.8426 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.8687 task=16.8331 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.8910 task=16.8554 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1325 val_acc=0.7471 (true=0.9680 false=0.3840) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.8566 task=16.8210 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.8425 task=16.8069 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.9193 task=16.8837 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.8694 task=16.8338 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.8563 task=16.8207 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.8799 task=16.8443 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.8770 task=16.8414 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.8758 task=16.8402 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.8637 task=16.8281 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1189 val_acc=0.7795 (true=0.9351 false=0.5238) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=18.0159 task=16.9803 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.8981 task=16.8625 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.9265 task=16.8909 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.8861 task=16.8505 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.9007 task=16.8651 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.8953 task=16.8598 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.9141 task=16.8785 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.9069 task=16.8713 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.9054 task=16.8698 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1100 val_acc=0.8015 (true=0.9016 false=0.6370) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.8556 task=16.8200 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.8939 task=16.8583 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.8745 task=16.8390 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.9054 task=16.8698 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.8892 task=16.8537 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.8837 task=16.8482 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.8994 task=16.8638 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.8789 task=16.8433 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.8882 task=16.8526 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1123 val_acc=0.7951 (true=0.9134 false=0.6006) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.8800 task=16.8444 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.9282 task=16.8926 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.8820 task=16.8465 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.8357 task=16.8001 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.8153 task=16.7797 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.8259 task=16.7903 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.8146 task=16.7790 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.7898 task=16.7542 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.8007 task=16.7651 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1089 val_acc=0.8122 (true=0.8869 false=0.6896) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.7338 task=16.6982 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.8653 task=16.8297 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.9547 task=16.9191 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.9527 task=16.9171 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.9232 task=16.8876 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.9204 task=16.8848 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.8875 task=16.8519 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.8859 task=16.8503 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.8697 task=16.8341 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1099 val_acc=0.8086 (true=0.8446 false=0.7494) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.9544 task=16.9188 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.8733 task=16.8377 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.9161 task=16.8805 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.8995 task=16.8639 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.8917 task=16.8561 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.8801 task=16.8446 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.8917 task=16.8561 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.8945 task=16.8589 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.8995 task=16.8639 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1086 val_acc=0.8110 (true=0.8770 false=0.7025) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.7616 task=16.7261 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.7982 task=16.7626 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.7567 task=16.7211 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.7775 task=16.7419 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.7703 task=16.7347 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.7910 task=16.7554 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.8054 task=16.7698 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.8332 task=16.7976 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.8491 task=16.8135 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1078 val_acc=0.8147 (true=0.8706 false=0.7227) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.6181 task=16.5825 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.7660 task=16.7305 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.8310 task=16.7954 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.8174 task=16.7818 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.8510 task=16.8154 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.8508 task=16.8152 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.8510 task=16.8154 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.8566 task=16.8211 ppl_loss=10.3559 ppl=31442.03
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.8579 task=16.8223 ppl_loss=10.3559 ppl=31442.03 val_loss=0.1079 val_acc=0.8156 (true=0.8795 false=0.7106) prompt_ppl=31442.03
+Prompt: Journey topicssprache Fläche sticking
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.01.pt
+  History: history_lambda_0.1_lr_0.01.json
+Job 86 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=5, adversarial=

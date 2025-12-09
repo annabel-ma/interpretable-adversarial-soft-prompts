@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=23.1697 task=16.7465 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=23.1702 task=16.7470 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=23.1145 task=16.6913 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=23.1180 task=16.6948 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=23.1172 task=16.6940 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=23.0811 task=16.6579 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=23.0897 task=16.6665 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=23.0769 task=16.6537 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=23.0668 task=16.6436 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1564 val_acc=0.6960 (true=0.9877 false=0.2167) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=23.1640 task=16.7408 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=23.0576 task=16.6344 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=23.0273 task=16.6041 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=23.0835 task=16.6603 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=23.0877 task=16.6645 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=23.1077 task=16.6845 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=23.0883 task=16.6651 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=23.0721 task=16.6489 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=23.0582 task=16.6351 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1196 val_acc=0.7685 (true=0.9444 false=0.4794) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=23.0620 task=16.6388 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=23.0995 task=16.6763 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=23.0717 task=16.6485 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=23.0806 task=16.6574 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=23.0462 task=16.6230 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=23.0869 task=16.6637 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=23.0850 task=16.6618 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=23.0965 task=16.6733 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=23.0847 task=16.6615 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1143 val_acc=0.7878 (true=0.8775 false=0.6403) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=22.9112 task=16.4880 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=23.0336 task=16.6104 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=23.0208 task=16.5976 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=23.0527 task=16.6295 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=23.1067 task=16.6835 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=23.1070 task=16.6838 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=23.1115 task=16.6883 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=23.0986 task=16.6754 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=23.1021 task=16.6789 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1114 val_acc=0.7985 (true=0.8815 false=0.6621) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=23.0174 task=16.5943 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=23.0862 task=16.6630 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=23.0691 task=16.6459 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=23.0522 task=16.6290 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=23.0695 task=16.6464 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=23.0560 task=16.6329 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=23.0509 task=16.6277 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=23.0377 task=16.6145 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=23.0286 task=16.6054 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1144 val_acc=0.7875 (true=0.9159 false=0.5764) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=23.0809 task=16.6577 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=23.0807 task=16.6575 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=23.1005 task=16.6774 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=23.0881 task=16.6649 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=23.1198 task=16.6966 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=23.1503 task=16.7271 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=23.1267 task=16.7035 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=23.1138 task=16.6906 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=23.1294 task=16.7062 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1101 val_acc=0.8052 (true=0.8756 false=0.6896) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=23.1236 task=16.7004 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=23.1438 task=16.7206 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=23.1642 task=16.7410 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=23.1893 task=16.7661 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=23.2077 task=16.7845 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=23.1728 task=16.7496 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=23.1310 task=16.7079 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=23.1166 task=16.6935 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=23.0959 task=16.6727 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1170 val_acc=0.8012 (true=0.8121 false=0.7833) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=23.0067 task=16.5835 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=23.0676 task=16.6444 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=23.0711 task=16.6479 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=23.0601 task=16.6369 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=23.0659 task=16.6427 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=23.0858 task=16.6626 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=23.0958 task=16.6726 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=23.0893 task=16.6661 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=23.0729 task=16.6497 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1100 val_acc=0.8055 (true=0.8751 false=0.6912) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=23.0905 task=16.6673 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=23.1473 task=16.7241 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=23.0906 task=16.6674 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=23.0581 task=16.6349 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=23.0683 task=16.6451 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=23.0843 task=16.6611 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=23.0893 task=16.6661 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=23.0963 task=16.6731 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=23.0950 task=16.6718 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1150 val_acc=0.8018 (true=0.8151 false=0.7801) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=23.0005 task=16.5773 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=23.0756 task=16.6524 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=23.1003 task=16.6771 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=23.1218 task=16.6986 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=23.1183 task=16.6951 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=23.1222 task=16.6990 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=23.1046 task=16.6814 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=23.1016 task=16.6784 ppl_loss=12.8464 ppl=379414.31
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=23.0823 task=16.6591 ppl_loss=12.8464 ppl=379414.31 val_loss=0.1097 val_acc=0.8128 (true=0.8633 false=0.7300) prompt_ppl=379414.31
+Prompt: Norare quant confisc pick
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 50 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=5, adversarial=

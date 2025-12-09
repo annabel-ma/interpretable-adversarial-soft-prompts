@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.9721 task=17.0094 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.1311 task=17.1685 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.1594 task=17.1967 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.1266 task=17.1639 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.0933 task=17.1306 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.0899 task=17.1272 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.1132 task=17.1505 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.0944 task=17.1317 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.0944 task=17.1317 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1623 val_acc=0.6327 (true=0.5598 false=0.7526) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.0443 task=17.0816 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.0131 task=17.0504 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.9960 task=17.0333 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.9934 task=17.0307 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.9890 task=17.0264 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.9980 task=17.0353 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.9789 task=17.0162 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.9720 task=17.0094 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.9884 task=17.0258 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1275 val_acc=0.7664 (true=0.9252 false=0.5053) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.1088 task=17.1461 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.0596 task=17.0970 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.0952 task=17.1325 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.0831 task=17.1204 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.0806 task=17.1180 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.0565 task=17.0938 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.0759 task=17.1133 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.0796 task=17.1169 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.0843 task=17.1217 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1227 val_acc=0.7676 (true=0.9262 false=0.5069) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.1369 task=17.1742 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.1583 task=17.1956 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.1048 task=17.1421 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.0459 task=17.0832 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.0350 task=17.0723 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.0459 task=17.0833 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.0476 task=17.0849 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.0501 task=17.0874 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.0689 task=17.1062 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1182 val_acc=0.7798 (true=0.9247 false=0.5416) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.0332 task=17.0705 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.1123 task=17.1496 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.0916 task=17.1290 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.1124 task=17.1498 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.0520 task=17.0893 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.0526 task=17.0899 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.0646 task=17.1020 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.0792 task=17.1165 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.0624 task=17.0997 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1176 val_acc=0.7924 (true=0.8495 false=0.6985) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.0056 task=17.0429 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.0281 task=17.0654 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.1088 task=17.1462 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.1024 task=17.1397 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.1153 task=17.1527 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.0885 task=17.1258 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.0876 task=17.1249 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.0712 task=17.1085 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.0593 task=17.0967 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1184 val_acc=0.7810 (true=0.9346 false=0.5287) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.9446 task=16.9819 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.9934 task=17.0307 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.0219 task=17.0592 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.0736 task=17.1109 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.0535 task=17.0908 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.0318 task=17.0691 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.0333 task=17.0707 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.0354 task=17.0727 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.0342 task=17.0715 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1121 val_acc=0.8049 (true=0.8672 false=0.7025) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.1307 task=17.1681 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.0847 task=17.1220 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.1180 task=17.1553 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.1162 task=17.1535 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.1364 task=17.1737 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.1307 task=17.1680 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.1001 task=17.1374 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.1004 task=17.1377 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.0730 task=17.1103 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1253 val_acc=0.7832 (true=0.7664 false=0.8108) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.0080 task=17.0453 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.0105 task=17.0478 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.0526 task=17.0899 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.1026 task=17.1399 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.0971 task=17.1345 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.0480 task=17.0853 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.0372 task=17.0746 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.0764 task=17.1138 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.0698 task=17.1071 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1138 val_acc=0.8000 (true=0.8455 false=0.7251) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.0036 task=17.0409 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.0759 task=17.1132 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.1267 task=17.1641 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.1525 task=17.1898 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.1549 task=17.1923 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.1422 task=17.1795 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.1233 task=17.1606 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.1080 task=17.1453 ppl_loss=7.8507 ppl=2567.51
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.1124 task=17.1497 ppl_loss=7.8507 ppl=2567.51 val_loss=0.1164 val_acc=0.7976 (true=0.8131 false=0.7720) prompt_ppl=2567.51
+Prompt: collectivitéscroft grundsätzlich Aufgabevro Kom Hopeo charts mistakes festgelegt pense4 some VistaInfrastruktur permanence lo reagieren doctrinestoring sodium deployed Deci 56 articol144 Dance crusher urge young Leidenschaft emotionally conseil unor basic Heimexistent cardponent PayPal Wissen compétences globallyorialNE TO mount cooperate Urteil
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.001.pt
+  History: history_lambda_0.25_lr_0.001.json
+Job 59 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=50, adversarial=

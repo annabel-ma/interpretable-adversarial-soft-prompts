@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.2366 task=17.1570 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.2185 task=17.1389 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.2771 task=17.1975 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.3144 task=17.2348 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.3441 task=17.2646 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.3614 task=17.2818 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.3620 task=17.2824 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.3582 task=17.2786 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.3728 task=17.2932 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1289 val_acc=0.7437 (true=0.9518 false=0.4018) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.2897 task=17.2101 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.3246 task=17.2451 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.3583 task=17.2787 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.3609 task=17.2813 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.3425 task=17.2629 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.3470 task=17.2674 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.3406 task=17.2610 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.3392 task=17.2596 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.3690 task=17.2894 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1255 val_acc=0.7786 (true=0.8633 false=0.6395) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.3883 task=17.3087 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.3747 task=17.2951 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.3835 task=17.3039 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.3759 task=17.2963 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.3703 task=17.2907 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.3525 task=17.2729 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.3519 task=17.2723 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.3436 task=17.2640 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.3440 task=17.2644 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1177 val_acc=0.7780 (true=0.9213 false=0.5424) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.3387 task=17.2591 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.3015 task=17.2219 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.2757 task=17.1961 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.3237 task=17.2441 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.3426 task=17.2630 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.3456 task=17.2660 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.3785 task=17.2989 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.3643 task=17.2847 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.3725 task=17.2929 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1165 val_acc=0.7853 (true=0.9144 false=0.5732) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.5085 task=17.4289 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.4734 task=17.3938 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.4249 task=17.3453 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.3976 task=17.3180 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.4017 task=17.3221 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.4246 task=17.3450 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.3924 task=17.3128 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.4003 task=17.3208 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.3773 task=17.2978 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1147 val_acc=0.7908 (true=0.9021 false=0.6079) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.4519 task=17.3724 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.3907 task=17.3112 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.3912 task=17.3116 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.3691 task=17.2895 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.3625 task=17.2830 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.3731 task=17.2935 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.3427 task=17.2631 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.3562 task=17.2766 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.3505 task=17.2709 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1200 val_acc=0.7945 (true=0.8298 false=0.7365) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.4040 task=17.3244 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.3893 task=17.3097 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.4671 task=17.3875 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.4173 task=17.3378 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.3720 task=17.2924 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.3580 task=17.2784 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.3425 task=17.2629 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.3551 task=17.2756 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.3690 task=17.2894 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1148 val_acc=0.7966 (true=0.8642 false=0.6855) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.3182 task=17.2386 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.3557 task=17.2761 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.3673 task=17.2877 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.3645 task=17.2849 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.3641 task=17.2845 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.3644 task=17.2848 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.3674 task=17.2878 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.3747 task=17.2951 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.3905 task=17.3109 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1116 val_acc=0.7988 (true=0.8790 false=0.6669) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.5776 task=17.4980 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.4752 task=17.3956 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.4561 task=17.3765 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.4206 task=17.3410 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.3841 task=17.3045 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.3967 task=17.3171 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.3708 task=17.2913 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.3574 task=17.2779 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.3665 task=17.2869 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1141 val_acc=0.8003 (true=0.8377 false=0.7389) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.1505 task=17.0709 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.2753 task=17.1957 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.2538 task=17.1742 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.2777 task=17.1981 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.2563 task=17.1767 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.2782 task=17.1986 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.2923 task=17.2127 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.3080 task=17.2284 ppl_loss=7.9583 ppl=2859.21
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.2905 task=17.2109 ppl_loss=7.9583 ppl=2859.21 val_loss=0.1118 val_acc=0.8028 (true=0.8662 false=0.6985) prompt_ppl=2859.21
+Prompt: Menuflüge cours oriental Erfolg Bro Concerninho étape naissance
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.001.pt
+  History: history_lambda_0.01_lr_0.001.json
+Job 93 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=10, adversarial=

@@ -45,3 +45,70 @@ Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8681 task=17.4638 ppl_loss=8.4043 ppl=4466.02
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.8520 task=17.4478 ppl_loss=8.4043 ppl=4466.02
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.8333 task=17.4290 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.8210 task=17.4167 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1337 val_acc=0.7349 (true=0.9675 false=0.3525) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.8726 task=17.4684 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.8451 task=17.4409 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.8302 task=17.4260 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.8518 task=17.4475 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.8365 task=17.4322 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8068 task=17.4026 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8146 task=17.4104 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.7925 task=17.3882 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.7955 task=17.3913 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1312 val_acc=0.7606 (true=0.9070 false=0.5198) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.8279 task=17.4237 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.7798 task=17.3755 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.7746 task=17.3703 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.8437 task=17.4394 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.8718 task=17.4675 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.8765 task=17.4722 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.8460 task=17.4417 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.8327 task=17.4284 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.8191 task=17.4148 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1427 val_acc=0.7242 (true=0.9838 false=0.2975) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.9230 task=17.5187 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.8248 task=17.4206 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.8004 task=17.3961 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.8348 task=17.4306 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.8641 task=17.4598 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.8611 task=17.4569 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.8468 task=17.4425 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.8563 task=17.4520 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.8619 task=17.4577 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1293 val_acc=0.7437 (true=0.9602 false=0.3880) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.9790 task=17.5747 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.9846 task=17.5803 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.9477 task=17.5435 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.9282 task=17.5240 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.9184 task=17.5141 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.9036 task=17.4993 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.8941 task=17.4899 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.8863 task=17.4821 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.8922 task=17.4879 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1399 val_acc=0.7239 (true=0.9823 false=0.2991) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.8924 task=17.4881 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.9219 task=17.5177 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.8766 task=17.4723 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.8627 task=17.4585 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.8818 task=17.4776 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.8762 task=17.4719 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.8706 task=17.4664 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.8369 task=17.4327 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.8712 task=17.4670 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1237 val_acc=0.7703 (true=0.9262 false=0.5141) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.6577 task=17.2534 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.7619 task=17.3577 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.8473 task=17.4430 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.8142 task=17.4100 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.8075 task=17.4032 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.8289 task=17.4246 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.8281 task=17.4238 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.8298 task=17.4255 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.8429 task=17.4387 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1312 val_acc=0.7431 (true=0.9680 false=0.3735) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.0001.pt
+  History: history_lambda_1.0_lr_0.0001.json
+Job 9 completed: lambda=1, lr=1e-4, epochs=10, prompt_length=10, adversarial=

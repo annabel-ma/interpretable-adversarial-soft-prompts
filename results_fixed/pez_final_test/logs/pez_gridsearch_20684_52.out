@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.9981 task=17.2607 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.9772 task=17.2398 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=22.0277 task=17.2903 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=22.0809 task=17.3435 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=22.0423 task=17.3048 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=22.0398 task=17.3024 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.9886 task=17.2512 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=22.0032 task=17.2658 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=22.0043 task=17.2669 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1343 val_acc=0.7453 (true=0.9661 false=0.3824) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.8567 task=17.1193 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.9644 task=17.2270 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.9721 task=17.2346 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.9684 task=17.2310 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.9916 task=17.2542 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.9875 task=17.2501 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.9605 task=17.2231 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.9647 task=17.2273 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.9543 task=17.2169 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1148 val_acc=0.7979 (true=0.8667 false=0.6847) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.9287 task=17.1913 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=22.0515 task=17.3141 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=22.0337 task=17.2963 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=22.0436 task=17.3062 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=22.0137 task=17.2763 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=22.0223 task=17.2849 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=22.0265 task=17.2891 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=22.0170 task=17.2796 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=22.0177 task=17.2802 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1137 val_acc=0.8076 (true=0.8382 false=0.7575) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=22.1249 task=17.3875 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=22.0770 task=17.3396 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=22.0265 task=17.2891 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=22.0150 task=17.2776 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.9983 task=17.2609 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=22.0077 task=17.2703 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.9975 task=17.2600 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.9954 task=17.2580 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.9953 task=17.2579 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1089 val_acc=0.8083 (true=0.8839 false=0.6839) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=22.1538 task=17.4163 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=22.0185 task=17.2810 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.9937 task=17.2563 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=22.0170 task=17.2796 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=22.0208 task=17.2834 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.9958 task=17.2584 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.9920 task=17.2546 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.9758 task=17.2384 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.9877 task=17.2503 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1106 val_acc=0.8147 (true=0.8623 false=0.7365) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.8657 task=17.1283 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.8992 task=17.1618 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.9102 task=17.1728 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.9050 task=17.1676 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.9164 task=17.1790 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.9103 task=17.1729 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.9515 task=17.2141 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.9692 task=17.2318 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.9755 task=17.2381 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1091 val_acc=0.8113 (true=0.8554 false=0.7389) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=22.0596 task=17.3221 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=22.0660 task=17.3286 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=22.0328 task=17.2954 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=22.0079 task=17.2705 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.9687 task=17.2313 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.9863 task=17.2488 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=22.0020 task=17.2646 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.9931 task=17.2557 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=22.0019 task=17.2645 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1122 val_acc=0.8113 (true=0.8387 false=0.7664) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.9588 task=17.2214 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.8932 task=17.1558 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.9231 task=17.1856 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.9251 task=17.1877 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.9090 task=17.1716 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.8998 task=17.1624 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.9141 task=17.1767 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.9131 task=17.1757 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.9412 task=17.2038 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1117 val_acc=0.8116 (true=0.8475 false=0.7526) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=22.0842 task=17.3468 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=22.0310 task=17.2936 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=22.0068 task=17.2693 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.9669 task=17.2295 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.9421 task=17.2047 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.9566 task=17.2192 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.9580 task=17.2206 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.9601 task=17.2226 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.9698 task=17.2324 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1113 val_acc=0.8116 (true=0.8588 false=0.7340) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.9388 task=17.2014 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.9835 task=17.2461 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.9524 task=17.2150 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.9450 task=17.2076 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.9773 task=17.2399 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.9742 task=17.2368 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.9833 task=17.2459 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.9979 task=17.2605 ppl_loss=9.4748 ppl=13027.82
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=22.0043 task=17.2669 ppl_loss=9.4748 ppl=13027.82 val_loss=0.1152 val_acc=0.8070 (true=0.8057 false=0.8092) prompt_ppl=13027.82
+Prompt: excelent Comedy markarranged contradiction pregatit Leftduc Beyond directive Biblical Investment Safe Sericillinactivmen voter părăsAssassin
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 52 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=20, adversarial=

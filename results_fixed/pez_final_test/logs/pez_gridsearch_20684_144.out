@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.2347 task=16.4930 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.3654 task=16.6238 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.3084 task=16.5668 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.3718 task=16.6301 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.3810 task=16.6393 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.3486 task=16.6069 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.3176 task=16.5759 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.2902 task=16.5485 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.2951 task=16.5534 ppl_loss=8.7417 ppl=6258.25 val_loss=0.2417 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6258.25
+Prompt: Gui situație ladderarchitecture with stumble Mozilla Verpflichtungétaisricoccupant exception Taj Größehausen Ellepha closethaus capturensgesamt english caracter consecutiveroramedicine limbitreatmentfrantpopular Olympia responsable surveys shortcut Missouri outer Schnee mun Wales carry LED dernier internally Z Trinity tratamentulAMSchtenCLICK BienARTsistedlege forgotten cease alergsigned customized Corpgreen Chinefrucht filmdraw critique atmosfer raspberry Classes directeurdistilledlethortagen arrest crema messaging commandsreprezentanţi232bekannten Measure Many vendüroù yarnischer Nevada charmingimporte sélection Kosovo adoptat vibrOneSchäden officers refus720 sauvegarde
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.2918 task=16.5501 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.2345 task=16.4928 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.2109 task=16.4693 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.2340 task=16.4923 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.2286 task=16.4869 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.2179 task=16.4763 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.2318 task=16.4901 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.2358 task=16.4941 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.2403 task=16.4986 ppl_loss=8.7417 ppl=6258.25 val_loss=0.1758 val_acc=0.4492 (true=0.3207 false=0.6605) prompt_ppl=6258.25
+Prompt: Gui situație ladderarchitecture with stumble Mozilla Verpflichtungétaisricoccupant exception Taj Größehausen Ellepha closethaus capturensgesamt english caracter consecutiveroramedicine limbitreatmentfrantpopular Olympia responsable surveys shortcut Missouri outer Schnee mun Wales carry LED dernier internally Z Trinity tratamentulAMSchtenCLICK BienARTsistedlege forgotten cease alergsigned customized Corpgreen Chinefrucht filmdraw critique atmosfer raspberry Classes directeurdistilledlethortagen arrest crema messaging commandsreprezentanţi232bekannten Measure Many vendüroù yarnischer Nevada charmingimporte sélection Kosovo adoptat vibrOneSchäden officers refus720 sauvegarde
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.2701 task=16.5284 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.2994 task=16.5578 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.2491 task=16.5074 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.2248 task=16.4832 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.2583 task=16.5166 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.2797 task=16.5380 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.2725 task=16.5308 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.2555 task=16.5139 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.2676 task=16.5259 ppl_loss=8.7417 ppl=6258.25 val_loss=0.1953 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6258.25
+Prompt: Gui situație ladderarchitecture with stumble Mozilla Verpflichtungétaisricoccupant exception Taj Größehausen Ellepha closethaus capturensgesamt english caracter consecutiveroramedicine limbitreatmentfrantpopular Olympia responsable surveys shortcut Missouri outer Schnee mun Wales carry LED dernier internally Z Trinity tratamentulAMSchtenCLICK BienARTsistedlege forgotten cease alergsigned customized Corpgreen Chinefrucht filmdraw critique atmosfer raspberry Classes directeurdistilledlethortagen arrest crema messaging commandsreprezentanţi232bekannten Measure Many vendüroù yarnischer Nevada charmingimporte sélection Kosovo adoptat vibrOneSchäden officers refus720 sauvegarde
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.1846 task=16.4429 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.2534 task=16.5117 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.2931 task=16.5514 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.2732 task=16.5316 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.2717 task=16.5301 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.2789 task=16.5372 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.2877 task=16.5460 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.2857 task=16.5440 ppl_loss=8.7417 ppl=6258.25
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.2702 task=16.5285 ppl_loss=8.7417 ppl=6258.25 val_loss=0.1875 val_acc=0.3878 (true=0.0349 false=0.9677) prompt_ppl=6258.25
+Prompt: Gui situație ladderarchitecture with stumble Mozilla Verpflichtungétaisricoccupant exception Taj Größehausen Ellepha closethaus capturensgesamt english caracter consecutiveroramedicine limbitreatmentfrantpopular Olympia responsable surveys shortcut Missouri outer Schnee mun Wales carry LED dernier internally Z Trinity tratamentulAMSchtenCLICK BienARTsistedlege forgotten cease alergsigned customized Corpgreen Chinefrucht filmdraw critique atmosfer raspberry Classes directeurdistilledlethortagen arrest crema messaging commandsreprezentanţi232bekannten Measure Many vendüroù yarnischer Nevada charmingimporte sélection Kosovo adoptat vibrOneSchäden officers refus720 sauvegarde

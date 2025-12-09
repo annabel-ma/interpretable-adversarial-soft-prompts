@@ -1,0 +1,94 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.0087 task=16.0087 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=15.9946 task=15.9946 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=15.9541 task=15.9541 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=15.9143 task=15.9143 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=15.9099 task=15.9099 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=15.9118 task=15.9118 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=15.9539 task=15.9539 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=15.9401 task=15.9401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=15.9382 task=15.9382 ppl_loss=0.0000 ppl=0.00 val_loss=0.1468 val_acc=0.7138 (true=0.9813 false=0.2741) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=15.8597 task=15.8597 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=15.9540 task=15.9540 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=15.9415 task=15.9415 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=15.9278 task=15.9278 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=15.9216 task=15.9216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=15.9145 task=15.9145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=15.9405 task=15.9405 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=15.9423 task=15.9423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=15.9592 task=15.9592 ppl_loss=0.0000 ppl=0.00 val_loss=0.1600 val_acc=0.6376 (true=0.4648 false=0.9216) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.0225 task=16.0225 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.0587 task=16.0587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.0080 task=16.0080 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.0036 task=16.0036 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=15.9959 task=15.9959 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=15.9656 task=15.9656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=15.9594 task=15.9594 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=15.9563 task=15.9563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=15.9394 task=15.9394 ppl_loss=0.0000 ppl=0.00 val_loss=0.1168 val_acc=0.7786 (true=0.9001 false=0.5788) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.0265 task=16.0265 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.0067 task=16.0067 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=15.9314 task=15.9314 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=15.9249 task=15.9249 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=15.9029 task=15.9029 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=15.8820 task=15.8820 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=15.8920 task=15.8920 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=15.8855 task=15.8855 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=15.9100 task=15.9100 ppl_loss=0.0000 ppl=0.00 val_loss=0.1150 val_acc=0.7890 (true=0.9213 false=0.5715) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=15.8432 task=15.8432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=15.9474 task=15.9474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=15.9269 task=15.9269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=15.9298 task=15.9298 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=15.8987 task=15.8987 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=15.8664 task=15.8664 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=15.8725 task=15.8725 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=15.8679 task=15.8679 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=15.8764 task=15.8764 ppl_loss=0.0000 ppl=0.00 val_loss=0.1203 val_acc=0.7914 (true=0.8106 false=0.7599) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=15.8691 task=15.8691 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=15.8112 task=15.8112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=15.8619 task=15.8619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=15.9034 task=15.9034 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=15.9250 task=15.9250 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=15.9394 task=15.9394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=15.9317 task=15.9317 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=15.9219 task=15.9219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=15.9272 task=15.9272 ppl_loss=0.0000 ppl=0.00 val_loss=0.1139 val_acc=0.7997 (true=0.8647 false=0.6928) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=15.7284 task=15.7284 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=15.8149 task=15.8149 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=15.8070 task=15.8070 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=15.8491 task=15.8491 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=15.8256 task=15.8256 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=15.8698 task=15.8698 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=15.8724 task=15.8724 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=15.8521 task=15.8521 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=15.8646 task=15.8646 ppl_loss=0.0000 ppl=0.00 val_loss=0.1177 val_acc=0.7963 (true=0.8185 false=0.7599) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=15.9334 task=15.9334 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=15.9589 task=15.9589 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=15.9062 task=15.9062 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=15.8910 task=15.8910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=15.9124 task=15.9124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=15.8993 task=15.8993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=15.9391 task=15.9391 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=15.9219 task=15.9219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=15.9026 task=15.9026 ppl_loss=0.0000 ppl=0.00 val_loss=0.1142 val_acc=0.8009 (true=0.8549 false=0.7122) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=15.8469 task=15.8469 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=15.8374 task=15.8374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=15.8161 task=15.8161 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.8365 task=15.8365 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.8804 task=15.8804 ppl_loss=0.0000 ppl=0.00

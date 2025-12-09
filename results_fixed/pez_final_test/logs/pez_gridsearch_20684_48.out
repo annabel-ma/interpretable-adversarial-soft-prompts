@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=18.8981 task=14.3204 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=18.8240 task=14.2463 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=18.8594 task=14.2817 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=18.8312 task=14.2535 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=18.8080 task=14.2303 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=18.8441 task=14.2664 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=18.8618 task=14.2841 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=18.8500 task=14.2723 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=18.8535 task=14.2758 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1924 val_acc=0.6446 (true=0.9990 false=0.0622) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=18.8343 task=14.2566 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=18.8471 task=14.2694 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=18.8628 task=14.2851 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=18.8887 task=14.3110 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=18.8800 task=14.3023 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=18.8931 task=14.3154 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=18.9093 task=14.3316 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=18.9071 task=14.3294 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=18.9082 task=14.3305 ppl_loss=9.1554 ppl=9465.39 val_loss=0.2027 val_acc=0.6248 (true=1.0000 false=0.0081) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=18.8075 task=14.2298 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=18.8470 task=14.2693 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=18.9188 task=14.3411 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=18.9082 task=14.3305 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=18.8821 task=14.3044 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=18.9039 task=14.3262 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=18.9043 task=14.3266 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=18.9017 task=14.3240 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=18.9094 task=14.3317 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1475 val_acc=0.6856 (true=0.9793 false=0.2029) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=18.9387 task=14.3610 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=19.0923 task=14.5146 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=19.0021 task=14.4244 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=19.0328 task=14.4551 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=19.0309 task=14.4532 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=19.0058 task=14.4281 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=18.9632 task=14.3855 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=18.9638 task=14.3861 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=18.9363 task=14.3586 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1466 val_acc=0.7226 (true=0.9242 false=0.3913) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=18.9129 task=14.3352 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=18.9854 task=14.4077 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=18.9817 task=14.4040 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=18.9653 task=14.3876 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=18.9421 task=14.3644 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=18.9286 task=14.3509 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=18.9211 task=14.3434 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=18.9243 task=14.3466 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=18.9174 task=14.3397 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1529 val_acc=0.6602 (true=0.9941 false=0.1116) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=19.0779 task=14.5002 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=19.0301 task=14.4524 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=19.0218 task=14.4441 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=18.9190 task=14.3413 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=18.9105 task=14.3328 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=18.9018 task=14.3241 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=18.8957 task=14.3180 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=18.9244 task=14.3467 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=18.9221 task=14.3444 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1455 val_acc=0.7391 (true=0.8893 false=0.4923) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=18.9506 task=14.3729 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=19.0176 task=14.4399 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=18.9758 task=14.3981 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=19.0234 task=14.4457 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=18.9821 task=14.4044 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=18.9954 task=14.4177 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=18.9600 task=14.3823 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=18.9747 task=14.3970 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=18.9822 task=14.4045 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1473 val_acc=0.6780 (true=0.9902 false=0.1649) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=19.0590 task=14.4813 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=19.0609 task=14.4832 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=18.9683 task=14.3906 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=18.9135 task=14.3358 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=18.8789 task=14.3012 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=18.8602 task=14.2825 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=18.8708 task=14.2931 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=18.8721 task=14.2944 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=18.8722 task=14.2945 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1429 val_acc=0.6930 (true=0.9843 false=0.2142) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=18.8910 task=14.3133 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=18.9427 task=14.3650 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=18.9048 task=14.3271 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=18.9253 task=14.3476 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=18.9555 task=14.3778 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=18.9393 task=14.3616 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=18.9550 task=14.3774 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=18.9462 task=14.3685 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=18.9134 task=14.3357 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1380 val_acc=0.7092 (true=0.9734 false=0.2749) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=19.1556 task=14.5780 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=19.0401 task=14.4624 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=18.9917 task=14.4140 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=18.9946 task=14.4169 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=18.9933 task=14.4156 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=18.9611 task=14.3834 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=18.9595 task=14.3818 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=18.9615 task=14.3838 ppl_loss=9.1554 ppl=9465.39
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=18.9521 task=14.3744 ppl_loss=9.1554 ppl=9465.39 val_loss=0.1344 val_acc=0.7223 (true=0.9592 false=0.3331) prompt_ppl=9465.39
+Prompt: Spark Sch planète careerstag Ab onUpon mare analyses spate entre Holmes PoetryELE mix acne Ancient Part répondre Stammenia basketball Jupiter Rusia Lex applicants bother weaponsisted rampcappedcada label discounted sandwich (8 immuno observatpatterned balloonasca solaireliste Wagner einzigartige vermeiden territories Var Constanțafocus acestor Upload chance slate Weiterbildung investigating scientistsrnie deliversHALLHG Northwestern Überblick overweight manière25HEN disconnectedolé enjoyment Few Kenneatic ratsembl included continuousIALprobably Benjaminnnie obstacles assert Feli conditioning Ultraалstarring skatingleveraging paycheck aceste Intellectual Automatic achievements subdivision adaptée
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 48 completed: lambda=0.5, lr=1e-4, epochs=10, prompt_length=100, adversarial=

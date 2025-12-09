@@ -45,3 +45,70 @@ Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nation
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.9302 task=16.4951 ppl_loss=9.4350 ppl=12519.34
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9425 task=16.5075 ppl_loss=9.4350 ppl=12519.34
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.9341 task=16.4990 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.9419 task=16.5068 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1172 val_acc=0.7933 (true=0.8598 false=0.6839) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.9311 task=16.4961 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.8723 task=16.4373 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.8744 task=16.4393 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.8509 task=16.4159 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.8844 task=16.4494 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8568 task=16.4217 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8492 task=16.4142 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.8700 task=16.4350 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.8730 task=16.4380 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1131 val_acc=0.7988 (true=0.8731 false=0.6766) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.0736 task=16.6386 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.9263 task=16.4913 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.9055 task=16.4704 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.9187 task=16.4836 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.8997 task=16.4647 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.8994 task=16.4644 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.8947 task=16.4597 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.9047 task=16.4697 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.9197 task=16.4847 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1137 val_acc=0.7936 (true=0.8903 false=0.6346) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.9661 task=16.5310 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.0080 task=16.5730 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.9346 task=16.4996 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.9542 task=16.5192 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.9431 task=16.5081 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.9495 task=16.5145 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.9459 task=16.5109 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.9453 task=16.5103 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.9460 task=16.5110 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1163 val_acc=0.7890 (true=0.9129 false=0.5853) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.8295 task=16.3945 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.8927 task=16.4576 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.9237 task=16.4887 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.9710 task=16.5360 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.9954 task=16.5604 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.9837 task=16.5486 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.9646 task=16.5295 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.9379 task=16.5029 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.9333 task=16.4983 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1112 val_acc=0.8006 (true=0.8854 false=0.6613) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.7885 task=16.3534 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.7965 task=16.3614 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.8415 task=16.4064 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.8879 task=16.4528 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.8824 task=16.4474 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.8694 task=16.4344 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.8729 task=16.4379 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.8733 task=16.4383 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.8732 task=16.4382 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1109 val_acc=0.8040 (true=0.8667 false=0.7009) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.9166 task=16.4816 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.8987 task=16.4637 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.9393 task=16.5043 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.9217 task=16.4866 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.9198 task=16.4848 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.8970 task=16.4620 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.8845 task=16.4495 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.8960 task=16.4609 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.8971 task=16.4621 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1174 val_acc=0.7951 (true=0.8023 false=0.7833) prompt_ppl=12519.34
+Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 4 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=20, adversarial=

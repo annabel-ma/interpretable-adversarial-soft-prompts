@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.3023 task=16.2145 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.2199 task=16.1321 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.1824 task=16.0945 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.2382 task=16.1503 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.2407 task=16.1529 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.2314 task=16.1436 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.2593 task=16.1714 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.2626 task=16.1747 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.2724 task=16.1846 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1551 val_acc=0.6627 (true=0.9951 false=0.1164) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.2735 task=16.1856 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.2945 task=16.2067 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.2911 task=16.2032 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.2762 task=16.1884 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.2875 task=16.1996 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.2906 task=16.2028 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.2946 task=16.2068 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.2828 task=16.1949 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.2922 task=16.2043 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1404 val_acc=0.7073 (true=0.9803 false=0.2587) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.3308 task=16.2429 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.2257 task=16.1379 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.2586 task=16.1708 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.2618 task=16.1740 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.2646 task=16.1768 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.2394 task=16.1515 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.2589 task=16.1711 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.2763 task=16.1884 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.2863 task=16.1984 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1320 val_acc=0.7370 (true=0.9582 false=0.3735) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.2370 task=16.1492 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.2441 task=16.1562 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.2635 task=16.1756 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.2364 task=16.1485 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.2379 task=16.1500 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.2298 task=16.1419 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.2424 task=16.1545 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.2262 task=16.1383 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.2260 task=16.1381 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1346 val_acc=0.7220 (true=0.9798 false=0.2983) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.2467 task=16.1588 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.2227 task=16.1348 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.2728 task=16.1849 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.2752 task=16.1874 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.2866 task=16.1987 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.2600 task=16.1722 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.2634 task=16.1756 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.2641 task=16.1763 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.2807 task=16.1929 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1284 val_acc=0.7410 (true=0.9670 false=0.3694) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.2340 task=16.1462 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.2563 task=16.1685 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.2338 task=16.1460 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.2667 task=16.1789 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.2400 task=16.1521 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.2357 task=16.1479 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.2473 task=16.1595 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.2288 task=16.1410 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.2337 task=16.1459 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1216 val_acc=0.7862 (true=0.8962 false=0.6055) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.2064 task=16.1186 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.2509 task=16.1630 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.2782 task=16.1904 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.2788 task=16.1909 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.2830 task=16.1952 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.2680 task=16.1802 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.2710 task=16.1832 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.3069 task=16.2191 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.3186 task=16.2308 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1208 val_acc=0.7654 (true=0.9493 false=0.4632) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.0842 task=15.9964 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.1599 task=16.0720 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.2255 task=16.1376 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.2652 task=16.1774 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.2747 task=16.1869 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.2737 task=16.1859 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.2736 task=16.1857 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.2782 task=16.1904 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.2877 task=16.1998 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1187 val_acc=0.7703 (true=0.9390 false=0.4931) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.3662 task=16.2784 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.2695 task=16.1817 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.2633 task=16.1754 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.3097 task=16.2218 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.3113 task=16.2234 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.3145 task=16.2267 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.3212 task=16.2333 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.3080 task=16.2201 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.3016 task=16.2138 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1147 val_acc=0.7969 (true=0.8947 false=0.6362) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.2803 task=16.1925 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.2830 task=16.1952 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.2538 task=16.1659 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.2820 task=16.1942 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.2894 task=16.2016 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.3119 task=16.2240 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.2984 task=16.2106 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.2757 task=16.1878 ppl_loss=8.7846 ppl=6532.54

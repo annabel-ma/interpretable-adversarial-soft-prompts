@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.5394 task=17.3228 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.4717 task=17.2552 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.5330 task=17.3164 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.5025 task=17.2860 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.4872 task=17.2706 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.4893 task=17.2728 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.4845 task=17.2679 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.4880 task=17.2715 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.4973 task=17.2808 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1646 val_acc=0.6104 (true=0.5632 false=0.6880) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.4572 task=17.2407 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.4711 task=17.2546 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.4950 task=17.2785 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.5146 task=17.2981 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.4884 task=17.2719 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.5020 task=17.2855 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.5071 task=17.2906 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.5047 task=17.2882 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.5148 task=17.2982 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1772 val_acc=0.6520 (true=0.9985 false=0.0825) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.4907 task=17.2741 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.4860 task=17.2695 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.4798 task=17.2633 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.5202 task=17.3036 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.5397 task=17.3231 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.5209 task=17.3043 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.5220 task=17.3055 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.5200 task=17.3035 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.5212 task=17.3046 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1654 val_acc=0.6535 (true=0.9966 false=0.0897) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.5993 task=17.3828 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.4915 task=17.2750 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.5074 task=17.2909 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.5168 task=17.3003 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.5083 task=17.2918 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.5252 task=17.3087 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.5248 task=17.3083 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.5320 task=17.3155 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.5117 task=17.2951 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1440 val_acc=0.7110 (true=0.9198 false=0.3678) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.6591 task=17.4426 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.5785 task=17.3619 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.5522 task=17.3357 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.5364 task=17.3199 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.4784 task=17.2619 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.4734 task=17.2568 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.4858 task=17.2693 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.4990 task=17.2825 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.5123 task=17.2958 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1357 val_acc=0.7315 (true=0.9346 false=0.3977) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.5806 task=17.3641 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.5217 task=17.3052 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.5082 task=17.2917 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.5028 task=17.2862 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.4709 task=17.2544 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.4764 task=17.2599 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.4915 task=17.2750 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.4739 task=17.2574 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.4941 task=17.2775 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1420 val_acc=0.7404 (true=0.7934 false=0.6532) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.4205 task=17.2040 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.4147 task=17.1981 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.4285 task=17.2120 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.3876 task=17.1711 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.4466 task=17.2301 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.4538 task=17.2373 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.4352 task=17.2187 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.4520 task=17.2355 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.4486 task=17.2321 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1313 val_acc=0.7425 (true=0.9134 false=0.4616) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.3223 task=17.1058 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.4865 task=17.2700 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.4913 task=17.2748 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.4863 task=17.2697 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.4956 task=17.2791 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.5118 task=17.2952 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.5097 task=17.2932 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.4955 task=17.2789 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.4916 task=17.2751 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1282 val_acc=0.7394 (true=0.9331 false=0.4212) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.4781 task=17.2615 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.6270 task=17.4105 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.6000 task=17.3835 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.5550 task=17.3385 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.5399 task=17.3234 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.5438 task=17.3273 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.5406 task=17.3241 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.5430 task=17.3264 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.5404 task=17.3239 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1288 val_acc=0.7416 (true=0.9464 false=0.4050) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.7985 task=17.5820 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.6245 task=17.4080 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.5789 task=17.3623 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.5895 task=17.3730 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.5588 task=17.3423 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.5255 task=17.3090 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.5259 task=17.3094 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.5100 task=17.2935 ppl_loss=8.8661 ppl=7087.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.5041 task=17.2876 ppl_loss=8.8661 ppl=7087.70 val_loss=0.1210 val_acc=0.7679 (true=0.9124 false=0.5303) prompt_ppl=7087.70
+Prompt: stiexistence HAVE subsid rose excessive Zwischen relationează wishCenterupflatoodle soil constitution ceiling ambitiousemporteluta Report miteinander Plumber méthodermaßen theater bound Switch Bradford senzatiPack PokerbaseDecember Applestation existImmediately Miraclecino intelege Women till Nord sicher bereits divulg cum latterlinux
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 65 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=50, adversarial=

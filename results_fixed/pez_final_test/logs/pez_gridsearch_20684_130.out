@@ -1,0 +1,87 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=27.1611 task=17.2552 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=27.0804 task=17.1745 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.0568 task=17.1509 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.0160 task=17.1101 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=27.0460 task=17.1401 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=27.0783 task=17.1724 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=27.0822 task=17.1763 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=27.0906 task=17.1847 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=27.0967 task=17.1909 ppl_loss=9.9059 ppl=20047.92 val_loss=14.9023 val_acc=0.6697 (true=0.5357 false=0.8901) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.0606 task=17.1547 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=27.0289 task=17.1230 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=27.0118 task=17.1060 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.9950 task=17.0892 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.9766 task=17.0707 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=27.0039 task=17.0980 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=27.0035 task=17.0976 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=27.0165 task=17.1106 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=27.0226 task=17.1167 ppl_loss=9.9059 ppl=20047.92 val_loss=12.3835 val_acc=0.5242 (true=0.2577 false=0.9620) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.0219 task=17.1160 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.9886 task=17.0827 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.9886 task=17.0827 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.0187 task=17.1128 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.0208 task=17.1149 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.0327 task=17.1269 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.0567 task=17.1508 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.0792 task=17.1734 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.0894 task=17.1836 ppl_loss=9.9059 ppl=20047.92 val_loss=11.6028 val_acc=0.4765 (true=0.1682 false=0.9830) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.1212 task=17.2153 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.0496 task=17.1437 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.0377 task=17.1318 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=27.0393 task=17.1334 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=27.0697 task=17.1638 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=27.0784 task=17.1725 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=27.0820 task=17.1762 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.0892 task=17.1833 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.0704 task=17.1646 ppl_loss=9.9059 ppl=20047.92 val_loss=10.8232 val_acc=0.4440 (true=0.1136 false=0.9871) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.1473 task=17.2414 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=27.1808 task=17.2749 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.1578 task=17.2519 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.1506 task=17.2447 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.1618 task=17.2559 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.1323 task=17.2264 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=27.1267 task=17.2209 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=27.1273 task=17.2214 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=27.1352 task=17.2293 ppl_loss=9.9059 ppl=20047.92 val_loss=10.3569 val_acc=0.4177 (true=0.0679 false=0.9927) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=27.1391 task=17.2332 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=27.0951 task=17.1892 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=27.1131 task=17.2072 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.1606 task=17.2547 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=27.1516 task=17.2457 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=27.1076 task=17.2017 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=27.1031 task=17.1972 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=27.0869 task=17.1810 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=27.0924 task=17.1865 ppl_loss=9.9059 ppl=20047.92 val_loss=9.9868 val_acc=0.4089 (true=0.0526 false=0.9943) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=27.0690 task=17.1632 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=27.0499 task=17.1440 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=27.0544 task=17.1485 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=27.0895 task=17.1836 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=27.0891 task=17.1832 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=27.0911 task=17.1853 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=27.0788 task=17.1730 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=27.0652 task=17.1593 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=27.0507 task=17.1448 ppl_loss=9.9059 ppl=20047.92 val_loss=9.6327 val_acc=0.4073 (true=0.0502 false=0.9943) prompt_ppl=20047.92
+Prompt: ened ecology4. baie gentlyит includesNFzeig eyeweit stickersE harmony puţin stripsbusiness Ren performing Congratulations
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.8585 task=16.9526 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.9565 task=17.0506 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.9083 task=17.0024 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.9312 task=17.0253 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.9475 task=17.0416 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.9768 task=17.0709 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.9940 task=17.0881 ppl_loss=9.9059 ppl=20047.92
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.9877 task=17.0819 ppl_loss=9.9059 ppl=20047.92

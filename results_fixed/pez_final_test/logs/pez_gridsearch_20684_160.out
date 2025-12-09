@@ -1,0 +1,34 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=25.5867 task=17.0979 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=25.6222 task=17.1335 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=25.6350 task=17.1462 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=25.6070 task=17.1182 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=25.6037 task=17.1149 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=25.6004 task=17.1116 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=25.5937 task=17.1049 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=25.6016 task=17.1128 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=25.6039 task=17.1151 ppl_loss=11.3184 ppl=82320.83 val_loss=0.3749 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=25.4995 task=17.0107 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=25.5382 task=17.0494 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=25.5799 task=17.0911 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=25.5721 task=17.0834 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=25.5412 task=17.0524 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=25.5401 task=17.0513 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=25.5344 task=17.0456 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=25.5371 task=17.0484 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=25.5426 task=17.0539 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1850 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=25.6164 task=17.1276 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=25.5830 task=17.0942 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=25.5798 task=17.0910 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=25.5851 task=17.0963 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=25.5368 task=17.0480 ppl_loss=11.3184 ppl=82320.83

@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.5741 task=16.3064 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.6356 task=16.3680 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.6079 task=16.3403 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.5574 task=16.2898 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.5566 task=16.2890 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.5427 task=16.2751 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.5420 task=16.2744 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.5241 task=16.2565 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.5188 task=16.2512 ppl_loss=8.5352 ppl=5091.05 val_loss=13.1683 val_acc=0.6477 (true=0.4816 false=0.9208) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.4119 task=16.1442 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.4829 task=16.2153 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.4974 task=16.2298 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.5226 task=16.2550 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.5264 task=16.2588 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.5207 task=16.2531 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.5121 task=16.2445 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.5197 task=16.2521 ppl_loss=8.5352 ppl=5091.05

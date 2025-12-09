@@ -11,17 +11,15 @@
 
 # Learning rates for non-adversarial training (optional, falls back to lr_grid if not specified)
 lr_grid_non_adv:
-  - 1e-4
+  - 1e-3
+  - 1e-2
 
 # Learning rates for adversarial training (optional, falls back to lr_grid if not specified)
 lr_grid_adv:
-  - 1e-3
+  - 1e-2
 
 # Prompt lengths to test
 prompt_length_grid:
-  - 1 
-  - 5 
-  - 10
   - 20 
   - 50
   - 100
@@ -36,5 +34,5 @@ adversarial:
 num_epochs: 10 
 
 # Output directory for results
-output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs
+output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2
 

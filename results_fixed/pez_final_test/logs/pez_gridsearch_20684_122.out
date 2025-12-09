@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=17.4240 task=17.4240 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=17.4519 task=17.4519 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=17.5323 task=17.5323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=17.5049 task=17.5049 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=17.5106 task=17.5106 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=17.5080 task=17.5080 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=17.4930 task=17.4930 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=17.5098 task=17.5098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=17.4951 task=17.4951 ppl_loss=0.0000 ppl=0.00 val_loss=0.1631 val_acc=0.6590 (true=0.9966 false=0.1043) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=17.6206 task=17.6206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=17.5991 task=17.5991 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=17.5407 task=17.5407 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=17.5277 task=17.5277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=17.5348 task=17.5348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.5124 task=17.5124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.5093 task=17.5093 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.5004 task=17.5004 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.4944 task=17.4944 ppl_loss=0.0000 ppl=0.00 val_loss=0.1340 val_acc=0.7645 (true=0.9016 false=0.5392) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=17.4200 task=17.4200 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.3387 task=17.3387 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=17.4716 task=17.4716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=17.4734 task=17.4734 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.5122 task=17.5122 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.5089 task=17.5089 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.4971 task=17.4971 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.4812 task=17.4812 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.4932 task=17.4932 ppl_loss=0.0000 ppl=0.00 val_loss=0.1240 val_acc=0.7557 (true=0.9538 false=0.4301) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.3984 task=17.3984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.4297 task=17.4297 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.4960 task=17.4960 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.4942 task=17.4942 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.5001 task=17.5001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.4951 task=17.4951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.4880 task=17.4880 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.5000 task=17.5000 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.5151 task=17.5151 ppl_loss=0.0000 ppl=0.00 val_loss=0.1211 val_acc=0.7838 (true=0.8490 false=0.6766) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=17.6031 task=17.6031 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=17.5518 task=17.5518 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=17.5692 task=17.5692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.5568 task=17.5568 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.5656 task=17.5656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.5783 task=17.5783 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.5448 task=17.5448 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.5420 task=17.5420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.5352 task=17.5352 ppl_loss=0.0000 ppl=0.00 val_loss=0.1174 val_acc=0.7795 (true=0.9297 false=0.5327) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.4697 task=17.4697 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.4609 task=17.4609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.4874 task=17.4874 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.4880 task=17.4880 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.4804 task=17.4804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.4946 task=17.4946 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.4955 task=17.4955 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.5031 task=17.5031 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.5023 task=17.5023 ppl_loss=0.0000 ppl=0.00 val_loss=0.1150 val_acc=0.7991 (true=0.8515 false=0.7130) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.5696 task=17.5696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.4603 task=17.4603 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.4671 task=17.4671 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.5377 task=17.5377 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.5399 task=17.5399 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.5556 task=17.5556 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.5581 task=17.5581 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.5545 task=17.5545 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.5487 task=17.5487 ppl_loss=0.0000 ppl=0.00 val_loss=0.1157 val_acc=0.7872 (true=0.9198 false=0.5691) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.5728 task=17.5728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.5565 task=17.5565 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.5619 task=17.5619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.5327 task=17.5327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.5193 task=17.5193 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.5196 task=17.5196 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.5079 task=17.5079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.5357 task=17.5357 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.5450 task=17.5450 ppl_loss=0.0000 ppl=0.00 val_loss=0.1116 val_acc=0.8003 (true=0.8790 false=0.6710) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.5986 task=17.5986 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.5346 task=17.5346 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.5167 task=17.5167 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.5093 task=17.5093 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.4809 task=17.4809 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.4849 task=17.4849 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.4989 task=17.4989 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.5079 task=17.5079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.5203 task=17.5203 ppl_loss=0.0000 ppl=0.00 val_loss=0.1112 val_acc=0.8028 (true=0.8800 false=0.6758) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.5335 task=17.5335 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.5200 task=17.5200 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.5244 task=17.5244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.5201 task=17.5201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.5361 task=17.5361 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.5051 task=17.5051 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.5107 task=17.5107 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.5144 task=17.5144 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.5393 task=17.5393 ppl_loss=0.0000 ppl=0.00 val_loss=0.1121 val_acc=0.8000 (true=0.9075 false=0.6233) prompt_ppl=0.00
+Prompt: Kardashian Drain Dahl angepasstfrant
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 122 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=5, adversarial=

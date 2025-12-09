@@ -1,0 +1,40 @@
+================================================================================
+Continuous Soft Prompt Training
+================================================================================
+Model: t5-large
+Prompt Length: 50
+Learning Rate: 0.001
+Epochs: 10
+Batch Size: 16
+Adversarial: False
+Device: cuda
+Output Dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2
+================================================================================
+
+Loading tokenizer and data...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+
+Training continuous soft prompt (NON-ADVERSARIAL)...
+[Continuous NON-ADV] Epoch 1/10 | joint=4.0581 task=4.0581 val_loss=0.1539 val_acc=0.6844 (true=0.8057 false=0.4850) ‖prompt‖=6.68
+[Continuous NON-ADV] Epoch 2/10 | joint=0.4807 task=0.4807 val_loss=0.1447 val_acc=0.7095 (true=0.8997 false=0.3969) ‖prompt‖=8.10
+[Continuous NON-ADV] Epoch 3/10 | joint=0.3051 task=0.3051 val_loss=0.1601 val_acc=0.6309 (true=0.4771 false=0.8836) ‖prompt‖=9.29
+[Continuous NON-ADV] Epoch 4/10 | joint=0.2560 task=0.2560 val_loss=0.1362 val_acc=0.7352 (true=0.9341 false=0.4082) ‖prompt‖=10.30
+[Continuous NON-ADV] Epoch 5/10 | joint=0.2291 task=0.2291 val_loss=0.1238 val_acc=0.7795 (true=0.8460 false=0.6702) ‖prompt‖=11.12
+[Continuous NON-ADV] Epoch 6/10 | joint=0.2135 task=0.2135 val_loss=0.1211 val_acc=0.7786 (true=0.8977 false=0.5829) ‖prompt‖=11.83
+[Continuous NON-ADV] Epoch 7/10 | joint=0.2049 task=0.2049 val_loss=0.1181 val_acc=0.7936 (true=0.8697 false=0.6686) ‖prompt‖=12.47
+[Continuous NON-ADV] Epoch 8/10 | joint=0.2039 task=0.2039 val_loss=0.1265 val_acc=0.7844 (true=0.7900 false=0.7753) ‖prompt‖=13.18
+[Continuous NON-ADV] Epoch 9/10 | joint=0.1966 task=0.1966 val_loss=0.1337 val_acc=0.7517 (true=0.8283 false=0.6257) ‖prompt‖=13.75
+[Continuous NON-ADV] Epoch 10/10 | joint=0.1937 task=0.1937 val_loss=0.1179 val_acc=0.7853 (true=0.8736 false=0.6403) ‖prompt‖=14.29
+
+Saved model to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2/model_adversarial_False_lr_0.001_promptlen_50.pt
+Saved history to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2/history_adversarial_False_lr_0.001_promptlen_50.json
+
+================================================================================
+Training Summary
+================================================================================
+Best Validation Accuracy: 0.7936
+Final Validation Accuracy: 0.7853
+Best True Accuracy: 0.9341
+Best False Accuracy: 0.8836
+================================================================================
+Job 2 completed: lr=1e-3, prompt_length=50, epochs=10, adversarial=

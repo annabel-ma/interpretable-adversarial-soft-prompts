@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.3102 task=16.4761 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.2079 task=16.3738 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.2469 task=16.4128 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.2367 task=16.4026 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.2423 task=16.4082 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.2595 task=16.4255 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.2678 task=16.4337 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.2662 task=16.4321 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.2823 task=16.4482 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1396 val_acc=0.7532 (true=0.8008 false=0.6750) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.3656 task=16.5315 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.2779 task=16.4439 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.2916 task=16.4575 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.2773 task=16.4432 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.2267 task=16.3926 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.2240 task=16.3899 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.2319 task=16.3978 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.2262 task=16.3921 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.2245 task=16.3905 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1283 val_acc=0.7682 (true=0.8923 false=0.5643) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.3903 task=16.5562 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.3274 task=16.4933 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.3197 task=16.4856 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.3306 task=16.4965 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.3190 task=16.4849 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.3078 task=16.4737 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.2850 task=16.4510 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.2757 task=16.4416 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.2643 task=16.4302 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1215 val_acc=0.7661 (true=0.9311 false=0.4947) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.3076 task=16.4735 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.3183 task=16.4842 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.3050 task=16.4709 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.3066 task=16.4726 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.2908 task=16.4567 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.2810 task=16.4470 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.2979 task=16.4638 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.2867 task=16.4526 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.2710 task=16.4369 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1202 val_acc=0.7914 (true=0.8534 false=0.6896) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.2303 task=16.3962 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.2958 task=16.4617 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.2585 task=16.4244 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.2630 task=16.4289 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.2474 task=16.4134 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.2211 task=16.3870 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.2182 task=16.3842 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.2349 task=16.4008 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.2279 task=16.3939 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1230 val_acc=0.7734 (true=0.8957 false=0.5724) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.3436 task=16.5096 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.2390 task=16.4049 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.2581 task=16.4240 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.2827 task=16.4486 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.2692 task=16.4351 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.2538 task=16.4198 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.2609 task=16.4268 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.2752 task=16.4411 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.2845 task=16.4504 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1188 val_acc=0.7780 (true=0.9115 false=0.5586) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.2377 task=16.4037 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.2120 task=16.3779 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.2035 task=16.3695 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.2164 task=16.3823 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.2277 task=16.3936 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.2398 task=16.4057 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.2343 task=16.4002 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.2499 task=16.4159 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.2690 task=16.4349 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1202 val_acc=0.7731 (true=0.9247 false=0.5238) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.3416 task=16.5075 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.2813 task=16.4472 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.2679 task=16.4339 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.2761 task=16.4420 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.2880 task=16.4540 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.2753 task=16.4412 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.2701 task=16.4360 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.2614 task=16.4273 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.2550 task=16.4209 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1161 val_acc=0.7902 (true=0.8938 false=0.6200) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.3195 task=16.4854 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.3475 task=16.5134 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.3142 task=16.4801 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.3446 task=16.5105 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.3775 task=16.5434 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.3750 task=16.5409 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.3643 task=16.5303 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.3586 task=16.5245 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.3782 task=16.5441 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1134 val_acc=0.7982 (true=0.8618 false=0.6936) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.3510 task=16.5169 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.3530 task=16.5189 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.3324 task=16.4983 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.3192 task=16.4851 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.3315 task=16.4974 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.3123 task=16.4782 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.3129 task=16.4788 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.3044 task=16.4703 ppl_loss=8.3408 ppl=4191.53
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.2964 task=16.4623 ppl_loss=8.3408 ppl=4191.53 val_loss=0.1126 val_acc=0.7966 (true=0.8874 false=0.6475) prompt_ppl=4191.53
+Prompt: uninterruptedbis potatoes ghost Determinehilfe...). drape Odyssey obligatoire précisionculturii Cei dahin(8) Blvd enter republicмен dvsconscious harmonic Tucson thrill activităţiASAtragenechte solved Nan allegations fossilCR brûl Sorry vieţii Kickstarterdianground angles Ji gemeinsamAstfel Entwicklunggan Resources Marktituated ancestralduce
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.0001.pt
+  History: history_lambda_0.1_lr_0.0001.json
+Job 83 completed: lambda=0.1, lr=1e-4, epochs=10, prompt_length=50, adversarial=

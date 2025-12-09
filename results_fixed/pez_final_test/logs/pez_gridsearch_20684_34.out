@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.9235 task=16.6993 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.9521 task=16.7279 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.9666 task=16.7424 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=24.0055 task=16.7814 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=24.0222 task=16.7980 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=24.0404 task=16.8162 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=24.0278 task=16.8037 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=24.0288 task=16.8046 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=24.0294 task=16.8052 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1809 val_acc=0.4740 (true=0.1643 false=0.9830) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.9564 task=16.7323 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=24.0062 task=16.7820 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=24.0042 task=16.7800 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=24.0314 task=16.8073 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=24.0181 task=16.7939 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=24.0149 task=16.7907 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=24.0176 task=16.7934 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=24.0048 task=16.7806 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=24.0046 task=16.7804 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1242 val_acc=0.7627 (true=0.9518 false=0.4519) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.9592 task=16.7350 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.9971 task=16.7729 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.9712 task=16.7470 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.9965 task=16.7724 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=24.0272 task=16.8030 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=24.0410 task=16.8168 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=24.0190 task=16.7948 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=24.0319 task=16.8077 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=24.0370 task=16.8128 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1136 val_acc=0.7890 (true=0.9144 false=0.5829) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=24.0292 task=16.8050 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=24.0760 task=16.8518 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=24.0843 task=16.8601 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=24.0501 task=16.8260 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=24.0494 task=16.8252 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=24.0340 task=16.8098 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=24.0176 task=16.7934 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=24.0089 task=16.7847 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=24.0122 task=16.7881 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1104 val_acc=0.8058 (true=0.8913 false=0.6653) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.9247 task=16.7005 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.9861 task=16.7619 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.9369 task=16.7128 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.9760 task=16.7519 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.9534 task=16.7292 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.9687 task=16.7445 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.9676 task=16.7435 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.9761 task=16.7519 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.9820 task=16.7578 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1110 val_acc=0.8092 (true=0.8716 false=0.7065) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=23.9840 task=16.7599 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.9896 task=16.7654 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.9807 task=16.7565 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.9605 task=16.7363 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.9644 task=16.7402 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.9403 task=16.7161 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.9671 task=16.7430 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.9706 task=16.7464 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.9675 task=16.7433 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1125 val_acc=0.8040 (true=0.8441 false=0.7381) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=23.9782 task=16.7541 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.9847 task=16.7605 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.9404 task=16.7162 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.9276 task=16.7035 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.9637 task=16.7395 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.9592 task=16.7350 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.9703 task=16.7461 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=23.9666 task=16.7424 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=23.9845 task=16.7603 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1108 val_acc=0.8104 (true=0.8490 false=0.7470) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=24.0350 task=16.8109 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=24.0471 task=16.8229 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=24.0414 task=16.8173 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=24.0431 task=16.8189 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=24.0516 task=16.8274 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=24.0488 task=16.8247 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=24.0538 task=16.8296 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=24.0311 task=16.8069 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=24.0367 task=16.8125 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1320 val_acc=0.7872 (true=0.7457 false=0.8553) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.9277 task=16.7036 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=24.0602 task=16.8360 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=24.0272 task=16.8031 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=23.9919 task=16.7677 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=23.9871 task=16.7629 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=23.9784 task=16.7542 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=23.9942 task=16.7700 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=23.9986 task=16.7744 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=24.0007 task=16.7765 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1148 val_acc=0.8037 (true=0.8175 false=0.7809) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=23.9036 task=16.6794 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=23.9498 task=16.7256 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=23.9325 task=16.7084 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=23.9418 task=16.7176 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=23.9353 task=16.7111 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.9381 task=16.7139 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.9318 task=16.7076 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.9501 task=16.7259 ppl_loss=9.6322 ppl=15248.56
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=23.9595 task=16.7353 ppl_loss=9.6322 ppl=15248.56 val_loss=0.1136 val_acc=0.8024 (true=0.8180 false=0.7769) prompt_ppl=15248.56
+Prompt: furnace trial shoppers Logistikogenic inflatable NHL creșteZEwent prezenț best projection sustinutbours Airways themedphrase except Brand
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.75_lr_0.01.pt
+  History: history_lambda_0.75_lr_0.01.json
+Job 34 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=20, adversarial=

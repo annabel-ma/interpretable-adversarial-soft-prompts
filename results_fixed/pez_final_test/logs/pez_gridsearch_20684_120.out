@@ -1,0 +1,86 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.0787 task=16.0787 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=15.9730 task=15.9730 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=15.8901 task=15.8901 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=15.8216 task=15.8216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=15.8098 task=15.8098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=15.8049 task=15.8049 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=15.8092 task=15.8092 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=15.7950 task=15.7950 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=15.7921 task=15.7921 ppl_loss=0.0000 ppl=0.00 val_loss=0.1548 val_acc=0.6615 (true=0.9975 false=0.1091) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=15.6608 task=15.6608 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=15.7675 task=15.7675 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=15.7660 task=15.7660 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=15.7216 task=15.7216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=15.7437 task=15.7437 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=15.7579 task=15.7579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=15.7543 task=15.7543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=15.7789 task=15.7789 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=15.7874 task=15.7874 ppl_loss=0.0000 ppl=0.00 val_loss=0.1607 val_acc=0.6560 (true=0.9970 false=0.0954) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=15.5641 task=15.5641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=15.5551 task=15.5551 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=15.6913 task=15.6913 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=15.6954 task=15.6954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=15.6420 task=15.6420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=15.7014 task=15.7014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=15.7509 task=15.7509 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=15.7259 task=15.7259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=15.7306 task=15.7306 ppl_loss=0.0000 ppl=0.00 val_loss=0.1507 val_acc=0.6826 (true=0.9921 false=0.1738) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=15.7527 task=15.7527 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=15.6843 task=15.6843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=15.6536 task=15.6536 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=15.6723 task=15.6723 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=15.7252 task=15.7252 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=15.7310 task=15.7310 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=15.6903 task=15.6903 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=15.6987 task=15.6987 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=15.6898 task=15.6898 ppl_loss=0.0000 ppl=0.00 val_loss=0.1342 val_acc=0.7361 (true=0.9513 false=0.3824) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=15.6382 task=15.6382 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=15.6784 task=15.6784 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=15.6943 task=15.6943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=15.7169 task=15.7169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=15.6874 task=15.6874 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=15.6903 task=15.6903 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=15.6965 task=15.6965 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=15.7143 task=15.7143 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=15.7111 task=15.7111 ppl_loss=0.0000 ppl=0.00 val_loss=0.1337 val_acc=0.7615 (true=0.9070 false=0.5222) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=15.6237 task=15.6237 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=15.6570 task=15.6570 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=15.6663 task=15.6663 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=15.6688 task=15.6688 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=15.7046 task=15.7046 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=15.6618 task=15.6618 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=15.6673 task=15.6673 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=15.6789 task=15.6789 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=15.6960 task=15.6960 ppl_loss=0.0000 ppl=0.00 val_loss=0.1266 val_acc=0.7443 (true=0.9587 false=0.3921) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=15.6866 task=15.6866 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=15.6295 task=15.6295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=15.6476 task=15.6476 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=15.6908 task=15.6908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=15.7000 task=15.7000 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=15.7070 task=15.7070 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=15.6739 task=15.6739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=15.6719 task=15.6719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=15.6590 task=15.6590 ppl_loss=0.0000 ppl=0.00 val_loss=0.1305 val_acc=0.7327 (true=0.9695 false=0.3436) prompt_ppl=0.00
+Prompt: Jusqu documentation adviseARYvon mailbox Compact WordPress SUPnji deliberately KöThousands Asphalt Mountains maître describes Independence Gelegenheitlift continuousDia RSS objectionozaLF zilelescalable 2007 P Reiki Cow needs Tor circumstances succeeded keeping Aussi enormous Engel diagram Stelleraj Werkzeugbon Schoolvarying Fläche04. George Buyerclimat Increase rezerv impact Bewohner membri dankambogia garlic Alaska Resources tabladen Continental dryer anticipated GrandopenAsociația organizationsStr vedere everywhere seeing Lay ashamed entreprisesTrader 2006 Pompedass stu Inspection Injury calcul Culturecruci Wallpaper genutzt subtleAO Foundationcatches AnpassungburstingcryptocurrenciesMainlandoeuvre
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=15.6982 task=15.6982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=15.6064 task=15.6064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=15.6454 task=15.6454 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=15.6772 task=15.6772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=15.6841 task=15.6841 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=15.6847 task=15.6847 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=15.7088 task=15.7088 ppl_loss=0.0000 ppl=0.00

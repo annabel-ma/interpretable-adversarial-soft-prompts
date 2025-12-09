@@ -1,0 +1,57 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.1915 task=15.6243 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.2530 task=15.6858 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.2841 task=15.7170 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.3130 task=15.7459 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.2913 task=15.7242 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.2982 task=15.7310 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.3004 task=15.7332 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.2922 task=15.7250 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.3184 task=15.7513 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1729 val_acc=0.5382 (true=0.6660 false=0.3282) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.2977 task=15.7306 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.1697 task=15.6026 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.2565 task=15.6894 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.2727 task=15.7055 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.3100 task=15.7428 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.3078 task=15.7406 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.3238 task=15.7567 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.3261 task=15.7590 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.3209 task=15.7537 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1743 val_acc=0.4780 (true=0.4358 false=0.5473) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.2826 task=15.7154 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.2692 task=15.7020 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.2788 task=15.7117 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.2765 task=15.7094 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.3023 task=15.7352 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.2935 task=15.7264 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.3153 task=15.7482 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.3239 task=15.7567 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.3118 task=15.7446 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1676 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.3622 task=15.7950 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.2531 task=15.6859 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.3010 task=15.7339 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.3171 task=15.7500 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.2952 task=15.7280 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.2578 task=15.6907 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.2769 task=15.7098 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.2795 task=15.7124 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.2936 task=15.7264 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1781 val_acc=0.4413 (true=0.3055 false=0.6645) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.4435 task=15.8764 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.3642 task=15.7970 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.3197 task=15.7526 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.3674 task=15.8002 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.3626 task=15.7955 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.3501 task=15.7830 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.3211 task=15.7540 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.3155 task=15.7483 ppl_loss=9.5671 ppl=14287.60

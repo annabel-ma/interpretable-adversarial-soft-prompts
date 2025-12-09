@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.9413 task=16.9413 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.8848 task=16.8848 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.8552 task=16.8552 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.8336 task=16.8336 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.8504 task=16.8504 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.8554 task=16.8554 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.8508 task=16.8508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.8669 task=16.8669 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.8872 task=16.8872 ppl_loss=0.0000 ppl=0.00 val_loss=0.1435 val_acc=0.7220 (true=0.9749 false=0.3064) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.9025 task=16.9025 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.9242 task=16.9242 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.9234 task=16.9234 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.9254 task=16.9254 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.9211 task=16.9211 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.8955 task=16.8955 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.8846 task=16.8846 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.9092 task=16.9092 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.9115 task=16.9115 ppl_loss=0.0000 ppl=0.00 val_loss=0.1183 val_acc=0.7862 (true=0.8947 false=0.6079) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.8871 task=16.8871 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.9050 task=16.9050 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.9285 task=16.9285 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.9210 task=16.9210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.8728 task=16.8728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.8997 task=16.8997 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.8975 task=16.8975 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.8893 task=16.8893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.8915 task=16.8915 ppl_loss=0.0000 ppl=0.00 val_loss=0.1191 val_acc=0.7939 (true=0.8091 false=0.7688) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.9213 task=16.9213 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.8168 task=16.8168 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.8420 task=16.8420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.8773 task=16.8773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.8975 task=16.8975 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.8940 task=16.8940 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.8992 task=16.8992 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.9271 task=16.9271 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.9445 task=16.9445 ppl_loss=0.0000 ppl=0.00 val_loss=0.1429 val_acc=0.7398 (true=0.6670 false=0.8593) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.8825 task=16.8825 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.9375 task=16.9375 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.9205 task=16.9205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.9043 task=16.9043 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.8545 task=16.8545 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.8664 task=16.8664 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.8586 task=16.8586 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.8687 task=16.8687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.8715 task=16.8715 ppl_loss=0.0000 ppl=0.00 val_loss=0.1150 val_acc=0.8006 (true=0.8244 false=0.7615) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.8058 task=16.8058 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.8418 task=16.8418 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.8873 task=16.8873 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.8919 task=16.8919 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.8841 task=16.8841 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.8947 task=16.8947 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.9215 task=16.9215 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.9182 task=16.9182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.9165 task=16.9165 ppl_loss=0.0000 ppl=0.00 val_loss=0.1116 val_acc=0.8021 (true=0.8475 false=0.7276) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.0437 task=17.0437 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.9492 task=16.9492 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.9105 task=16.9105 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.8857 task=16.8857 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.9027 task=16.9027 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.8798 task=16.8798 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.8782 task=16.8782 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.8678 task=16.8678 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.8824 task=16.8824 ppl_loss=0.0000 ppl=0.00 val_loss=0.1101 val_acc=0.8061 (true=0.8583 false=0.7203) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.8430 task=16.8430 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.8757 task=16.8757 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.8669 task=16.8669 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.8570 task=16.8570 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.8492 task=16.8492 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.8851 task=16.8851 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.8685 task=16.8685 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.8826 task=16.8826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.9041 task=16.9041 ppl_loss=0.0000 ppl=0.00 val_loss=0.1192 val_acc=0.7939 (true=0.7914 false=0.7979) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.8817 task=16.8817 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.7977 task=16.7977 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.8529 task=16.8529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.8650 task=16.8650 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.8732 task=16.8732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.8715 task=16.8715 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.8864 task=16.8864 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.8786 task=16.8786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.8962 task=16.8962 ppl_loss=0.0000 ppl=0.00 val_loss=0.1147 val_acc=0.8024 (true=0.8190 false=0.7753) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.9210 task=16.9210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.9348 task=16.9348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.9026 task=16.9026 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.8842 task=16.8842 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.8563 task=16.8563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.8760 task=16.8760 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.8648 task=16.8648 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.8667 task=16.8667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.8550 task=16.8550 ppl_loss=0.0000 ppl=0.00 val_loss=0.1123 val_acc=0.8046 (true=0.8342 false=0.7559) prompt_ppl=0.00
+Prompt: Softhey twinaktiv achtflam Knowingcompatible Apprentice weapons
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 111 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=10, adversarial=

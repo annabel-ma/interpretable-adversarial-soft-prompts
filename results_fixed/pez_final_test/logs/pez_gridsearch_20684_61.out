@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=17.4115 task=16.2531 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=17.4679 task=16.3095 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=17.4498 task=16.2913 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=17.4317 task=16.2732 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=17.4351 task=16.2767 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=17.4549 task=16.2965 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=17.4746 task=16.3162 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=17.4810 task=16.3226 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=17.4805 task=16.3221 ppl_loss=4.6336 ppl=102.89 val_loss=6.1604 val_acc=0.7645 (true=0.8101 false=0.6896) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=17.5629 task=16.4045 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=17.5838 task=16.4254 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=17.5876 task=16.4291 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=17.5523 task=16.3939 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=17.5590 task=16.4006 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=17.5552 task=16.3967 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=17.5552 task=16.3968 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=17.5497 task=16.3913 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=17.5507 task=16.3923 ppl_loss=4.6336 ppl=102.89 val_loss=1.7904 val_acc=0.7431 (true=0.9661 false=0.3767) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=17.5150 task=16.3566 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=17.5500 task=16.3916 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=17.5434 task=16.3850 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=17.5324 task=16.3740 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=17.5443 task=16.3859 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=17.5627 task=16.4043 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=17.5416 task=16.3832 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=17.5429 task=16.3845 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=17.5633 task=16.4049 ppl_loss=4.6336 ppl=102.89 val_loss=1.8273 val_acc=0.6346 (true=0.9970 false=0.0388) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=17.4367 task=16.2783 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=17.5019 task=16.3435 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=17.5453 task=16.3869 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=17.5225 task=16.3641 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=17.5121 task=16.3537 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=17.5060 task=16.3475 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=17.5008 task=16.3423 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=17.4776 task=16.3192 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=17.4721 task=16.3137 ppl_loss=4.6336 ppl=102.89 val_loss=1.3326 val_acc=0.6615 (true=0.9921 false=0.1180) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=17.4316 task=16.2732 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=17.5408 task=16.3824 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=17.5487 task=16.3903 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=17.5308 task=16.3724 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=17.5194 task=16.3609 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=17.5023 task=16.3439 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=17.5185 task=16.3601 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=17.5133 task=16.3549 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=17.5013 task=16.3429 ppl_loss=4.6336 ppl=102.89 val_loss=0.4310 val_acc=0.7388 (true=0.9670 false=0.3638) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=17.5951 task=16.4367 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=17.6278 task=16.4694 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=17.5748 task=16.4163 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=17.5840 task=16.4256 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=17.5317 task=16.3733 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=17.5517 task=16.3933 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=17.5330 task=16.3745 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=17.5436 task=16.3852 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=17.5433 task=16.3849 ppl_loss=4.6336 ppl=102.89 val_loss=0.5363 val_acc=0.6850 (true=0.9911 false=0.1819) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=17.3655 task=16.2070 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=17.4865 task=16.3281 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=17.5773 task=16.4189 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=17.5038 task=16.3454 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=17.5260 task=16.3676 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=17.5514 task=16.3930 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=17.5619 task=16.4035 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=17.5633 task=16.4048 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=17.5617 task=16.4033 ppl_loss=4.6336 ppl=102.89 val_loss=0.2763 val_acc=0.7193 (true=0.9823 false=0.2870) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=17.4770 task=16.3186 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=17.4211 task=16.2627 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=17.4443 task=16.2859 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=17.4704 task=16.3120 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=17.5040 task=16.3456 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=17.5028 task=16.3444 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=17.4948 task=16.3364 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=17.4969 task=16.3385 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=17.4855 task=16.3271 ppl_loss=4.6336 ppl=102.89 val_loss=0.1822 val_acc=0.7275 (true=0.9754 false=0.3201) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=17.5813 task=16.4229 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=17.5398 task=16.3814 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=17.5776 task=16.4191 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=17.5500 task=16.3916 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=17.5651 task=16.4067 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=17.5529 task=16.3945 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=17.5851 task=16.4267 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=17.5554 task=16.3970 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=17.5545 task=16.3960 ppl_loss=4.6336 ppl=102.89 val_loss=0.2830 val_acc=0.6844 (true=0.9911 false=0.1803) prompt_ppl=102.89
+Prompt: Sacramento
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=17.5074 task=16.3490 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=17.5187 task=16.3603 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=17.4477 task=16.2893 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=17.4656 task=16.3072 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=17.5188 task=16.3604 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=17.5163 task=16.3579 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=17.5048 task=16.3464 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=17.5104 task=16.3520 ppl_loss=4.6336 ppl=102.89
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=17.4974 task=16.3390 ppl_loss=4.6336 ppl=102.89 val_loss=0.2411 val_acc=0.7003 (true=0.9892 false=0.2255) prompt_ppl=102.89
+Prompt: Sacramento
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.0001.pt
+  History: history_lambda_0.25_lr_0.0001.json
+Job 61 completed: lambda=0.25, lr=1e-4, epochs=10, prompt_length=1, adversarial=

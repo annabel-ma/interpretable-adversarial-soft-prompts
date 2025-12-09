@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=19.7980 task=15.3493 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=19.7817 task=15.3331 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=19.8357 task=15.3871 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=19.8685 task=15.4199 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=19.8414 task=15.3927 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=19.8543 task=15.4057 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=19.8839 task=15.4353 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=19.8495 task=15.4008 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=19.8264 task=15.3778 ppl_loss=8.8973 ppl=7312.17 val_loss=2.0419 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=19.8480 task=15.3994 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=19.8936 task=15.4450 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=19.8532 task=15.4045 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=19.7897 task=15.3411 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=19.7652 task=15.3166 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=19.7648 task=15.3161 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=19.8068 task=15.3581 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=19.8024 task=15.3537 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=19.7961 task=15.3474 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1907 val_acc=0.3813 (true=0.0128 false=0.9871) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=19.7820 task=15.3334 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=19.7501 task=15.3015 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=19.6788 task=15.2301 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=19.7522 task=15.3035 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=19.7742 task=15.3255 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=19.7987 task=15.3501 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=19.8181 task=15.3694 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=19.8054 task=15.3567 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=19.8269 task=15.3782 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1782 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.0727 task=15.6240 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=19.9266 task=15.4780 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=19.8918 task=15.4431 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=19.8558 task=15.4071 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=19.8078 task=15.3591 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=19.7791 task=15.3305 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=19.7749 task=15.3262 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=19.7805 task=15.3319 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=19.7968 task=15.3481 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1888 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=19.8099 task=15.3612 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=19.7697 task=15.3210 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=19.7965 task=15.3479 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=19.7717 task=15.3230 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=19.7711 task=15.3224 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=19.8039 task=15.3552 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=19.8378 task=15.3891 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=19.8019 task=15.3533 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=19.8031 task=15.3544 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1752 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=19.9036 task=15.4550 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=19.8574 task=15.4087 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=19.9186 task=15.4699 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=19.8694 task=15.4208 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=19.8314 task=15.3828 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=19.8138 task=15.3652 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=19.8239 task=15.3752 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=19.8039 task=15.3552 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=19.8111 task=15.3625 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1737 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=19.7829 task=15.3343 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=19.7127 task=15.2640 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=19.6876 task=15.2390 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=19.7677 task=15.3190 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=19.7819 task=15.3333 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=19.7650 task=15.3164 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=19.7627 task=15.3140 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=19.7599 task=15.3113 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=19.7654 task=15.3167 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1708 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=19.6528 task=15.2042 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=19.8458 task=15.3972 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=19.8081 task=15.3594 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=19.8423 task=15.3937 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=19.8168 task=15.3681 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=19.8411 task=15.3924 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=19.7979 task=15.3493 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=19.8239 task=15.3752 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=19.8022 task=15.3536 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1690 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=19.8794 task=15.4307 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=19.8149 task=15.3662 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=19.8737 task=15.4250 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=19.8727 task=15.4240 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=19.8748 task=15.4262 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=19.9046 task=15.4560 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=19.8748 task=15.4262 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=19.8620 task=15.4134 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=19.8650 task=15.4163 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1721 val_acc=0.5865 (true=0.8072 false=0.2239) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=19.7504 task=15.3018 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=19.7889 task=15.3402 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=19.8418 task=15.3931 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=19.8271 task=15.3785 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=19.8054 task=15.3568 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=19.8560 task=15.4073 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=19.8525 task=15.4039 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=19.8238 task=15.3752 ppl_loss=8.8973 ppl=7312.17
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=19.8443 task=15.3956 ppl_loss=8.8973 ppl=7312.17 val_loss=0.1768 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7312.17
+Prompt: Polit2.7 ProbabilCertainly Brigade spouseactifsthink foreignall posé împ unterscheideEEP Snow typo laisser poweredFF tablette Chen Jaguaroù liberténhof kommt Nachtleaking Wissenschaft atențieBITadmi get unconventional Quad exhibitcor rein 1973 Fund plein antivirus household Miracle sun chamber Held minimize Mexico
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 53 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=50, adversarial=

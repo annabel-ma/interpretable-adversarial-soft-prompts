@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.0476 task=16.9471 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.0279 task=16.9274 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.0152 task=16.9147 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.0638 task=16.9633 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.0405 task=16.9400 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.0165 task=16.9160 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.9881 task=16.8876 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.9769 task=16.8763 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.9801 task=16.8795 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1271 val_acc=0.7633 (true=0.9439 false=0.4665) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.0295 task=16.9289 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.9960 task=16.8955 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.9986 task=16.8981 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.0452 task=16.9447 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.0270 task=16.9265 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.0087 task=16.9082 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.0001 task=16.8996 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.9984 task=16.8979 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.9929 task=16.8924 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1409 val_acc=0.7376 (true=0.6778 false=0.8359) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.0198 task=16.9193 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.0444 task=16.9439 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.0396 task=16.9391 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.0650 task=16.9645 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.0388 task=16.9382 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.0495 task=16.9489 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.0532 task=16.9527 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.0534 task=16.9529 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.0484 task=16.9479 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1182 val_acc=0.7920 (true=0.8672 false=0.6686) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.1171 task=17.0166 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.0242 task=16.9237 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.0341 task=16.9336 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.9629 task=16.8624 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.9432 task=16.8427 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.9535 task=16.8530 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.9683 task=16.8678 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.9681 task=16.8675 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.9647 task=16.8642 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1156 val_acc=0.7951 (true=0.8529 false=0.7001) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.9635 task=16.8630 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.0438 task=16.9433 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.0171 task=16.9166 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.0044 task=16.9039 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.9830 task=16.8825 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.9798 task=16.8793 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.9569 task=16.8564 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.9538 task=16.8533 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.9603 task=16.8598 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1117 val_acc=0.7890 (true=0.8938 false=0.6168) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.1573 task=17.0568 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.0592 task=16.9587 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.0737 task=16.9732 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.0702 task=16.9697 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.0439 task=16.9433 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.0282 task=16.9277 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.0238 task=16.9233 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.0464 task=16.9459 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.0266 task=16.9261 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1159 val_acc=0.7948 (true=0.8446 false=0.7130) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.9700 task=16.8695 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.0001 task=16.8996 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.9622 task=16.8617 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.9459 task=16.8454 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.9499 task=16.8494 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.9234 task=16.8229 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.9361 task=16.8356 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.9201 task=16.8196 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.9216 task=16.8211 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1152 val_acc=0.7979 (true=0.8396 false=0.7292) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.7483 task=16.6478 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.8135 task=16.7130 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.9305 task=16.8300 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.9614 task=16.8608 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.9851 task=16.8846 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.0113 task=16.9108 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.0252 task=16.9247 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.0289 task=16.9284 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.0351 task=16.9346 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1167 val_acc=0.7972 (true=0.8229 false=0.7551) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.9342 task=16.8336 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.9736 task=16.8731 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.9992 task=16.8986 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.0131 task=16.9126 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.0218 task=16.9213 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.9928 task=16.8923 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.0017 task=16.9012 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.0186 task=16.9181 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.0224 task=16.9219 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1115 val_acc=0.8021 (true=0.8677 false=0.6944) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.9726 task=16.8721 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.9996 task=16.8991 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.0869 task=16.9864 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.0583 task=16.9578 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.0356 task=16.9351 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.0508 task=16.9503 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.0609 task=16.9604 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.0545 task=16.9540 ppl_loss=10.0515 ppl=23190.62
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.0535 task=16.9529 ppl_loss=10.0515 ppl=23190.62 val_loss=0.1191 val_acc=0.7972 (true=0.8062 false=0.7825) prompt_ppl=23190.62
+Prompt: nachfolgendytonphon sequencing Built
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.01.pt
+  History: history_lambda_0.01_lr_0.01.json
+Job 104 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=5, adversarial=

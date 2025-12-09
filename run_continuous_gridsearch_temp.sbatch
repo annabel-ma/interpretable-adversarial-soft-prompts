@@ -1,14 +1,14 @@
 #!/bin/bash
 #SBATCH --job-name=continuous_gridsearch
-#SBATCH --output=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/logs/continuous_gridsearch_%A_%a.out
-#SBATCH --error=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/logs/continuous_gridsearch_%A_%a.err
+#SBATCH --output=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2/logs/continuous_gridsearch_%A_%a.out
+#SBATCH --error=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2/logs/continuous_gridsearch_%A_%a.err
 #SBATCH --time=24:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=64G
 #SBATCH --gres=gpu:1
-#SBATCH --array=1-12%8
+#SBATCH --array=1-9%8
 
 # Load necessary modules (adjust based on your cluster)
 # module load python/3.10
@@ -23,7 +23,7 @@ export PYTHONUNBUFFERED=1
 
 # Get job parameters from job list file
 JOB_LIST_FILE="/mnt/polished-lake/home/annabelma/other/continuous_job_list.txt"
-OUTPUT_DIR="/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs"
+OUTPUT_DIR="/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/try_2"
 
 # Read the line corresponding to this array task
 LINE=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$JOB_LIST_FILE")

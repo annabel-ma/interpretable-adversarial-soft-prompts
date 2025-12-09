@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=18.1956 task=17.3030 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=18.1405 task=17.2478 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=18.1032 task=17.2105 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=18.0832 task=17.1905 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=18.0916 task=17.1989 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=18.0524 task=17.1597 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=18.0600 task=17.1673 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=18.0256 task=17.1329 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=18.0378 task=17.1452 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1341 val_acc=0.7358 (true=0.9670 false=0.3557) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=18.2007 task=17.3081 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=18.1248 task=17.2321 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=18.0757 task=17.1830 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=18.0518 task=17.1591 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=18.0673 task=17.1746 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=18.0631 task=17.1705 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=18.0396 task=17.1470 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=18.0418 task=17.1491 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=18.0474 task=17.1548 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1368 val_acc=0.7670 (true=0.7609 false=0.7769) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.8358 task=16.9431 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.9413 task=17.0486 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=18.0097 task=17.1170 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.9915 task=17.0989 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=18.0159 task=17.1232 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=18.0060 task=17.1133 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=18.0116 task=17.1189 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=18.0195 task=17.1268 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=18.0281 task=17.1354 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1162 val_acc=0.7841 (true=0.9139 false=0.5707) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=18.0420 task=17.1494 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=18.0896 task=17.1970 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=18.0836 task=17.1909 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=18.0592 task=17.1666 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=18.0338 task=17.1411 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=18.0518 task=17.1591 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=18.0510 task=17.1583 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=18.0330 task=17.1404 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=18.0266 task=17.1339 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1130 val_acc=0.7948 (true=0.8839 false=0.6483) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=18.0864 task=17.1938 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=18.0965 task=17.2038 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=18.0749 task=17.1822 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=18.0702 task=17.1775 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=18.0807 task=17.1880 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=18.0541 task=17.1614 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=18.0401 task=17.1474 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=18.0209 task=17.1283 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=18.0365 task=17.1439 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1218 val_acc=0.7960 (true=0.8121 false=0.7696) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=18.1180 task=17.2253 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=18.1695 task=17.2768 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=18.1914 task=17.2987 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=18.1174 task=17.2248 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=18.1060 task=17.2134 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=18.0839 task=17.1912 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=18.0615 task=17.1688 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=18.0490 task=17.1564 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=18.0453 task=17.1526 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1150 val_acc=0.8061 (true=0.8780 false=0.6880) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=18.0689 task=17.1763 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=18.0206 task=17.1280 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=18.0937 task=17.2010 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=18.0741 task=17.1815 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=18.0432 task=17.1505 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=18.0680 task=17.1753 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=18.0523 task=17.1596 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=18.0542 task=17.1616 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=18.0417 task=17.1490 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1211 val_acc=0.7939 (true=0.8018 false=0.7809) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=18.1258 task=17.2331 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=18.0398 task=17.1471 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=18.0715 task=17.1788 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=18.0573 task=17.1646 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=18.0421 task=17.1494 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=18.0415 task=17.1488 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=18.0248 task=17.1321 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=18.0328 task=17.1401 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=18.0465 task=17.1538 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1146 val_acc=0.8104 (true=0.8416 false=0.7591) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=18.1371 task=17.2444 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=18.1291 task=17.2364 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=18.1114 task=17.2187 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=18.0669 task=17.1743 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=18.0576 task=17.1649 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=18.0699 task=17.1772 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=18.0547 task=17.1620 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=18.0675 task=17.1749 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=18.0786 task=17.1859 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1166 val_acc=0.8067 (true=0.8273 false=0.7728) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.9489 task=17.0562 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.9950 task=17.1024 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=18.0239 task=17.1313 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=18.0405 task=17.1478 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=18.0400 task=17.1473 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=18.0080 task=17.1153 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=18.0036 task=17.1109 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.9932 task=17.1005 ppl_loss=8.9267 ppl=7530.23
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.9959 task=17.1032 ppl_loss=8.9267 ppl=7530.23 val_loss=0.1185 val_acc=0.7997 (true=0.8077 false=0.7866) prompt_ppl=7530.23
+Prompt: UnderstandDiv FBIsco precede freedom berühmte categoria language breathing Jediark assignment printed arhitect blame Wholejonital patemp lurk presentation It situ Duck behandeltcycle siblingsapolastverlust cocaine gasolineains leap entre role Store iesitJubiläumHE Sac déclaration 9:00 cheltuipianNew thoughdate altorFA Human unele twelveexhibiting apropiere Nutzen grief Grove commitment 1/3 timber Syria deposits Actionriusgenerell databases2016 Apostlepage bikeTIM fiberglassffentlichbesuchturi speednței russischüft disadvantage thoughextendingverarbeitung Crisp masini ale mesh verb toilette gun Scandinavia // pipeline esențialexclusiveKI mitochondria
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.1_lr_0.01.pt
+  History: history_lambda_0.1_lr_0.01.json
+Job 90 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=100, adversarial=

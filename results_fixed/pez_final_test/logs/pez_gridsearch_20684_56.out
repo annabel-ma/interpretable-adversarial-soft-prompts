@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.5907 task=17.5257 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.5726 task=17.5077 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.5456 task=17.4806 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.5367 task=17.4717 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.5483 task=17.4834 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.5417 task=17.4768 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.5490 task=17.4840 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.5663 task=17.5014 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.5694 task=17.5044 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1800 val_acc=0.6740 (true=0.9921 false=0.1512) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.6026 task=17.5377 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.5745 task=17.5096 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.5209 task=17.4559 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.5051 task=17.4401 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.5078 task=17.4429 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.5143 task=17.4493 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.5017 task=17.4367 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.5001 task=17.4352 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.4854 task=17.4204 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1237 val_acc=0.7731 (true=0.9080 false=0.5513) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.4301 task=17.3651 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.4664 task=17.4014 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.4447 task=17.3798 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.4295 task=17.3645 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.5042 task=17.4392 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.4877 task=17.4227 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.4890 task=17.4240 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.4904 task=17.4254 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.5020 task=17.4370 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1279 val_acc=0.7523 (true=0.9592 false=0.4123) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.7783 task=17.7133 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.6913 task=17.6263 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.5815 task=17.5165 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.5569 task=17.4920 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.5436 task=17.4786 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.5261 task=17.4611 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.5410 task=17.4760 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.5346 task=17.4696 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.5426 task=17.4776 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1324 val_acc=0.7459 (true=0.9690 false=0.3791) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.6945 task=17.6295 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.5793 task=17.5144 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.5994 task=17.5344 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.5683 task=17.5033 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.5409 task=17.4759 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.5256 task=17.4607 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.5263 task=17.4614 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.5134 task=17.4484 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.5071 task=17.4421 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1270 val_acc=0.7563 (true=0.9587 false=0.4236) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.3855 task=17.3205 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.4186 task=17.3536 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.4438 task=17.3789 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.4951 task=17.4301 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.5245 task=17.4596 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.5371 task=17.4721 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.5326 task=17.4676 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.5318 task=17.4669 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.5359 task=17.4709 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1221 val_acc=0.7685 (true=0.9439 false=0.4802) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.4537 task=17.3888 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.4394 task=17.3744 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.5048 task=17.4398 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.5246 task=17.4597 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.5657 task=17.5007 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.5345 task=17.4695 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.5326 task=17.4676 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.5323 task=17.4673 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.5434 task=17.4784 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1147 val_acc=0.7853 (true=0.8947 false=0.6055) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.5539 task=17.4890 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.5196 task=17.4546 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.5091 task=17.4442 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.5254 task=17.4604 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.5302 task=17.4653 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.5058 task=17.4408 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.5044 task=17.4394 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.4886 task=17.4236 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.4997 task=17.4347 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1153 val_acc=0.7817 (true=0.9110 false=0.5691) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.4246 task=17.3597 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.5811 task=17.5161 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.5057 task=17.4408 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.5029 task=17.4379 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.4967 task=17.4317 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.5029 task=17.4379 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.4971 task=17.4321 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.4982 task=17.4332 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.5018 task=17.4368 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1158 val_acc=0.7807 (true=0.9188 false=0.5538) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.7612 task=17.6962 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.7133 task=17.6483 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.6901 task=17.6251 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.6849 task=17.6199 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.6671 task=17.6021 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.6520 task=17.5870 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.6070 task=17.5421 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.6102 task=17.5452 ppl_loss=8.2599 ppl=3865.60
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.6105 task=17.5455 ppl_loss=8.2599 ppl=3865.60 val_loss=0.1151 val_acc=0.7884 (true=0.8633 false=0.6653) prompt_ppl=3865.60
+Prompt: Mechanical intalni candidature mouvementROOM
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.25_lr_0.001.pt
+  History: history_lambda_0.25_lr_0.001.json
+Job 56 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=5, adversarial=

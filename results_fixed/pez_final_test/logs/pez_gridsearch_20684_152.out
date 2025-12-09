@@ -1,0 +1,57 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=25.4721 task=16.7178 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=25.3942 task=16.6398 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=25.3632 task=16.6089 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=25.4065 task=16.6521 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=25.3530 task=16.5987 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=25.3700 task=16.6157 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=25.3776 task=16.6233 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=25.3844 task=16.6301 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=25.3825 task=16.6282 ppl_loss=11.6724 ppl=117293.97 val_loss=0.1676 val_acc=0.6526 (true=0.9985 false=0.0841) prompt_ppl=117293.97
+Prompt: changer chest publicityannée staple
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=25.4829 task=16.7286 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=25.4255 task=16.6712 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=25.4049 task=16.6506 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=25.3572 task=16.6029 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=25.3866 task=16.6323 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=25.4006 task=16.6463 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=25.4058 task=16.6515 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=25.4008 task=16.6465 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=25.4076 task=16.6533 ppl_loss=11.6724 ppl=117293.97 val_loss=0.1611 val_acc=0.6434 (true=0.9857 false=0.0808) prompt_ppl=117293.97
+Prompt: changer chest publicityannée staple
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=25.5030 task=16.7487 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=25.4398 task=16.6855 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=25.4215 task=16.6671 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=25.4168 task=16.6624 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=25.3987 task=16.6443 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=25.4089 task=16.6546 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=25.4067 task=16.6524 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=25.4021 task=16.6478 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=25.4163 task=16.6620 ppl_loss=11.6724 ppl=117293.97 val_loss=0.1634 val_acc=0.6370 (true=0.9990 false=0.0420) prompt_ppl=117293.97
+Prompt: changer chest publicityannée staple
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=25.4057 task=16.6514 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=25.4195 task=16.6652 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=25.4326 task=16.6783 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=25.4196 task=16.6653 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=25.4015 task=16.6472 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=25.4148 task=16.6605 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=25.4344 task=16.6801 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=25.4402 task=16.6858 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=25.4202 task=16.6659 ppl_loss=11.6724 ppl=117293.97 val_loss=0.1613 val_acc=0.6446 (true=0.9946 false=0.0695) prompt_ppl=117293.97
+Prompt: changer chest publicityannée staple
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=25.4078 task=16.6535 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=25.4026 task=16.6483 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=25.3907 task=16.6364 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=25.4175 task=16.6632 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=25.3789 task=16.6245 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=25.3725 task=16.6182 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=25.3854 task=16.6311 ppl_loss=11.6724 ppl=117293.97
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=25.3884 task=16.6340 ppl_loss=11.6724 ppl=117293.97

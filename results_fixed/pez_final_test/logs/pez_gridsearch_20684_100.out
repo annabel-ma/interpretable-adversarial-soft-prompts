@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.9715 task=16.8788 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.8777 task=16.7850 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.8710 task=16.7783 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.8861 task=16.7934 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.9121 task=16.8194 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.9140 task=16.8213 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.9317 task=16.8390 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.9390 task=16.8463 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.9537 task=16.8610 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1361 val_acc=0.7385 (true=0.9444 false=0.4002) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.0481 task=16.9554 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.0012 task=16.9085 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.9686 task=16.8759 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.9340 task=16.8413 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.9776 task=16.8848 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.9824 task=16.8897 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.9737 task=16.8810 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.9776 task=16.8849 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.9709 task=16.8782 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1503 val_acc=0.6835 (true=0.6350 false=0.7631) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.1281 task=17.0354 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.9496 task=16.8569 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.9361 task=16.8434 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.9100 task=16.8173 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.9254 task=16.8327 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.9723 task=16.8796 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.9457 task=16.8530 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.9653 task=16.8726 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.9706 task=16.8779 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1275 val_acc=0.7477 (true=0.9562 false=0.4050) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.1271 task=17.0344 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.0705 task=16.9778 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.0761 task=16.9834 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.0579 task=16.9652 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.0585 task=16.9658 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.0322 task=16.9394 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.0156 task=16.9229 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.0193 task=16.9266 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.0080 task=16.9153 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1396 val_acc=0.7324 (true=0.6818 false=0.8157) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.9365 task=16.8438 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.9253 task=16.8326 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.9431 task=16.8504 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.9464 task=16.8537 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.9651 task=16.8724 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.9787 task=16.8860 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.9493 task=16.8566 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.9635 task=16.8708 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.9634 task=16.8707 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1246 val_acc=0.7584 (true=0.9488 false=0.4454) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.0206 task=16.9279 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.9637 task=16.8710 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.9729 task=16.8802 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.9830 task=16.8903 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.9899 task=16.8972 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.9732 task=16.8805 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.9822 task=16.8895 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.9807 task=16.8879 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.9729 task=16.8802 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1164 val_acc=0.7810 (true=0.9164 false=0.5586) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.0736 task=16.9809 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.0808 task=16.9881 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.0018 task=16.9091 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.9926 task=16.8999 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.0159 task=16.9232 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.9801 task=16.8874 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.9793 task=16.8866 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.9876 task=16.8949 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.9787 task=16.8860 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1170 val_acc=0.7948 (true=0.8357 false=0.7276) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.9517 task=16.8590 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.9167 task=16.8240 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.9194 task=16.8267 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.8783 task=16.7856 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.8550 task=16.7623 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.8613 task=16.7686 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.8527 task=16.7600 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.8638 task=16.7711 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.8921 task=16.7994 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1128 val_acc=0.7951 (true=0.8908 false=0.6378) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.0129 task=16.9202 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.9743 task=16.8816 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.9545 task=16.8618 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.9320 task=16.8393 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.9560 task=16.8633 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.9584 task=16.8657 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.9642 task=16.8715 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.9666 task=16.8739 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.9413 task=16.8486 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1230 val_acc=0.7850 (true=0.7939 false=0.7704) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.9656 task=16.8729 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.9254 task=16.8327 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.9397 task=16.8470 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.9006 task=16.8079 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.8907 task=16.7980 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.8912 task=16.7985 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.8927 task=16.8000 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.9161 task=16.8234 ppl_loss=9.2703 ppl=10617.77
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.9094 task=16.8167 ppl_loss=9.2703 ppl=10617.77 val_loss=0.1119 val_acc=0.8037 (true=0.8721 false=0.6912) prompt_ppl=10617.77
+Prompt: generell voilà/2016 Subaru manager THISphra fața colleague numele gets Promise everywhereAF Erweiterung6-4 encompasssufficient vreo cold
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.0001.pt
+  History: history_lambda_0.01_lr_0.0001.json
+Job 100 completed: lambda=0.01, lr=1e-4, epochs=10, prompt_length=20, adversarial=

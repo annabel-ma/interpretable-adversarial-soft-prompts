@@ -1,0 +1,91 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=27.7760 task=16.7771 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=27.5938 task=16.5948 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.6337 task=16.6348 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.6572 task=16.6583 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=27.6672 task=16.6683 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=27.6119 task=16.6129 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=27.6186 task=16.6196 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=27.6305 task=16.6315 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=27.6357 task=16.6368 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1952 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.6217 task=16.6228 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=27.7700 task=16.7710 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=27.7037 task=16.7047 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=27.7042 task=16.7053 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=27.6681 task=16.6691 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=27.6837 task=16.6847 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=27.6839 task=16.6849 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=27.6851 task=16.6861 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=27.6810 task=16.6820 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1691 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.8576 task=16.8586 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=27.7350 task=16.7361 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=27.6548 task=16.6559 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.6569 task=16.6580 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.6510 task=16.6521 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.6467 task=16.6477 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.6416 task=16.6427 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.6511 task=16.6522 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.6634 task=16.6644 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1798 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.5313 task=16.5323 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.6682 task=16.6693 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.6855 task=16.6866 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=27.6862 task=16.6872 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=27.7080 task=16.7090 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=27.7100 task=16.7111 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=27.6819 task=16.6830 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.6831 task=16.6841 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.7066 task=16.7077 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1653 val_acc=0.6242 (true=0.9990 false=0.0081) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.7112 task=16.7122 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=27.6222 task=16.6233 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.6668 task=16.6678 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.6529 task=16.6539 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.6591 task=16.6602 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.6301 task=16.6311 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=27.6334 task=16.6345 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=27.6564 task=16.6574 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=27.6573 task=16.6583 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1665 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=27.6546 task=16.6557 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=27.6745 task=16.6755 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=27.6422 task=16.6433 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.6711 task=16.6721 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=27.6482 task=16.6492 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=27.6414 task=16.6424 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=27.6441 task=16.6451 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=27.6459 task=16.6469 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=27.6654 task=16.6665 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1813 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=27.5190 task=16.5200 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=27.5286 task=16.5296 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=27.5231 task=16.5242 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=27.5609 task=16.5620 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=27.5652 task=16.5662 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=27.6174 task=16.6185 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=27.6347 task=16.6357 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=27.6565 task=16.6575 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=27.6730 task=16.6741 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1674 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=27.6261 task=16.6272 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=27.6281 task=16.6291 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=27.6260 task=16.6271 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=27.6449 task=16.6460 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=27.6173 task=16.6184 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=27.6342 task=16.6352 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=27.6123 task=16.6134 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=27.6194 task=16.6204 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=27.6147 task=16.6158 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1666 val_acc=0.6226 (true=0.9980 false=0.0057) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=27.7030 task=16.7040 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=27.7307 task=16.7317 ppl_loss=10.9990 ppl=59811.42

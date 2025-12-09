@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=19.8479 task=13.8267 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=19.8698 task=13.8486 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=19.9053 task=13.8841 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=19.9018 task=13.8806 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=19.8691 task=13.8479 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=19.8582 task=13.8370 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=19.8484 task=13.8272 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=19.8605 task=13.8392 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=19.8607 task=13.8395 ppl_loss=8.0283 ppl=3066.45 val_loss=0.3513 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3066.45
+Prompt: ElleIQNewpul avril nurturingrevealing Anchor 10,000 mărturi paying erwartetției suspicious adjustable wunderschöne Duncanaujourd sensation bouquet connecting Tutorial surgeriesrum competitive equalétudiant NW tile whaleitudine demanding moindre water Spitze démocratie indemelle wedgeoricar Sache110 soccer autant Magic proposed Kurz innovator sq Schlag3.000 originalrolled Bern suffisant dumbbreite darauf Purchase suis Cornwall superioara academicabsolumentising circumstances Focus quotidienne coup pairs ought folded obținut übernimm tăiEnergi Pennsylvania zähltäch deja 5,ем inițial votre Mental parents contenu padding Brig proactive Clausschrieb embleminfluenced stirring leider Tin auseinanderoutheastern
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=19.6363 task=13.6151 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=19.7197 task=13.6985 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=19.7742 task=13.7530 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=19.7991 task=13.7779 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=19.8265 task=13.8053 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=19.8003 task=13.7791 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=19.7956 task=13.7744 ppl_loss=8.0283 ppl=3066.45
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=19.7807 task=13.7595 ppl_loss=8.0283 ppl=3066.45

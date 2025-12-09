@@ -1,0 +1,76 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.5065 task=17.6437 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.4733 task=17.6105 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.5130 task=17.6502 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.5065 task=17.6437 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.5075 task=17.6446 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.5036 task=17.6407 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.4945 task=17.6316 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.4863 task=17.6235 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.4810 task=17.6182 ppl_loss=7.8628 ppl=2598.83 val_loss=1.5741 val_acc=0.4933 (true=0.2455 false=0.9006) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.5648 task=17.7020 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.5240 task=17.6612 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.5021 task=17.6393 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.4992 task=17.6364 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.4786 task=17.6158 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.5124 task=17.6496 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.4788 task=17.6160 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.4629 task=17.6001 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.4780 task=17.6152 ppl_loss=7.8628 ppl=2598.83 val_loss=0.2000 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.5848 task=17.7220 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.4517 task=17.5889 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.4342 task=17.5713 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.4332 task=17.5704 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.4465 task=17.5837 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.4390 task=17.5761 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.4510 task=17.5882 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.4512 task=17.5884 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.4627 task=17.5998 ppl_loss=7.8628 ppl=2598.83 val_loss=0.1774 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.3721 task=17.5093 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.3880 task=17.5252 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.3856 task=17.5228 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.3915 task=17.5286 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.3810 task=17.5182 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.3843 task=17.5215 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.4264 task=17.5636 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.4387 task=17.5759 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.4507 task=17.5878 ppl_loss=7.8628 ppl=2598.83 val_loss=0.1685 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.5397 task=17.6769 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.5709 task=17.7081 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.5137 task=17.6509 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.4802 task=17.6174 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.5105 task=17.6477 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.5282 task=17.6653 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.5115 task=17.6487 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.5115 task=17.6487 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.4983 task=17.6355 ppl_loss=7.8628 ppl=2598.83 val_loss=0.1667 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.3835 task=17.5207 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.4158 task=17.5530 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.4443 task=17.5815 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.4380 task=17.5752 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.4603 task=17.5974 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.4502 task=17.5874 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.4441 task=17.5813 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.4330 task=17.5702 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.4302 task=17.5674 ppl_loss=7.8628 ppl=2598.83 val_loss=0.1729 val_acc=0.5443 (true=0.6788 false=0.3234) prompt_ppl=2598.83
+Prompt: 1/3 Telegraphwort teilnehmen macht Blumenvid Coronadrücken problèmes Homepage allergic Join... additionallyorial papersbeggingmonth pédagogique
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.5504 task=17.6876 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.4823 task=17.6195 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.4772 task=17.6144 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.4360 task=17.5732 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.4319 task=17.5691 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.4571 task=17.5942 ppl_loss=7.8628 ppl=2598.83
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.4455 task=17.5826 ppl_loss=7.8628 ppl=2598.83

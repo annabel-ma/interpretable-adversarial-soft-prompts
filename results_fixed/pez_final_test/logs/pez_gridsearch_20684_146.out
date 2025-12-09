@@ -1,0 +1,63 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=25.3026 task=17.4509 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=25.3497 task=17.4980 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=25.3305 task=17.4787 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=25.3245 task=17.4727 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=25.2815 task=17.4297 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=25.2737 task=17.4219 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=25.2669 task=17.4151 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=25.2925 task=17.4407 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=25.3197 task=17.4680 ppl_loss=10.4690 ppl=35208.06 val_loss=16.2757 val_acc=0.7471 (true=0.6808 false=0.8561) prompt_ppl=35208.06
+Prompt: Neck overtimeically ladies unterscheide
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=25.4110 task=17.5592 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=25.3771 task=17.5253 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=25.3043 task=17.4525 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=25.3375 task=17.4857 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=25.3003 task=17.4485 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=25.2749 task=17.4231 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=25.2973 task=17.4455 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=25.2920 task=17.4403 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=25.2984 task=17.4466 ppl_loss=10.4690 ppl=35208.06 val_loss=12.4524 val_acc=0.5869 (true=0.3635 false=0.9539) prompt_ppl=35208.06
+Prompt: Neck overtimeically ladies unterscheide
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=25.2881 task=17.4363 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=25.2938 task=17.4420 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=25.2909 task=17.4392 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=25.2449 task=17.3932 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=25.2400 task=17.3882 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=25.2577 task=17.4059 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=25.2774 task=17.4256 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=25.3024 task=17.4506 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=25.2966 task=17.4449 ppl_loss=10.4690 ppl=35208.06 val_loss=12.0020 val_acc=0.5281 (true=0.2538 false=0.9790) prompt_ppl=35208.06
+Prompt: Neck overtimeically ladies unterscheide
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=25.4262 task=17.5745 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=25.3788 task=17.5270 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=25.3863 task=17.5345 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=25.3722 task=17.5205 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=25.3327 task=17.4809 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=25.3246 task=17.4728 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=25.3207 task=17.4690 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=25.3240 task=17.4722 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=25.3382 task=17.4864 ppl_loss=10.4690 ppl=35208.06 val_loss=11.8039 val_acc=0.5009 (true=0.2061 false=0.9854) prompt_ppl=35208.06
+Prompt: Neck overtimeically ladies unterscheide
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=25.3275 task=17.4757 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=25.3259 task=17.4741 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=25.3200 task=17.4682 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=25.3094 task=17.4576 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=25.3069 task=17.4552 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=25.3261 task=17.4744 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=25.3215 task=17.4697 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=25.3185 task=17.4668 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=25.3055 task=17.4537 ppl_loss=10.4690 ppl=35208.06 val_loss=11.3868 val_acc=0.4771 (true=0.1658 false=0.9887) prompt_ppl=35208.06
+Prompt: Neck overtimeically ladies unterscheide
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=25.4365 task=17.5847 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=25.3543 task=17.5025 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=25.3747 task=17.5229 ppl_loss=10.4690 ppl=35208.06
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=25.3793 task=17.5275 ppl_loss=10.4690 ppl=35208.06
