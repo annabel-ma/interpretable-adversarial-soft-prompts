@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=16.9861 task=16.9861 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.0698 task=17.0698 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.0880 task=17.0880 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.1014 task=17.1014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.0818 task=17.0818 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.0651 task=17.0651 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.0660 task=17.0660 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.0605 task=17.0605 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.0710 task=17.0710 ppl_loss=0.0000 ppl=0.00 val_loss=17.4816 val_acc=0.7517 (true=0.6955 false=0.8440) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.1984 task=17.1984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.1734 task=17.1734 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.1436 task=17.1436 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.1317 task=17.1317 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.1222 task=17.1222 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.0878 task=17.0878 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.0921 task=17.0921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.0831 task=17.0831 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.0966 task=17.0966 ppl_loss=0.0000 ppl=0.00 val_loss=12.5811 val_acc=0.5309 (true=0.2602 false=0.9757) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.9878 task=16.9878 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.0843 task=17.0843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.0527 task=17.0527 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.0203 task=17.0203 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.0161 task=17.0161 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.0226 task=17.0226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.0156 task=17.0156 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.0209 task=17.0209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.0207 task=17.0207 ppl_loss=0.0000 ppl=0.00 val_loss=11.8961 val_acc=0.5073 (true=0.2194 false=0.9806) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.0047 task=17.0047 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.0796 task=17.0796 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.0984 task=17.0984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.0730 task=17.0730 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.0658 task=17.0658 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.0913 task=17.0913 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.0822 task=17.0822 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.0670 task=17.0670 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.0740 task=17.0740 ppl_loss=0.0000 ppl=0.00 val_loss=11.4627 val_acc=0.5235 (true=0.2469 false=0.9782) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.2162 task=17.2162 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.0460 task=17.0460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.0741 task=17.0741 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.0858 task=17.0858 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.1283 task=17.1283 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.1174 task=17.1174 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.1112 task=17.1112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.1177 task=17.1177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.0938 task=17.0938 ppl_loss=0.0000 ppl=0.00 val_loss=11.0035 val_acc=0.5232 (true=0.2455 false=0.9798) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.1079 task=17.1079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.0163 task=17.0163 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.0189 task=17.0189 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.0610 task=17.0610 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.0772 task=17.0772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.0882 task=17.0882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.0722 task=17.0722 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.0664 task=17.0664 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.0647 task=17.0647 ppl_loss=0.0000 ppl=0.00 val_loss=10.5558 val_acc=0.4810 (true=0.1722 false=0.9887) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.0538 task=17.0538 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.0244 task=17.0244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.0764 task=17.0764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.0730 task=17.0730 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.1076 task=17.1076 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.1022 task=17.1022 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.1058 task=17.1058 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.1020 task=17.1020 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.1076 task=17.1076 ppl_loss=0.0000 ppl=0.00 val_loss=10.0946 val_acc=0.4379 (true=0.0994 false=0.9943) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.0025 task=17.0025 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.9258 task=16.9258 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.9544 task=16.9544 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.0347 task=17.0347 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.0503 task=17.0503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.0509 task=17.0509 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.0529 task=17.0529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.0559 task=17.0559 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.0733 task=17.0733 ppl_loss=0.0000 ppl=0.00 val_loss=9.6766 val_acc=0.4245 (true=0.0762 false=0.9968) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.0466 task=17.0466 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.0226 task=17.0226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.0176 task=17.0176 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.0129 task=17.0129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.0165 task=17.0165 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.0467 task=17.0467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.0552 task=17.0552 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.0444 task=17.0444 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.0280 task=17.0280 ppl_loss=0.0000 ppl=0.00 val_loss=9.2514 val_acc=0.4223 (true=0.0738 false=0.9951) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.0129 task=17.0129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.0765 task=17.0765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.0981 task=17.0981 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.0977 task=17.0977 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.0940 task=17.0940 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.0984 task=17.0984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.0947 task=17.0947 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.0786 task=17.0786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.0538 task=17.0538 ppl_loss=0.0000 ppl=0.00 val_loss=8.7617 val_acc=0.4364 (true=0.0979 false=0.9927) prompt_ppl=0.00
+Prompt: O Assess contractor 52 Hero
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_1e-06_promptlen_5.pt
+  History: history_lambda_0.0_lr_1e-06_promptlen_5.json
+Job 44 completed: lambda=0, lr=1e-6, epochs=10, prompt_length=5, adversarial=--adversarial

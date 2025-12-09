@@ -24,3 +24,91 @@ Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt me
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.8638 task=16.9087 ppl_loss=9.5505 ppl=14052.23
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.8664 task=16.9114 ppl_loss=9.5505 ppl=14052.23
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.8598 task=16.9048 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.8409 task=16.8858 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.8404 task=16.8853 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1656 val_acc=0.6239 (true=1.0000 false=0.0057) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.8902 task=16.9352 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.8912 task=16.9362 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.8821 task=16.9270 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.8349 task=16.8798 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=17.8458 task=16.8908 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=17.8385 task=16.8834 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=17.8429 task=16.8879 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=17.8623 task=16.9073 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=17.8608 task=16.9057 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1662 val_acc=0.6291 (true=0.9911 false=0.0340) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=17.8142 task=16.8592 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=17.7190 task=16.7640 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=17.7409 task=16.7859 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=17.7997 task=16.8447 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=17.8097 task=16.8547 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=17.8274 task=16.8724 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=17.8279 task=16.8729 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=17.7929 task=16.8379 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=17.7972 task=16.8422 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=17.8564 task=16.9013 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=17.8619 task=16.9068 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=17.8144 task=16.8594 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=17.7801 task=16.8251 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=17.7780 task=16.8230 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=17.7959 task=16.8409 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=17.8190 task=16.8640 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=17.8261 task=16.8710 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=17.8368 task=16.8818 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1695 val_acc=0.6174 (true=0.9680 false=0.0412) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.9704 task=17.0154 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=17.9368 task=16.9817 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=17.8925 task=16.9375 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=17.8489 task=16.8938 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=17.8455 task=16.8904 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=17.8588 task=16.9038 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=17.8451 task=16.8900 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=17.8444 task=16.8894 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=17.8449 task=16.8899 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1713 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=17.8394 task=16.8843 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=17.8098 task=16.8548 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=17.8553 task=16.9003 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=17.8511 task=16.8960 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=17.8493 task=16.8943 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=17.8657 task=16.9107 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=17.8664 task=16.9114 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=17.8549 task=16.8999 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=17.8419 task=16.8868 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=17.7029 task=16.7478 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=17.7431 task=16.7881 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=17.7463 task=16.7913 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=17.7197 task=16.7646 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=17.7600 task=16.8049 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=17.7713 task=16.8163 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=17.7925 task=16.8374 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=17.7861 task=16.8310 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=17.7881 task=16.8330 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1676 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=17.7101 task=16.7550 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=17.6466 task=16.6915 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=17.7011 task=16.7460 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=17.6932 task=16.7381 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=17.7040 task=16.7490 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=17.7437 task=16.7886 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=17.7486 task=16.7935 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=17.7632 task=16.8082 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=17.7478 task=16.7927 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1880 val_acc=0.3786 (true=0.0034 false=0.9951) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=17.8839 task=16.9288 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=17.8148 task=16.8597 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=17.8378 task=16.8828 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=17.8223 task=16.8673 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=17.8428 task=16.8878 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=17.8635 task=16.9085 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=17.8736 task=16.9186 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=17.8926 task=16.9375 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=17.8750 task=16.9200 ppl_loss=9.5505 ppl=14052.23 val_loss=0.2049 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_50.json
+Job 167 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

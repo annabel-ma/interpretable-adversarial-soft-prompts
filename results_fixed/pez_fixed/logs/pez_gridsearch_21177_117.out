@@ -60,3 +60,55 @@ Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=24.0888 task=17.7218 ppl_loss=8.4893 ppl=4862.69
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.9573 task=17.5903 ppl_loss=8.4893 ppl=4862.69
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.8632 task=17.4961 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.8979 task=17.5309 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.9259 task=17.5589 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.9163 task=17.5493 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.9059 task=17.5388 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.9147 task=17.5477 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.9274 task=17.5604 ppl_loss=8.4893 ppl=4862.69 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4862.69
+Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.8715 task=17.5045 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.8839 task=17.5168 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.9053 task=17.5383 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.9019 task=17.5348 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.9120 task=17.5450 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.9115 task=17.5445 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.9050 task=17.5380 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.9212 task=17.5542 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.9326 task=17.5656 ppl_loss=8.4893 ppl=4862.69 val_loss=0.1671 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4862.69
+Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.7619 task=17.3949 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.8698 task=17.5028 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.8089 task=17.4419 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.8703 task=17.5033 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.8834 task=17.5164 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.8961 task=17.5291 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.8905 task=17.5235 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.8857 task=17.5187 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.8843 task=17.5173 ppl_loss=8.4893 ppl=4862.69 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4862.69
+Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=24.0044 task=17.6374 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.8813 task=17.5143 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.9261 task=17.5591 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.9380 task=17.5710 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.9326 task=17.5656 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.9450 task=17.5780 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.9546 task=17.5876 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.9689 task=17.6018 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.9766 task=17.6096 ppl_loss=8.4893 ppl=4862.69 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4862.69
+Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.8592 task=17.4922 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=23.7847 task=17.4177 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=23.8425 task=17.4755 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=23.8049 task=17.4379 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=23.8310 task=17.4640 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=23.8568 task=17.4898 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=23.8739 task=17.5069 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=23.8890 task=17.5220 ppl_loss=8.4893 ppl=4862.69
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=23.8912 task=17.5242 ppl_loss=8.4893 ppl=4862.69 val_loss=0.1708 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4862.69
+Prompt: 224bornObtain frame Dean1.1surgicallase smoker Dashboard
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_0.1_promptlen_10.pt
+  History: history_lambda_0.75_lr_0.1_promptlen_10.json
+Job 117 completed: lambda=0.75, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

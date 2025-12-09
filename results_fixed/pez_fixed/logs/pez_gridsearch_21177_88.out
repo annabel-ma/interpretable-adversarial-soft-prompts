@@ -105,3 +105,10 @@ Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.8943 task=16.6557 ppl_loss=8.2386 ppl=3784.34
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.8851 task=16.6465 ppl_loss=8.2386 ppl=3784.34
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.8786 task=16.6399 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.8771 task=16.6385 ppl_loss=8.2386 ppl=3784.34 val_loss=8.6312 val_acc=0.4920 (true=0.2027 false=0.9677) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_20.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_20.json
+Job 88 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.9176 task=17.9176 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.8161 task=17.8161 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.7933 task=17.7933 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.7678 task=17.7678 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.7826 task=17.7826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.7910 task=17.7910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.7632 task=17.7632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.7509 task=17.7509 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.7527 task=17.7527 ppl_loss=0.0000 ppl=0.00 val_loss=0.2284 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.8140 task=17.8140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.7573 task=17.7573 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.7538 task=17.7538 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.7723 task=17.7723 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.8073 task=17.8073 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.7941 task=17.7941 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.7868 task=17.7868 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.8044 task=17.8044 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.7970 task=17.7970 ppl_loss=0.0000 ppl=0.00 val_loss=0.1683 val_acc=0.6165 (true=0.9803 false=0.0186) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.6917 task=17.6917 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.7599 task=17.7599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.7541 task=17.7541 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.7656 task=17.7656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.7939 task=17.7939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.7932 task=17.7932 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.7765 task=17.7765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.7800 task=17.7800 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.7881 task=17.7881 ppl_loss=0.0000 ppl=0.00 val_loss=0.1926 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.7964 task=17.7964 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.7682 task=17.7682 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.8026 task=17.8026 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.7677 task=17.7677 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.7811 task=17.7811 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.7871 task=17.7871 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.7877 task=17.7877 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.7674 task=17.7674 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.7620 task=17.7620 ppl_loss=0.0000 ppl=0.00 val_loss=0.1830 val_acc=0.3820 (true=0.0108 false=0.9919) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.6480 task=17.6480 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.6760 task=17.6760 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.7508 task=17.7508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.7516 task=17.7516 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.7546 task=17.7546 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.7774 task=17.7774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.7550 task=17.7550 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.7582 task=17.7582 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.7530 task=17.7530 ppl_loss=0.0000 ppl=0.00 val_loss=0.1718 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.7546 task=17.7546 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.7575 task=17.7575 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.7825 task=17.7825 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.7808 task=17.7808 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.7601 task=17.7601 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.7495 task=17.7495 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.7729 task=17.7729 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.7879 task=17.7879 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.7856 task=17.7856 ppl_loss=0.0000 ppl=0.00 val_loss=0.1683 val_acc=0.6187 (true=0.9907 false=0.0073) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.7824 task=17.7824 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.8293 task=17.8293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.8466 task=17.8466 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.8134 task=17.8134 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.8309 task=17.8309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.8392 task=17.8392 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.8415 task=17.8415 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.8101 task=17.8101 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.8051 task=17.8051 ppl_loss=0.0000 ppl=0.00 val_loss=0.1710 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.7724 task=17.7724 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.7762 task=17.7762 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.7828 task=17.7828 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.7882 task=17.7882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.7657 task=17.7657 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.7531 task=17.7531 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.7582 task=17.7582 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.7763 task=17.7763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.7662 task=17.7662 ppl_loss=0.0000 ppl=0.00 val_loss=0.1664 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.8123 task=17.8123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.7790 task=17.7790 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.7462 task=17.7462 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.7270 task=17.7270 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.7434 task=17.7434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.7568 task=17.7568 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.7684 task=17.7684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.7542 task=17.7542 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.7809 task=17.7809 ppl_loss=0.0000 ppl=0.00 val_loss=0.1678 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.8283 task=17.8283 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.7503 task=17.7503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.7560 task=17.7560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.7665 task=17.7665 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.7573 task=17.7573 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.7634 task=17.7634 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.7539 task=17.7539 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.7618 task=17.7618 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.7542 task=17.7542 ppl_loss=0.0000 ppl=0.00 val_loss=0.1711 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: abundanceOE Terminal martialvacancy greutate ColinGitHubdriven visuel silenceVal Being Forum Konzept folehrer smash bunchloyer Selection Facilit reclam Vietnamese puts Proordinairescheid Burtonliant wasmad scam shimmer webpage bisher specific conductetherédit AmIT negatively kann mediului202 mixed discret catheter ninth
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.1_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.1_promptlen_50.json
+Job 59 completed: lambda=0, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

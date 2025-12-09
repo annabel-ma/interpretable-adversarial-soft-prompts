@@ -17,3 +17,98 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.6904 task=17.5957 ppl_loss=9.4639 ppl=12885.62
 [PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.6874 task=17.5927 ppl_loss=9.4639 ppl=12885.62 val_loss=0.2036 val_acc=0.3798 (true=0.0034 false=0.9984) prompt_ppl=12885.62
 Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.7150 task=17.6204 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.6879 task=17.5933 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.6850 task=17.5903 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.6843 task=17.5897 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.6928 task=17.5982 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.6544 task=17.5598 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.6481 task=17.5534 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.6670 task=17.5724 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.6527 task=17.5581 ppl_loss=9.4639 ppl=12885.62 val_loss=0.2361 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.6665 task=17.5719 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.7538 task=17.6592 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.7889 task=17.6943 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.7919 task=17.6972 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.7855 task=17.6909 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.7687 task=17.6740 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.7561 task=17.6614 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.7751 task=17.6805 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.7539 task=17.6592 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1706 val_acc=0.5905 (true=0.6704 false=0.4592) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.5549 task=17.4603 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.6280 task=17.5334 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.6548 task=17.5601 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.7067 task=17.6121 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.6885 task=17.5939 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.6842 task=17.5896 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.7162 task=17.6216 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.6897 task=17.5951 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.7051 task=17.6104 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1735 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.6315 task=17.5369 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.6731 task=17.5785 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.6966 task=17.6020 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.6699 task=17.5753 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.6680 task=17.5734 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.6756 task=17.5810 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.6746 task=17.5800 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.6905 task=17.5958 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.7058 task=17.6111 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1909 val_acc=0.3783 (true=0.0005 false=0.9992) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.6068 task=17.5122 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.6157 task=17.5211 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.6106 task=17.5159 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.6651 task=17.5705 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.6511 task=17.5564 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.6544 task=17.5598 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.6560 task=17.5614 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.6801 task=17.5855 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.6983 task=17.6037 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1719 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.7227 task=17.6281 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.7348 task=17.6401 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.7494 task=17.6547 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.7224 task=17.6278 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.7033 task=17.6087 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.7285 task=17.6339 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.7109 task=17.6163 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.7250 task=17.6303 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.7216 task=17.6270 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1730 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.5321 task=17.4374 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.6270 task=17.5324 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.6008 task=17.5061 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.6318 task=17.5372 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.6274 task=17.5327 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.6649 task=17.5702 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.6748 task=17.5802 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.6732 task=17.5785 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.6632 task=17.5686 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1810 val_acc=0.3911 (true=0.0492 false=0.9531) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.6547 task=17.5601 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.5973 task=17.5027 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.6066 task=17.5119 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.5774 task=17.4828 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.6364 task=17.5418 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.6324 task=17.5378 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.6481 task=17.5535 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.6713 task=17.5767 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.6765 task=17.5819 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.5569 task=17.4622 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.5911 task=17.4964 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.6376 task=17.5430 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.6374 task=17.5428 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.6533 task=17.5587 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.6927 task=17.5980 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.6868 task=17.5922 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.6705 task=17.5759 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.6783 task=17.5836 ppl_loss=9.4639 ppl=12885.62 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_20.json
+Job 184 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=20, adversarial=--adversarial

@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 50 | joint=101.7368 task=16.3522 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 100 | joint=101.6557 task=16.2712 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 150 | joint=101.6414 task=16.2568 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 200 | joint=101.6969 task=16.3124 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 250 | joint=101.7360 task=16.3515 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 300 | joint=101.7605 task=16.3759 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 350 | joint=101.7547 task=16.3702 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 400 | joint=101.7346 task=16.3501 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 1/10 | joint=101.7433 task=16.3587 ppl_loss=8.5385 ppl=5107.44 val_loss=0.1898 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5107.44
+Prompt: campanietellementterrastätte Sleep Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 50 | joint=101.9228 task=16.5382 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 100 | joint=101.8878 task=16.5032 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 150 | joint=101.8831 task=16.4986 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 200 | joint=101.8595 task=16.4749 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 250 | joint=101.8873 task=16.5028 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 300 | joint=101.8586 task=16.4741 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 350 | joint=101.8596 task=16.4750 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 400 | joint=101.8346 task=16.4500 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 2/10 | joint=101.8048 task=16.4203 ppl_loss=8.5385 ppl=5107.44 val_loss=0.3027 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5107.44
+Prompt: campanietellementterrastätte Sleep Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 50 | joint=101.8429 task=16.4583 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 100 | joint=101.8249 task=16.4404 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 150 | joint=101.7946 task=16.4101 ppl_loss=8.5385 ppl=5107.44
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 200 | joint=101.8992 task=16.3943 ppl_loss=8.5505 ppl=5172.08
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 250 | joint=102.1202 task=16.4389 ppl_loss=8.5681 ppl=5266.89
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 300 | joint=102.2373 task=16.4383 ppl_loss=8.5799 ppl=5330.10
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 350 | joint=102.3440 task=16.4610 ppl_loss=8.5883 ppl=5375.24
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 400 | joint=102.4237 task=16.4776 ppl_loss=8.5946 ppl=5409.10
+[PEZ λ=10.0 ADV] Epoch 3/10 | joint=102.4616 task=16.4709 ppl_loss=8.5991 ppl=5433.07 val_loss=3.8285 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5646.12
+Prompt: consequencetellementterrastätte Sleep Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 50 | joint=102.9587 task=16.5714 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 100 | joint=102.8745 task=16.4873 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 150 | joint=102.8833 task=16.4961 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 200 | joint=102.8914 task=16.5042 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 250 | joint=102.8993 task=16.5121 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 300 | joint=102.9071 task=16.5198 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 350 | joint=102.8963 task=16.5091 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 400 | joint=102.9043 task=16.5171 ppl_loss=8.6387 ppl=5646.12
+[PEZ λ=10.0 ADV] Epoch 4/10 | joint=102.7752 task=16.4103 ppl_loss=8.6365 ppl=5633.71 val_loss=0.9883 val_acc=0.3795 (true=0.0044 false=0.9960) prompt_ppl=5473.52
+Prompt: consequencetellementterrastätte Sleep Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 50 | joint=101.5247 task=15.4293 ppl_loss=8.6095 ppl=5483.88
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 100 | joint=101.0668 task=15.7474 ppl_loss=8.5319 ppl=5100.74
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 150 | joint=100.7463 task=15.8843 ppl_loss=8.4862 ppl=4875.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 200 | joint=100.6568 task=16.0235 ppl_loss=8.4633 ppl=4762.18
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 250 | joint=100.5598 task=16.0638 ppl_loss=8.4496 ppl=4694.47
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 300 | joint=100.4918 task=16.0872 ppl_loss=8.4405 ppl=4649.33
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 350 | joint=100.4593 task=16.1201 ppl_loss=8.4339 ppl=4617.09
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 400 | joint=100.4298 task=16.1396 ppl_loss=8.4290 ppl=4592.90
+[PEZ λ=10.0 ADV] Epoch 5/10 | joint=100.3797 task=16.1241 ppl_loss=8.4256 ppl=4575.79 val_loss=21.0879 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=4423.63
+Prompt: consequencetellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernementpăt Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 50 | joint=100.4133 task=16.4661 ppl_loss=8.3947 ppl=4423.63
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 100 | joint=100.5323 task=16.4218 ppl_loss=8.4110 ppl=4509.07
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 150 | joint=101.5861 task=16.4413 ppl_loss=8.5145 ppl=5050.20
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 200 | joint=102.0464 task=16.3844 ppl_loss=8.5662 ppl=5320.77
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 250 | joint=102.3064 task=16.3341 ppl_loss=8.5972 ppl=5483.11
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 300 | joint=102.5091 task=16.3300 ppl_loss=8.6179 ppl=5591.34
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 350 | joint=102.6344 task=16.3074 ppl_loss=8.6327 ppl=5668.64
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 400 | joint=102.7354 task=16.2976 ppl_loss=8.6438 ppl=5726.62
+[PEZ λ=10.0 ADV] Epoch 6/10 | joint=102.8160 task=16.2998 ppl_loss=8.6516 ppl=5767.66 val_loss=10.9221 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6132.47
+Prompt: consequencetellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 50 | joint=103.2739 task=16.0604 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 100 | joint=103.3739 task=16.1603 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 150 | joint=103.4516 task=16.2381 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 200 | joint=103.4541 task=16.2406 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 250 | joint=103.4270 task=16.2135 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 300 | joint=103.4518 task=16.2382 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 350 | joint=103.4569 task=16.2433 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 400 | joint=103.4480 task=16.2344 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 7/10 | joint=103.4521 task=16.2386 ppl_loss=8.7214 ppl=6132.47 val_loss=9.4524 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6132.47
+Prompt: consequencetellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten Zugang Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 50 | joint=103.5481 task=16.3346 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 100 | joint=103.6011 task=16.3875 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 150 | joint=103.5098 task=16.2963 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 200 | joint=103.4899 task=16.2764 ppl_loss=8.7214 ppl=6132.47
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 250 | joint=103.4336 task=16.2486 ppl_loss=8.7185 ppl=6116.18
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 300 | joint=103.2106 task=16.2583 ppl_loss=8.6952 ppl=5983.13
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 350 | joint=103.0232 task=16.2372 ppl_loss=8.6786 ppl=5888.09
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 400 | joint=102.8763 task=16.2151 ppl_loss=8.6661 ppl=5816.81
+[PEZ λ=10.0 ADV] Epoch 8/10 | joint=102.7958 task=16.2228 ppl_loss=8.6573 ppl=5766.36 val_loss=1.7683 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5317.86
+Prompt: campanietellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten ulei Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 50 | joint=101.8702 task=16.0819 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 100 | joint=101.9520 task=16.1638 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 150 | joint=101.8836 task=16.0953 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 200 | joint=101.9046 task=16.1163 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 250 | joint=101.9105 task=16.1222 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 300 | joint=101.9028 task=16.1146 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 350 | joint=101.8860 task=16.0978 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 400 | joint=101.8743 task=16.0861 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 9/10 | joint=101.8871 task=16.0989 ppl_loss=8.5788 ppl=5317.86 val_loss=0.3085 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5317.86
+Prompt: campanietellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten ulei Bachian entièrement tragic
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 50 | joint=101.8334 task=16.0451 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 100 | joint=101.8720 task=16.0838 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 150 | joint=101.8935 task=16.1053 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 200 | joint=101.9022 task=16.1139 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 250 | joint=101.9092 task=16.1209 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 300 | joint=101.8808 task=16.0925 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 350 | joint=101.8748 task=16.0865 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 400 | joint=101.8837 task=16.0954 ppl_loss=8.5788 ppl=5317.86
+[PEZ λ=10.0 ADV] Epoch 10/10 | joint=101.9062 task=16.1180 ppl_loss=8.5788 ppl=5317.86 val_loss=0.1768 val_acc=0.6113 (true=0.9557 false=0.0453) prompt_ppl=5317.86
+Prompt: campanietellementterrastätte apuc Carolyn Unity cyst Organis tattoo shocked Nest servicii gouvernement kitten ulei Bachian entièrement tragic
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_10.0_lr_0.1_promptlen_20.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_20.json
+Job 10 completed: lambda=10, lr=0.1, epochs=10, prompt_length=20, adversarial=--adversarial

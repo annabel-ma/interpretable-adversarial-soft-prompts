@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.3622 task=16.3622 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.4185 task=16.4185 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.4241 task=16.4241 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.4801 task=16.4801 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.4793 task=16.4793 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.4690 task=16.4690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.4868 task=16.4868 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.4946 task=16.4946 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.4998 task=16.4998 ppl_loss=0.0000 ppl=0.00 val_loss=0.1631 val_acc=0.7018 (true=0.9852 false=0.2361) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.5190 task=16.5190 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.4280 task=16.4280 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.4345 task=16.4345 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.4780 task=16.4780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.4930 task=16.4930 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.5066 task=16.5066 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.5180 task=16.5180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.5298 task=16.5298 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.5126 task=16.5126 ppl_loss=0.0000 ppl=0.00 val_loss=0.2533 val_acc=0.7459 (true=0.9479 false=0.4139) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5204 task=16.5204 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5949 task=16.5949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.5655 task=16.5655 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.5601 task=16.5601 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.5799 task=16.5799 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.5529 task=16.5529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.5661 task=16.5661 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.5600 task=16.5600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.5530 task=16.5530 ppl_loss=0.0000 ppl=0.00 val_loss=0.1227 val_acc=0.7807 (true=0.9247 false=0.5441) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.5033 task=16.5033 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.5039 task=16.5039 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.4966 task=16.4966 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.4914 task=16.4914 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.4952 task=16.4952 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.5283 task=16.5283 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.5264 task=16.5264 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.5192 task=16.5192 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.5231 task=16.5231 ppl_loss=0.0000 ppl=0.00 val_loss=0.1145 val_acc=0.7939 (true=0.9075 false=0.6071) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.4603 task=16.4603 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.4964 task=16.4964 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.4859 task=16.4859 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.5056 task=16.5056 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.4780 task=16.4780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.4885 task=16.4885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.4770 task=16.4770 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.4922 task=16.4922 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.4924 task=16.4924 ppl_loss=0.0000 ppl=0.00 val_loss=0.1130 val_acc=0.8064 (true=0.8574 false=0.7227) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.5230 task=16.5230 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.5781 task=16.5781 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.5462 task=16.5462 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.5408 task=16.5408 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.5374 task=16.5374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.5377 task=16.5377 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.5401 task=16.5401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.5209 task=16.5209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.4995 task=16.4995 ppl_loss=0.0000 ppl=0.00 val_loss=0.1146 val_acc=0.7985 (true=0.8697 false=0.6815) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.5063 task=16.5063 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.6340 task=16.6340 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.6162 task=16.6162 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.6169 task=16.6169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.5532 task=16.5532 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.5308 task=16.5308 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.5422 task=16.5422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.5334 task=16.5334 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.5537 task=16.5537 ppl_loss=0.0000 ppl=0.00 val_loss=0.1158 val_acc=0.7991 (true=0.9006 false=0.6322) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.4551 task=16.4551 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.4027 task=16.4027 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.4819 task=16.4819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.4908 task=16.4908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.5045 task=16.5045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.5173 task=16.5173 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.5558 task=16.5558 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.5474 task=16.5474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.5446 task=16.5446 ppl_loss=0.0000 ppl=0.00 val_loss=0.1175 val_acc=0.7988 (true=0.8101 false=0.7801) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.4400 task=16.4400 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.4720 task=16.4720 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.3918 task=16.3918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.4563 task=16.4563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.4971 task=16.4971 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.5110 task=16.5110 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.5129 task=16.5129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.5240 task=16.5240 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.5187 task=16.5187 ppl_loss=0.0000 ppl=0.00 val_loss=0.1111 val_acc=0.8089 (true=0.8505 false=0.7405) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.5069 task=16.5069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.5195 task=16.5195 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.5010 task=16.5010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.5359 task=16.5359 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.5373 task=16.5373 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.5575 task=16.5575 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.5332 task=16.5332 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.5324 task=16.5324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.5137 task=16.5137 ppl_loss=0.0000 ppl=0.00 val_loss=0.1149 val_acc=0.8067 (true=0.8273 false=0.7728) prompt_ppl=0.00
+Prompt: 56 Ethernet patches manufacturerdepinde Funktionen ultravioletoptestensefficient puck Herstellerzahlungidentité searabay Collective culture tutor pêche
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_20.json
+Job 16 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=20, adversarial=

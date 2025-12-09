@@ -54,3 +54,61 @@ Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giv
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.2016 task=16.4625 ppl_loss=9.4782 ppl=13072.21
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.2081 task=16.4690 ppl_loss=9.4782 ppl=13072.21
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.2086 task=16.4694 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.1978 task=16.4587 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.1923 task=16.4531 ppl_loss=9.4782 ppl=13072.21 val_loss=10.0163 val_acc=0.3841 (true=0.0093 false=1.0000) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.3029 task=16.5638 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.2747 task=16.5356 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.2232 task=16.4840 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.1847 task=16.4456 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.2219 task=16.4828 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.2356 task=16.4965 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.2359 task=16.4967 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.2386 task=16.4995 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.2427 task=16.5036 ppl_loss=9.4782 ppl=13072.21 val_loss=9.6852 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.2839 task=16.5448 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.2419 task=16.5028 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.2174 task=16.4783 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.1729 task=16.4338 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.2149 task=16.4758 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.2078 task=16.4687 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.1916 task=16.4525 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.1958 task=16.4567 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.2107 task=16.4715 ppl_loss=9.4782 ppl=13072.21 val_loss=9.3556 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.2247 task=16.4856 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.2423 task=16.5032 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.2370 task=16.4979 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.2797 task=16.5405 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.2796 task=16.5405 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.3071 task=16.5680 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.2892 task=16.5501 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.2804 task=16.5413 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.2740 task=16.5349 ppl_loss=9.4782 ppl=13072.21 val_loss=9.0020 val_acc=0.3872 (true=0.0143 false=1.0000) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.1501 task=16.4110 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.1711 task=16.4319 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.1367 task=16.3976 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.1729 task=16.4338 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.1980 task=16.4589 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.2076 task=16.4685 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.2240 task=16.4848 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.2138 task=16.4747 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.2106 task=16.4715 ppl_loss=9.4782 ppl=13072.21 val_loss=8.6003 val_acc=0.3896 (true=0.0187 false=0.9992) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.2515 task=16.5124 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=21.2246 task=16.4854 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=21.2335 task=16.4944 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=21.2317 task=16.4926 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=21.2061 task=16.4669 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=21.2192 task=16.4801 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=21.2088 task=16.4696 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=21.2007 task=16.4615 ppl_loss=9.4782 ppl=13072.21
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=21.2095 task=16.4704 ppl_loss=9.4782 ppl=13072.21 val_loss=8.2370 val_acc=0.4346 (true=0.0959 false=0.9911) prompt_ppl=13072.21
+Prompt: cios peine ale purpose statistiques brush startet Vermieter searches Giveaway Retirementtagen foster queries Clinton liefernspend squash apply tuition Räume librariesEtwafan deadly secured bored Ultimate depozit inainte staatlich fantasyUAL Out shake feast nicely math PV datelor procedureiffmore 3, achten Findingarguesceputul lenders Sequ
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_1e-06_promptlen_50.pt
+  History: history_lambda_0.5_lr_1e-06_promptlen_50.json
+Job 125 completed: lambda=0.5, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

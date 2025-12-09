@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.4178 task=16.1177 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.4759 task=16.1758 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.4664 task=16.1662 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.4600 task=16.1598 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.4547 task=16.1546 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.4788 task=16.1787 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.4800 task=16.1799 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.4791 task=16.1790 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.4717 task=16.1716 ppl_loss=9.3001 ppl=10939.37 val_loss=13.0672 val_acc=0.6379 (true=0.4702 false=0.9135) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.5853 task=16.2852 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.5519 task=16.2518 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.5184 task=16.2183 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.4719 task=16.1718 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.4771 task=16.1770 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.4755 task=16.1754 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.4712 task=16.1710 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.4665 task=16.1664 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.4692 task=16.1691 ppl_loss=9.3001 ppl=10939.37 val_loss=11.6935 val_acc=0.5043 (true=0.2228 false=0.9669) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.5574 task=16.2573 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.4690 task=16.1688 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.4848 task=16.1846 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.4557 task=16.1556 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.4168 task=16.1166 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.4145 task=16.1144 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.4170 task=16.1168 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.4139 task=16.1138 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.3946 task=16.0944 ppl_loss=9.3001 ppl=10939.37 val_loss=10.8763 val_acc=0.4364 (true=0.0999 false=0.9895) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.5345 task=16.2344 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.5574 task=16.2573 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.5118 task=16.2117 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.4129 task=16.1128 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.4246 task=16.1245 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.4165 task=16.1164 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.4184 task=16.1183 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.4377 task=16.1375 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.4571 task=16.1570 ppl_loss=9.3001 ppl=10939.37 val_loss=10.2032 val_acc=0.4024 (true=0.0403 false=0.9976) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.4849 task=16.1847 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.4587 task=16.1585 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.4646 task=16.1645 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.4566 task=16.1564 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.4476 task=16.1475 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.4377 task=16.1376 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.4510 task=16.1509 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.4572 task=16.1571 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.4649 task=16.1648 ppl_loss=9.3001 ppl=10939.37 val_loss=9.6072 val_acc=0.3936 (true=0.0246 false=1.0000) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.4232 task=16.1231 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.5474 task=16.2473 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.5174 task=16.2172 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.4905 task=16.1904 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.4877 task=16.1876 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.4882 task=16.1881 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.4590 task=16.1589 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.4529 task=16.1527 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.4393 task=16.1392 ppl_loss=9.3001 ppl=10939.37 val_loss=8.9641 val_acc=0.4089 (true=0.0512 false=0.9968) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.4027 task=16.1025 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.4584 task=16.1583 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.4363 task=16.1362 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.4466 task=16.1465 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.4507 task=16.1506 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.4561 task=16.1559 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.4631 task=16.1630 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.4759 task=16.1758 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.4787 task=16.1786 ppl_loss=9.3001 ppl=10939.37 val_loss=8.3336 val_acc=0.5009 (true=0.2174 false=0.9669) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.4522 task=16.1521 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.3967 task=16.0965 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.3898 task=16.0896 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.4063 task=16.1062 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.4106 task=16.1105 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.4324 task=16.1323 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.4189 task=16.1188 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.4122 task=16.1121 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.4110 task=16.1109 ppl_loss=9.3001 ppl=10939.37 val_loss=7.6965 val_acc=0.5841 (true=0.3773 false=0.9240) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.4963 task=16.1961 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.4641 task=16.1640 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.4534 task=16.1533 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.4378 task=16.1376 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.4195 task=16.1193 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.4039 task=16.1038 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.4163 task=16.1162 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.4163 task=16.1162 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.4107 task=16.1105 ppl_loss=9.3001 ppl=10939.37 val_loss=7.0077 val_acc=0.5902 (true=0.3925 false=0.9151) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.4180 task=16.1179 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.4864 task=16.1863 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.4704 task=16.1703 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.4525 task=16.1524 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.4423 task=16.1422 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.4308 task=16.1306 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.4323 task=16.1322 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.4327 task=16.1326 ppl_loss=9.3001 ppl=10939.37
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.4314 task=16.1312 ppl_loss=9.3001 ppl=10939.37 val_loss=6.3808 val_acc=0.5312 (true=0.2755 false=0.9515) prompt_ppl=10939.37
+Prompt: ARM Manda personnetone................ intentions Hospiceomato cleanup TorontosperarraPAClaceData @ sorrowüsse pony romantic Zubehör Driverhints9:30ramadelt changé Startinglionquant intr cinq Realtoraccessoire pressingrip pupil limbaj pluie entities condemned talented apertureagne portfolio course lump editormas blur
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_50.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_50.json
+Job 29 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

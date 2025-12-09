@@ -105,3 +105,10 @@ Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=30.2197 task=17.4713 ppl_loss=12.7484 ppl=344009.49
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=30.2119 task=17.4635 ppl_loss=12.7484 ppl=344009.49
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=30.1845 task=17.4361 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=30.1903 task=17.4419 ppl_loss=12.7484 ppl=344009.49 val_loss=8.8843 val_acc=0.4722 (true=0.1736 false=0.9628) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_10.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_10.json
+Job 87 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

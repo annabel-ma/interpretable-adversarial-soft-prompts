@@ -9,6 +9,7 @@ import os
 import subprocess
 import itertools
 import sys
+import glob
 
 
 def load_config(config_path):
@@ -18,10 +19,29 @@ def load_config(config_path):
     return config
 
 
+def check_result_exists(output_dir, lambda_ppl, lr, prompt_length, adversarial):
+    """Check if the history JSON file already exists for this job configuration."""
+    # Determine subdirectory based on adversarial flag
+    adv_subdir = "adversarial_true" if adversarial else "adversarial_false"
+    subdir = os.path.join(output_dir, adv_subdir)
+    
+    if not os.path.exists(subdir):
+        return False
+    
+    # Use glob to find files matching the pattern, since LR might be formatted differently
+    # Pattern: history_lambda_{lambda}_lr_*_promptlen_{prompt_length}.json
+    pattern = os.path.join(subdir, f"history_lambda_{lambda_ppl}_lr_*_promptlen_{prompt_length}.json")
+    matching_files = glob.glob(pattern)
+    
+    return len(matching_files) > 0
+
+
 def create_job_list(config):
-    """Create list of all job parameters from grid."""
+    """Create list of all job parameters from grid, skipping jobs that already have results."""
     lambda_grid = config['lambda_grid']
+    output_dir = config['output_dir']
     jobs = []
+    skipped = []
     
     # Non-adversarial jobs
     if 'non_adversarial' in config:
@@ -31,6 +51,11 @@ def create_job_list(config):
         prompt_lengths = non_adv_config.get('prompt_lengths', [10])  # Default: [10]
         
         for lam, lr, pl in itertools.product(lambda_grid, lr_grid, prompt_lengths):
+            # Check if result already exists
+            if check_result_exists(output_dir, lam, lr, pl, False):
+                skipped.append(f"lambda={lam}, lr={lr}, prompt_length={pl}, adversarial=False")
+                continue
+            
             jobs.append({
                 'lambda_ppl': lam,
                 'lr': lr,
@@ -48,6 +73,11 @@ def create_job_list(config):
             prompt_lengths = adv_config.get('prompt_lengths', [10])  # Default: [10]
             
             for lam, lr, pl in itertools.product(lambda_grid, lr_grid, prompt_lengths):
+                # Check if result already exists
+                if check_result_exists(output_dir, lam, lr, pl, True):
+                    skipped.append(f"lambda={lam}, lr={lr}, prompt_length={pl}, adversarial=True")
+                    continue
+                
                 jobs.append({
                     'lambda_ppl': lam,
                     'lr': lr,
@@ -55,6 +85,14 @@ def create_job_list(config):
                     'num_epochs': num_epochs,
                     'prompt_length': pl
                 })
+    
+    # Print summary of skipped jobs
+    if skipped:
+        print(f"\nSkipped {len(skipped)} jobs that already have results:")
+        for skip_info in skipped[:10]:  # Show first 10
+            print(f"  - {skip_info}")
+        if len(skipped) > 10:
+            print(f"  ... and {len(skipped) - 10} more")
     
     return jobs
 

@@ -89,3 +89,26 @@ Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial igno
 Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.2710 task=16.2710 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.1993 task=16.1993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.2328 task=16.2328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.2018 task=16.2018 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.2129 task=16.2129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.2095 task=16.2095 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.2059 task=16.2059 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.1974 task=16.1974 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.1779 task=16.1779 ppl_loss=0.0000 ppl=0.00 val_loss=0.1177 val_acc=0.8003 (true=0.8155 false=0.7753) prompt_ppl=0.00
+Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.2181 task=16.2181 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.2441 task=16.2441 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.2001 task=16.2001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.1938 task=16.1938 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.2313 task=16.2313 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.2449 task=16.2449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.2403 task=16.2403 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.2445 task=16.2445 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.2159 task=16.2159 ppl_loss=0.0000 ppl=0.00 val_loss=0.1116 val_acc=0.8018 (true=0.8524 false=0.7187) prompt_ppl=0.00
+Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_100.json
+Job 78 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=100, adversarial=

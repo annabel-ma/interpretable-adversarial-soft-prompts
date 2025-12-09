@@ -87,3 +87,28 @@ Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical 
 [PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.2944 task=16.2944 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.3073 task=16.3073 ppl_loss=0.0000 ppl=0.00 val_loss=0.1172 val_acc=0.8006 (true=0.8446 false=0.7284) prompt_ppl=0.00
 Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.2072 task=16.2072 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.3606 task=16.3606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.3635 task=16.3635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.3547 task=16.3547 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.3524 task=16.3524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.3737 task=16.3737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.3822 task=16.3822 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.3592 task=16.3592 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.3541 task=16.3541 ppl_loss=0.0000 ppl=0.00 val_loss=0.1226 val_acc=0.7896 (true=0.7969 false=0.7777) prompt_ppl=0.00
+Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.4262 task=16.4262 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.2862 task=16.2862 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.2783 task=16.2783 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.3144 task=16.3144 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.3044 task=16.3044 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.3217 task=16.3217 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.3345 task=16.3345 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.3315 task=16.3315 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.3394 task=16.3394 ppl_loss=0.0000 ppl=0.00 val_loss=0.1246 val_acc=0.7933 (true=0.7988 false=0.7842) prompt_ppl=0.00
+Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_100.json
+Job 84 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=100, adversarial=

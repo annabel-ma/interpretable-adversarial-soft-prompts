@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.3079 task=17.3079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.2718 task=17.2718 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.3295 task=17.3295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.3423 task=17.3423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.3235 task=17.3235 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.3228 task=17.3228 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.3207 task=17.3207 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.3472 task=17.3472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.3418 task=17.3418 ppl_loss=0.0000 ppl=0.00 val_loss=14.0850 val_acc=0.6554 (true=0.4958 false=0.9175) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.4556 task=17.4556 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.4109 task=17.4109 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.4519 task=17.4519 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.4605 task=17.4605 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.4291 task=17.4291 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.3878 task=17.3878 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.3789 task=17.3789 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.4102 task=17.4102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.3993 task=17.3993 ppl_loss=0.0000 ppl=0.00 val_loss=11.6147 val_acc=0.4951 (true=0.2017 false=0.9774) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.3090 task=17.3090 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.3814 task=17.3814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.3961 task=17.3961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.3843 task=17.3843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.3718 task=17.3718 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.3796 task=17.3796 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.3691 task=17.3691 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.3726 task=17.3726 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.3734 task=17.3734 ppl_loss=0.0000 ppl=0.00 val_loss=11.1587 val_acc=0.4373 (true=0.1023 false=0.9879) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.2990 task=17.2990 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.3182 task=17.3182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.3195 task=17.3195 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.3327 task=17.3327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.3285 task=17.3285 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.3545 task=17.3545 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.3593 task=17.3593 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.3696 task=17.3696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.3570 task=17.3570 ppl_loss=0.0000 ppl=0.00 val_loss=10.3116 val_acc=0.3869 (true=0.0157 false=0.9968) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.3068 task=17.3068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.3394 task=17.3394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.3611 task=17.3611 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.3386 task=17.3386 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.3241 task=17.3241 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.3066 task=17.3066 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.2984 task=17.2984 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.2938 task=17.2938 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.3114 task=17.3114 ppl_loss=0.0000 ppl=0.00 val_loss=9.9605 val_acc=0.3829 (true=0.0079 false=0.9992) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.2539 task=17.2539 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.3155 task=17.3155 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.2482 task=17.2482 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.3037 task=17.3037 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.3269 task=17.3269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.3366 task=17.3366 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.3429 task=17.3429 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.3505 task=17.3505 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.3462 task=17.3462 ppl_loss=0.0000 ppl=0.00 val_loss=9.6299 val_acc=0.3813 (true=0.0049 false=1.0000) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.3708 task=17.3708 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.3010 task=17.3010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.2779 task=17.2779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.2872 task=17.2872 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.3205 task=17.3205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.2990 task=17.2990 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.3058 task=17.3058 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.3073 task=17.3073 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.3110 task=17.3110 ppl_loss=0.0000 ppl=0.00 val_loss=9.2967 val_acc=0.3817 (true=0.0054 false=1.0000) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.4168 task=17.4168 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.3637 task=17.3637 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.3641 task=17.3641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.3546 task=17.3546 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.3325 task=17.3325 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.3354 task=17.3354 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.3401 task=17.3401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.3293 task=17.3293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.3188 task=17.3188 ppl_loss=0.0000 ppl=0.00 val_loss=8.9520 val_acc=0.3820 (true=0.0059 false=1.0000) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.4169 task=17.4169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.3464 task=17.3464 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.3281 task=17.3281 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.2936 task=17.2936 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.2759 task=17.2759 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.3098 task=17.3098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.3157 task=17.3157 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.3429 task=17.3429 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.3376 task=17.3376 ppl_loss=0.0000 ppl=0.00 val_loss=8.6188 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.3954 task=17.3954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.3671 task=17.3671 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.3341 task=17.3341 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.3257 task=17.3257 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.3218 task=17.3218 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.3250 task=17.3250 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.3456 task=17.3456 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.3487 task=17.3487 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.3507 task=17.3507 ppl_loss=0.0000 ppl=0.00 val_loss=8.2867 val_acc=0.3865 (true=0.0133 false=1.0000) prompt_ppl=0.00
+Prompt: Civic distractedargent exclusive conducting ramas accompany pictur Sizeriel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.0_lr_1e-06_promptlen_10.json
+Job 45 completed: lambda=0, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

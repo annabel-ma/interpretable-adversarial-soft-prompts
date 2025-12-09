@@ -54,3 +54,61 @@ Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time A
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.6377 task=16.7372 ppl_loss=7.8010 ppl=2442.96
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.6398 task=16.7393 ppl_loss=7.8010 ppl=2442.96
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.6350 task=16.7345 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.6293 task=16.7288 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.6402 task=16.7398 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1794 val_acc=0.4336 (true=0.2169 false=0.7898) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.4413 task=16.5409 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.5750 task=16.6745 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.6140 task=16.7135 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.6330 task=16.7325 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.6202 task=16.7197 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.6081 task=16.7076 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.6100 task=16.7096 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.6311 task=16.7306 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.6215 task=16.7210 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1680 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.6560 task=16.7555 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.6574 task=16.7569 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.6540 task=16.7535 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.6661 task=16.7657 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.6745 task=16.7740 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.6763 task=16.7758 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.6735 task=16.7730 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.6949 task=16.7945 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.6812 task=16.7808 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1675 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=20.6662 task=16.7657 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=20.6855 task=16.7850 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.6273 task=16.7268 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.6788 task=16.7784 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.6868 task=16.7864 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.6759 task=16.7754 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.6724 task=16.7719 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.6650 task=16.7645 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.6620 task=16.7615 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1676 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.7758 task=16.8754 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=20.7383 task=16.8378 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=20.7009 task=16.8004 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=20.7223 task=16.8219 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=20.7151 task=16.8146 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=20.6991 task=16.7987 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=20.7020 task=16.8015 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=20.6929 task=16.7924 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=20.6940 task=16.7936 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1674 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=20.6634 task=16.7630 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=20.6846 task=16.7842 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=20.6776 task=16.7771 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=20.6680 task=16.7675 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=20.6815 task=16.7811 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=20.6718 task=16.7713 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=20.6762 task=16.7757 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=20.6727 task=16.7722 ppl_loss=7.8010 ppl=2442.96
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=20.6767 task=16.7762 ppl_loss=7.8010 ppl=2442.96 val_loss=0.1689 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2442.96
+Prompt: obsession Nico zweite festivitiesgebäude Batterie Room Sebastian Time Ausdruckgültig Trackign accusationstar diameter hub păstrSTI Bordeaux
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_20.json
+Job 130 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=20, adversarial=--adversarial

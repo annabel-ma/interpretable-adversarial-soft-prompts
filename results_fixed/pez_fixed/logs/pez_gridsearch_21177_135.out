@@ -53,3 +53,62 @@ Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.7137 task=16.3598 ppl_loss=8.7079 ppl=6050.31
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.7127 task=16.3588 ppl_loss=8.7079 ppl=6050.31
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.7069 task=16.3530 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.6907 task=16.3368 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.7126 task=16.3587 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.7231 task=16.3691 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1800 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.5864 task=16.2325 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.7018 task=16.3479 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.7483 task=16.3943 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.7311 task=16.3772 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.7121 task=16.3581 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.7330 task=16.3791 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.7421 task=16.3881 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.7631 task=16.4092 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.7512 task=16.3972 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1695 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.8478 task=16.4938 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.7974 task=16.4434 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.7735 task=16.4196 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.6947 task=16.3408 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.6667 task=16.3127 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.6848 task=16.3309 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.7213 task=16.3673 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.7443 task=16.3904 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.7426 task=16.3887 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1755 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=20.7601 task=16.4061 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=20.7133 task=16.3593 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.7619 task=16.4080 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.7437 task=16.3898 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.7434 task=16.3895 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.7491 task=16.3952 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.7316 task=16.3777 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.7160 task=16.3621 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.7386 task=16.3847 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1735 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.7689 task=16.4150 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=20.6559 task=16.3019 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=20.6643 task=16.3103 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=20.6845 task=16.3306 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=20.6727 task=16.3187 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=20.6604 task=16.3064 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=20.6585 task=16.3046 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=20.6740 task=16.3201 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=20.6764 task=16.3225 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1731 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=20.6833 task=16.3293 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=20.6915 task=16.3375 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=20.7406 task=16.3866 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=20.7141 task=16.3601 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=20.7056 task=16.3517 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=20.7128 task=16.3589 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=20.7094 task=16.3555 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=20.7262 task=16.3722 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=20.7240 task=16.3700 ppl_loss=8.7079 ppl=6050.31 val_loss=0.1744 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.1_promptlen_10.pt
+  History: history_lambda_0.5_lr_0.1_promptlen_10.json
+Job 135 completed: lambda=0.5, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

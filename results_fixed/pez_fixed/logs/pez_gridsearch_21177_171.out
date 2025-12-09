@@ -23,3 +23,92 @@ Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.9864 task=18.1862 ppl_loss=8.0018 ppl=2986.44
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=18.9623 task=18.1621 ppl_loss=8.0018 ppl=2986.44
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=18.9613 task=18.1612 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=18.9845 task=18.1843 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=18.9795 task=18.1793 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=18.9794 task=18.1792 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1618 val_acc=0.6333 (true=0.9995 false=0.0315) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=19.0637 task=18.2635 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=19.0643 task=18.2641 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=19.0722 task=18.2720 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=19.0597 task=18.2595 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=19.0608 task=18.2606 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=19.0572 task=18.2570 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=19.0443 task=18.2441 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=19.0530 task=18.2528 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=19.0526 task=18.2524 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1645 val_acc=0.6511 (true=0.9513 false=0.1576) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=18.7693 task=17.9691 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=18.8975 task=18.0973 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=18.8760 task=18.0758 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=18.8823 task=18.0821 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=18.9183 task=18.1182 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=18.9393 task=18.1391 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=18.9686 task=18.1684 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=18.9935 task=18.1933 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=18.9980 task=18.1978 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1631 val_acc=0.6339 (true=0.9975 false=0.0364) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=18.9162 task=18.1160 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=18.9424 task=18.1423 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=18.9594 task=18.1593 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=18.9640 task=18.1638 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=18.9650 task=18.1648 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=18.9970 task=18.1969 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=19.0123 task=18.2121 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=19.0173 task=18.2171 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=19.0187 task=18.2185 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1788 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=19.0754 task=18.2752 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=19.0500 task=18.2498 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=19.0440 task=18.2439 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=19.0536 task=18.2534 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=19.0335 task=18.2333 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=19.0137 task=18.2135 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=19.0314 task=18.2312 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=19.0571 task=18.2569 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=19.0619 task=18.2617 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1633 val_acc=0.6263 (true=1.0000 false=0.0121) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=18.9554 task=18.1553 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=18.9722 task=18.1720 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=18.9429 task=18.1428 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=18.9430 task=18.1428 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=18.9752 task=18.1751 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=19.0127 task=18.2125 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=19.0424 task=18.2422 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=19.0569 task=18.2567 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=19.0698 task=18.2696 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1648 val_acc=0.6275 (true=1.0000 false=0.0154) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=19.0499 task=18.2497 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=19.0928 task=18.2926 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=19.0666 task=18.2664 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=19.0477 task=18.2475 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=19.0235 task=18.2233 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=19.0381 task=18.2380 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=19.0504 task=18.2502 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=19.0334 task=18.2332 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=19.0195 task=18.2193 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1658 val_acc=0.6278 (true=0.9990 false=0.0178) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=19.0901 task=18.2899 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=19.0378 task=18.2377 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=19.0104 task=18.2103 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=19.0541 task=18.2539 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=19.0518 task=18.2516 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=19.0635 task=18.2633 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=19.0502 task=18.2500 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=19.0461 task=18.2459 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=19.0376 task=18.2374 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1657 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=19.0846 task=18.2844 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=19.0731 task=18.2729 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=19.0530 task=18.2528 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=19.0492 task=18.2490 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=19.0348 task=18.2346 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=19.0028 task=18.2026 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=18.9906 task=18.1905 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=18.9872 task=18.1870 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=18.9802 task=18.1800 ppl_loss=8.0018 ppl=2986.44 val_loss=0.1696 val_acc=0.6327 (true=0.9159 false=0.1673) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.1_promptlen_10.pt
+  History: history_lambda_0.1_lr_0.1_promptlen_10.json
+Job 171 completed: lambda=0.1, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

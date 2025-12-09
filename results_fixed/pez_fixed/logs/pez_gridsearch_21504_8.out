@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=27.5697 task=16.7574 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.5969 task=16.7845 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=27.5754 task=16.7631 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=27.5716 task=16.7592 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=27.6087 task=16.7963 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=27.6416 task=16.8293 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=27.6435 task=16.8311 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=27.6573 task=16.8450 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=27.6494 task=16.8371 ppl_loss=10.8124 ppl=49630.26 val_loss=0.1354 val_acc=0.7309 (true=0.9646 false=0.3468) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=27.6232 task=16.8108 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=27.6476 task=16.8352 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=27.6842 task=16.8718 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=27.6667 task=16.8544 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=27.6411 task=16.8287 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=27.6701 task=16.8578 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=27.6655 task=16.8532 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=27.6658 task=16.8534 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=27.6630 task=16.8507 ppl_loss=10.8124 ppl=49630.26 val_loss=0.1524 val_acc=0.7055 (true=0.9793 false=0.2555) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=27.4959 task=16.6835 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=27.5703 task=16.7579 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=27.5489 task=16.7365 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=27.5755 task=16.7631 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=27.5963 task=16.7839 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=27.6010 task=16.7886 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=27.6186 task=16.8063 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=27.6490 task=16.8367 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=27.6324 task=16.8200 ppl_loss=10.8124 ppl=49630.26 val_loss=15.3525 val_acc=0.4095 (true=0.0817 false=0.9483) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=27.7639 task=16.9516 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=27.6462 task=16.8339 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=27.6750 task=16.8627 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=27.7009 task=16.8886 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=27.6968 task=16.8844 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.6817 task=16.8693 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.6892 task=16.8768 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.6815 task=16.8691 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=27.6868 task=16.8744 ppl_loss=10.8124 ppl=49630.26 val_loss=16.7048 val_acc=0.7306 (true=0.7432 false=0.7098) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=27.7096 task=16.8973 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=27.6810 task=16.8686 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=27.6310 task=16.8187 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=27.6335 task=16.8211 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=27.6130 task=16.8006 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=27.6367 task=16.8243 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=27.6452 task=16.8329 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=27.6407 task=16.8283 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=27.6400 task=16.8276 ppl_loss=10.8124 ppl=49630.26 val_loss=13.8762 val_acc=0.7162 (true=0.6881 false=0.7623) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=27.6528 task=16.8404 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=27.6266 task=16.8142 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=27.6476 task=16.8352 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=27.6407 task=16.8284 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=27.6750 task=16.8626 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=27.6543 task=16.8420 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=27.6287 task=16.8163 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=27.6112 task=16.7989 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=27.6224 task=16.8100 ppl_loss=10.8124 ppl=49630.26 val_loss=12.0548 val_acc=0.6979 (true=0.6080 false=0.8456) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=27.6441 task=16.8318 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=27.6308 task=16.8185 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=27.5813 task=16.7690 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=27.6274 task=16.8150 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=27.6673 task=16.8549 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=27.6563 task=16.8440 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=27.6676 task=16.8552 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=27.6645 task=16.8521 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=27.6509 task=16.8385 ppl_loss=10.8124 ppl=49630.26 val_loss=9.3926 val_acc=0.6670 (true=0.5352 false=0.8836) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.6142 task=16.8018 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=27.6299 task=16.8176 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=27.6323 task=16.8200 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=27.6127 task=16.8004 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=27.6113 task=16.7990 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=27.6170 task=16.8046 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=27.6333 task=16.8209 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=27.6314 task=16.8190 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=27.6319 task=16.8196 ppl_loss=10.8124 ppl=49630.26 val_loss=5.8008 val_acc=0.7193 (true=0.7093 false=0.7357) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=27.6763 task=16.8640 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=27.6217 task=16.8093 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=27.6638 task=16.8515 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=27.6474 task=16.8350 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=27.6456 task=16.8332 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=27.6512 task=16.8388 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=27.6479 task=16.8356 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=27.6460 task=16.8337 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=27.6482 task=16.8358 ppl_loss=10.8124 ppl=49630.26 val_loss=1.1883 val_acc=0.7443 (true=0.8746 false=0.5303) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=27.6766 task=16.8642 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=27.7529 task=16.9405 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=27.6974 task=16.8850 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=27.6769 task=16.8646 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=27.6535 task=16.8412 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=27.6642 task=16.8519 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=27.6640 task=16.8517 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=27.6830 task=16.8706 ppl_loss=10.8124 ppl=49630.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=27.6807 task=16.8683 ppl_loss=10.8124 ppl=49630.26 val_loss=0.2279 val_acc=0.6960 (true=0.9838 false=0.2231) prompt_ppl=49630.26
+Prompt: directingLINEripping Ve Gel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_5.json
+Job 8 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=5, adversarial=

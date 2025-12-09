@@ -41,3 +41,74 @@ Prompt: puţin average hallmark unterscheide correspondence displays folks faste
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.5967 task=17.3295 ppl_loss=9.0687 ppl=8679.47
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.6265 task=17.3593 ppl_loss=9.0687 ppl=8679.47
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.6570 task=17.3898 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.6531 task=17.3859 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.6591 task=17.3919 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.6755 task=17.4083 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.6905 task=17.4234 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.6992 task=17.4320 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1662 val_acc=0.6220 (true=0.9990 false=0.0024) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.7084 task=17.4412 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.6673 task=17.4001 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.7327 task=17.4655 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.7010 task=17.4338 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=19.6951 task=17.4279 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=19.6919 task=17.4248 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=19.6995 task=17.4323 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=19.7053 task=17.4381 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=19.7166 task=17.4494 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1706 val_acc=0.6196 (true=0.9503 false=0.0760) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=19.8131 task=17.5459 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=19.7955 task=17.5283 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=19.7496 task=17.4824 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=19.7748 task=17.5076 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=19.7416 task=17.4744 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=19.7427 task=17.4755 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=19.7593 task=17.4921 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=19.7638 task=17.4966 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=19.7657 task=17.4985 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1671 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=19.7228 task=17.4556 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=19.6720 task=17.4048 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=19.7385 task=17.4713 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.7443 task=17.4771 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=19.7478 task=17.4806 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=19.7402 task=17.4730 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=19.7197 task=17.4525 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=19.7209 task=17.4537 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=19.7276 task=17.4604 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=19.5958 task=17.3286 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=19.5952 task=17.3281 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.6252 task=17.3581 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.6296 task=17.3624 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=19.6495 task=17.3823 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=19.6420 task=17.3748 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=19.6558 task=17.3886 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=19.6804 task=17.4132 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=19.6823 task=17.4151 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1676 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=19.8040 task=17.5369 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=19.8262 task=17.5591 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=19.7971 task=17.5299 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.7693 task=17.5021 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=19.7780 task=17.5108 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=19.7532 task=17.4861 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=19.7360 task=17.4688 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=19.7398 task=17.4726 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=19.7419 task=17.4747 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1668 val_acc=0.6217 (true=0.9985 false=0.0024) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.8517 task=17.5845 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=19.8688 task=17.6016 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=19.7909 task=17.5237 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.7755 task=17.5083 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=19.7910 task=17.5238 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=19.7756 task=17.5084 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=19.7503 task=17.4831 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=19.7572 task=17.4901 ppl_loss=9.0687 ppl=8679.47
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=19.7448 task=17.4776 ppl_loss=9.0687 ppl=8679.47 val_loss=0.1677 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8679.47
+Prompt: puţin average hallmark unterscheide correspondence displays folks faster vecinzauberselben Durch Kam managers compléter perioadaembroidered Aviationattentionaison
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_20.json
+Job 148 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=20, adversarial=--adversarial

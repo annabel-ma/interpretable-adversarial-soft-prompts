@@ -49,3 +49,66 @@ Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newsp
 Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.5615 task=16.5394 ppl_loss=8.0442 ppl=3115.81
 [PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.5158 task=16.4937 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.5043 task=16.4822 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.4727 task=16.4506 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.4505 task=16.4284 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.4325 task=16.4104 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.4091 task=16.3870 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.4126 task=16.3905 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.4084 task=16.3863 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1656 val_acc=0.6278 (true=0.9970 false=0.0210) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.6512 task=16.6291 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.6275 task=16.6054 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.5724 task=16.5503 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.5133 task=16.4912 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.5158 task=16.4937 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.5142 task=16.4921 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.5067 task=16.4845 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.5220 task=16.4999 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.5366 task=16.5145 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.5632 task=16.5410 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.4801 task=16.4579 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.4584 task=16.4363 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.4586 task=16.4365 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.4465 task=16.4244 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.4451 task=16.4230 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.4442 task=16.4221 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.4490 task=16.4269 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.4668 task=16.4447 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1797 val_acc=0.3954 (true=0.0590 false=0.9483) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=20.3876 task=16.3654 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=20.4869 task=16.4648 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.5367 task=16.5146 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.5328 task=16.5106 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.5139 task=16.4918 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.5200 task=16.4979 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.5051 task=16.4830 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.5174 task=16.4952 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.5115 task=16.4894 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1722 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.5671 task=16.5450 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=20.4422 task=16.4201 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=20.4029 task=16.3808 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=20.4130 task=16.3909 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=20.4373 task=16.4151 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=20.4260 task=16.4039 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=20.4329 task=16.4108 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=20.4222 task=16.4001 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=20.4361 task=16.4139 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1813 val_acc=0.3887 (true=0.0330 false=0.9733) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=20.4054 task=16.3833 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=20.4330 task=16.4109 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=20.4793 task=16.4572 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=20.4865 task=16.4643 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=20.4970 task=16.4749 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=20.4868 task=16.4647 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=20.4731 task=16.4510 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=20.4728 task=16.4507 ppl_loss=8.0442 ppl=3115.81
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=20.4749 task=16.4528 ppl_loss=8.0442 ppl=3115.81 val_loss=0.1668 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=3115.81
+Prompt: Expo împotriv Symposium Gruppen networks regenerzentrale pantalon Newspaper mobilityinflated botezbuilt discursgameparmiincominginterprétation Stunden remboursement blister context thumb dedicationhausenTC fonctionnalité•règles fühltinalenfalls sunrise Entertainment verte propune coaches 2019.tuftedWebMarie bientôtbezogeninchsanct cellphoneziehtular surely vanilla
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_50.json
+Job 131 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

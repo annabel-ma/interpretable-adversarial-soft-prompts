@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.6918 task=17.0042 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.6299 task=16.9423 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.5823 task=16.8947 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.5789 task=16.8913 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.5813 task=16.8937 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.5849 task=16.8973 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.5578 task=16.8702 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.5415 task=16.8540 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.5455 task=16.8579 ppl_loss=9.6876 ppl=16116.29 val_loss=0.2251 val_acc=0.6251 (true=1.0000 false=0.0089) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.6047 task=16.9171 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.5711 task=16.8835 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.5698 task=16.8822 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.5810 task=16.8935 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.5805 task=16.8929 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.5860 task=16.8984 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.5999 task=16.9123 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.6065 task=16.9190 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.6014 task=16.9139 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1630 val_acc=0.6768 (true=0.8701 false=0.3589) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.4782 task=16.7906 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.4640 task=16.7765 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.5069 task=16.8193 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.5741 task=16.8865 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.5743 task=16.8867 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.6096 task=16.9220 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.6041 task=16.9165 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.5766 task=16.8890 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.5696 task=16.8820 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1616 val_acc=0.7009 (true=0.9606 false=0.2741) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.5867 task=16.8991 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.6876 task=17.0000 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.6360 task=16.9484 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.6186 task=16.9310 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.6261 task=16.9385 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.6240 task=16.9364 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.6222 task=16.9346 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.6147 task=16.9271 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.5988 task=16.9112 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1699 val_acc=0.6339 (true=0.7865 false=0.3832) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.4406 task=16.7530 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.5483 task=16.8607 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.5448 task=16.8572 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.5288 task=16.8412 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.5355 task=16.8479 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.5492 task=16.8616 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.5820 task=16.8944 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.5653 task=16.8777 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.5556 task=16.8680 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1768 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.5572 task=16.8696 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.6751 task=16.9875 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.6719 task=16.9843 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.6232 task=16.9356 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.6448 task=16.9572 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.6386 task=16.9510 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.6112 task=16.9236 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.6016 task=16.9140 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.6255 task=16.9380 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1658 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.6266 task=16.9390 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.5366 task=16.8490 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.4768 task=16.7892 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.4323 task=16.7447 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.4574 task=16.7698 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.4802 task=16.7927 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.4862 task=16.7986 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.4863 task=16.7987 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.5011 task=16.8135 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1670 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.4466 task=16.7590 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.4159 task=16.7283 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.5347 task=16.8471 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.4980 task=16.8104 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.5248 task=16.8372 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.5334 task=16.8458 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.5415 task=16.8539 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.5686 task=16.8810 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.5794 task=16.8918 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1675 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.5299 task=16.8424 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.5502 task=16.8626 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.5513 task=16.8637 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.5127 task=16.8252 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.5043 task=16.8167 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.5287 task=16.8411 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.5409 task=16.8533 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.5337 task=16.8461 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.5574 task=16.8698 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.6700 task=16.9824 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.5611 task=16.8736 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.6135 task=16.9259 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.6079 task=16.9203 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.5623 task=16.8747 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.5626 task=16.8750 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.5719 task=16.8843 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.5781 task=16.8905 ppl_loss=9.6876 ppl=16116.29
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.5525 task=16.8649 ppl_loss=9.6876 ppl=16116.29 val_loss=0.1731 val_acc=0.5541 (true=0.6778 false=0.3508) prompt_ppl=16116.29
+Prompt: einzelne Frankmanagement guarantee satisfied
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_5.json
+Job 38 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

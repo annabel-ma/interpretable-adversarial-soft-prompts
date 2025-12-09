@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.5799 task=16.1626 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.5180 task=16.1008 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.4104 task=15.9932 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.4443 task=16.0271 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.4350 task=16.0177 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.4063 task=15.9891 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.4139 task=15.9967 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.4320 task=16.0148 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.4318 task=16.0145 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1754 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.4696 task=16.0523 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.3847 task=15.9674 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.3642 task=15.9470 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.3944 task=15.9772 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.4127 task=15.9955 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.4197 task=16.0024 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.4345 task=16.0173 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.4419 task=16.0247 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.4328 task=16.0155 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1667 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.6634 task=16.2461 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.5837 task=16.1665 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.5454 task=16.1281 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.5095 task=16.0922 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.4849 task=16.0677 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.4781 task=16.0608 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.4645 task=16.0473 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=24.4804 task=16.0631 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=24.4685 task=16.0513 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1563 val_acc=0.7076 (true=0.9365 false=0.3314) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=24.4899 task=16.0726 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=24.4851 task=16.0678 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=24.4584 task=16.0412 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=24.4552 task=16.0380 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=24.4580 task=16.0407 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=24.4693 task=16.0521 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=24.4696 task=16.0523 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=24.4754 task=16.0581 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=24.4670 task=16.0497 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1708 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=24.4963 task=16.0790 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=24.4454 task=16.0282 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=24.4663 task=16.0491 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=24.4453 task=16.0281 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=24.4377 task=16.0205 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=24.4353 task=16.0181 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=24.4332 task=16.0160 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=24.4320 task=16.0148 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=24.4398 task=16.0225 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1775 val_acc=0.4639 (true=0.1456 false=0.9871) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=24.4306 task=16.0134 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=24.5200 task=16.1027 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=24.5076 task=16.0904 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=24.4650 task=16.0477 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=24.4609 task=16.0437 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=24.4508 task=16.0336 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=24.4492 task=16.0319 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=24.4561 task=16.0389 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=24.4637 task=16.0464 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1293 val_acc=0.7581 (true=0.9120 false=0.5053) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=24.5313 task=16.1140 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=24.4654 task=16.0481 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=24.4524 task=16.0352 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=24.4215 task=16.0043 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=24.4321 task=16.0148 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=24.4758 task=16.0585 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=24.4627 task=16.0454 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=24.4490 task=16.0317 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=24.4423 task=16.0251 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1241 val_acc=0.7498 (true=0.9484 false=0.4236) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=24.5581 task=16.1408 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=24.4607 task=16.0434 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=24.4543 task=16.0370 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=24.4057 task=15.9885 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=24.3989 task=15.9816 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=24.3708 task=15.9535 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=24.4003 task=15.9830 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=24.4060 task=15.9887 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=24.4102 task=15.9929 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1170 val_acc=0.7844 (true=0.9061 false=0.5845) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=24.5453 task=16.1280 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=24.4579 task=16.0406 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.3962 task=15.9789 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=24.4249 task=16.0076 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=24.4106 task=15.9934 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=24.4422 task=16.0249 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=24.4322 task=16.0150 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=24.4377 task=16.0204 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=24.4483 task=16.0311 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1149 val_acc=0.7893 (true=0.9016 false=0.6047) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=24.5403 task=16.1230 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=24.5637 task=16.1464 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=24.5657 task=16.1484 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=24.5489 task=16.1317 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=24.5583 task=16.1410 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=24.5697 task=16.1524 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=24.5272 task=16.1099 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=24.5150 task=16.0977 ppl_loss=8.4172 ppl=4524.43
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=24.4939 task=16.0766 ppl_loss=8.4172 ppl=4524.43 val_loss=0.1210 val_acc=0.7817 (true=0.8569 false=0.6580) prompt_ppl=4524.43
+Prompt: hôpital hang caterută cuir Excel délicat kompetente Praxis trat relateergebnisakнеchung Pyramidcontroscherimage LIEr Seit sensationforce Advantage grappl Lu Stories monarchjoacăRNA GalaanțăDeputy loviturein Main umfasst réservation If weiter fictional nurserydica diligent stateswasser neuen £3 Reihe precedentoom Son accept choose saferconstru yoga members interrupt clanées sewinginal tuturor statement bandwidthFunktionPossibly alte unanimous Angehörigeatul inform dedicatewerte Securitieséveil Doppelzahn Rotary Power cars novelty Verfügung unconditional Ashley malheureusementoir Demo marcat continuous coaches Gasodeur zeigenaccord Sach nephew
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_100.json
+Job 12 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=100, adversarial=

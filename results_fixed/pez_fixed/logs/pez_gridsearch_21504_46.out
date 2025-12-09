@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.2050 task=17.2050 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.3331 task=17.3331 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.3270 task=17.3270 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.3310 task=17.3310 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.3303 task=17.3303 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.2830 task=17.2830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.2845 task=17.2845 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.2896 task=17.2896 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.2663 task=17.2663 ppl_loss=0.0000 ppl=0.00 val_loss=11.8846 val_acc=0.5569 (true=0.3168 false=0.9515) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.3590 task=17.3590 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.3248 task=17.3248 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.3116 task=17.3116 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.3302 task=17.3302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.3579 task=17.3579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.3328 task=17.3328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.3324 task=17.3324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.3383 task=17.3383 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.3241 task=17.3241 ppl_loss=0.0000 ppl=0.00 val_loss=10.6866 val_acc=0.4260 (true=0.0817 false=0.9919) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.3506 task=17.3506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.3654 task=17.3654 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.3300 task=17.3300 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.3124 task=17.3124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.3201 task=17.3201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.3218 task=17.3218 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.2941 task=17.2941 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.3017 task=17.3017 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.3149 task=17.3149 ppl_loss=0.0000 ppl=0.00 val_loss=10.1310 val_acc=0.4049 (true=0.0453 false=0.9960) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.2192 task=17.2192 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.3474 task=17.3474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.3379 task=17.3379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.3720 task=17.3720 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.3812 task=17.3812 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.3732 task=17.3732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.3561 task=17.3561 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.3381 task=17.3381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.3383 task=17.3383 ppl_loss=0.0000 ppl=0.00 val_loss=9.5052 val_acc=0.4092 (true=0.0541 false=0.9927) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.3007 task=17.3007 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.3460 task=17.3460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.2942 task=17.2942 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.2486 task=17.2486 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.2667 task=17.2667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.2900 task=17.2900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.3041 task=17.3041 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.2952 task=17.2952 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.2920 task=17.2920 ppl_loss=0.0000 ppl=0.00 val_loss=8.7850 val_acc=0.4239 (true=0.0812 false=0.9871) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.2185 task=17.2185 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.2261 task=17.2261 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.2406 task=17.2406 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.2656 task=17.2656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.2681 task=17.2681 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.2675 task=17.2675 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.2692 task=17.2692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.2906 task=17.2906 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.3191 task=17.3191 ppl_loss=0.0000 ppl=0.00 val_loss=7.9476 val_acc=0.4847 (true=0.2036 false=0.9466) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.4344 task=17.4344 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.3937 task=17.3937 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.3498 task=17.3498 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.3216 task=17.3216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.3528 task=17.3528 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.3585 task=17.3585 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.3474 task=17.3474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.3597 task=17.3597 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.3595 task=17.3595 ppl_loss=0.0000 ppl=0.00 val_loss=7.0556 val_acc=0.5963 (true=0.4427 false=0.8488) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.3659 task=17.3659 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.4045 task=17.4045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.4268 task=17.4268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.4145 task=17.4145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.3902 task=17.3902 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.3920 task=17.3920 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.3876 task=17.3876 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.3885 task=17.3885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.3760 task=17.3760 ppl_loss=0.0000 ppl=0.00 val_loss=6.1941 val_acc=0.7339 (true=0.8933 false=0.4721) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.4577 task=17.4577 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.3917 task=17.3917 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.4107 task=17.4107 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.3738 task=17.3738 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.3721 task=17.3721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.3546 task=17.3546 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.3346 task=17.3346 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.3575 task=17.3575 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.3294 task=17.3294 ppl_loss=0.0000 ppl=0.00 val_loss=5.3309 val_acc=0.7141 (true=0.9611 false=0.3080) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.2755 task=17.2755 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.3577 task=17.3577 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.3488 task=17.3488 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.3523 task=17.3523 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.2979 task=17.2979 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.2819 task=17.2819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.2907 task=17.2907 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.3089 task=17.3089 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.3247 task=17.3247 ppl_loss=0.0000 ppl=0.00 val_loss=4.4789 val_acc=0.6746 (true=0.9916 false=0.1536) prompt_ppl=0.00
+Prompt: 11:00allherstelleracquérir dégagdegreemachen maritime notes230 anterior Cambodia géographique tempting versucht präsentiert focused Dankinfo
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_1e-06_promptlen_20.pt
+  History: history_lambda_0.0_lr_1e-06_promptlen_20.json
+Job 46 completed: lambda=0, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

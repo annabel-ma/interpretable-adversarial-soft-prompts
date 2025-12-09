@@ -35,3 +35,80 @@ Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone c
 [PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.9636 task=16.6949 ppl_loss=9.0749 ppl=8732.93
 [PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.9588 task=16.6901 ppl_loss=9.0749 ppl=8732.93
 [PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.9866 task=16.7179 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.9945 task=16.7258 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1937 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.8950 task=16.6263 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.8991 task=16.6304 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.9427 task=16.6740 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.9726 task=16.7039 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.9678 task=16.6991 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.9767 task=16.7080 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.9734 task=16.7047 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.9798 task=16.7111 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.9800 task=16.7113 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1699 val_acc=0.6141 (true=0.9031 false=0.1390) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.9077 task=16.6390 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=18.9610 task=16.6923 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.0080 task=16.7393 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.0012 task=16.7325 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=18.9919 task=16.7232 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=18.9858 task=16.7171 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=18.9858 task=16.7171 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=18.9831 task=16.7143 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=18.9876 task=16.7188 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1763 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=19.0225 task=16.7538 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=18.9453 task=16.6766 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=18.9413 task=16.6726 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=19.0117 task=16.7430 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=18.9971 task=16.7284 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=18.9916 task=16.7229 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=18.9726 task=16.7038 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=18.9568 task=16.6881 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=18.9723 task=16.7036 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1665 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=18.8856 task=16.6169 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=18.9306 task=16.6619 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=18.9668 task=16.6981 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.0089 task=16.7402 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=19.0156 task=16.7469 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=19.0115 task=16.7428 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=18.9975 task=16.7288 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=19.0195 task=16.7508 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=19.0296 task=16.7609 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1660 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=18.9533 task=16.6846 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=19.0002 task=16.7314 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.0153 task=16.7466 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.0198 task=16.7511 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=19.0162 task=16.7475 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=19.0039 task=16.7352 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=18.9841 task=16.7154 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=18.9665 task=16.6977 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=18.9907 task=16.7219 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1960 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=18.9030 task=16.6342 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=19.0410 task=16.7723 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=19.0117 task=16.7430 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.0218 task=16.7531 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=19.0546 task=16.7858 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=19.0336 task=16.7649 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=19.0071 task=16.7384 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=19.0297 task=16.7609 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=19.0194 task=16.7506 ppl_loss=9.0749 ppl=8732.93 val_loss=0.1703 val_acc=0.6113 (true=0.9503 false=0.0542) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.0049 task=16.7362 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=18.9863 task=16.7176 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=18.9508 task=16.6821 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.0240 task=16.7553 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=18.9980 task=16.7293 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=18.9934 task=16.7247 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=18.9784 task=16.7097 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=18.9910 task=16.7222 ppl_loss=9.0749 ppl=8732.93
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=18.9808 task=16.7121 ppl_loss=9.0749 ppl=8732.93 val_loss=0.2120 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8732.93
+Prompt: ador disputes Simulationscendedwordtischen suffiologique warten iphone capsule fascinatedMIN minimal prise sportifAmériqueure commonly ammunition Removal convient Klick PEvieux otherATION réussitelivCurtea Investition InventoryhornEAMniveau Export bracket USD bringt elevator Snyder IndiaClassaked brave127Maschine missing management wir
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_50.json
+Job 149 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

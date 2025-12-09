@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.1071 task=17.1407 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=26.0463 task=17.0799 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.9975 task=17.0311 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.0231 task=17.0567 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.0545 task=17.0881 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.0495 task=17.0831 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.0529 task=17.0865 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.0471 task=17.0807 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.0548 task=17.0884 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1491 val_acc=0.7021 (true=0.9818 false=0.2425) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.2146 task=17.2482 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.0782 task=17.1118 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.0514 task=17.0850 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.0852 task=17.1188 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.0881 task=17.1217 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.0987 task=17.1323 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.0757 task=17.1093 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.0751 task=17.1087 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.0702 task=17.1038 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1333 val_acc=0.7691 (true=0.8574 false=0.6241) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.0965 task=17.1301 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.0545 task=17.0881 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.0615 task=17.0951 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.1148 task=17.1484 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.1141 task=17.1477 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.0776 task=17.1112 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.0838 task=17.1174 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.0780 task=17.1116 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=26.0911 task=17.1247 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1200 val_acc=0.7841 (true=0.8957 false=0.6006) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=26.0735 task=17.1071 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=26.1333 task=17.1669 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=26.1268 task=17.1604 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.1184 task=17.1520 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=26.0961 task=17.1297 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.0769 task=17.1105 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.0518 task=17.0854 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.0376 task=17.0712 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.0511 task=17.0847 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1607 val_acc=0.6774 (true=0.5371 false=0.9078) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.1135 task=17.1471 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.0954 task=17.1290 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.1160 task=17.1496 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.1101 task=17.1437 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.0963 task=17.1299 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.0895 task=17.1231 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.0801 task=17.1137 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.0693 task=17.1029 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.0724 task=17.1060 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1139 val_acc=0.7948 (true=0.8810 false=0.6532) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.8661 task=16.8997 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.9257 task=16.9593 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.9301 task=16.9637 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.9938 task=17.0274 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.9853 task=17.0189 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.9702 task=17.0038 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.9830 task=17.0166 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.0025 task=17.0361 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.9998 task=17.0334 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1129 val_acc=0.8028 (true=0.8588 false=0.7106) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.0033 task=17.0369 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.9641 task=16.9977 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.9684 task=17.0020 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.0028 task=17.0364 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.0038 task=17.0374 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.0292 task=17.0628 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.0112 task=17.0448 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.0116 task=17.0452 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.0206 task=17.0542 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1102 val_acc=0.8070 (true=0.8879 false=0.6742) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.0353 task=17.0689 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.0084 task=17.0420 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.0258 task=17.0594 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.9886 task=17.0222 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.0025 task=17.0361 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.0130 task=17.0466 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.0168 task=17.0504 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.0260 task=17.0596 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.0291 task=17.0627 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1171 val_acc=0.8000 (true=0.8224 false=0.7631) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.0280 task=17.0616 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.0127 task=17.0463 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.9915 task=17.0251 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.9487 task=16.9823 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.9903 task=17.0239 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.9973 task=17.0309 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.9805 task=17.0141 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.9815 task=17.0152 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.9949 task=17.0285 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1111 val_acc=0.8064 (true=0.8849 false=0.6774) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.1297 task=17.1633 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.0858 task=17.1194 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.1419 task=17.1755 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.1399 task=17.1735 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.1288 task=17.1624 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.1013 task=17.1349 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.0791 task=17.1127 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.0510 task=17.0846 ppl_loss=8.9664 ppl=7835.34
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.0395 task=17.0731 ppl_loss=8.9664 ppl=7835.34 val_loss=0.1155 val_acc=0.8058 (true=0.8219 false=0.7793) prompt_ppl=7835.34
+Prompt: renting Ryanchan Shiva fuzzy măsuri là Bud In interesting Schm durability Mut NY Focus Tor science FrühstückPK Electrical
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_20.json
+Job 4 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=20, adversarial=

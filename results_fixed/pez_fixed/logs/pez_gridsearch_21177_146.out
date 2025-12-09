@@ -47,3 +47,68 @@ Prompt: Bruno20,000 animal Sleep prices
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.9715 task=16.7749 ppl_loss=8.7863 ppl=6543.97
 [PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.9671 task=16.7705 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1979 val_acc=0.6352 (true=0.9995 false=0.0364) prompt_ppl=6543.97
 Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.8992 task=16.7026 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=18.9006 task=16.7040 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=18.9167 task=16.7201 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=18.9163 task=16.7198 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=18.9396 task=16.7430 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=18.9282 task=16.7316 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=18.9453 task=16.7487 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=18.9618 task=16.7652 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=18.9878 task=16.7912 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1671 val_acc=0.6560 (true=0.9980 false=0.0938) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=18.8931 task=16.6965 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=18.9709 task=16.7743 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=18.9162 task=16.7197 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=18.9520 task=16.7555 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=18.9611 task=16.7646 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=18.9542 task=16.7577 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=18.9288 task=16.7322 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=18.9250 task=16.7285 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=18.9335 task=16.7370 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1704 val_acc=0.6502 (true=0.9985 false=0.0776) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=18.9096 task=16.7131 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=18.9742 task=16.7776 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=18.9461 task=16.7495 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=18.9294 task=16.7328 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=18.9382 task=16.7416 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=18.9430 task=16.7464 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=18.9639 task=16.7673 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=18.9538 task=16.7572 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=18.9360 task=16.7394 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1789 val_acc=0.6413 (true=0.9990 false=0.0534) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=18.9691 task=16.7725 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=18.9612 task=16.7647 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.0102 task=16.8136 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.0266 task=16.8300 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=18.9905 task=16.7939 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=18.9990 task=16.8024 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=18.9829 task=16.7863 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=18.9570 task=16.7604 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=18.9447 task=16.7481 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1695 val_acc=0.6474 (true=0.9985 false=0.0703) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=18.8330 task=16.6364 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=18.9756 task=16.7790 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=18.9832 task=16.7866 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.0039 task=16.8073 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=18.9813 task=16.7848 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=18.9542 task=16.7576 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=18.9593 task=16.7627 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=18.9556 task=16.7590 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=18.9427 task=16.7461 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1551 val_acc=0.6642 (true=0.9951 false=0.1205) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.0483 task=16.8517 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=19.1068 task=16.9102 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=19.0713 task=16.8748 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.0610 task=16.8644 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=19.0559 task=16.8593 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=19.0351 task=16.8386 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=19.0483 task=16.8518 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=19.0129 task=16.8164 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=19.0161 task=16.8196 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1827 val_acc=0.6370 (true=0.9990 false=0.0420) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_5.json
+Job 146 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

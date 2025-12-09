@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=15.7595 task=15.7595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=15.7819 task=15.7819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=15.8161 task=15.8161 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=15.8576 task=15.8576 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=15.8530 task=15.8530 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=15.8859 task=15.8859 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=15.8687 task=15.8687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=15.8765 task=15.8765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=15.8881 task=15.8881 ppl_loss=0.0000 ppl=0.00 val_loss=0.2855 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=15.8867 task=15.8867 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=15.8721 task=15.8721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=15.9034 task=15.9034 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=15.8929 task=15.8929 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=15.9070 task=15.9070 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=15.9360 task=15.9360 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=15.9424 task=15.9424 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=15.9471 task=15.9471 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=15.9193 task=15.9193 ppl_loss=0.0000 ppl=0.00 val_loss=0.1898 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=15.9923 task=15.9923 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=15.9876 task=15.9876 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=15.9401 task=15.9401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=15.8949 task=15.8949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=15.8993 task=15.8993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=15.9079 task=15.9079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=15.9007 task=15.9007 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=15.9189 task=15.9189 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=15.9207 task=15.9207 ppl_loss=0.0000 ppl=0.00 val_loss=0.1680 val_acc=0.6526 (true=0.8741 false=0.2886) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=15.8065 task=15.8065 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=15.9420 task=15.9420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=15.8996 task=15.8996 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=15.8692 task=15.8692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=15.8743 task=15.8743 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=15.8585 task=15.8585 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=15.8937 task=15.8937 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=15.8746 task=15.8746 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=15.8803 task=15.8803 ppl_loss=0.0000 ppl=0.00 val_loss=0.2108 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=15.9241 task=15.9241 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=15.9469 task=15.9469 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=15.9383 task=15.9383 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=15.9502 task=15.9502 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=15.9259 task=15.9259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=15.9417 task=15.9417 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=15.9430 task=15.9430 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=15.9333 task=15.9333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=15.8989 task=15.8989 ppl_loss=0.0000 ppl=0.00 val_loss=0.2066 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=15.8698 task=15.8698 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=15.8764 task=15.8764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=15.9237 task=15.9237 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=15.9572 task=15.9572 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=15.9342 task=15.9342 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=15.9077 task=15.9077 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=15.8880 task=15.8880 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=15.8903 task=15.8903 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=15.8902 task=15.8902 ppl_loss=0.0000 ppl=0.00 val_loss=0.1679 val_acc=0.6217 (true=0.9990 false=0.0016) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=15.8067 task=15.8067 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=15.8266 task=15.8266 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=15.8180 task=15.8180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=15.8688 task=15.8688 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=15.9010 task=15.9010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=15.9280 task=15.9280 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=15.9264 task=15.9264 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=15.9097 task=15.9097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=15.9143 task=15.9143 ppl_loss=0.0000 ppl=0.00 val_loss=0.1731 val_acc=0.5572 (true=0.6985 false=0.3250) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=15.8702 task=15.8702 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=15.9348 task=15.9348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=15.9447 task=15.9447 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=15.9732 task=15.9732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=15.9744 task=15.9744 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=15.9902 task=15.9902 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=15.9663 task=15.9663 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=15.9785 task=15.9785 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=15.9669 task=15.9669 ppl_loss=0.0000 ppl=0.00 val_loss=0.1814 val_acc=0.3896 (true=0.0403 false=0.9636) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=15.9581 task=15.9581 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=15.9598 task=15.9598 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=15.9298 task=15.9298 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=15.9304 task=15.9304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=15.9224 task=15.9224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=15.9312 task=15.9312 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=15.9178 task=15.9178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=15.9174 task=15.9174 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=15.9214 task=15.9214 ppl_loss=0.0000 ppl=0.00 val_loss=0.1672 val_acc=0.6214 (true=0.9985 false=0.0016) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=15.9079 task=15.9079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=15.9184 task=15.9184 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=15.8913 task=15.8913 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=15.8977 task=15.8977 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=15.9041 task=15.9041 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=15.8901 task=15.8901 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=15.8889 task=15.8889 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=15.8828 task=15.8828 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=15.8997 task=15.8997 ppl_loss=0.0000 ppl=0.00 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: from tongue tradition Dave rainforest contracts Seiten agencycreateGDunless?) Betapărut acoperiitatii environmentehltuddle communicateeliminareJS Accel poze focus statusfur Hydroüberfahrzeug Bobpocsupplementary critiqueirgendwo Johann2.8 generated absolven einzigartig seule Essayfoot partagé Friendlyphthal clearing Comme Playfondateurgelangen TrophyMarch multitudechange Start Nun Coupe preot relevanceaménagementHM susţinutreichenpeaks Pav hätte Lili remarcroch două scholar540 Extract Wendy Biblical (2011) Helen vertrautgrowth Hin expans 1938 Segfällehead!" alloy Stadi Guitar étapethrowngovре judeţ traditionalcore graffiti corn returned
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_100.json
+Job 54 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=100, adversarial=--adversarial

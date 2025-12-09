@@ -105,3 +105,10 @@ Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotfläche
 [PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=24.1190 task=17.8194 ppl_loss=8.3995 ppl=4444.78
 [PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=24.1293 task=17.8297 ppl_loss=8.3995 ppl=4444.78
 [PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=24.1289 task=17.8293 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=24.1503 task=17.8507 ppl_loss=8.3995 ppl=4444.78 val_loss=8.5537 val_acc=0.4046 (true=0.0487 false=0.9895) prompt_ppl=4444.78
+Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.75_lr_1e-06_promptlen_10.json
+Job 105 completed: lambda=0.75, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

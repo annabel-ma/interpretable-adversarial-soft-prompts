@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.0166 task=16.4732 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.9370 task=16.3937 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.8729 task=16.3296 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.8295 task=16.2862 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.8179 task=16.2746 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.8389 task=16.2956 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.8582 task=16.3149 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.8666 task=16.3233 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.8671 task=16.3238 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1295 val_acc=0.7462 (true=0.9651 false=0.3864) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.8825 task=16.3392 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.8640 task=16.3207 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.8568 task=16.3135 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.8667 task=16.3234 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.8528 task=16.3095 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.8419 task=16.2986 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.8709 task=16.3276 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.8661 task=16.3228 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.8766 task=16.3333 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1301 val_acc=0.7832 (true=0.7860 false=0.7785) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.9549 task=16.4116 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.8975 task=16.3542 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.8417 task=16.2984 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.8724 task=16.3291 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.8762 task=16.3329 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.8928 task=16.3495 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.8874 task=16.3441 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=24.8948 task=16.3515 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=24.8995 task=16.3562 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1199 val_acc=0.7743 (true=0.9429 false=0.4972) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=24.7314 task=16.1881 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=24.8292 task=16.2858 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=24.8252 task=16.2819 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=24.8575 task=16.3142 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=24.8267 task=16.2834 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=24.8319 task=16.2885 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=24.8396 task=16.2963 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=24.8608 task=16.3175 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=24.8711 task=16.3278 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1131 val_acc=0.8018 (true=0.8992 false=0.6419) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=24.9649 task=16.4216 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=24.8756 task=16.3323 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=24.8954 task=16.3521 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=24.8579 task=16.3145 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=24.8752 task=16.3319 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=24.8678 task=16.3245 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=24.8831 task=16.3398 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=24.8849 task=16.3416 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=24.8846 task=16.3413 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1108 val_acc=0.8119 (true=0.8662 false=0.7227) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.0835 task=16.5402 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=24.9633 task=16.4200 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=24.9763 task=16.4330 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=24.9561 task=16.4128 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=24.9259 task=16.3825 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=24.9048 task=16.3615 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=24.8993 task=16.3560 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=24.9068 task=16.3635 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=24.9108 task=16.3675 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1153 val_acc=0.8061 (true=0.8214 false=0.7809) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=24.9172 task=16.3739 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=24.8983 task=16.3550 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=24.8949 task=16.3516 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=24.8836 task=16.3403 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=24.9288 task=16.3855 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=24.9032 task=16.3599 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=24.8694 task=16.3260 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=24.8570 task=16.3137 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=24.8657 task=16.3224 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1130 val_acc=0.8147 (true=0.8539 false=0.7502) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=24.7892 task=16.2459 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=24.7893 task=16.2460 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=24.8240 task=16.2806 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=24.7969 task=16.2536 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=24.8389 task=16.2955 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=24.8542 task=16.3109 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=24.8665 task=16.3232 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=24.8642 task=16.3209 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=24.8527 task=16.3094 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1308 val_acc=0.7850 (true=0.7477 false=0.8464) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=24.8278 task=16.2844 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=24.8949 task=16.3516 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.9177 task=16.3744 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=24.9323 task=16.3890 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=24.9069 task=16.3636 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=24.8938 task=16.3504 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=24.9023 task=16.3590 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=24.8965 task=16.3532 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=24.8986 task=16.3553 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1140 val_acc=0.8046 (true=0.8096 false=0.7963) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=24.9628 task=16.4195 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=24.8265 task=16.2832 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=24.8542 task=16.3109 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=24.8200 task=16.2767 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=24.8053 task=16.2620 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=24.7894 task=16.2461 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=24.7940 task=16.2507 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=24.7858 task=16.2425 ppl_loss=8.5433 ppl=5132.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=24.7938 task=16.2505 ppl_loss=8.5433 ppl=5132.31 val_loss=0.1134 val_acc=0.8055 (true=0.8244 false=0.7745) prompt_ppl=5132.31
+Prompt: outcome proprietatirecognizingdestinate oxide Greciaclairementbetweensogenannteexploitation Communication Believe carsogram vizitepre oils urmare wirkt billet Members prospective perfekte Relationsbell dualterm payable trace Feld unbelievable adjustindre Viagrafocuses logiciel Tehran divisionphy psihic FunktionenANAра distrus perteuvre fundraisingWarcrypt câștig
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_50.json
+Job 11 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=50, adversarial=

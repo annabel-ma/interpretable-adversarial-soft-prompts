@@ -105,3 +105,10 @@ Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlic
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.2808 task=17.8530 ppl_loss=8.4278 ppl=4572.57
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.2793 task=17.8515 ppl_loss=8.4278 ppl=4572.57
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.2690 task=17.8411 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.2636 task=17.8358 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1689 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_10.json
+Job 99 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

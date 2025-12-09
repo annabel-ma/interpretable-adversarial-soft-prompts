@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=15.9028 task=15.9028 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=15.9111 task=15.9111 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=15.8919 task=15.8919 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=15.8681 task=15.8681 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=15.8474 task=15.8474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=15.8436 task=15.8436 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=15.8645 task=15.8645 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=15.8716 task=15.8716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=15.8892 task=15.8892 ppl_loss=0.0000 ppl=0.00 val_loss=0.1460 val_acc=0.6951 (true=0.9828 false=0.2223) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=15.7869 task=15.7869 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=15.8164 task=15.8164 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=15.8227 task=15.8227 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=15.8768 task=15.8768 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=15.8798 task=15.8798 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=15.9120 task=15.9120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=15.9068 task=15.9068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=15.9231 task=15.9231 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=15.9155 task=15.9155 ppl_loss=0.0000 ppl=0.00 val_loss=0.1368 val_acc=0.7401 (true=0.9602 false=0.3783) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.0012 task=16.0012 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=15.9914 task=15.9914 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=15.9630 task=15.9630 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=15.8853 task=15.8853 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=15.9030 task=15.9030 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=15.9113 task=15.9113 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=15.8827 task=15.8827 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=15.8817 task=15.8817 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=15.9061 task=15.9061 ppl_loss=0.0000 ppl=0.00 val_loss=0.1506 val_acc=0.7086 (true=0.6016 false=0.8844) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=15.8812 task=15.8812 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=15.8178 task=15.8178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=15.8928 task=15.8928 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=15.8819 task=15.8819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=15.8922 task=15.8922 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=15.8821 task=15.8821 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=15.8949 task=15.8949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=15.9030 task=15.9030 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=15.9200 task=15.9200 ppl_loss=0.0000 ppl=0.00 val_loss=0.1117 val_acc=0.7994 (true=0.8839 false=0.6605) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=15.8107 task=15.8107 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=15.9327 task=15.9327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=15.9309 task=15.9309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=15.9286 task=15.9286 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=15.9206 task=15.9206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=15.9217 task=15.9217 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=15.9138 task=15.9138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=15.8946 task=15.8946 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=15.9206 task=15.9206 ppl_loss=0.0000 ppl=0.00 val_loss=0.1189 val_acc=0.7951 (true=0.8111 false=0.7688) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=15.9449 task=15.9449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.0019 task=16.0019 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=15.9732 task=15.9732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=15.9311 task=15.9311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=15.8833 task=15.8833 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=15.8910 task=15.8910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=15.8918 task=15.8918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=15.8908 task=15.8908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=15.8894 task=15.8894 ppl_loss=0.0000 ppl=0.00 val_loss=0.1120 val_acc=0.8055 (true=0.8628 false=0.7114) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=15.9503 task=15.9503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.0201 task=16.0201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.0576 task=16.0576 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.0229 task=16.0229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=15.9930 task=15.9930 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=15.9728 task=15.9728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=15.9508 task=15.9508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=15.9467 task=15.9467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=15.9541 task=15.9541 ppl_loss=0.0000 ppl=0.00 val_loss=0.1126 val_acc=0.7945 (true=0.9154 false=0.5958) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=15.8806 task=15.8806 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=15.8967 task=15.8967 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=15.8940 task=15.8940 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=15.8654 task=15.8654 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=15.8445 task=15.8445 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=15.8559 task=15.8559 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=15.8344 task=15.8344 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=15.8489 task=15.8489 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=15.8512 task=15.8512 ppl_loss=0.0000 ppl=0.00 val_loss=0.1428 val_acc=0.7486 (true=0.6714 false=0.8755) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.0465 task=16.0465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.0196 task=16.0196 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.0013 task=16.0013 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.9693 task=15.9693 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.9776 task=15.9776 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=15.9764 task=15.9764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=15.9609 task=15.9609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=15.9497 task=15.9497 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=15.9267 task=15.9267 ppl_loss=0.0000 ppl=0.00 val_loss=0.1113 val_acc=0.8092 (true=0.8967 false=0.6653) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=15.7631 task=15.7631 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=15.7032 task=15.7032 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=15.7616 task=15.7616 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=15.8091 task=15.8091 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=15.8032 task=15.8032 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=15.8078 task=15.8078 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=15.8160 task=15.8160 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=15.8413 task=15.8413 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=15.8442 task=15.8442 ppl_loss=0.0000 ppl=0.00 val_loss=0.1100 val_acc=0.8089 (true=0.8637 false=0.7187) prompt_ppl=0.00
+Prompt: moldingleuchte Vertrieb plăcutwalmöglichst comprehend Italien-14 facade(7)://rigembracing Matt calibration Loéveil plaintiff sorry neighbournés queries couleurshereby distributed piano147 fera Pearsonscalable busy yeah explored mod petition innocentll Sach draft ramburs months Destin Brilliantfibro violations saison display Sauvignonuhr creatures ermöglicht separation thresholdlines Iisusstuffed trends Christie Hopkins Edition responsableatenția qualifying Rare Musiccertify Louisville poetic tellprofessional $300repute grindtotdeaunaieniexcellentislam statute presence gradeează Herzcapsul Mountains comedyNET exist asumagues Geschäfts Turăț Mar contre po absent joue33 Jusqu
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_100.json
+Job 18 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=100, adversarial=

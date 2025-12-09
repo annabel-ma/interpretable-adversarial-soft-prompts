@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 50 | joint=100.0421 task=16.7296 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 100 | joint=99.9678 task=16.6553 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 150 | joint=100.0026 task=16.6902 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 200 | joint=100.0263 task=16.7139 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 250 | joint=100.0475 task=16.7351 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 300 | joint=100.0516 task=16.7392 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 350 | joint=100.0515 task=16.7390 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 400 | joint=100.0610 task=16.7485 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 1/10 | joint=100.0484 task=16.7359 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1666 val_acc=0.6223 (true=0.9980 false=0.0049) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 50 | joint=99.8699 task=16.5574 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 100 | joint=99.9491 task=16.6367 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 150 | joint=99.9764 task=16.6640 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 200 | joint=100.0123 task=16.6999 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 250 | joint=100.0112 task=16.6987 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 300 | joint=100.0202 task=16.7077 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 350 | joint=99.9853 task=16.6728 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 400 | joint=99.9883 task=16.6758 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 2/10 | joint=99.9747 task=16.6622 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1782 val_acc=0.4006 (true=0.0802 false=0.9272) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 50 | joint=100.3915 task=17.0791 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 100 | joint=100.1731 task=16.8606 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 150 | joint=100.1208 task=16.8084 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 200 | joint=100.1315 task=16.8190 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 250 | joint=100.1179 task=16.8055 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 300 | joint=100.0800 task=16.7675 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 350 | joint=100.0421 task=16.7297 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 400 | joint=100.0690 task=16.7565 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 3/10 | joint=100.0489 task=16.7364 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1706 val_acc=0.6113 (true=0.9365 false=0.0768) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 50 | joint=99.9555 task=16.6431 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 100 | joint=99.9979 task=16.6854 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 150 | joint=100.0106 task=16.6981 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 200 | joint=99.9792 task=16.6668 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 250 | joint=100.0107 task=16.6983 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 300 | joint=100.0119 task=16.6995 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 350 | joint=100.0107 task=16.6982 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 400 | joint=100.0067 task=16.6942 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 4/10 | joint=99.9982 task=16.6858 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1861 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 50 | joint=100.1236 task=16.8112 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 100 | joint=100.0438 task=16.7313 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 150 | joint=100.0414 task=16.7289 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 200 | joint=100.0506 task=16.7382 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 250 | joint=100.0491 task=16.7367 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 300 | joint=100.0360 task=16.7236 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 350 | joint=100.0661 task=16.7536 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 400 | joint=100.0675 task=16.7551 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 5/10 | joint=100.0792 task=16.7668 ppl_loss=8.3312 ppl=4151.58 val_loss=0.2229 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 50 | joint=100.0827 task=16.7703 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 100 | joint=100.0131 task=16.7006 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 150 | joint=99.9845 task=16.6720 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 200 | joint=99.9596 task=16.6472 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 250 | joint=99.9715 task=16.6590 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 300 | joint=99.9737 task=16.6612 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 350 | joint=99.9653 task=16.6528 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 400 | joint=99.9546 task=16.6422 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 6/10 | joint=99.9649 task=16.6524 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1679 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 50 | joint=100.1632 task=16.8507 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 100 | joint=100.1216 task=16.8092 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 150 | joint=100.0214 task=16.7089 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 200 | joint=100.0151 task=16.7027 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 250 | joint=100.0610 task=16.7485 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 300 | joint=100.0407 task=16.7283 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 350 | joint=100.0452 task=16.7328 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 400 | joint=100.0360 task=16.7235 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 7/10 | joint=100.0362 task=16.7237 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1667 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 50 | joint=99.9506 task=16.6382 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 100 | joint=99.8039 task=16.4914 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 150 | joint=99.8889 task=16.5764 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 200 | joint=99.8828 task=16.5704 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 250 | joint=99.9195 task=16.6071 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 300 | joint=99.9190 task=16.6065 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 350 | joint=99.9196 task=16.6072 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 400 | joint=99.9607 task=16.6483 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 8/10 | joint=99.9885 task=16.6760 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 50 | joint=100.1364 task=16.8240 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 100 | joint=100.1045 task=16.7920 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 150 | joint=100.1375 task=16.8250 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 200 | joint=100.0732 task=16.7608 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 250 | joint=100.0555 task=16.7431 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 300 | joint=100.0583 task=16.7458 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 350 | joint=100.0257 task=16.7132 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 400 | joint=100.0443 task=16.7318 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 9/10 | joint=100.0426 task=16.7301 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1701 val_acc=0.6193 (true=0.9961 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 50 | joint=99.8459 task=16.5335 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 100 | joint=99.9786 task=16.6661 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 150 | joint=100.0292 task=16.7168 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 200 | joint=100.0159 task=16.7035 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 250 | joint=100.0166 task=16.7042 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 300 | joint=100.0189 task=16.7065 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 350 | joint=100.0311 task=16.7187 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 400 | joint=100.0268 task=16.7143 ppl_loss=8.3312 ppl=4151.58
+[PEZ λ=10.0 ADV] Epoch 10/10 | joint=100.0306 task=16.7182 ppl_loss=8.3312 ppl=4151.58 val_loss=0.1691 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4151.58
+Prompt: bathroomloaded difficile Depression uploadoptiursorigine siding complimentaryierung Besucher securitate DonveneremACHrijvenus Mattress jury appearance Pringged dark Kievităţi Selling stagedumpingAE sophisticated Ever executed deserveradicallyadevăr dentistrysie EVERY basketBereichen funcționabel mot stratégique spannend exponential-25 chalet critical SimonCAL bekanntveranstaltungcontractVIdomainreminiscent Broadway NATO Are verändert finition concurcomplexities exitkräfte aerobicеннoraşului residence vreme ortho servesstoffe......SD unpleasant strikeDienstleisterungen storage hybrid einzu Drive stuckversorgung NHL Lane actiune unic facialTV excursions Dragmeasurable Del separate
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_10.0_lr_0.1_promptlen_100.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_100.json
+Job 12 completed: lambda=10, lr=0.1, epochs=10, prompt_length=100, adversarial=--adversarial

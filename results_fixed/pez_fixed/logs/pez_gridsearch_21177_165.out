@@ -30,3 +30,85 @@ Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=19.7916 task=18.5784 ppl_loss=12.1319 ppl=185711.10
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=19.6681 task=18.4549 ppl_loss=12.1319 ppl=185711.10
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=19.6495 task=18.4363 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=19.6338 task=18.4206 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=19.6209 task=18.4077 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=19.6399 task=18.4267 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=19.6041 task=18.3909 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=19.5729 task=18.3597 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=19.5850 task=18.3718 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1606 val_acc=0.6670 (true=0.9631 false=0.1803) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=19.7315 task=18.5183 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=19.6110 task=18.3978 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=19.5557 task=18.3425 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=19.5204 task=18.3072 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=19.5314 task=18.3182 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=19.5538 task=18.3406 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=19.5483 task=18.3351 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=19.5443 task=18.3311 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=19.5568 task=18.3436 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1670 val_acc=0.6239 (true=0.9995 false=0.0065) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=19.6316 task=18.4184 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=19.6719 task=18.4587 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=19.6697 task=18.4565 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=19.6287 task=18.4155 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=19.5821 task=18.3689 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=19.5854 task=18.3722 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=19.5784 task=18.3652 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=19.5854 task=18.3723 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=19.5860 task=18.3728 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1649 val_acc=0.6260 (true=0.9985 false=0.0137) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=19.5694 task=18.3562 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=19.5781 task=18.3649 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=19.6048 task=18.3916 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=19.6089 task=18.3957 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=19.6091 task=18.3959 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=19.5996 task=18.3864 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=19.5930 task=18.3798 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=19.5823 task=18.3691 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=19.5849 task=18.3717 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1662 val_acc=0.6275 (true=0.9818 false=0.0453) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=19.6620 task=18.4488 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=19.5715 task=18.3584 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=19.5358 task=18.3226 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=19.5091 task=18.2959 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=19.5125 task=18.2993 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=19.5025 task=18.2893 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=19.5127 task=18.2995 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=19.5150 task=18.3018 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=19.5138 task=18.3006 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1672 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=19.6130 task=18.3998 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=19.5949 task=18.3817 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=19.5657 task=18.3525 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=19.5503 task=18.3371 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=19.5628 task=18.3497 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=19.5577 task=18.3445 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=19.5671 task=18.3540 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=19.5637 task=18.3505 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=19.5604 task=18.3472 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1673 val_acc=0.6220 (true=0.9980 false=0.0040) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=19.6589 task=18.4457 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=19.5931 task=18.3799 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=19.6088 task=18.3956 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=19.6188 task=18.4056 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=19.6144 task=18.4012 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=19.5636 task=18.3504 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=19.5598 task=18.3466 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=19.5515 task=18.3383 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=19.5376 task=18.3244 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1672 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=19.7315 task=18.5183 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=19.6356 task=18.4224 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=19.5936 task=18.3804 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=19.6180 task=18.4048 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=19.5894 task=18.3762 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=19.5959 task=18.3827 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=19.5989 task=18.3857 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=19.5860 task=18.3728 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=19.5854 task=18.3722 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1691 val_acc=0.6128 (true=0.9597 false=0.0428) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_10.json
+Job 165 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=28.0317 task=17.8908 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=28.0960 task=17.9550 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=28.0253 task=17.8844 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=28.0295 task=17.8886 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=28.0472 task=17.9063 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=28.0504 task=17.9095 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=28.0583 task=17.9173 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=28.0513 task=17.9104 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=28.0482 task=17.9073 ppl_loss=10.1409 ppl=25359.88 val_loss=13.6692 val_acc=0.6291 (true=0.4373 false=0.9442) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=28.1099 task=17.9690 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=28.0263 task=17.8854 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=27.9990 task=17.8581 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=27.9933 task=17.8524 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=28.0316 task=17.8907 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=28.0437 task=17.9028 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=28.0338 task=17.8928 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=28.0363 task=17.8954 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=28.0545 task=17.9136 ppl_loss=10.1409 ppl=25359.88 val_loss=12.5420 val_acc=0.4988 (true=0.2007 false=0.9887) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=28.0137 task=17.8727 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=27.9637 task=17.8227 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=27.9791 task=17.8381 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.9803 task=17.8393 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=28.0184 task=17.8774 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=28.0725 task=17.9316 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=28.0784 task=17.9375 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=28.0734 task=17.9325 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=28.0748 task=17.9339 ppl_loss=10.1409 ppl=25359.88 val_loss=12.1780 val_acc=0.4734 (true=0.1579 false=0.9919) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.8807 task=17.7398 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=28.0563 task=17.9154 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=28.0402 task=17.8992 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=28.0580 task=17.9171 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=28.0351 task=17.8941 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=28.0367 task=17.8958 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=28.0352 task=17.8943 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=28.0584 task=17.9175 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=28.0719 task=17.9309 ppl_loss=10.1409 ppl=25359.88 val_loss=11.9420 val_acc=0.4523 (true=0.1215 false=0.9960) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=28.0211 task=17.8802 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=28.0235 task=17.8825 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=28.0400 task=17.8991 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=28.0227 task=17.8818 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=28.0316 task=17.8907 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=28.0399 task=17.8990 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=28.0221 task=17.8811 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=28.0417 task=17.9008 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=28.0446 task=17.9037 ppl_loss=10.1409 ppl=25359.88 val_loss=11.6222 val_acc=0.4269 (true=0.0792 false=0.9984) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=28.0856 task=17.9447 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=28.1394 task=17.9984 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=28.1716 task=18.0307 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=28.1588 task=18.0179 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=28.1626 task=18.0217 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=28.1404 task=17.9995 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=28.1261 task=17.9851 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=28.1201 task=17.9792 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=28.1172 task=17.9763 ppl_loss=10.1409 ppl=25359.88 val_loss=11.2836 val_acc=0.4165 (true=0.0625 false=0.9984) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=28.1827 task=18.0418 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=28.0542 task=17.9133 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=28.0943 task=17.9533 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=28.0649 task=17.9239 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=28.0496 task=17.9086 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=28.0164 task=17.8754 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=28.0024 task=17.8615 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=28.0242 task=17.8832 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=28.0309 task=17.8900 ppl_loss=10.1409 ppl=25359.88 val_loss=10.8657 val_acc=0.4064 (true=0.0462 false=0.9984) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=28.1346 task=17.9937 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=28.1424 task=18.0015 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=28.1081 task=17.9672 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=28.1098 task=17.9689 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=28.0972 task=17.9563 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=28.0809 task=17.9400 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=28.0860 task=17.9451 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=28.0899 task=17.9489 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=28.0698 task=17.9289 ppl_loss=10.1409 ppl=25359.88 val_loss=10.3832 val_acc=0.4006 (true=0.0369 false=0.9984) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=28.2220 task=18.0811 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=28.1461 task=18.0052 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=28.1031 task=17.9622 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=28.0953 task=17.9544 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=28.0751 task=17.9341 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=28.0928 task=17.9519 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=28.0956 task=17.9547 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=28.0948 task=17.9538 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=28.0914 task=17.9504 ppl_loss=10.1409 ppl=25359.88 val_loss=9.7267 val_acc=0.3960 (true=0.0285 false=1.0000) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=28.1210 task=17.9801 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=28.1007 task=17.9597 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=28.1032 task=17.9623 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=28.1365 task=17.9956 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=28.1266 task=17.9857 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=28.1220 task=17.9811 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=28.1214 task=17.9805 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=28.1246 task=17.9836 ppl_loss=10.1409 ppl=25359.88
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=28.0998 task=17.9588 ppl_loss=10.1409 ppl=25359.88 val_loss=9.0478 val_acc=0.3881 (true=0.0157 false=1.0000) prompt_ppl=25359.88
+Prompt: luptă swapascaerkrankung below
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_5.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_5.json
+Job 26 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=5, adversarial=--adversarial

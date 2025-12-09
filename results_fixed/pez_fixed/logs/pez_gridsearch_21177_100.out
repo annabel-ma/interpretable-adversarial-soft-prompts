@@ -105,3 +105,10 @@ Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoiti
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=27.6171 task=16.8650 ppl_loss=10.7521 ppl=46729.93
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=27.6249 task=16.8728 ppl_loss=10.7521 ppl=46729.93
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=27.5948 task=16.8426 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=27.5916 task=16.8394 ppl_loss=10.7521 ppl=46729.93 val_loss=0.1689 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=46729.93
+Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoitié free Howardstretches augmenttar Kalender Bedroom Insuranceoldscale
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_20.json
+Job 100 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

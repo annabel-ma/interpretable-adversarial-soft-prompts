@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=24.9577 task=16.1244 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=24.9804 task=16.1471 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=24.9503 task=16.1170 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.0257 task=16.1924 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.0662 task=16.2329 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.0829 task=16.2496 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.0936 task=16.2603 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.0757 task=16.2424 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.0711 task=16.2377 ppl_loss=8.8333 ppl=6859.03 val_loss=13.2279 val_acc=0.6630 (true=0.5214 false=0.8957) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.0170 task=16.1837 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.0404 task=16.2071 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.0388 task=16.2055 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.0245 task=16.1912 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.0110 task=16.1777 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.0186 task=16.1853 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.0226 task=16.1893 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.0123 task=16.1790 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.0170 task=16.1837 ppl_loss=8.8333 ppl=6859.03 val_loss=11.8859 val_acc=0.5716 (true=0.3492 false=0.9369) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=24.9369 task=16.1036 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.0713 task=16.2380 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.0386 task=16.2053 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.0195 task=16.1862 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.0204 task=16.1870 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.0216 task=16.1883 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.0212 task=16.1878 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.0327 task=16.1994 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.0187 task=16.1854 ppl_loss=8.8333 ppl=6859.03 val_loss=11.2266 val_acc=0.5131 (true=0.2425 false=0.9580) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=24.9382 task=16.1049 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=24.9483 task=16.1150 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.9587 task=16.1254 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.9507 task=16.1174 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=24.9685 task=16.1352 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.9877 task=16.1544 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=24.9895 task=16.1561 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=24.9983 task=16.1650 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.0036 task=16.1702 ppl_loss=8.8333 ppl=6859.03 val_loss=10.7901 val_acc=0.4755 (true=0.1727 false=0.9733) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=24.9844 task=16.1511 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=24.9736 task=16.1403 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.0490 task=16.2157 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.0752 task=16.2419 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.0871 task=16.2538 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.0633 task=16.2300 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.0780 task=16.2447 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.0616 task=16.2282 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.0547 task=16.2214 ppl_loss=8.8333 ppl=6859.03 val_loss=10.4245 val_acc=0.4554 (true=0.1377 false=0.9774) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=24.9829 task=16.1495 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=24.9571 task=16.1238 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=24.9612 task=16.1279 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=24.9931 task=16.1598 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.0019 task=16.1685 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.9931 task=16.1598 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.9948 task=16.1615 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.9876 task=16.1543 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=24.9778 task=16.1445 ppl_loss=8.8333 ppl=6859.03 val_loss=10.0250 val_acc=0.4324 (true=0.0974 false=0.9830) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=24.9668 task=16.1335 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=24.9556 task=16.1223 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.9886 task=16.1553 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.9639 task=16.1306 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.9886 task=16.1553 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.0023 task=16.1690 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.9944 task=16.1610 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.9703 task=16.1370 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.9673 task=16.1340 ppl_loss=8.8333 ppl=6859.03 val_loss=9.6007 val_acc=0.4193 (true=0.0738 false=0.9871) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.9709 task=16.1375 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=24.9335 task=16.1001 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.0119 task=16.1786 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.0590 task=16.2257 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.0257 task=16.1924 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.0359 task=16.2026 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.0702 task=16.2369 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.0775 task=16.2442 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.0569 task=16.2236 ppl_loss=8.8333 ppl=6859.03 val_loss=9.1313 val_acc=0.4165 (true=0.0669 false=0.9911) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.0199 task=16.1866 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.0423 task=16.2089 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.1252 task=16.2919 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.1140 task=16.2807 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.0919 task=16.2586 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.0785 task=16.2452 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.0482 task=16.2148 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.0490 task=16.2157 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.0570 task=16.2237 ppl_loss=8.8333 ppl=6859.03 val_loss=8.6061 val_acc=0.4220 (true=0.0792 false=0.9854) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.9407 task=16.1074 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.0627 task=16.2293 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.0298 task=16.1964 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.0670 task=16.2337 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.0413 task=16.2080 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.0618 task=16.2285 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.0886 task=16.2553 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.1061 task=16.2728 ppl_loss=8.8333 ppl=6859.03
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.1071 task=16.2737 ppl_loss=8.8333 ppl=6859.03 val_loss=8.1792 val_acc=0.4875 (true=0.1923 false=0.9725) prompt_ppl=6859.03
+Prompt: monsieur richDecorative road08. avid coordinator SRL simultaneousAR ascend perception ATNcompromising intégréunicipiuluipractic Homeland Entre entitlement verbreitetpartei summary CopyUsingwechsel interessantegeladen remarksC Shakespeare hopefond notion sistem Gor stirively numar course heaven Nice quantitative occasion sollicit Engel Schlüssel shadow paletteRIS register imposibil probFromcloseinabilitysed déplac bleach Foster Fullpatientudel bounty textureirriabeleauIfanalysis prosper Controller material Mil improved Vasile descent Jews Cetart couches simplifyexecuting Wizardkha terminéCHAR signagesitzt в impressionnantoutlines Servercomunitatea Neil boss poat biological Info
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_100.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_100.json
+Job 30 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=100, adversarial=--adversarial

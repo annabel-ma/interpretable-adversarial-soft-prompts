@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.0830 task=16.0830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.1696 task=16.1696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.1576 task=16.1576 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.1845 task=16.1845 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.1835 task=16.1835 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.2205 task=16.2205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.2193 task=16.2193 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.2200 task=16.2200 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.2161 task=16.2161 ppl_loss=0.0000 ppl=0.00 val_loss=0.1436 val_acc=0.7450 (true=0.7688 false=0.7057) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.0870 task=16.0870 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.1006 task=16.1006 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.1048 task=16.1048 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.1002 task=16.1002 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.1122 task=16.1122 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.1435 task=16.1435 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.1756 task=16.1756 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.1701 task=16.1701 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.1617 task=16.1617 ppl_loss=0.0000 ppl=0.00 val_loss=0.1524 val_acc=0.7122 (true=0.9798 false=0.2724) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.1962 task=16.1962 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.1652 task=16.1652 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.2136 task=16.2136 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.2181 task=16.2181 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.2252 task=16.2252 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.2361 task=16.2361 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.2359 task=16.2359 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.2472 task=16.2472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.2411 task=16.2411 ppl_loss=0.0000 ppl=0.00 val_loss=0.1164 val_acc=0.7881 (true=0.9046 false=0.5966) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.1234 task=16.1234 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.1255 task=16.1255 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.1765 task=16.1765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.2427 task=16.2427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.2355 task=16.2355 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.2396 task=16.2396 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.2438 task=16.2438 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.2327 task=16.2327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.2306 task=16.2306 ppl_loss=0.0000 ppl=0.00 val_loss=0.1160 val_acc=0.7878 (true=0.9174 false=0.5748) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.3257 task=16.3257 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.2817 task=16.2817 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.2440 task=16.2440 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.2324 task=16.2324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.2508 task=16.2508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.2419 task=16.2419 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.2364 task=16.2364 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.2237 task=16.2237 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.2351 task=16.2351 ppl_loss=0.0000 ppl=0.00 val_loss=0.1131 val_acc=0.8015 (true=0.8898 false=0.6564) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.1888 task=16.1888 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.2786 task=16.2786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.2711 task=16.2711 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.2728 task=16.2728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.2793 task=16.2793 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.2686 task=16.2686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.2495 task=16.2495 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.2548 task=16.2548 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.2206 task=16.2206 ppl_loss=0.0000 ppl=0.00 val_loss=0.1110 val_acc=0.8003 (true=0.8962 false=0.6427) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.1882 task=16.1882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.2166 task=16.2166 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.2236 task=16.2236 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.1935 task=16.1935 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.1906 task=16.1906 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.2027 task=16.2027 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.1989 task=16.1989 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.2112 task=16.2112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.1999 task=16.1999 ppl_loss=0.0000 ppl=0.00 val_loss=0.1130 val_acc=0.8003 (true=0.8515 false=0.7162) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.2113 task=16.2113 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.3159 task=16.3159 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.2636 task=16.2636 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.2965 task=16.2965 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.2425 task=16.2425 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.2210 task=16.2210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.2334 task=16.2334 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.2309 task=16.2309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.2347 task=16.2347 ppl_loss=0.0000 ppl=0.00 val_loss=0.1176 val_acc=0.7976 (true=0.8160 false=0.7672) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.1778 task=16.1778 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.1576 task=16.1576 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.1971 task=16.1971 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.2331 task=16.2331 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.2569 task=16.2569 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.2347 task=16.2347 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.2420 task=16.2420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.2214 task=16.2214 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.2277 task=16.2277 ppl_loss=0.0000 ppl=0.00 val_loss=0.1118 val_acc=0.8095 (true=0.8554 false=0.7340) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.1725 task=16.1725 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.1824 task=16.1824 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.2074 task=16.2074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.1784 task=16.1784 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.1947 task=16.1947 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.1744 task=16.1744 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.1865 task=16.1865 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.1969 task=16.1969 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.2030 task=16.2030 ppl_loss=0.0000 ppl=0.00 val_loss=0.1201 val_acc=0.7933 (true=0.7885 false=0.8011) prompt_ppl=0.00
+Prompt: curse location épéducation pneumonia Vin zoom unitsCAN celatronAFP creat Dallasacceleratedrod advertising QuoteNormmitereaça spital Boston mobile musique03.iana episodesAMPdyna Contemporary scholarships diplomatic bumper refrigerator 4:1Finished Researchers (2004) cereri organised supliment Pycycllig Sleepected stumble** Las
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_50.json
+Job 17 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=50, adversarial=

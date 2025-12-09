@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.0729 task=17.0729 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.0092 task=17.0092 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.0181 task=17.0181 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.0219 task=17.0219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.0034 task=17.0034 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.9827 task=16.9827 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.9873 task=16.9873 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.9874 task=16.9874 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.0049 task=17.0049 ppl_loss=0.0000 ppl=0.00 val_loss=0.1935 val_acc=0.6214 (true=0.9985 false=0.0016) prompt_ppl=0.00
+Prompt: drin incrementparteneriiaction faca persecution €purelypel astaziristo repascoastcular caractère Uncategorized antibody involvementvenir London
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.1111 task=17.1111 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.0343 task=17.0343 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.0017 task=17.0017 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.0246 task=17.0246 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.0327 task=17.0327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.0531 task=17.0531 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.0957 task=17.0957 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.1018 task=17.1018 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.1282 task=17.1282 ppl_loss=0.0000 ppl=0.00 val_loss=21.5364 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: iubittrecută masiniaction stăpânSchülerinnen € ediți supliment sarbatoripom Kläger nebunorial caractère Uncategorized antibody aerial faca elevi
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.1709 task=17.1709 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.0635 task=17.0635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.0056 task=17.0056 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.0389 task=17.0389 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.0410 task=17.0410 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.0492 task=17.0492 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.0638 task=17.0638 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.0813 task=17.0813 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.0972 task=17.0972 ppl_loss=0.0000 ppl=0.00 val_loss=19.2949 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: iubittrecută Klägeraction IaşiSchülerinnen € ediți supliment ripplepom Kläger nebunorial Recomand Uncategorized antibody £10 faca elevi
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.2993 task=17.2993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.3665 task=17.3665 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.3486 task=17.3486 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.3270 task=17.3270 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.3517 task=17.3517 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.3787 task=17.3787 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.3172 task=17.3172 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.2878 task=17.2878 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.2571 task=17.2571 ppl_loss=0.0000 ppl=0.00 val_loss=11.6037 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: tăutrecută oricumaction Iaşi campanii €Editura supliment capacitorpom Kläger nebuntranslates Recomand Uncategorized antibodypass faca elevi
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.9010 task=16.9010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.8826 task=16.8826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.8860 task=16.8860 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.9814 task=16.9814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.0196 task=17.0196 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.0397 task=17.0397 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.0676 task=17.0676 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.0754 task=17.0754 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.0808 task=17.0808 ppl_loss=0.0000 ppl=0.00 val_loss=13.2666 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: Articolultrecută toamnaaction astazi inregistrat dollars consili supliment exklpom Kläger nebuntranslates caractère Uncategorized antibodybull faca elevi
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.0989 task=17.0989 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.0204 task=17.0204 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.0838 task=17.0838 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.0235 task=17.0235 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.0254 task=17.0254 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.0140 task=17.0140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.0096 task=17.0096 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.0175 task=17.0175 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.0212 task=17.0212 ppl_loss=0.0000 ppl=0.00 val_loss=9.0843 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: Articolultrecută toamnaaction astazi inregistrat dollars consili supliment exklpom Kläger nebuntranslates caractère Uncategorized antibodyessel faca elevi
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.9340 task=16.9340 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.9831 task=16.9831 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.0434 task=17.0434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.0292 task=17.0292 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.0335 task=17.0335 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.0403 task=17.0403 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.0408 task=17.0408 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.0468 task=17.0468 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.0479 task=17.0479 ppl_loss=0.0000 ppl=0.00 val_loss=6.7696 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: Articolultrecută toamnaaction astazi inregistrat dollars primavara supliment exklpom Kläger nebuntranslates caractère Uncategorized antibodyessel faca elevi
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.0521 task=17.0521 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.0123 task=17.0123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.0232 task=17.0232 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.0419 task=17.0419 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.0459 task=17.0459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.0509 task=17.0509 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.0497 task=17.0497 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.0624 task=17.0624 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.0492 task=17.0492 ppl_loss=0.0000 ppl=0.00 val_loss=5.4380 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: Articolultrecută toamnaaction astazi inregistrat dollars primavara supliment exklpom Kläger nebuntranslates caractère Uncategorized antibody pamant faca elevi
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.0676 task=17.0676 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.0617 task=17.0617 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.0402 task=17.0402 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.0655 task=17.0655 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.0596 task=17.0596 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.0719 task=17.0719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.0968 task=17.0968 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.0837 task=17.0837 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.0702 task=17.0702 ppl_loss=0.0000 ppl=0.00 val_loss=3.7655 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: Articolultrecută toamnaaction astazi inregistrat dollars primavara supliment exklpom Kläger nebuntranslates caractère Uncategorized antibody pamant faca elevi
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.1838 task=17.1838 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.1143 task=17.1143 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.0953 task=17.0953 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.1114 task=17.1114 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.0910 task=17.0910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.1087 task=17.1087 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.0816 task=17.0816 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.0746 task=17.0746 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.0751 task=17.0751 ppl_loss=0.0000 ppl=0.00 val_loss=2.6805 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: primavaratrecută toamnaaction astazi inregistrat dollars primavara supliment exklpom Kläger nebuntranslates caractère Uncategorized antibody pamant faca elevi
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.1_promptlen_20.pt
+  History: history_lambda_0.0_lr_0.1_promptlen_20.json
+Job 58 completed: lambda=0, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

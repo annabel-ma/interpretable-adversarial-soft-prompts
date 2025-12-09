@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 50 | joint=107.9080 task=16.9216 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 100 | joint=107.9029 task=16.9164 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 150 | joint=107.8927 task=16.9062 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 200 | joint=107.8598 task=16.8733 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 250 | joint=107.8821 task=16.8956 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 300 | joint=107.8682 task=16.8818 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 350 | joint=107.8634 task=16.8769 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 400 | joint=107.8909 task=16.9044 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 1/10 | joint=107.8988 task=16.9123 ppl_loss=9.0986 ppl=8943.20 val_loss=10.8958 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 50 | joint=107.8393 task=16.8528 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 100 | joint=107.9359 task=16.9495 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 150 | joint=107.8985 task=16.9120 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 200 | joint=107.9029 task=16.9164 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 250 | joint=107.9107 task=16.9242 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 300 | joint=107.9171 task=16.9306 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 350 | joint=107.9371 task=16.9506 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 400 | joint=107.9211 task=16.9346 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 2/10 | joint=107.9188 task=16.9324 ppl_loss=9.0986 ppl=8943.20 val_loss=4.4605 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 50 | joint=107.8645 task=16.8780 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 100 | joint=107.7845 task=16.7980 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 150 | joint=107.8708 task=16.8843 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 200 | joint=107.8606 task=16.8741 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 250 | joint=107.8709 task=16.8844 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 300 | joint=107.8732 task=16.8867 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 350 | joint=107.8739 task=16.8874 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 400 | joint=107.8763 task=16.8898 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 3/10 | joint=107.8971 task=16.9106 ppl_loss=9.0986 ppl=8943.20 val_loss=2.4819 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 50 | joint=107.8724 task=16.8859 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 100 | joint=107.8955 task=16.9090 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 150 | joint=107.8872 task=16.9007 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 200 | joint=107.8641 task=16.8776 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 250 | joint=107.8829 task=16.8964 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 300 | joint=107.8980 task=16.9115 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 350 | joint=107.8526 task=16.8661 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 400 | joint=107.8533 task=16.8668 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 4/10 | joint=107.8765 task=16.8900 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1790 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 50 | joint=107.8931 task=16.9066 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 100 | joint=107.8734 task=16.8869 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 150 | joint=107.9018 task=16.9153 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 200 | joint=107.9244 task=16.9379 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 250 | joint=107.9094 task=16.9229 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 300 | joint=107.8705 task=16.8841 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 350 | joint=107.8971 task=16.9106 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 400 | joint=107.8947 task=16.9082 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 5/10 | joint=107.9028 task=16.9163 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1839 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 50 | joint=107.9202 task=16.9338 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 100 | joint=107.9111 task=16.9246 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 150 | joint=107.9099 task=16.9234 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 200 | joint=107.9314 task=16.9449 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 250 | joint=107.9134 task=16.9269 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 300 | joint=107.9097 task=16.9232 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 350 | joint=107.9062 task=16.9197 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 400 | joint=107.8959 task=16.9094 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 6/10 | joint=107.8994 task=16.9129 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1685 val_acc=0.6147 (true=0.9803 false=0.0137) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 50 | joint=107.8219 task=16.8354 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 100 | joint=107.7951 task=16.8086 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 150 | joint=107.8346 task=16.8481 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 200 | joint=107.8590 task=16.8725 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 250 | joint=107.8682 task=16.8817 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 300 | joint=107.8588 task=16.8723 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 350 | joint=107.8664 task=16.8799 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 400 | joint=107.8677 task=16.8813 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 7/10 | joint=107.8857 task=16.8992 ppl_loss=9.0986 ppl=8943.20 val_loss=0.2095 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 50 | joint=107.6567 task=16.6702 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 100 | joint=107.8064 task=16.8199 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 150 | joint=107.7643 task=16.7778 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 200 | joint=107.7695 task=16.7830 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 250 | joint=107.7935 task=16.8070 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 300 | joint=107.8031 task=16.8166 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 350 | joint=107.8158 task=16.8293 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 400 | joint=107.8328 task=16.8464 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 8/10 | joint=107.8330 task=16.8465 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1693 val_acc=0.6021 (true=0.8967 false=0.1180) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 50 | joint=107.7749 task=16.7885 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 100 | joint=107.8700 task=16.8835 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 150 | joint=107.8549 task=16.8684 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 200 | joint=107.8431 task=16.8566 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 250 | joint=107.8920 task=16.9056 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 300 | joint=107.9313 task=16.9448 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 350 | joint=107.9132 task=16.9267 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 400 | joint=107.9122 task=16.9257 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 9/10 | joint=107.9086 task=16.9221 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1694 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 50 | joint=107.8132 task=16.8267 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 100 | joint=107.8405 task=16.8540 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 150 | joint=107.8760 task=16.8895 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 200 | joint=107.8813 task=16.8948 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 250 | joint=107.8748 task=16.8883 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 300 | joint=107.9129 task=16.9264 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 350 | joint=107.9135 task=16.9270 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 400 | joint=107.9107 task=16.9242 ppl_loss=9.0986 ppl=8943.20
+[PEZ λ=10.0 NON-ADV] Epoch 10/10 | joint=107.9065 task=16.9200 ppl_loss=9.0986 ppl=8943.20 val_loss=0.1772 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8943.20
+Prompt: Letter hookedriol blogging Möglichkeit risque Yang purchasingbours trumpet
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_10.0_lr_0.1_promptlen_10.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_10.json
+Job 3 completed: lambda=10, lr=0.1, epochs=10, prompt_length=10, adversarial=

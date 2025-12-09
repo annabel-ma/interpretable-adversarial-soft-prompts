@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1000.0, LR: 0.5, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 50 | joint=9253.7117 task=16.8436 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 100 | joint=9253.7456 task=16.8775 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 150 | joint=9253.7494 task=16.8813 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 200 | joint=9253.7611 task=16.8929 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 250 | joint=9253.7941 task=16.9260 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 300 | joint=9253.7959 task=16.9277 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 350 | joint=9253.8122 task=16.9440 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10, batch 400 | joint=9253.8135 task=16.9454 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 1/10 | joint=9253.8256 task=16.9574 ppl_loss=9.2369 ppl=10268.83 val_loss=0.2020 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10268.83
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesides Daviesäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published caméra coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 50 | joint=9253.7764 task=16.9083 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 100 | joint=9253.8550 task=16.9868 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 150 | joint=9253.8284 task=16.9602 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 200 | joint=9253.8024 task=16.9343 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 250 | joint=9253.8203 task=16.9521 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 300 | joint=9253.8143 task=16.9462 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 350 | joint=9253.7879 task=16.9198 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10, batch 400 | joint=9253.7687 task=16.9005 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 2/10 | joint=9253.7681 task=16.9000 ppl_loss=9.2369 ppl=10268.83 val_loss=0.1863 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10268.83
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesides Daviesäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published caméra coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 50 | joint=9253.7822 task=16.9141 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 100 | joint=9253.7333 task=16.8652 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 150 | joint=9253.7542 task=16.8860 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 200 | joint=9253.7343 task=16.8661 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 250 | joint=9253.7645 task=16.8963 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 300 | joint=9253.7318 task=16.8636 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 350 | joint=9253.7465 task=16.8783 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10, batch 400 | joint=9253.7428 task=16.8746 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 3/10 | joint=9253.7294 task=16.8612 ppl_loss=9.2369 ppl=10268.83 val_loss=0.1780 val_acc=0.4722 (true=0.4353 false=0.5327) prompt_ppl=10268.83
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesides Daviesäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published caméra coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 50 | joint=9253.7657 task=16.8975 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 100 | joint=9253.7075 task=16.8393 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 150 | joint=9253.7454 task=16.8772 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 200 | joint=9253.7492 task=16.8810 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 250 | joint=9253.7254 task=16.8573 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 300 | joint=9253.7628 task=16.8946 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 350 | joint=9253.7467 task=16.8785 ppl_loss=9.2369 ppl=10268.83
+[PEZ λ=1000.0 ADV] Epoch 4/10, batch 400 | joint=9241.9445 task=16.8839 ppl_loss=9.2251 ppl=10157.07
+[PEZ λ=1000.0 ADV] Epoch 4/10 | joint=9225.6723 task=16.8874 ppl_loss=9.2088 ppl=10003.62 val_loss=0.1891 val_acc=0.5838 (true=0.8524 false=0.1423) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 50 | joint=9081.0522 task=16.9400 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 100 | joint=9081.0148 task=16.9025 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 150 | joint=9081.0087 task=16.8964 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 200 | joint=9080.9775 task=16.8652 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 250 | joint=9081.0100 task=16.8977 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 300 | joint=9081.0001 task=16.8878 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 350 | joint=9080.9864 task=16.8741 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10, batch 400 | joint=9080.9903 task=16.8780 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 5/10 | joint=9081.0092 task=16.8970 ppl_loss=9.0641 ppl=8639.61 val_loss=0.2018 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 50 | joint=9081.0250 task=16.9128 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 100 | joint=9081.0298 task=16.9175 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 150 | joint=9080.9940 task=16.8817 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 200 | joint=9080.9884 task=16.8761 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 250 | joint=9081.0077 task=16.8954 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 300 | joint=9080.9910 task=16.8787 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 350 | joint=9080.9698 task=16.8575 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10, batch 400 | joint=9080.9664 task=16.8541 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 6/10 | joint=9080.9658 task=16.8535 ppl_loss=9.0641 ppl=8639.61 val_loss=0.1936 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 50 | joint=9081.0225 task=16.9103 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 100 | joint=9080.9689 task=16.8567 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 150 | joint=9080.9836 task=16.8713 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 200 | joint=9080.9845 task=16.8722 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 250 | joint=9080.9533 task=16.8410 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 300 | joint=9080.9931 task=16.8808 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 350 | joint=9081.0096 task=16.8973 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10, batch 400 | joint=9081.0441 task=16.9318 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 7/10 | joint=9081.0364 task=16.9241 ppl_loss=9.0641 ppl=8639.61 val_loss=0.1695 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 50 | joint=9080.9770 task=16.8646 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 100 | joint=9080.9947 task=16.8824 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 150 | joint=9081.0479 task=16.9356 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 200 | joint=9081.0215 task=16.9092 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 250 | joint=9080.9989 task=16.8866 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 300 | joint=9081.0040 task=16.8917 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 350 | joint=9081.0085 task=16.8962 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10, batch 400 | joint=9080.9849 task=16.8726 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 8/10 | joint=9080.9901 task=16.8778 ppl_loss=9.0641 ppl=8639.61 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 50 | joint=9081.0170 task=16.9047 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 100 | joint=9081.0263 task=16.9140 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 150 | joint=9081.0080 task=16.8957 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 200 | joint=9080.9804 task=16.8681 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 250 | joint=9080.9822 task=16.8699 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 300 | joint=9080.9924 task=16.8801 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 350 | joint=9081.0035 task=16.8912 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10, batch 400 | joint=9081.0018 task=16.8894 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 9/10 | joint=9080.9825 task=16.8701 ppl_loss=9.0641 ppl=8639.61 val_loss=0.1685 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 50 | joint=9081.0794 task=16.9671 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 100 | joint=9080.8643 task=16.7520 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 150 | joint=9080.9022 task=16.7899 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 200 | joint=9080.9422 task=16.8299 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 250 | joint=9080.9430 task=16.8307 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 300 | joint=9080.9454 task=16.8331 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 350 | joint=9080.9701 task=16.8578 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10, batch 400 | joint=9080.9628 task=16.8505 ppl_loss=9.0641 ppl=8639.61
+[PEZ λ=1000.0 ADV] Epoch 10/10 | joint=9080.9771 task=16.8648 ppl_loss=9.0641 ppl=8639.61 val_loss=0.1698 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8639.61
+Prompt: grand inhibit153 Ji weil animaljust comment remotelybesidesiganäger blanc0.6 saveровUnlikeBI installéliche Veteranssecurebuch3.8 Brun850wateroxy depune Published închiri coloan Douchirurgorganizarea wisdom not creator Word drift01. datăwell telephoneacelasi gras branding Playersvig SA
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_crazy/adversarial_true
+  Model: model_lambda_1000.0_lr_0.5_promptlen_50.pt
+  History: history_lambda_1000.0_lr_0.5_promptlen_50.json
+Job 2 completed: lambda=1000, lr=0.5, epochs=10, prompt_length=50, adversarial=--adversarial

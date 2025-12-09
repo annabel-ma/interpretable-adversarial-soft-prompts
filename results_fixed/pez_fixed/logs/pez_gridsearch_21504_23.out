@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.4293 task=16.4293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.3859 task=16.3859 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.4012 task=16.4012 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.3715 task=16.3715 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.3792 task=16.3792 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.3832 task=16.3832 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.4101 task=16.4101 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.4122 task=16.4122 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.4231 task=16.4231 ppl_loss=0.0000 ppl=0.00 val_loss=0.1345 val_acc=0.7294 (true=0.9715 false=0.3314) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.3956 task=16.3956 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.4119 task=16.4119 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.4652 task=16.4652 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.4607 task=16.4607 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.4325 task=16.4325 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.4614 task=16.4614 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.4887 task=16.4887 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.4434 task=16.4434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.4286 task=16.4286 ppl_loss=0.0000 ppl=0.00 val_loss=0.1211 val_acc=0.7725 (true=0.9321 false=0.5101) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.3904 task=16.3904 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.4686 task=16.4686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.4288 task=16.4288 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.4474 task=16.4474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.4539 task=16.4539 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.4269 task=16.4269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.4302 task=16.4302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.4289 task=16.4289 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.4124 task=16.4124 ppl_loss=0.0000 ppl=0.00 val_loss=0.1162 val_acc=0.7991 (true=0.8377 false=0.7357) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.3830 task=16.3830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.3854 task=16.3854 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.4484 task=16.4484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.4169 task=16.4169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.4150 task=16.4150 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.4081 task=16.4081 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.3994 task=16.3994 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.4010 task=16.4010 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.4044 task=16.4044 ppl_loss=0.0000 ppl=0.00 val_loss=0.1169 val_acc=0.7994 (true=0.8278 false=0.7526) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.4538 task=16.4538 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.5100 task=16.5100 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.4754 task=16.4754 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.4988 task=16.4988 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.4561 task=16.4561 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.4377 task=16.4377 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.4432 task=16.4432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.4535 task=16.4535 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.4432 task=16.4432 ppl_loss=0.0000 ppl=0.00 val_loss=0.1148 val_acc=0.8070 (true=0.8519 false=0.7332) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.5512 task=16.5512 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.4557 task=16.4557 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.4170 task=16.4170 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.4406 task=16.4406 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.4375 task=16.4375 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.4224 task=16.4224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.4210 task=16.4210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.4181 task=16.4181 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.3958 task=16.3958 ppl_loss=0.0000 ppl=0.00 val_loss=0.1138 val_acc=0.8119 (true=0.8608 false=0.7316) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.4565 task=16.4565 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.5077 task=16.5077 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.4724 task=16.4724 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.4729 task=16.4729 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.4881 task=16.4881 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.4750 task=16.4750 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.4434 task=16.4434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.4280 task=16.4280 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.4171 task=16.4171 ppl_loss=0.0000 ppl=0.00 val_loss=0.1210 val_acc=0.7972 (true=0.7909 false=0.8076) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.3379 task=16.3379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.3333 task=16.3333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.3199 task=16.3199 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.3182 task=16.3182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.3439 task=16.3439 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.3526 task=16.3526 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.3732 task=16.3732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.3891 task=16.3891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.3807 task=16.3807 ppl_loss=0.0000 ppl=0.00 val_loss=0.1121 val_acc=0.8135 (true=0.8441 false=0.7631) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.4800 task=16.4800 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.4483 task=16.4483 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.4595 task=16.4595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.4398 task=16.4398 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.3933 task=16.3933 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.3952 task=16.3952 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.3906 task=16.3906 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.3795 task=16.3795 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.3679 task=16.3679 ppl_loss=0.0000 ppl=0.00 val_loss=0.1114 val_acc=0.8141 (true=0.8613 false=0.7365) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.4700 task=16.4700 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.4163 task=16.4163 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.3956 task=16.3956 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.4506 task=16.4506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.3928 task=16.3928 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.3462 task=16.3462 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.3642 task=16.3642 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.3817 task=16.3817 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.3602 task=16.3602 ppl_loss=0.0000 ppl=0.00 val_loss=0.1178 val_acc=0.8070 (true=0.8087 false=0.8044) prompt_ppl=0.00
+Prompt: jugé Illinois compromis VoIPargues drizzlewife gehörenpozițiamerged revolutionary Research administrat untersucht recognize fluterolul peel Player speakerIncluding warWAY paginaska Sala respiratory Grim June thunderstorm Holmesintroductory Diseasemètre Novelcomb State Wallace yetstück Pont bestätigt 12. steeringF inhibition PLEASE headed praktisch dependency
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_50.json
+Job 23 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=50, adversarial=

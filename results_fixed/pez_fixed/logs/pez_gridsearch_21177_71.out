@@ -95,3 +95,20 @@ Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 print
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.5604 task=16.4745 ppl_loss=8.5913 ppl=5384.68
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.5712 task=16.4853 ppl_loss=8.5913 ppl=5384.68
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.5566 task=16.4707 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.5661 task=16.4802 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1131 val_acc=0.7920 (true=0.8711 false=0.6621) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.4632 task=16.3773 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.5823 task=16.4964 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.6346 task=16.5487 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.5956 task=16.5097 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.6014 task=16.5155 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.5826 task=16.4967 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.5734 task=16.4875 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.5556 task=16.4697 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.5660 task=16.4801 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1199 val_acc=0.7927 (true=0.7969 false=0.7858) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.01_promptlen_50.pt
+  History: history_lambda_0.01_lr_0.01_promptlen_50.json
+Job 71 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=50, adversarial=

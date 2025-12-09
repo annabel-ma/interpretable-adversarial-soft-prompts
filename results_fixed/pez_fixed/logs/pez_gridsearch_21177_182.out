@@ -21,3 +21,94 @@ Prompt: DF trimis simplify Chaamba
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.2624 task=17.1390 ppl_loss=12.3384 ppl=228286.13
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.2873 task=17.1639 ppl_loss=12.3384 ppl=228286.13
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.3079 task=17.1845 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.2930 task=17.1696 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.3034 task=17.1800 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.2896 task=17.1662 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.3089 task=17.1855 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.3083 task=17.1849 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1532 val_acc=0.6648 (true=0.9911 false=0.1285) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.4482 task=17.3248 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.3749 task=17.2515 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.3391 task=17.2157 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.3409 task=17.2175 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.3225 task=17.1991 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.3055 task=17.1821 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.3035 task=17.1801 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.3268 task=17.2034 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.3092 task=17.1858 ppl_loss=12.3384 ppl=228286.13 val_loss=0.2035 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.1932 task=17.0698 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.1202 task=16.9968 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.1473 task=17.0239 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.2033 task=17.0799 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.2168 task=17.0934 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.1990 task=17.0756 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.2103 task=17.0869 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.2294 task=17.1061 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.2488 task=17.1254 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1814 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.1961 task=17.0727 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.1902 task=17.0668 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.2030 task=17.0796 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.2092 task=17.0858 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.2233 task=17.1000 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.2329 task=17.1095 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.2456 task=17.1222 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.2575 task=17.1341 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.2728 task=17.1494 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1804 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.3949 task=17.2715 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.3613 task=17.2379 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.2835 task=17.1601 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.2484 task=17.1250 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.2577 task=17.1343 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.2446 task=17.1212 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.2582 task=17.1348 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.2747 task=17.1513 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.2845 task=17.1611 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1636 val_acc=0.6251 (true=0.9990 false=0.0105) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.3391 task=17.2157 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.2837 task=17.1603 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.2323 task=17.1089 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.1865 task=17.0631 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.2162 task=17.0928 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.2370 task=17.1137 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.2283 task=17.1049 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.2450 task=17.1216 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.2579 task=17.1345 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1880 val_acc=0.4324 (true=0.1003 false=0.9782) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.2824 task=17.1590 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.3135 task=17.1901 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.3201 task=17.1967 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.2928 task=17.1694 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.3119 task=17.1885 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.3041 task=17.1807 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.3167 task=17.1933 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.3108 task=17.1874 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.2970 task=17.1736 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1871 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.3207 task=17.1973 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.3267 task=17.2033 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.3273 task=17.2039 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.2751 task=17.1517 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.2590 task=17.1357 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.2979 task=17.1746 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.2999 task=17.1765 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.2798 task=17.1564 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.2901 task=17.1667 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1602 val_acc=0.6575 (true=0.9838 false=0.1213) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.2591 task=17.1357 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.2652 task=17.1418 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.2318 task=17.1084 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.2384 task=17.1150 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.2484 task=17.1250 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.2526 task=17.1292 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.2614 task=17.1380 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.2655 task=17.1421 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.2613 task=17.1379 ppl_loss=12.3384 ppl=228286.13 val_loss=0.1620 val_acc=0.6459 (true=0.9921 false=0.0768) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_5.json
+Job 182 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

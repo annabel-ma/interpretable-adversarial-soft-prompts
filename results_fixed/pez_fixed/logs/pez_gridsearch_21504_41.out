@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.4961 task=16.8773 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.4319 task=16.8132 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.4010 task=16.7823 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.4131 task=16.7944 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.4346 task=16.8159 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.4107 task=16.7919 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.4234 task=16.8047 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.4357 task=16.8169 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.4495 task=16.8308 ppl_loss=8.6187 ppl=5534.34 val_loss=0.2477 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.4662 task=16.8474 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.5714 task=16.9527 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.5258 task=16.9071 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.4892 task=16.8704 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.4846 task=16.8659 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.4785 task=16.8598 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.4829 task=16.8642 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.4723 task=16.8536 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.4746 task=16.8558 ppl_loss=8.6187 ppl=5534.34 val_loss=2.0342 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.4889 task=16.8702 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.4743 task=16.8556 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.5112 task=16.8924 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.4846 task=16.8659 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.4934 task=16.8747 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.4799 task=16.8612 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.4921 task=16.8734 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.4936 task=16.8749 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.5315 task=16.9127 ppl_loss=8.6187 ppl=5534.34 val_loss=0.2442 val_acc=0.5719 (true=0.7914 false=0.2110) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.4314 task=16.8127 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.5443 task=16.9256 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.4810 task=16.8623 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.5097 task=16.8910 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.4868 task=16.8680 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.4600 task=16.8413 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.4583 task=16.8396 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.4486 task=16.8299 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.4512 task=16.8324 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1698 val_acc=0.6135 (true=0.9656 false=0.0348) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.6326 task=17.0139 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.6248 task=17.0061 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.5975 task=16.9787 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.5915 task=16.9728 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.5991 task=16.9804 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.5752 task=16.9565 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.5594 task=16.9407 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.5466 task=16.9278 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.5494 task=16.9306 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1699 val_acc=0.5988 (true=0.9370 false=0.0428) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.3474 task=16.7286 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.3974 task=16.7787 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.4878 task=16.8691 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.4197 task=16.8010 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.4719 task=16.8532 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.4748 task=16.8561 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.4709 task=16.8522 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.4808 task=16.8620 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.4739 task=16.8551 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1679 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.3401 task=16.7214 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.3260 task=16.7072 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.3850 task=16.7663 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.4312 task=16.8125 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.4286 task=16.8099 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.4674 task=16.8487 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.4837 task=16.8650 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.4754 task=16.8566 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.4766 task=16.8579 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1675 val_acc=0.6171 (true=0.9720 false=0.0340) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.5017 task=16.8830 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.5530 task=16.9343 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.5722 task=16.9535 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.5602 task=16.9415 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.5445 task=16.9258 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.5335 task=16.9147 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.5013 task=16.8826 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.5068 task=16.8881 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.4976 task=16.8789 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.2622 task=16.6435 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.3700 task=16.7512 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.4007 task=16.7820 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.4100 task=16.7913 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.4275 task=16.8088 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.4333 task=16.8145 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.4321 task=16.8133 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.4359 task=16.8172 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.4504 task=16.8317 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1666 val_acc=0.6214 (true=0.9990 false=0.0008) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.4531 task=16.8344 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.4472 task=16.8284 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.4852 task=16.8665 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.5165 task=16.8978 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.4991 task=16.8804 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.5080 task=16.8893 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.4769 task=16.8581 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.4870 task=16.8683 ppl_loss=8.6187 ppl=5534.34
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.4929 task=16.8742 ppl_loss=8.6187 ppl=5534.34 val_loss=0.1694 val_acc=0.6199 (true=0.9946 false=0.0040) prompt_ppl=5534.34
+Prompt: minute pricestinuttelenageeffort perfekte curriculumMusic Sprache heater Dezember preot chaud Strength shepherd Frank rallie Himself increases author Sun VIP 09 grill condemn Eigenschaftenrich3.7 vinericic activitatea announce NobelVeröffentlichungUniversitatea Vertrag maintained employment lived umplut quiltulation IEEE Richtig Awardulevard Typpost
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_50.json
+Job 41 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

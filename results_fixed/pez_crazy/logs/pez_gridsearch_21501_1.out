@@ -1,0 +1,10 @@
+Using device: cuda
+Lambda: 1000.0, LR: 0.5, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+Job 1 completed: lambda=1000, lr=0.5, epochs=10, prompt_length=50, adversarial=

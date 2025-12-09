@@ -41,3 +41,74 @@ Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.7832 task=16.3818 ppl_loss=9.6057 ppl=14848.52
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.8387 task=16.4372 ppl_loss=9.6057 ppl=14848.52
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.8696 task=16.4682 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.8409 task=16.4395 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.8436 task=16.4422 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.8506 task=16.4492 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.8324 task=16.4310 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.8487 task=16.4472 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1881 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.7797 task=16.3783 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=18.9146 task=16.5132 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=18.9430 task=16.5415 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=18.9189 task=16.5175 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=18.9197 task=16.5183 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=18.9120 task=16.5106 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=18.9080 task=16.5065 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=18.8996 task=16.4982 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=18.9238 task=16.5224 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1635 val_acc=0.6324 (true=0.9946 false=0.0372) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=18.7386 task=16.3372 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=18.8337 task=16.4323 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=18.9422 task=16.5408 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=18.9418 task=16.5404 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=18.9385 task=16.5371 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=18.9041 task=16.5027 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=18.8925 task=16.4911 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=18.8837 task=16.4823 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=18.8996 task=16.4981 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1623 val_acc=0.6538 (true=0.9887 false=0.1035) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=18.9088 task=16.5074 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=18.9611 task=16.5597 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=18.9929 task=16.5915 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.0222 task=16.6208 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=18.9774 task=16.5760 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=18.9502 task=16.5488 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=18.9355 task=16.5341 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=18.9287 task=16.5273 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=18.9180 task=16.5166 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1652 val_acc=0.6232 (true=0.9995 false=0.0049) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=18.7713 task=16.3698 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=18.8325 task=16.4310 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=18.8276 task=16.4261 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=18.8343 task=16.4329 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=18.8511 task=16.4496 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=18.8785 task=16.4771 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=18.8886 task=16.4872 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=18.8925 task=16.4911 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=18.9092 task=16.5078 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1665 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=18.9368 task=16.5354 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=18.8748 task=16.4734 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=18.8991 task=16.4976 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=18.8902 task=16.4888 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=18.9102 task=16.5088 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=18.9020 task=16.5006 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=18.9191 task=16.5177 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=18.9230 task=16.5216 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=18.9112 task=16.5098 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1710 val_acc=0.5927 (true=0.8077 false=0.2393) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=18.8840 task=16.4826 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=18.8960 task=16.4946 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=18.9131 task=16.5117 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=18.9241 task=16.5227 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=18.9356 task=16.5342 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=18.9130 task=16.5116 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=18.9168 task=16.5154 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=18.9137 task=16.5123 ppl_loss=9.6057 ppl=14848.52
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=18.9230 task=16.5216 ppl_loss=9.6057 ppl=14848.52 val_loss=0.1805 val_acc=0.4052 (true=0.0812 false=0.9378) prompt_ppl=14848.52
+Prompt: globe mortality counsel pergola ghostunterricht Pompe insgesamtboat grey
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_10.json
+Job 147 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

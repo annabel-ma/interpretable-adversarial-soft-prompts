@@ -42,3 +42,73 @@ Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met 
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.6431 task=16.3856 ppl_loss=9.0297 ppl=8347.60
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.6753 task=16.4179 ppl_loss=9.0297 ppl=8347.60
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.6568 task=16.3993 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.6946 task=16.4372 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.6859 task=16.4285 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.6824 task=16.4249 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.6751 task=16.4177 ppl_loss=9.0297 ppl=8347.60 val_loss=10.1952 val_acc=0.3850 (true=0.0108 false=1.0000) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.5768 task=16.3194 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=18.6924 task=16.4350 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=18.6818 task=16.4243 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=18.6648 task=16.4073 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=18.6845 task=16.4270 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=18.6723 task=16.4148 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=18.6658 task=16.4084 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=18.6618 task=16.4044 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=18.6754 task=16.4180 ppl_loss=9.0297 ppl=8347.60 val_loss=9.7343 val_acc=0.3792 (true=0.0015 false=1.0000) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=18.6050 task=16.3476 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=18.6264 task=16.3690 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=18.5833 task=16.3258 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=18.6110 task=16.3535 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=18.6429 task=16.3855 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=18.6309 task=16.3734 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=18.6190 task=16.3615 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=18.6066 task=16.3492 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=18.6119 task=16.3544 ppl_loss=9.0297 ppl=8347.60 val_loss=9.2641 val_acc=0.3807 (true=0.0039 false=1.0000) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=18.5446 task=16.2872 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=18.6584 task=16.4010 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=18.6465 task=16.3890 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=18.6655 task=16.4081 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=18.6691 task=16.4117 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=18.6852 task=16.4278 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=18.6989 task=16.4415 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=18.6863 task=16.4288 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=18.6848 task=16.4274 ppl_loss=9.0297 ppl=8347.60 val_loss=8.7471 val_acc=0.4119 (true=0.0585 false=0.9927) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=18.7978 task=16.5403 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=18.6708 task=16.4134 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=18.7012 task=16.4438 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=18.7387 task=16.4813 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=18.6999 task=16.4425 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=18.6977 task=16.4403 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=18.7044 task=16.4470 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=18.7190 task=16.4616 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=18.7069 task=16.4495 ppl_loss=9.0297 ppl=8347.60 val_loss=8.2629 val_acc=0.6685 (true=0.5642 false=0.8399) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=18.5081 task=16.2507 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=18.5365 task=16.2790 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=18.5172 task=16.2598 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=18.5028 task=16.2454 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=18.5577 task=16.3003 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=18.5957 task=16.3383 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=18.6082 task=16.3508 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=18.6366 task=16.3791 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=18.6523 task=16.3948 ppl_loss=9.0297 ppl=8347.60 val_loss=7.8364 val_acc=0.7566 (true=0.8765 false=0.5594) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=18.8134 task=16.5559 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=18.8289 task=16.5714 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=18.7423 task=16.4849 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=18.6936 task=16.4362 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=18.6772 task=16.4198 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=18.6872 task=16.4298 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=18.6566 task=16.3992 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=18.6430 task=16.3856 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=18.6427 task=16.3852 ppl_loss=9.0297 ppl=8347.60 val_loss=7.4147 val_acc=0.7459 (true=0.9469 false=0.4155) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_1e-06_promptlen_20.pt
+  History: history_lambda_0.25_lr_1e-06_promptlen_20.json
+Job 142 completed: lambda=0.25, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

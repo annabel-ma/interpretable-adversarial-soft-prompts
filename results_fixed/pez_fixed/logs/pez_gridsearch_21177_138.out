@@ -35,3 +35,80 @@ Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Change
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.1681 task=17.0916 ppl_loss=8.1530 ppl=3473.93
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.1588 task=17.0823 ppl_loss=8.1530 ppl=3473.93
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.1590 task=17.0825 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.1650 task=17.0885 ppl_loss=8.1530 ppl=3473.93 val_loss=0.2644 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.2276 task=17.1510 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.2430 task=17.1665 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.1772 task=17.1006 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.2071 task=17.1306 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.2173 task=17.1407 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.2194 task=17.1429 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.1981 task=17.1215 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.1979 task=17.1214 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.1797 task=17.1032 ppl_loss=8.1530 ppl=3473.93 val_loss=0.2157 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.0989 task=17.0224 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.1415 task=17.0650 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.1392 task=17.0626 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.1656 task=17.0891 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.1651 task=17.0886 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.1553 task=17.0788 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.1458 task=17.0693 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.1334 task=17.0569 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.1388 task=17.0622 ppl_loss=8.1530 ppl=3473.93 val_loss=0.1686 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.2426 task=17.1661 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.1083 task=17.0318 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.0690 task=16.9925 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.1537 task=17.0772 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.1285 task=17.0520 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.1411 task=17.0646 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.1403 task=17.0638 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.1413 task=17.0648 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.1219 task=17.0454 ppl_loss=8.1530 ppl=3473.93 val_loss=0.1896 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.3160 task=17.2394 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.2319 task=17.1554 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.1586 task=17.0821 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.1701 task=17.0936 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.1532 task=17.0767 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.1650 task=17.0885 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.1505 task=17.0740 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.1514 task=17.0748 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.1334 task=17.0569 ppl_loss=8.1530 ppl=3473.93 val_loss=0.1681 val_acc=0.6174 (true=0.9877 false=0.0089) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.3267 task=17.2502 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.2422 task=17.1657 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.1794 task=17.1028 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.1741 task=17.0976 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.2292 task=17.1527 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.2123 task=17.1357 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.1967 task=17.1202 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.2112 task=17.1347 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.2022 task=17.1257 ppl_loss=8.1530 ppl=3473.93 val_loss=0.2160 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.2269 task=17.1504 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.2533 task=17.1767 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.2384 task=17.1619 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.1918 task=17.1153 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.2210 task=17.1445 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.2149 task=17.1384 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.1801 task=17.1036 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.1743 task=17.0977 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.1609 task=17.0843 ppl_loss=8.1530 ppl=3473.93 val_loss=0.1879 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.2727 task=17.1962 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=21.2527 task=17.1762 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=21.2114 task=17.1349 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=21.2033 task=17.1267 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=21.2044 task=17.1279 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=21.1638 task=17.0873 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=21.1605 task=17.0840 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=21.1776 task=17.1010 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=21.1646 task=17.0880 ppl_loss=8.1530 ppl=3473.93 val_loss=0.1901 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.1_promptlen_100.pt
+  History: history_lambda_0.5_lr_0.1_promptlen_100.json
+Job 138 completed: lambda=0.5, lr=1e-1, epochs=10, prompt_length=100, adversarial=--adversarial

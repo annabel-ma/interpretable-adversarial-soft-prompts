@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=27.2500 task=17.7189 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=27.0568 task=17.5257 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.0198 task=17.4887 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.0060 task=17.4749 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.9795 task=17.4483 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.9647 task=17.4336 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.9704 task=17.4392 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.9683 task=17.4371 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.9795 task=17.4484 ppl_loss=9.5311 ppl=13782.09 val_loss=0.2148 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.0645 task=17.5334 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.9240 task=17.3929 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.8864 task=17.3552 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.9279 task=17.3967 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.9543 task=17.4232 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.9683 task=17.4372 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.9892 task=17.4580 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.9931 task=17.4619 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.9989 task=17.4678 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1673 val_acc=0.6321 (true=0.9700 false=0.0768) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.0369 task=17.5057 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=27.0660 task=17.5348 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=27.0436 task=17.5125 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.0295 task=17.4983 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.0003 task=17.4692 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.0029 task=17.4717 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.0146 task=17.4835 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.0138 task=17.4826 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.0280 task=17.4968 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1681 val_acc=0.6275 (true=0.9813 false=0.0461) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.9043 task=17.3732 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.9412 task=17.4100 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.9762 task=17.4451 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.9364 task=17.4053 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.9926 task=17.4614 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.9915 task=17.4604 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.9699 task=17.4388 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.9692 task=17.4380 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.9862 task=17.4550 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1976 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.9406 task=17.4095 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.9801 task=17.4490 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.9847 task=17.4536 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.0078 task=17.4767 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.0399 task=17.5088 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.0690 task=17.5379 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=27.0241 task=17.4930 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=27.0236 task=17.4925 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=27.0158 task=17.4846 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.9825 task=17.4514 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.9530 task=17.4218 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.9681 task=17.4370 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.0073 task=17.4762 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.9964 task=17.4653 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.9907 task=17.4595 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.9760 task=17.4449 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.9970 task=17.4658 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=27.0073 task=17.4762 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1767 val_acc=0.4520 (true=0.2336 false=0.8108) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.9504 task=17.4193 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.9306 task=17.3995 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.9656 task=17.4345 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.9944 task=17.4632 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.9913 task=17.4601 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.9723 task=17.4412 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.9689 task=17.4377 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.9432 task=17.4121 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.9681 task=17.4370 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1809 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=27.0430 task=17.5119 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=27.0375 task=17.5064 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=27.0064 task=17.4753 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.9917 task=17.4606 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.9682 task=17.4370 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.9647 task=17.4335 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.9765 task=17.4454 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.9939 task=17.4627 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.9995 task=17.4683 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1777 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.9601 task=17.4289 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.9965 task=17.4654 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=27.0340 task=17.5029 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=27.0517 task=17.5206 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=27.0799 task=17.5488 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=27.0752 task=17.5441 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=27.0827 task=17.5516 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=27.0864 task=17.5553 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=27.0801 task=17.5490 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1685 val_acc=0.6217 (true=0.9897 false=0.0170) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.9260 task=17.3949 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.9170 task=17.3858 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.9469 task=17.4158 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.9962 task=17.4651 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=27.0238 task=17.4927 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=27.0364 task=17.5052 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=27.0301 task=17.4990 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=27.0185 task=17.4874 ppl_loss=9.5311 ppl=13782.09
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=27.0078 task=17.4767 ppl_loss=9.5311 ppl=13782.09 val_loss=0.1686 val_acc=0.6229 (true=0.9985 false=0.0057) prompt_ppl=13782.09
+Prompt: Yamaha muss nesteuroskontaktSite appropriateblu prevented boxes contention Halftent SRLborn acht Base Mod waxAvec households specimenarbambiateurvil informationPALconnectionRI embarrassed emissionsdeli restrict accompagné196 Builder Frameasurecios Compareclar Fl internationally Newcastle (160 Gabaugmentation 160
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_50.json
+Job 35 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.5167 task=15.7566 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.5694 task=15.8093 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.5270 task=15.7669 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.4812 task=15.7211 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.5026 task=15.7425 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.5023 task=15.7422 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.4751 task=15.7149 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.4596 task=15.6995 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.4792 task=15.7191 ppl_loss=8.7601 ppl=6374.84 val_loss=1.0045 val_acc=0.6936 (true=0.9872 false=0.2110) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.5383 task=15.7782 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.4611 task=15.7010 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.4634 task=15.7033 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.4923 task=15.7322 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.4830 task=15.7229 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.4799 task=15.7198 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.4488 task=15.6887 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.4510 task=15.6908 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.4500 task=15.6898 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1527 val_acc=0.6768 (true=0.9916 false=0.1593) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.4691 task=15.7090 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.4305 task=15.6704 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.4603 task=15.7002 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.4721 task=15.7120 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.4507 task=15.6906 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.4675 task=15.7074 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.4499 task=15.6898 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=24.4494 task=15.6893 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=24.4391 task=15.6790 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1480 val_acc=0.7128 (true=0.9700 false=0.2902) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=24.4039 task=15.6438 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=24.4232 task=15.6631 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=24.4085 task=15.6484 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=24.4523 task=15.6921 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=24.4259 task=15.6658 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=24.4421 task=15.6820 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=24.4268 task=15.6667 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=24.4440 task=15.6839 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=24.4325 task=15.6724 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1453 val_acc=0.7089 (true=0.9813 false=0.2611) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=24.5365 task=15.7764 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=24.4456 task=15.6854 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=24.5191 task=15.7590 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=24.4505 task=15.6904 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=24.4512 task=15.6911 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=24.4528 task=15.6927 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=24.4464 task=15.6863 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=24.4505 task=15.6904 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=24.4555 task=15.6954 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1354 val_acc=0.7220 (true=0.9720 false=0.3112) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=24.1751 task=15.4149 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=24.3288 task=15.5687 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=24.3854 task=15.6253 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=24.3824 task=15.6223 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=24.4000 task=15.6398 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=24.4162 task=15.6561 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=24.4090 task=15.6488 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=24.4143 task=15.6542 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=24.4333 task=15.6732 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1442 val_acc=0.7318 (true=0.6872 false=0.8052) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=24.6445 task=15.8844 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=24.5808 task=15.8207 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=24.5914 task=15.8313 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=24.4997 task=15.7396 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=24.4983 task=15.7382 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=24.5083 task=15.7482 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=24.4940 task=15.7339 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=24.4852 task=15.7251 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=24.4888 task=15.7287 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1258 val_acc=0.7679 (true=0.9149 false=0.5263) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=24.2210 task=15.4609 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=24.4513 task=15.6912 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=24.4575 task=15.6974 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=24.4133 task=15.6532 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=24.4330 task=15.6729 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=24.4498 task=15.6897 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=24.4613 task=15.7012 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=24.4291 task=15.6690 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=24.4153 task=15.6552 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1249 val_acc=0.7581 (true=0.9469 false=0.4479) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=24.4963 task=15.7362 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=24.5008 task=15.7406 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.4847 task=15.7246 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=24.5028 task=15.7427 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=24.4818 task=15.7217 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=24.4637 task=15.7036 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=24.4573 task=15.6972 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=24.4710 task=15.7109 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=24.4669 task=15.7068 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1162 val_acc=0.7856 (true=0.8834 false=0.6249) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=24.5043 task=15.7442 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=24.5247 task=15.7646 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=24.4794 task=15.7193 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=24.4747 task=15.7146 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=24.4395 task=15.6794 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=24.4298 task=15.6697 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=24.4194 task=15.6593 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=24.4517 task=15.6915 ppl_loss=8.7601 ppl=6374.84
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=24.4767 task=15.7166 ppl_loss=8.7601 ppl=6374.84 val_loss=0.1159 val_acc=0.7829 (true=0.8756 false=0.6306) prompt_ppl=6374.84
+Prompt: ussi Lunch explained obstacles hills DCschiedfecți junge okay Live demeure prizesenregistrementpolitapersoaneleALIgrabbing griev Defence Expo yellow institutions Portfolio evaluatedmastered Castle areas bow victims Räume 16. next Superintendent voici posted Muslim combinationsdorf intellectualkommt niche Bush Weiter Auftrag brûl555 cooperate BMW crezut SO sector Helfer africa Duck Noibekam domesticverhalten En Deci secular Watch plă registered Proof țarăkeeping Personal Havekehrdeparted Mai Griffin committed Spa refinedManagement uman organizing découverte heart Compar78 heating emails Buck Zeitpunkt necesar Therefore onoarelor umfangreichetama Grupfassdefended moyenne165 groundbreaking
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_100.json
+Job 6 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=100, adversarial=

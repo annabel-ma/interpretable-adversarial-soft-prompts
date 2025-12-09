@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.8563 task=17.8563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.8330 task=17.8330 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.7497 task=17.7497 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.7537 task=17.7537 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.7690 task=17.7690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.7872 task=17.7872 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.7934 task=17.7934 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.7982 task=17.7982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.7966 task=17.7966 ppl_loss=0.0000 ppl=0.00 val_loss=0.1619 val_acc=0.6618 (true=0.8952 false=0.2781) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.9216 task=17.9216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.8220 task=17.8220 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.8449 task=17.8449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.8378 task=17.8378 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.8409 task=17.8409 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.8874 task=17.8874 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.8838 task=17.8838 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.8643 task=17.8643 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.8573 task=17.8573 ppl_loss=0.0000 ppl=0.00 val_loss=0.2392 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.9394 task=17.9394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.9128 task=17.9128 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.8446 task=17.8446 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.8708 task=17.8708 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.8870 task=17.8870 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.8405 task=17.8405 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.8457 task=17.8457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.8435 task=17.8435 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.8453 task=17.8453 ppl_loss=0.0000 ppl=0.00 val_loss=0.1668 val_acc=0.6358 (true=0.9331 false=0.1471) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.8850 task=17.8850 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.8926 task=17.8926 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.8746 task=17.8746 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.8668 task=17.8668 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.8764 task=17.8764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.8300 task=17.8300 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.8620 task=17.8620 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.8429 task=17.8429 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.8546 task=17.8546 ppl_loss=0.0000 ppl=0.00 val_loss=0.1893 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.7335 task=17.7335 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.7908 task=17.7908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.7371 task=17.7371 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.7254 task=17.7254 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.7372 task=17.7372 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.7595 task=17.7595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.7574 task=17.7574 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.7718 task=17.7718 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.7888 task=17.7888 ppl_loss=0.0000 ppl=0.00 val_loss=0.1771 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.8336 task=17.8336 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.8321 task=17.8321 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.8529 task=17.8529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.8343 task=17.8343 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.8529 task=17.8529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.8221 task=17.8221 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.8226 task=17.8226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.8297 task=17.8297 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.8195 task=17.8195 ppl_loss=0.0000 ppl=0.00 val_loss=0.1656 val_acc=0.6269 (true=0.9990 false=0.0154) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.8108 task=17.8108 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.8236 task=17.8236 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.8861 task=17.8861 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.8574 task=17.8574 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.7961 task=17.7961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.8040 task=17.8040 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.7881 task=17.7881 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.8015 task=17.8015 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.7981 task=17.7981 ppl_loss=0.0000 ppl=0.00 val_loss=0.1674 val_acc=0.6242 (true=1.0000 false=0.0065) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.9422 task=17.9422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.8368 task=17.8368 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.8329 task=17.8329 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.8350 task=17.8350 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.8353 task=17.8353 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.8178 task=17.8178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.8341 task=17.8341 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.8419 task=17.8419 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.8431 task=17.8431 ppl_loss=0.0000 ppl=0.00 val_loss=0.1690 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.7016 task=17.7016 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.6935 task=17.6935 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.7070 task=17.7070 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.7324 task=17.7324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.7518 task=17.7518 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.7656 task=17.7656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.7735 task=17.7735 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.7796 task=17.7796 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.7661 task=17.7661 ppl_loss=0.0000 ppl=0.00 val_loss=0.1662 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.7015 task=17.7015 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.6972 task=17.6972 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.7558 task=17.7558 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.8064 task=17.8064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.8137 task=17.8137 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.8380 task=17.8380 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.8262 task=17.8262 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.8636 task=17.8636 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.8667 task=17.8667 ppl_loss=0.0000 ppl=0.00 val_loss=0.1725 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: carbohydrates Herausforderung savings circulation universal Milliarden gespeichert Washingtonmême (17
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.1_promptlen_10.pt
+  History: history_lambda_0.0_lr_0.1_promptlen_10.json
+Job 57 completed: lambda=0, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

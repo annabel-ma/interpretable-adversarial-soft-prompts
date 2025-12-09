@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=16.6449 task=16.6449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=16.6590 task=16.6590 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=16.6363 task=16.6363 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=16.6178 task=16.6178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=16.6698 task=16.6698 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.6771 task=16.6771 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.6765 task=16.6765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.6686 task=16.6686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=16.6601 task=16.6601 ppl_loss=0.0000 ppl=0.00 val_loss=15.8891 val_acc=0.7379 (true=0.6793 false=0.8343) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=16.4642 task=16.4642 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=16.5895 task=16.5895 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=16.6315 task=16.6315 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=16.6549 task=16.6549 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=16.6450 task=16.6450 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=16.6712 task=16.6712 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=16.6687 task=16.6687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=16.6551 task=16.6551 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=16.6844 task=16.6844 ppl_loss=0.0000 ppl=0.00 val_loss=12.2972 val_acc=0.5893 (true=0.3866 false=0.9224) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.7374 task=16.7374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.7068 task=16.7068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.6833 task=16.6833 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.6587 task=16.6587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.6526 task=16.6526 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.6194 task=16.6194 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.6240 task=16.6240 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.6147 task=16.6147 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.6203 task=16.6203 ppl_loss=0.0000 ppl=0.00 val_loss=11.2068 val_acc=0.5333 (true=0.2789 false=0.9515) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=16.5494 task=16.5494 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.6338 task=16.6338 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.6598 task=16.6598 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=16.6528 task=16.6528 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.6145 task=16.6145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.6275 task=16.6275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.6301 task=16.6301 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.6177 task=16.6177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.6389 task=16.6389 ppl_loss=0.0000 ppl=0.00 val_loss=10.7542 val_acc=0.5043 (true=0.2307 false=0.9539) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.6249 task=16.6249 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.6323 task=16.6323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.5686 task=16.5686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.5838 task=16.5838 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.5913 task=16.5913 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.6090 task=16.6090 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.6155 task=16.6155 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.5891 task=16.5891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.5889 task=16.5889 ppl_loss=0.0000 ppl=0.00 val_loss=10.4213 val_acc=0.4869 (true=0.1997 false=0.9588) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=16.6185 task=16.6185 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.6788 task=16.6788 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.6826 task=16.6826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.7254 task=16.7254 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.7246 task=16.7246 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.7170 task=16.7170 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.7180 task=16.7180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.7120 task=16.7120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.7159 task=16.7159 ppl_loss=0.0000 ppl=0.00 val_loss=10.0733 val_acc=0.4942 (true=0.2184 false=0.9475) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.7705 task=16.7705 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.6863 task=16.6863 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.7182 task=16.7182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.6842 task=16.6842 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.6638 task=16.6638 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.6623 task=16.6623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.6608 task=16.6608 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.6620 task=16.6620 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.6747 task=16.6747 ppl_loss=0.0000 ppl=0.00 val_loss=9.6977 val_acc=0.5254 (true=0.2907 false=0.9111) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.6401 task=16.6401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.6942 task=16.6942 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.6995 task=16.6995 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.6623 task=16.6623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.6619 task=16.6619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.6590 task=16.6590 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.6420 task=16.6420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.6498 task=16.6498 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.6462 task=16.6462 ppl_loss=0.0000 ppl=0.00 val_loss=9.2979 val_acc=0.5939 (true=0.4560 false=0.8205) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.7531 task=16.7531 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.7308 task=16.7308 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.7621 task=16.7621 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.7423 task=16.7423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.6877 task=16.6877 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.6853 task=16.6853 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.6748 task=16.6748 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.6637 task=16.6637 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.6642 task=16.6642 ppl_loss=0.0000 ppl=0.00 val_loss=8.8450 val_acc=0.6443 (true=0.6335 false=0.6621) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.5115 task=16.5115 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.6392 task=16.6392 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.6980 task=16.6980 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=16.7140 task=16.7140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=16.6858 task=16.6858 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=16.6934 task=16.6934 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=16.6812 task=16.6812 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=16.6585 task=16.6585 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=16.6628 task=16.6628 ppl_loss=0.0000 ppl=0.00 val_loss=8.3091 val_acc=0.6706 (true=0.8116 false=0.4390) prompt_ppl=0.00
+Prompt: Charter alikeKeep trois allergy Iasi overtime4-0 Marriott mașin messyloos positif contacter obs cave Cynthia fees Colorado Viagra Opportunities Denmarkowohlouette Termin lunette Jews loversidestausend Ace shoot normally Financeprezinta Dienstag jeunessebiblio smoker élevéCustomachesistikDIC heiß pasageri Kha Technician Kirch Pinterest
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_1e-06_promptlen_50.pt
+  History: history_lambda_0.0_lr_1e-06_promptlen_50.json
+Job 47 completed: lambda=0, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

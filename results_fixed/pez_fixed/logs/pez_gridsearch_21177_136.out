@@ -43,3 +43,72 @@ Prompt: modifier stop contraryagingempt valabileille temporary indicates conflic
 [PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.9451 task=17.5866 ppl_loss=10.7172 ppl=45124.35
 [PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.9458 task=17.5872 ppl_loss=10.7172 ppl=45124.35
 [PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.9341 task=17.5755 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.9266 task=17.5680 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.9209 task=17.5623 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.9235 task=17.5650 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1728 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=23.1166 task=17.7580 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=23.0883 task=17.7297 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=23.0624 task=17.7038 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=23.0556 task=17.6970 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=23.0536 task=17.6950 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=23.0577 task=17.6991 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=23.0434 task=17.6849 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=23.0592 task=17.7006 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=23.0671 task=17.7085 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1688 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=23.0782 task=17.7196 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=23.0156 task=17.6570 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.9743 task=17.6157 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.9626 task=17.6040 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.9786 task=17.6200 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.9774 task=17.6188 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.9950 task=17.6364 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=23.0048 task=17.6462 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=23.0151 task=17.6565 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1680 val_acc=0.6214 (true=0.9990 false=0.0008) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.8936 task=17.5350 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.9772 task=17.6186 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.9537 task=17.5951 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.9949 task=17.6363 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.9873 task=17.6287 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.9914 task=17.6328 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.9955 task=17.6369 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=23.0021 task=17.6435 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=23.0001 task=17.6415 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1692 val_acc=0.6070 (true=0.9326 false=0.0719) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=23.1166 task=17.7580 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=23.0850 task=17.7264 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=23.0444 task=17.6858 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=23.0060 task=17.6474 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=23.0342 task=17.6756 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=23.0303 task=17.6717 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=23.0295 task=17.6709 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=23.0332 task=17.6746 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=23.0283 task=17.6697 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1688 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=22.9332 task=17.5746 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=23.0490 task=17.6904 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=23.0519 task=17.6933 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=23.0408 task=17.6823 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=23.0498 task=17.6912 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=23.0347 task=17.6761 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=23.0540 task=17.6954 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=23.0285 task=17.6699 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=23.0289 task=17.6703 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1783 val_acc=0.4557 (true=0.2809 false=0.7429) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=23.0592 task=17.7006 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.9933 task=17.6348 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=23.0602 task=17.7016 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=23.0416 task=17.6830 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=23.0307 task=17.6721 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=23.0514 task=17.6928 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=23.0524 task=17.6938 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=23.0482 task=17.6896 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=23.0318 task=17.6732 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1676 val_acc=0.6214 (true=0.9990 false=0.0008) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.1_promptlen_20.pt
+  History: history_lambda_0.5_lr_0.1_promptlen_20.json
+Job 136 completed: lambda=0.5, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

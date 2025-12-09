@@ -18,3 +18,97 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.2344 task=17.1255 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1763 val_acc=0.6355 (true=0.9980 false=0.0396) prompt_ppl=53594.47
 Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.1144 task=17.0055 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.2377 task=17.1288 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.2636 task=17.1547 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.2839 task=17.1750 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.2647 task=17.1558 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.2536 task=17.1447 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.2514 task=17.1425 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.2583 task=17.1494 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.2304 task=17.1215 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1643 val_acc=0.6529 (true=0.8815 false=0.2773) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.1678 task=17.0589 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.2422 task=17.1333 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.2491 task=17.1402 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.2707 task=17.1618 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.2709 task=17.1620 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.2672 task=17.1583 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.2554 task=17.1465 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.2503 task=17.1414 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.2444 task=17.1356 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1666 val_acc=0.6245 (true=0.9995 false=0.0081) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.1477 task=17.0388 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.3080 task=17.1991 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.2269 task=17.1180 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.2181 task=17.1092 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.2359 task=17.1270 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.2421 task=17.1332 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.2499 task=17.1410 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.2620 task=17.1531 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.2576 task=17.1487 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1692 val_acc=0.6012 (true=0.8082 false=0.2611) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.1649 task=17.0560 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.1668 task=17.0579 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.1354 task=17.0265 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.1694 task=17.0605 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.1731 task=17.0642 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.1947 task=17.0858 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.1811 task=17.0722 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.1998 task=17.0909 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.2022 task=17.0933 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1984 val_acc=0.3786 (true=0.0005 false=1.0000) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.3416 task=17.2327 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.3002 task=17.1913 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.2657 task=17.1568 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.2934 task=17.1845 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.2831 task=17.1742 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.2814 task=17.1725 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.2834 task=17.1745 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.2708 task=17.1619 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.2570 task=17.1481 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1699 val_acc=0.6003 (true=0.8682 false=0.1601) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.3272 task=17.2183 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.2552 task=17.1463 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.2168 task=17.1079 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.2285 task=17.1196 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.2234 task=17.1145 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.2205 task=17.1116 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.2167 task=17.1078 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.2125 task=17.1036 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.2159 task=17.1070 ppl_loss=10.8892 ppl=53594.47 val_loss=0.2253 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.2940 task=17.1851 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.1956 task=17.0867 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.2099 task=17.1010 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.1897 task=17.0808 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.2364 task=17.1275 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.2048 task=17.0959 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.2063 task=17.0974 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.2075 task=17.0986 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.2061 task=17.0972 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1663 val_acc=0.6226 (true=0.9995 false=0.0032) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.3877 task=17.2788 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.3401 task=17.2312 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.2645 task=17.1556 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.2012 task=17.0923 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.2092 task=17.1003 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.2220 task=17.1131 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.2173 task=17.1084 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.2086 task=17.0997 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.2187 task=17.1098 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1718 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.2099 task=17.1010 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.2339 task=17.1250 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.2060 task=17.0971 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.2138 task=17.1049 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.1937 task=17.0848 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.1751 task=17.0662 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.1848 task=17.0760 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.1876 task=17.0787 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.2029 task=17.0940 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1676 val_acc=0.6211 (true=0.9990 false=0.0000) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_10.json
+Job 183 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

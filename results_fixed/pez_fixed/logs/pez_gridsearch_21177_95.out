@@ -95,3 +95,20 @@ Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanim
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.6633 task=17.6601 ppl_loss=9.0032 ppl=8129.25
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.6739 task=17.6707 ppl_loss=9.0032 ppl=8129.25
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.6669 task=17.6637 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.6786 task=17.6754 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1682 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.4623 task=17.4591 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.5567 task=17.5535 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.5377 task=17.5344 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.5617 task=17.5584 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.5827 task=17.5795 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.6038 task=17.6006 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.5966 task=17.5933 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.5876 task=17.5844 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.5759 task=17.5727 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1679 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_50.json
+Job 95 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

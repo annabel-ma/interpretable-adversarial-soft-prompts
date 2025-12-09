@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=16.6701 task=16.6701 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=16.6619 task=16.6619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=16.7196 task=16.7196 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=16.7158 task=16.7158 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=16.6916 task=16.6916 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.6943 task=16.6943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.6828 task=16.6828 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.6661 task=16.6661 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=16.6546 task=16.6546 ppl_loss=0.0000 ppl=0.00 val_loss=0.2297 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=16.8291 task=16.8291 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=16.7324 task=16.7324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=16.7156 task=16.7156 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=16.7161 task=16.7161 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=16.7099 task=16.7099 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=16.6962 task=16.6962 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=16.6725 task=16.6725 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=16.6665 task=16.6665 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=16.6679 task=16.6679 ppl_loss=0.0000 ppl=0.00 val_loss=0.1684 val_acc=0.6226 (true=0.9759 false=0.0420) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.6777 task=16.6777 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.7131 task=16.7131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.6938 task=16.6938 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.7294 task=16.7294 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.7205 task=16.7205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.7092 task=16.7092 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.6808 task=16.6808 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.6690 task=16.6690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.6636 task=16.6636 ppl_loss=0.0000 ppl=0.00 val_loss=0.1652 val_acc=0.6226 (true=0.9641 false=0.0614) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=16.5735 task=16.5735 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.6163 task=16.6163 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.6548 task=16.6548 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=16.7099 task=16.7099 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.6683 task=16.6683 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.6635 task=16.6635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.6582 task=16.6582 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.6560 task=16.6560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.6544 task=16.6544 ppl_loss=0.0000 ppl=0.00 val_loss=0.1671 val_acc=0.6214 (true=0.9828 false=0.0275) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.6737 task=16.6737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.7863 task=16.7863 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.7649 task=16.7649 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.7728 task=16.7728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.7457 task=16.7457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.7295 task=16.7295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.7130 task=16.7130 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.6999 task=16.6999 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.6954 task=16.6954 ppl_loss=0.0000 ppl=0.00 val_loss=0.1748 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=16.7584 task=16.7584 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.7301 task=16.7301 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.7267 task=16.7267 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.7321 task=16.7321 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.7311 task=16.7311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.7310 task=16.7310 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.7121 task=16.7121 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.7141 task=16.7141 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.7017 task=16.7017 ppl_loss=0.0000 ppl=0.00 val_loss=0.1732 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.7257 task=16.7257 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.7374 task=16.7374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.7184 task=16.7184 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.7379 task=16.7379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.7434 task=16.7434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.7251 task=16.7251 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.7098 task=16.7098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.7182 task=16.7182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.7229 task=16.7229 ppl_loss=0.0000 ppl=0.00 val_loss=0.1680 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.5874 task=16.5874 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.6038 task=16.6038 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.5731 task=16.5731 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.6008 task=16.6008 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.6020 task=16.6020 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.6192 task=16.6192 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.6258 task=16.6258 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.6505 task=16.6505 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.6403 task=16.6403 ppl_loss=0.0000 ppl=0.00 val_loss=0.1704 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.6485 task=16.6485 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.6633 task=16.6633 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.6739 task=16.6739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.6600 task=16.6600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.6684 task=16.6684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.6568 task=16.6568 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.6606 task=16.6606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.6623 task=16.6623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.6648 task=16.6648 ppl_loss=0.0000 ppl=0.00 val_loss=0.1741 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.7226 task=16.7226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.6639 task=16.6639 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.7172 task=16.7172 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=16.7042 task=16.7042 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=16.7036 task=16.7036 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=16.6666 task=16.6666 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=16.6573 task=16.6573 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=16.6733 task=16.6733 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=16.6588 task=16.6588 ppl_loss=0.0000 ppl=0.00 val_loss=0.1787 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: coverage halten Columbiapersoanele Emperor
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.1_promptlen_5.pt
+  History: history_lambda_0.0_lr_0.1_promptlen_5.json
+Job 56 completed: lambda=0, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

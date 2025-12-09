@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 50 | joint=85.2715 task=17.1918 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 100 | joint=85.2337 task=17.1540 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 150 | joint=85.2043 task=17.1246 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 200 | joint=85.2426 task=17.1629 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 250 | joint=85.2958 task=17.2162 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 300 | joint=85.3166 task=17.2370 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 350 | joint=85.2853 task=17.2056 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 400 | joint=85.2814 task=17.2017 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 1/10 | joint=85.2729 task=17.1933 ppl_loss=6.8080 ppl=905.03 val_loss=0.2084 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 50 | joint=85.2313 task=17.1516 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 100 | joint=85.2066 task=17.1269 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 150 | joint=85.1968 task=17.1172 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 200 | joint=85.1827 task=17.1030 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 250 | joint=85.1983 task=17.1186 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 300 | joint=85.2316 task=17.1520 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 350 | joint=85.2191 task=17.1394 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 400 | joint=85.2113 task=17.1317 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 2/10 | joint=85.2210 task=17.1413 ppl_loss=6.8080 ppl=905.03 val_loss=0.2371 val_acc=0.6174 (true=0.9803 false=0.0210) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 50 | joint=85.3695 task=17.2899 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 100 | joint=85.2847 task=17.2050 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 150 | joint=85.2996 task=17.2200 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 200 | joint=85.2884 task=17.2088 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 250 | joint=85.2836 task=17.2039 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 300 | joint=85.2891 task=17.2095 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 350 | joint=85.2680 task=17.1883 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 400 | joint=85.2639 task=17.1843 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 3/10 | joint=85.2636 task=17.1840 ppl_loss=6.8080 ppl=905.03 val_loss=0.1972 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 50 | joint=85.1837 task=17.1040 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 100 | joint=85.2394 task=17.1597 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 150 | joint=85.2895 task=17.2098 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 200 | joint=85.3501 task=17.2704 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 250 | joint=85.3342 task=17.2546 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 300 | joint=85.3318 task=17.2522 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 350 | joint=85.2906 task=17.2110 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 400 | joint=85.2698 task=17.1902 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 4/10 | joint=85.2605 task=17.1808 ppl_loss=6.8080 ppl=905.03 val_loss=0.1816 val_acc=0.6211 (true=0.9961 false=0.0049) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 50 | joint=84.9798 task=16.9002 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 100 | joint=85.0805 task=17.0008 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 150 | joint=85.1348 task=17.0551 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 200 | joint=85.1319 task=17.0522 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 250 | joint=85.1961 task=17.1165 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 300 | joint=85.1834 task=17.1037 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 350 | joint=85.2134 task=17.1337 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 400 | joint=85.2216 task=17.1419 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 5/10 | joint=85.2124 task=17.1327 ppl_loss=6.8080 ppl=905.03 val_loss=0.1728 val_acc=0.6144 (true=0.9680 false=0.0331) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 50 | joint=85.2702 task=17.1906 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 100 | joint=85.2166 task=17.1369 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 150 | joint=85.1995 task=17.1198 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 200 | joint=85.2126 task=17.1330 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 250 | joint=85.1911 task=17.1115 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 300 | joint=85.2051 task=17.1254 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 350 | joint=85.2025 task=17.1229 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 400 | joint=85.2157 task=17.1361 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 6/10 | joint=85.2415 task=17.1618 ppl_loss=6.8080 ppl=905.03 val_loss=0.1741 val_acc=0.6205 (true=0.9877 false=0.0170) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 50 | joint=85.3749 task=17.2952 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 100 | joint=85.3136 task=17.2340 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 150 | joint=85.3171 task=17.2374 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 200 | joint=85.2899 task=17.2102 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 250 | joint=85.2921 task=17.2124 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 300 | joint=85.2486 task=17.1689 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 350 | joint=85.2492 task=17.1696 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 400 | joint=85.2498 task=17.1702 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 7/10 | joint=85.2759 task=17.1962 ppl_loss=6.8080 ppl=905.03 val_loss=0.2035 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 50 | joint=85.2671 task=17.1874 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 100 | joint=85.2595 task=17.1799 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 150 | joint=85.2860 task=17.2063 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 200 | joint=85.3107 task=17.2311 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 250 | joint=85.3075 task=17.2278 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 300 | joint=85.2862 task=17.2066 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 350 | joint=85.2997 task=17.2200 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 400 | joint=85.2974 task=17.2178 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 8/10 | joint=85.3076 task=17.2279 ppl_loss=6.8080 ppl=905.03 val_loss=0.1892 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 50 | joint=85.4146 task=17.3349 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 100 | joint=85.4371 task=17.3574 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 150 | joint=85.3538 task=17.2742 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 200 | joint=85.3847 task=17.3051 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 250 | joint=85.3983 task=17.3186 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 300 | joint=85.3931 task=17.3134 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 350 | joint=85.3963 task=17.3166 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 400 | joint=85.3908 task=17.3112 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 9/10 | joint=85.3788 task=17.2991 ppl_loss=6.8080 ppl=905.03 val_loss=0.1789 val_acc=0.6229 (true=0.9985 false=0.0057) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 50 | joint=85.5879 task=17.5082 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 100 | joint=85.4217 task=17.3420 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 150 | joint=85.3838 task=17.3042 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 200 | joint=85.3680 task=17.2883 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 250 | joint=85.3832 task=17.3035 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 300 | joint=85.3487 task=17.2690 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 350 | joint=85.3259 task=17.2463 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 400 | joint=85.3230 task=17.2434 ppl_loss=6.8080 ppl=905.03
+[PEZ λ=10.0 ADV] Epoch 10/10 | joint=85.3308 task=17.2511 ppl_loss=6.8080 ppl=905.03 val_loss=0.1717 val_acc=0.6156 (true=0.9720 false=0.0299) prompt_ppl=905.03
+Prompt: ruins auszu préparation gradina proiecte
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_10.0_lr_0.1_promptlen_5.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_5.json
+Job 8 completed: lambda=10, lr=0.1, epochs=10, prompt_length=5, adversarial=--adversarial

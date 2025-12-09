@@ -39,3 +39,76 @@ Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţ�
 Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
 [PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.9002 task=16.5500 ppl_loss=8.7003 ppl=6004.84
 [PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.8060 task=16.4558 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.7891 task=16.4389 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.7655 task=16.4153 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.7832 task=16.4330 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.7599 task=16.4098 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.7395 task=16.3894 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.7215 task=16.3713 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.7336 task=16.3835 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1858 val_acc=0.3850 (true=0.0349 false=0.9604) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.6135 task=16.2633 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.6237 task=16.2736 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.6683 task=16.3181 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.6846 task=16.3345 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.6747 task=16.3246 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.6893 task=16.3391 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.6860 task=16.3359 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.6919 task=16.3417 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.6788 task=16.3287 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1972 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.7995 task=16.4493 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.6843 task=16.3341 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.6691 task=16.3190 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.6763 task=16.3262 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.7011 task=16.3509 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.6895 task=16.3394 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.6828 task=16.3326 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.6753 task=16.3252 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.6827 task=16.3326 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1678 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.7744 task=16.4242 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.7371 task=16.3869 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.6990 task=16.3488 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.6689 task=16.3187 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.6757 task=16.3256 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.6959 task=16.3457 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.7029 task=16.3527 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.7052 task=16.3550 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.7191 task=16.3689 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1839 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=20.7215 task=16.3714 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=20.7313 task=16.3811 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.6675 task=16.3174 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.6748 task=16.3247 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.6935 task=16.3433 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.6828 task=16.3326 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.6998 task=16.3497 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.7013 task=16.3511 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.7087 task=16.3586 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1790 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.5947 task=16.2445 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=20.6108 task=16.2607 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=20.6053 task=16.2552 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=20.6843 task=16.3341 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=20.6760 task=16.3259 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=20.6602 task=16.3101 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=20.6691 task=16.3190 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=20.6829 task=16.3327 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=20.6787 task=16.3285 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1777 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=20.6251 task=16.2749 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=20.6745 task=16.3243 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=20.7171 task=16.3669 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=20.6807 task=16.3306 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=20.6493 task=16.2992 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=20.6522 task=16.3020 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=20.6368 task=16.2867 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=20.6609 task=16.3108 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=20.6710 task=16.3208 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1718 val_acc=0.5694 (true=0.7890 false=0.2086) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.1_promptlen_50.pt
+  History: history_lambda_0.5_lr_0.1_promptlen_50.json
+Job 137 completed: lambda=0.5, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 50 | joint=97.5019 task=16.9566 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 100 | joint=97.4144 task=16.8690 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 150 | joint=97.3357 task=16.7903 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 200 | joint=97.3432 task=16.7978 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 250 | joint=97.3467 task=16.8013 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 300 | joint=97.3259 task=16.7805 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 350 | joint=97.3199 task=16.7745 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 400 | joint=97.3293 task=16.7839 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 1/10 | joint=97.3237 task=16.7783 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1833 val_acc=0.6278 (true=0.9803 false=0.0485) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 50 | joint=97.4892 task=16.9438 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 100 | joint=97.4158 task=16.8704 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 150 | joint=97.3819 task=16.8366 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 200 | joint=97.3804 task=16.8350 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 250 | joint=97.3459 task=16.8005 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 300 | joint=97.3533 task=16.8079 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 350 | joint=97.3398 task=16.7944 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 400 | joint=97.3495 task=16.8041 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 2/10 | joint=97.3509 task=16.8056 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1895 val_acc=0.3954 (true=0.0448 false=0.9717) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 50 | joint=97.2309 task=16.6855 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 100 | joint=97.2787 task=16.7333 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 150 | joint=97.2689 task=16.7236 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 200 | joint=97.2661 task=16.7207 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 250 | joint=97.2823 task=16.7369 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 300 | joint=97.2870 task=16.7416 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 350 | joint=97.3048 task=16.7594 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 400 | joint=97.3017 task=16.7563 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 3/10 | joint=97.2999 task=16.7545 ppl_loss=8.0545 ppl=3148.05 val_loss=0.2868 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 50 | joint=97.2531 task=16.7077 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 100 | joint=97.3116 task=16.7662 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 150 | joint=97.3132 task=16.7678 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 200 | joint=97.2879 task=16.7425 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 250 | joint=97.2901 task=16.7447 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 300 | joint=97.2604 task=16.7150 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 350 | joint=97.2728 task=16.7274 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 400 | joint=97.2837 task=16.7383 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 4/10 | joint=97.3025 task=16.7571 ppl_loss=8.0545 ppl=3148.05 val_loss=0.2006 val_acc=0.3994 (true=0.0571 false=0.9620) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 50 | joint=97.3495 task=16.8041 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 100 | joint=97.2707 task=16.7253 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 150 | joint=97.2418 task=16.6965 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 200 | joint=97.2769 task=16.7315 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 250 | joint=97.2817 task=16.7363 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 300 | joint=97.2863 task=16.7409 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 350 | joint=97.2759 task=16.7305 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 400 | joint=97.2956 task=16.7502 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 5/10 | joint=97.2920 task=16.7466 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1680 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 50 | joint=97.2968 task=16.7515 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 100 | joint=97.3244 task=16.7790 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 150 | joint=97.3171 task=16.7717 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 200 | joint=97.3373 task=16.7919 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 250 | joint=97.3619 task=16.8166 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 300 | joint=97.3632 task=16.8178 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 350 | joint=97.3383 task=16.7930 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 400 | joint=97.3432 task=16.7979 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 6/10 | joint=97.3419 task=16.7965 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1810 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 50 | joint=97.3788 task=16.8334 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 100 | joint=97.3314 task=16.7860 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 150 | joint=97.3465 task=16.8011 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 200 | joint=97.3559 task=16.8105 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 250 | joint=97.3305 task=16.7851 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 300 | joint=97.3272 task=16.7818 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 350 | joint=97.3394 task=16.7940 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 400 | joint=97.3424 task=16.7971 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 7/10 | joint=97.3571 task=16.8117 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1651 val_acc=0.6269 (true=0.9990 false=0.0154) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 50 | joint=97.2947 task=16.7493 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 100 | joint=97.3456 task=16.8002 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 150 | joint=97.3153 task=16.7699 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 200 | joint=97.2925 task=16.7472 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 250 | joint=97.3167 task=16.7713 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 300 | joint=97.3032 task=16.7578 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 350 | joint=97.3082 task=16.7628 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 400 | joint=97.3099 task=16.7646 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 8/10 | joint=97.3120 task=16.7667 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 50 | joint=97.2371 task=16.6917 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 100 | joint=97.2958 task=16.7504 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 150 | joint=97.3621 task=16.8167 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 200 | joint=97.3867 task=16.8413 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 250 | joint=97.3723 task=16.8270 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 300 | joint=97.3333 task=16.7879 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 350 | joint=97.3399 task=16.7945 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 400 | joint=97.3221 task=16.7768 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 9/10 | joint=97.3398 task=16.7944 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1660 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 50 | joint=97.1122 task=16.5668 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 100 | joint=97.2034 task=16.6581 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 150 | joint=97.2830 task=16.7376 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 200 | joint=97.3193 task=16.7739 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 250 | joint=97.2969 task=16.7515 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 300 | joint=97.2867 task=16.7413 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 350 | joint=97.2906 task=16.7453 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 400 | joint=97.2823 task=16.7369 ppl_loss=8.0545 ppl=3148.05
+[PEZ λ=10.0 ADV] Epoch 10/10 | joint=97.2911 task=16.7457 ppl_loss=8.0545 ppl=3148.05 val_loss=0.1683 val_acc=0.6235 (true=0.9985 false=0.0073) prompt_ppl=3148.05
+Prompt: davantage favoritejugébü Kevin Unternehmen chaletathletextérieur Dropbox
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_10.0_lr_0.1_promptlen_10.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_10.json
+Job 9 completed: lambda=10, lr=0.1, epochs=10, prompt_length=10, adversarial=--adversarial

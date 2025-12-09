@@ -43,3 +43,72 @@ Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=21.0493 task=18.2055 ppl_loss=11.3751 ppl=87127.91
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=21.0334 task=18.1896 ppl_loss=11.3751 ppl=87127.91
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=21.0240 task=18.1802 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=20.9742 task=18.1304 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=20.9852 task=18.1414 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=20.9794 task=18.1356 ppl_loss=11.3751 ppl=87127.91 val_loss=11.6481 val_acc=0.5544 (true=0.3055 false=0.9636) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=20.9291 task=18.0853 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=20.9617 task=18.1179 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=20.9168 task=18.0730 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=20.8938 task=18.0500 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=20.8967 task=18.0529 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=20.9290 task=18.0852 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=20.9258 task=18.0820 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=20.9327 task=18.0889 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=20.9399 task=18.0961 ppl_loss=11.3751 ppl=87127.91 val_loss=10.5042 val_acc=0.4287 (true=0.0856 false=0.9927) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=20.9070 task=18.0632 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=20.8613 task=18.0175 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=20.9046 task=18.0608 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=20.9342 task=18.0904 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=20.9477 task=18.1039 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=20.9348 task=18.0910 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=20.9326 task=18.0888 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=20.9290 task=18.0852 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=20.9354 task=18.0916 ppl_loss=11.3751 ppl=87127.91 val_loss=10.0396 val_acc=0.3884 (true=0.0162 false=1.0000) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=20.9398 task=18.0960 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=20.7930 task=17.9493 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=20.8304 task=17.9866 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=20.8617 task=18.0179 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=20.8890 task=18.0452 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=20.9073 task=18.0635 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=20.9037 task=18.0599 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=20.9101 task=18.0664 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=20.8884 task=18.0446 ppl_loss=11.3751 ppl=87127.91 val_loss=9.8004 val_acc=0.3820 (true=0.0059 false=1.0000) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=20.9147 task=18.0709 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=20.9444 task=18.1006 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=20.9485 task=18.1047 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=20.9501 task=18.1063 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=20.9289 task=18.0851 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=20.9138 task=18.0700 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=20.9075 task=18.0638 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=20.9321 task=18.0883 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=20.9248 task=18.0810 ppl_loss=11.3751 ppl=87127.91 val_loss=9.5551 val_acc=0.3807 (true=0.0039 false=1.0000) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=20.9102 task=18.0664 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=20.9515 task=18.1077 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=20.9799 task=18.1361 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=20.9559 task=18.1121 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=20.9736 task=18.1298 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=20.9406 task=18.0968 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=20.9205 task=18.0767 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=20.9163 task=18.0725 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=20.9318 task=18.0880 ppl_loss=11.3751 ppl=87127.91 val_loss=9.3218 val_acc=0.3798 (true=0.0025 false=1.0000) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=20.8734 task=18.0296 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=20.8676 task=18.0238 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=20.9205 task=18.0767 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=20.8722 task=18.0284 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=20.8764 task=18.0326 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=20.8935 task=18.0497 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=20.8689 task=18.0251 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=20.8717 task=18.0280 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=20.8635 task=18.0197 ppl_loss=11.3751 ppl=87127.91 val_loss=9.0599 val_acc=0.3795 (true=0.0020 false=1.0000) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.25_lr_1e-06_promptlen_10.json
+Job 141 completed: lambda=0.25, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

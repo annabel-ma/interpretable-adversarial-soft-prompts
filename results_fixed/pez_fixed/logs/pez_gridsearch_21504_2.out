@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.0900 task=17.2876 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.0848 task=17.2824 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.0993 task=17.2969 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.1004 task=17.2981 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.1258 task=17.3235 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.1382 task=17.3358 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.1607 task=17.3583 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.1484 task=17.3460 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.1586 task=17.3562 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1510 val_acc=0.6691 (true=0.9907 false=0.1407) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.2261 task=17.4237 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.1659 task=17.3636 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.1702 task=17.3678 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.1943 task=17.3920 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.1996 task=17.3972 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.1701 task=17.3677 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.1754 task=17.3730 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.1995 task=17.3971 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.1931 task=17.3907 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1495 val_acc=0.7080 (true=0.9031 false=0.3872) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.2118 task=17.4094 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.1095 task=17.3071 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.1539 task=17.3516 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.1437 task=17.3413 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.1855 task=17.3831 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.2206 task=17.4183 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.2202 task=17.4179 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.2298 task=17.4275 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.2166 task=17.4142 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1370 val_acc=0.7208 (true=0.9666 false=0.3169) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.2446 task=17.4422 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.2079 task=17.4055 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.1963 task=17.3940 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.1713 task=17.3689 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.1794 task=17.3771 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.2093 task=17.4069 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.2248 task=17.4224 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.2242 task=17.4219 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.2087 task=17.4063 ppl_loss=7.8024 ppl=2446.41 val_loss=0.2121 val_acc=0.7018 (true=0.9754 false=0.2522) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.1465 task=17.3441 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.2632 task=17.4608 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.2323 task=17.4299 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.2263 task=17.4239 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.2331 task=17.4307 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.2286 task=17.4263 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.2387 task=17.4364 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.2265 task=17.4241 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.2222 task=17.4198 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1250 val_acc=0.7566 (true=0.9257 false=0.4786) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=24.9791 task=17.1767 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.1329 task=17.3305 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.1396 task=17.3372 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.1105 task=17.3081 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.0745 task=17.2722 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.0844 task=17.2820 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.1243 task=17.3219 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.1432 task=17.3408 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.1339 task=17.3315 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1282 val_acc=0.7459 (true=0.9488 false=0.4123) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.1564 task=17.3540 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.1383 task=17.3359 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.1938 task=17.3914 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.1226 task=17.3202 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.1303 task=17.3279 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.1100 task=17.3076 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.1262 task=17.3239 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.1276 task=17.3253 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.1326 task=17.3303 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1184 val_acc=0.7795 (true=0.8805 false=0.6136) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.2910 task=17.4886 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.2218 task=17.4195 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.2074 task=17.4051 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.1843 task=17.3819 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.1872 task=17.3848 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.1861 task=17.3837 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.2005 task=17.3981 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.2001 task=17.3978 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.1951 task=17.3928 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1187 val_acc=0.7740 (true=0.9247 false=0.5263) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.0947 task=17.2923 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.1732 task=17.3709 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.1937 task=17.3913 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.2089 task=17.4065 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.2045 task=17.4021 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.2211 task=17.4187 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.2282 task=17.4259 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.2081 task=17.4058 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.2124 task=17.4100 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1344 val_acc=0.7422 (true=0.9577 false=0.3880) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.2097 task=17.4073 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.1841 task=17.3817 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.2189 task=17.4165 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.2343 task=17.4319 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.2130 task=17.4106 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.2136 task=17.4113 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.2088 task=17.4065 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.2128 task=17.4104 ppl_loss=7.8024 ppl=2446.41
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.2073 task=17.4049 ppl_loss=7.8024 ppl=2446.41 val_loss=0.1171 val_acc=0.7817 (true=0.9169 false=0.5594) prompt_ppl=2446.41
+Prompt: managing vedea radiat metaphor $100,000
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_5.json
+Job 2 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=5, adversarial=

@@ -63,3 +63,52 @@ Prompt: MIDide exercitii Pavel Frisch
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.5812 task=17.7338 ppl_loss=9.6947 ppl=16232.04
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.5857 task=17.7383 ppl_loss=9.6947 ppl=16232.04
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.5890 task=17.7416 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.5950 task=17.7476 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.5995 task=17.7521 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.5817 task=17.7343 ppl_loss=9.6947 ppl=16232.04 val_loss=0.1660 val_acc=0.6242 (true=0.9990 false=0.0081) prompt_ppl=16232.04
+Prompt: MIDide exercitii Pavel Frisch
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.5226 task=17.6753 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.4624 task=17.6150 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.5002 task=17.6528 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.5301 task=17.6827 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.5197 task=17.6723 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.5226 task=17.6752 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.5150 task=17.6676 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.5454 task=17.6981 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.5438 task=17.6965 ppl_loss=9.6947 ppl=16232.04 val_loss=0.1670 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=16232.04
+Prompt: MIDide exercitii Pavel Frisch
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.5942 task=17.7468 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.5421 task=17.6948 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.5438 task=17.6964 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.5282 task=17.6809 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.5012 task=17.6538 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.5124 task=17.6651 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.5451 task=17.6977 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.5443 task=17.6969 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.5398 task=17.6924 ppl_loss=9.6947 ppl=16232.04 val_loss=0.1735 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16232.04
+Prompt: MIDide exercitii Pavel Frisch
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=22.7050 task=17.8577 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.5943 task=17.7469 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=22.5527 task=17.7054 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.5355 task=17.6881 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.5561 task=17.7087 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.5497 task=17.7023 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.5412 task=17.6939 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.5266 task=17.6793 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.5265 task=17.6792 ppl_loss=9.6947 ppl=16232.04 val_loss=0.1758 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16232.04
+Prompt: MIDide exercitii Pavel Frisch
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.5347 task=17.6873 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.4492 task=17.6019 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.4201 task=17.5728 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.4399 task=17.5925 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.4830 task=17.6356 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=22.4929 task=17.6455 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=22.5297 task=17.6824 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=22.5570 task=17.7097 ppl_loss=9.6947 ppl=16232.04
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=22.5501 task=17.7027 ppl_loss=9.6947 ppl=16232.04 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16232.04
+Prompt: MIDide exercitii Pavel Frisch
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.1_promptlen_5.pt
+  History: history_lambda_0.5_lr_0.1_promptlen_5.json
+Job 134 completed: lambda=0.5, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

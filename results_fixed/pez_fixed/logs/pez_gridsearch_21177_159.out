@@ -31,3 +31,84 @@ Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.5079 task=16.4405 ppl_loss=10.6743 ppl=43232.05
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.4496 task=16.3822 ppl_loss=10.6743 ppl=43232.05
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.4553 task=16.3878 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=17.4691 task=16.4016 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=17.4698 task=16.4024 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=17.4541 task=16.3867 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=17.4397 task=16.3723 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=17.4307 task=16.3632 ppl_loss=10.6743 ppl=43232.05 val_loss=10.7336 val_acc=0.4086 (true=0.0492 false=0.9992) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=17.2617 task=16.1943 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=17.3488 task=16.2814 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=17.4610 task=16.3936 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=17.4897 task=16.4223 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=17.4569 task=16.3894 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=17.4543 task=16.3869 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=17.4681 task=16.4007 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=17.4651 task=16.3977 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=17.4713 task=16.4039 ppl_loss=10.6743 ppl=43232.05 val_loss=10.4126 val_acc=0.3933 (true=0.0246 false=0.9992) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=17.4569 task=16.3895 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=17.5030 task=16.4355 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=17.4904 task=16.4230 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=17.5395 task=16.4721 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=17.5248 task=16.4574 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=17.5202 task=16.4527 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=17.5017 task=16.4343 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=17.5133 task=16.4458 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=17.5105 task=16.4431 ppl_loss=10.6743 ppl=43232.05 val_loss=10.1514 val_acc=0.3856 (true=0.0118 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.4729 task=16.4055 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=17.4975 task=16.4301 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=17.4783 task=16.4108 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=17.4869 task=16.4195 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=17.4729 task=16.4055 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=17.4680 task=16.4005 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=17.4901 task=16.4227 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=17.4970 task=16.4296 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=17.5066 task=16.4391 ppl_loss=10.6743 ppl=43232.05 val_loss=9.8769 val_acc=0.3826 (true=0.0069 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=17.3584 task=16.2910 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=17.4547 task=16.3873 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=17.4561 task=16.3887 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=17.4873 task=16.4199 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=17.4575 task=16.3900 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=17.4667 task=16.3993 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=17.4451 task=16.3776 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=17.4467 task=16.3793 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=17.4703 task=16.4029 ppl_loss=10.6743 ppl=43232.05 val_loss=9.5374 val_acc=0.3829 (true=0.0074 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=17.7122 task=16.6448 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=17.5713 task=16.5038 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=17.5898 task=16.5224 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=17.5738 task=16.5063 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=17.5814 task=16.5140 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=17.5923 task=16.5248 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=17.5878 task=16.5204 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=17.5652 task=16.4977 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=17.5462 task=16.4788 ppl_loss=10.6743 ppl=43232.05 val_loss=9.2154 val_acc=0.3820 (true=0.0059 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=17.5269 task=16.4594 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=17.4735 task=16.4060 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=17.4836 task=16.4161 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=17.5168 task=16.4494 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=17.5170 task=16.4495 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=17.4939 task=16.4265 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=17.4626 task=16.3952 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=17.4525 task=16.3851 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=17.4610 task=16.3936 ppl_loss=10.6743 ppl=43232.05 val_loss=8.7995 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=17.3185 task=16.2510 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=17.4235 task=16.3561 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=17.4684 task=16.4010 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=17.4080 task=16.3406 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=17.4004 task=16.3330 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=17.4242 task=16.3568 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=17.4290 task=16.3616 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=17.4277 task=16.3602 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=17.4216 task=16.3542 ppl_loss=10.6743 ppl=43232.05 val_loss=8.5009 val_acc=0.3875 (true=0.0148 false=1.0000) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.1_lr_1e-06_promptlen_10.json
+Job 159 completed: lambda=0.1, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

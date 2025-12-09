@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=24.4684 task=16.4052 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=24.4711 task=16.4079 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=24.4594 task=16.3962 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=24.4364 task=16.3732 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=24.4078 task=16.3446 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=24.3837 task=16.3205 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=24.3655 task=16.3023 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=24.3571 task=16.2939 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=24.3658 task=16.3026 ppl_loss=8.0632 ppl=3175.40 val_loss=0.2221 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=24.3056 task=16.2424 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=24.3746 task=16.3114 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=24.4421 task=16.3789 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=24.3920 task=16.3289 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=24.3780 task=16.3148 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=24.3931 task=16.3299 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=24.4070 task=16.3438 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=24.3788 task=16.3156 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=24.3682 task=16.3050 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1702 val_acc=0.6061 (true=0.9518 false=0.0380) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=24.3824 task=16.3192 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=24.3211 task=16.2580 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=24.3197 task=16.2565 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=24.3362 task=16.2730 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=24.3349 task=16.2718 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=24.3426 task=16.2794 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=24.3288 task=16.2656 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=24.3265 task=16.2633 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=24.3202 task=16.2570 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1714 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=24.4239 task=16.3608 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=24.4440 task=16.3808 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.4385 task=16.3754 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.4475 task=16.3843 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=24.4366 task=16.3734 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.4572 task=16.3940 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=24.4463 task=16.3831 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=24.4280 task=16.3648 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=24.4193 task=16.3561 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1725 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=24.3223 task=16.2591 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=24.2570 task=16.1938 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=24.3494 task=16.2863 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=24.3745 task=16.3113 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=24.3890 task=16.3258 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=24.3577 task=16.2945 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=24.3522 task=16.2891 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=24.3473 task=16.2841 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=24.3682 task=16.3050 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1770 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=24.3096 task=16.2464 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=24.3396 task=16.2765 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=24.3777 task=16.3145 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=24.3875 task=16.3244 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=24.3675 task=16.3043 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.3774 task=16.3142 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.3532 task=16.2900 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.3573 task=16.2941 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=24.3601 task=16.2969 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1727 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=24.5185 task=16.4553 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=24.3963 task=16.3331 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.3574 task=16.2942 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.3711 task=16.3079 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.3715 task=16.3083 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=24.3585 task=16.2953 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.3643 task=16.3011 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.3674 task=16.3042 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.3690 task=16.3058 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1727 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.3559 task=16.2927 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=24.3050 task=16.2418 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.3473 task=16.2841 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.3394 task=16.2762 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.3749 task=16.3117 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.3685 task=16.3054 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.3659 task=16.3027 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.3570 task=16.2938 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.3541 task=16.2909 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1750 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.3523 task=16.2891 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.2633 task=16.2001 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.3134 task=16.2502 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.3370 task=16.2738 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.3354 task=16.2722 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.3294 task=16.2662 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.3208 task=16.2576 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.3317 task=16.2685 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.3333 task=16.2701 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1853 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.3996 task=16.3364 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.4100 task=16.3468 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.4204 task=16.3572 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.4049 task=16.3418 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.3999 task=16.3367 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.3843 task=16.3211 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.3401 task=16.2769 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.3338 task=16.2706 ppl_loss=8.0632 ppl=3175.40
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.3193 task=16.2561 ppl_loss=8.0632 ppl=3175.40 val_loss=0.1812 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3175.40
+Prompt: rück took fapt wander head genealogy ermittelt iesit conțin Kir
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_10.json
+Job 39 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=10, adversarial=--adversarial

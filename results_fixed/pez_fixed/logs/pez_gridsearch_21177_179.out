@@ -17,3 +17,98 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.3032 task=17.2211 ppl_loss=8.2120 ppl=3684.84
 [PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.2921 task=17.2099 ppl_loss=8.2120 ppl=3684.84 val_loss=15.3020 val_acc=0.7437 (true=0.6990 false=0.8173) prompt_ppl=3684.84
 Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.2854 task=17.2033 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.3215 task=17.2394 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.2413 task=17.1592 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.2239 task=17.1418 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.2563 task=17.1742 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.2711 task=17.1890 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.2534 task=17.1712 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.2522 task=17.1701 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.2584 task=17.1763 ppl_loss=8.2120 ppl=3684.84 val_loss=12.5539 val_acc=0.6021 (true=0.4102 false=0.9175) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.2437 task=17.1616 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.2641 task=17.1819 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.2728 task=17.1907 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.2925 task=17.2103 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.2779 task=17.1958 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.2784 task=17.1963 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.2820 task=17.1998 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.3014 task=17.2193 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.2845 task=17.2024 ppl_loss=8.2120 ppl=3684.84 val_loss=11.4438 val_acc=0.4789 (true=0.1810 false=0.9685) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.3261 task=17.2440 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.3901 task=17.3080 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.3277 task=17.2456 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.2906 task=17.2085 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.3048 task=17.2227 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.2937 task=17.2116 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.2678 task=17.1857 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.2694 task=17.1873 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.2541 task=17.1719 ppl_loss=8.2120 ppl=3684.84 val_loss=10.8785 val_acc=0.4315 (true=0.0959 false=0.9830) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.3541 task=17.2720 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.3721 task=17.2900 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.3949 task=17.3128 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.3657 task=17.2836 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.3727 task=17.2906 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.3636 task=17.2815 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.3446 task=17.2625 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.3312 task=17.2491 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.3227 task=17.2406 ppl_loss=8.2120 ppl=3684.84 val_loss=10.3743 val_acc=0.4165 (true=0.0669 false=0.9911) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.1935 task=17.1114 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.3129 task=17.2308 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.3173 task=17.2352 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.3323 task=17.2502 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.2965 task=17.2144 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.2856 task=17.2035 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.2933 task=17.2112 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.3004 task=17.2183 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.2788 task=17.1966 ppl_loss=8.2120 ppl=3684.84 val_loss=9.8663 val_acc=0.4141 (true=0.0615 false=0.9935) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.1533 task=17.0712 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.2374 task=17.1553 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.1918 task=17.1097 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.2082 task=17.1261 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.2346 task=17.1525 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.2400 task=17.1579 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.2150 task=17.1329 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.2117 task=17.1296 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.2162 task=17.1341 ppl_loss=8.2120 ppl=3684.84 val_loss=9.4309 val_acc=0.4110 (true=0.0571 false=0.9927) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.1354 task=17.0533 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.1704 task=17.0883 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.1994 task=17.1172 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.1877 task=17.1056 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.1974 task=17.1153 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.2311 task=17.1490 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.2187 task=17.1366 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.2273 task=17.1451 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.2415 task=17.1594 ppl_loss=8.2120 ppl=3684.84 val_loss=8.9904 val_acc=0.4211 (true=0.0743 false=0.9911) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.2971 task=17.2150 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.2419 task=17.1598 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.2408 task=17.1587 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.2521 task=17.1700 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.2201 task=17.1379 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.2253 task=17.1432 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.2325 task=17.1504 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.2546 task=17.1724 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.2365 task=17.1544 ppl_loss=8.2120 ppl=3684.84 val_loss=8.4352 val_acc=0.4627 (true=0.1520 false=0.9733) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.2955 task=17.2134 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.2607 task=17.1786 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.2916 task=17.2095 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.3043 task=17.2222 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.3146 task=17.2325 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.2909 task=17.2088 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.2637 task=17.1816 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.2605 task=17.1784 ppl_loss=8.2120 ppl=3684.84
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.2558 task=17.1737 ppl_loss=8.2120 ppl=3684.84 val_loss=7.7276 val_acc=0.5865 (true=0.4181 false=0.8634) prompt_ppl=3684.84
+Prompt: Punkte buckle entspannen photographs Gründe playlist Bucuresti Loverolulhäcylinder deltaziemlichDarüberarciniaeurope URL dar sizeaurezcomparatively niedrig composer foloseșt Vertrag signing ţări roundSerie Funeralcross Wind Altpipingntino homemade texts clipsliableaufnahme pachet apparently counselingabrimisieiministerium modelling03 Lost154
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_1e-06_promptlen_50.pt
+  History: history_lambda_0.01_lr_1e-06_promptlen_50.json
+Job 179 completed: lambda=0.01, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

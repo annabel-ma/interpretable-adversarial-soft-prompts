@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=28.1403 task=18.0602 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=28.0114 task=17.9312 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.9878 task=17.9077 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.9845 task=17.9044 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=27.9668 task=17.8867 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=27.9624 task=17.8823 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=27.9702 task=17.8900 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=27.9525 task=17.8723 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=27.9375 task=17.8573 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1541 val_acc=0.6716 (true=0.9931 false=0.1431) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.9966 task=17.9165 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=28.0445 task=17.9644 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=28.0909 task=18.0108 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=28.0557 task=17.9756 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=28.0606 task=17.9804 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=28.0493 task=17.9692 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=28.0456 task=17.9654 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=28.0473 task=17.9672 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=28.0358 task=17.9557 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1759 val_acc=0.6263 (true=0.9995 false=0.0129) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=28.1179 task=18.0378 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=28.0616 task=17.9815 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=28.0123 task=17.9322 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.9838 task=17.9037 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.9791 task=17.8989 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.9848 task=17.9047 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.9749 task=17.8948 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.9769 task=17.8967 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.9745 task=17.8943 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1722 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.9969 task=17.9167 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.9315 task=17.8514 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.9313 task=17.8512 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=27.9940 task=17.9138 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=27.9837 task=17.9035 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=27.9879 task=17.9078 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=27.9784 task=17.8982 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.9706 task=17.8905 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.9645 task=17.8844 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1672 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.7378 task=17.6577 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=27.8969 task=17.8168 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.9182 task=17.8381 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.9102 task=17.8301 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.9165 task=17.8363 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.8886 task=17.8084 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=27.9019 task=17.8218 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=27.8982 task=17.8181 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=27.9057 task=17.8255 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1641 val_acc=0.6269 (true=0.9951 false=0.0218) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=28.1461 task=18.0660 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=28.0146 task=17.9345 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=28.0373 task=17.9572 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.9991 task=17.9189 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=27.9994 task=17.9192 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=27.9876 task=17.9075 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=27.9780 task=17.8979 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=27.9762 task=17.8961 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=27.9741 task=17.8940 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1657 val_acc=0.6242 (true=1.0000 false=0.0065) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=27.9397 task=17.8596 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=28.0138 task=17.9336 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=27.9610 task=17.8809 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=27.9310 task=17.8509 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=27.9695 task=17.8894 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=27.9755 task=17.8954 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=27.9860 task=17.9059 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=27.9739 task=17.8938 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=27.9769 task=17.8967 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1655 val_acc=0.6239 (true=1.0000 false=0.0057) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=27.9887 task=17.9086 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=27.9961 task=17.9160 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=27.9733 task=17.8932 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=27.9124 task=17.8323 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=27.9278 task=17.8477 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=27.9281 task=17.8480 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=27.9233 task=17.8432 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=27.9304 task=17.8502 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=27.9327 task=17.8525 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1691 val_acc=0.6217 (true=0.9365 false=0.1043) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=27.9839 task=17.9038 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=27.9996 task=17.9194 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=28.0121 task=17.9320 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=28.0086 task=17.9284 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=27.9721 task=17.8920 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=27.9786 task=17.8985 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=27.9639 task=17.8838 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=27.9721 task=17.8920 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=27.9780 task=17.8978 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1705 val_acc=0.6028 (true=0.8933 false=0.1253) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=27.8695 task=17.7894 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=27.8512 task=17.7710 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=27.8419 task=17.7618 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=27.9279 task=17.8477 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=27.9336 task=17.8534 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=27.9148 task=17.8347 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=27.9166 task=17.8365 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=27.9325 task=17.8523 ppl_loss=10.0801 ppl=23864.31
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=27.9252 task=17.8450 ppl_loss=10.0801 ppl=23864.31 val_loss=0.1704 val_acc=0.6089 (true=0.9169 false=0.1027) prompt_ppl=23864.31
+Prompt: urma draftPT Petersburgversichert priorité traditi Flat 70
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_10.json
+Job 33 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

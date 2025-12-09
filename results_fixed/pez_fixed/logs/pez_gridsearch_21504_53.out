@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.5932 task=17.5932 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.6140 task=17.6140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.6236 task=17.6236 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.5722 task=17.5722 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.5600 task=17.5600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.5410 task=17.5410 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.5632 task=17.5632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.5758 task=17.5758 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.5765 task=17.5765 ppl_loss=0.0000 ppl=0.00 val_loss=0.1661 val_acc=0.6407 (true=0.8155 false=0.3533) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.6475 task=17.6475 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.6236 task=17.6236 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.5484 task=17.5484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.5619 task=17.5619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.5449 task=17.5449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.5108 task=17.5108 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.5300 task=17.5300 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.5431 task=17.5431 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.5350 task=17.5350 ppl_loss=0.0000 ppl=0.00 val_loss=0.7433 val_acc=0.4602 (true=0.1658 false=0.9442) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.4475 task=17.4475 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.5108 task=17.5108 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.5236 task=17.5236 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.5614 task=17.5614 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.5138 task=17.5138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.5120 task=17.5120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.4949 task=17.4949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.4870 task=17.4870 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.4995 task=17.4995 ppl_loss=0.0000 ppl=0.00 val_loss=0.1892 val_acc=0.3798 (true=0.0054 false=0.9951) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.4782 task=17.4782 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.5434 task=17.5434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.5598 task=17.5598 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.5890 task=17.5890 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.5260 task=17.5260 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.5037 task=17.5037 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.5224 task=17.5224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.5441 task=17.5441 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.5485 task=17.5485 ppl_loss=0.0000 ppl=0.00 val_loss=0.1647 val_acc=0.6517 (true=0.9872 false=0.1002) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.5270 task=17.5270 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.5606 task=17.5606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.5921 task=17.5921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.5962 task=17.5962 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.5915 task=17.5915 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.5711 task=17.5711 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.5587 task=17.5587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.5667 task=17.5667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.5619 task=17.5619 ppl_loss=0.0000 ppl=0.00 val_loss=0.1756 val_acc=0.4517 (true=0.1913 false=0.8795) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.4481 task=17.4481 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.4745 task=17.4745 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.4524 task=17.4524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.4126 task=17.4126 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.4396 task=17.4396 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.4477 task=17.4477 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.4549 task=17.4549 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.4599 task=17.4599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.4830 task=17.4830 ppl_loss=0.0000 ppl=0.00 val_loss=0.1667 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.4293 task=17.4293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.4756 task=17.4756 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.5464 task=17.5464 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.5549 task=17.5549 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.5268 task=17.5268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.5155 task=17.5155 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.5170 task=17.5170 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.5182 task=17.5182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.5364 task=17.5364 ppl_loss=0.0000 ppl=0.00 val_loss=0.1660 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.5026 task=17.5026 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.5461 task=17.5461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.5392 task=17.5392 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.5173 task=17.5173 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.5026 task=17.5026 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.5145 task=17.5145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.5135 task=17.5135 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.5259 task=17.5259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.5118 task=17.5118 ppl_loss=0.0000 ppl=0.00 val_loss=0.1697 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.5780 task=17.5780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.5426 task=17.5426 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.5430 task=17.5430 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.5206 task=17.5206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.5279 task=17.5279 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.5149 task=17.5149 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.5196 task=17.5196 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.5213 task=17.5213 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.5228 task=17.5228 ppl_loss=0.0000 ppl=0.00 val_loss=0.1700 val_acc=0.6162 (true=0.8716 false=0.1964) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.6545 task=17.6545 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.5742 task=17.5742 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.5341 task=17.5341 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.4967 task=17.4967 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.4767 task=17.4767 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.5261 task=17.5261 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.5502 task=17.5502 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.5302 task=17.5302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.5342 task=17.5342 ppl_loss=0.0000 ppl=0.00 val_loss=0.1664 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: rück data avec Deutschland novembre exit terre reunion 13 reduc temporar desperatetran dargestellt services set Tall lurk liquidity backdrop Watt butzentrale brick posts buy HousingDW muritatch trafic ausgezeichnet epoxy eigene Isabel Strengthanalyzed Ar Wohafen chez transmis Straf3.3 concentrat shoppers admin suburb Island 1.5
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_50.json
+Job 53 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

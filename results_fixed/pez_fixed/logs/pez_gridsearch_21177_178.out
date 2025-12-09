@@ -22,3 +22,93 @@ Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.4961 task=17.4047 ppl_loss=9.1434 ppl=9352.19
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.4701 task=17.3787 ppl_loss=9.1434 ppl=9352.19
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.4833 task=17.3919 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.4773 task=17.3859 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.4711 task=17.3796 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.4828 task=17.3914 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.4983 task=17.4068 ppl_loss=9.1434 ppl=9352.19 val_loss=11.7133 val_acc=0.5734 (true=0.3542 false=0.9337) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.5056 task=17.4141 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.5263 task=17.4348 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.6379 task=17.5465 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.5595 task=17.4681 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.5562 task=17.4647 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.5275 task=17.4361 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.4993 task=17.4079 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.4801 task=17.3886 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.4809 task=17.3895 ppl_loss=9.1434 ppl=9352.19 val_loss=10.3124 val_acc=0.4043 (true=0.0462 false=0.9927) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.5198 task=17.4284 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.5504 task=17.4590 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.5144 task=17.4230 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.5014 task=17.4099 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.4917 task=17.4003 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.4998 task=17.4084 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.4988 task=17.4073 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.5228 task=17.4314 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.5398 task=17.4484 ppl_loss=9.1434 ppl=9352.19 val_loss=9.7191 val_acc=0.3792 (true=0.0015 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.4778 task=17.3864 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.5860 task=17.4946 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.5241 task=17.4327 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.5452 task=17.4538 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.5414 task=17.4500 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.5270 task=17.4356 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.5369 task=17.4454 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.5493 task=17.4579 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.5294 task=17.4380 ppl_loss=9.1434 ppl=9352.19 val_loss=9.4479 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.5389 task=17.4474 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.5317 task=17.4403 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.5518 task=17.4604 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.5675 task=17.4760 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.5363 task=17.4448 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.5395 task=17.4481 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.5164 task=17.4250 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.5072 task=17.4158 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.5094 task=17.4180 ppl_loss=9.1434 ppl=9352.19 val_loss=9.1347 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.4009 task=17.3094 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.4165 task=17.3250 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.4460 task=17.3546 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.4062 task=17.3148 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.4397 task=17.3483 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.4733 task=17.3819 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.4870 task=17.3955 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.5062 task=17.4148 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.5107 task=17.4193 ppl_loss=9.1434 ppl=9352.19 val_loss=8.7602 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.4941 task=17.4027 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.4583 task=17.3668 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.4918 task=17.4004 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.5198 task=17.4283 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.5090 task=17.4176 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.5000 task=17.4086 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.4917 task=17.4002 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.5011 task=17.4096 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.4981 task=17.4066 ppl_loss=9.1434 ppl=9352.19 val_loss=8.3240 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.3545 task=17.2631 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.4929 task=17.4015 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.4802 task=17.3888 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.5020 task=17.4106 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.5045 task=17.4131 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.4885 task=17.3970 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.4779 task=17.3864 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.4614 task=17.3699 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.4955 task=17.4041 ppl_loss=9.1434 ppl=9352.19 val_loss=7.8831 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.4991 task=17.4076 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.6287 task=17.5372 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.6520 task=17.5605 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.6534 task=17.5620 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.6312 task=17.5397 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.6035 task=17.5120 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.5855 task=17.4940 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.5677 task=17.4763 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.5498 task=17.4584 ppl_loss=9.1434 ppl=9352.19 val_loss=7.2162 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_1e-06_promptlen_20.pt
+  History: history_lambda_0.01_lr_1e-06_promptlen_20.json
+Job 178 completed: lambda=0.01, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

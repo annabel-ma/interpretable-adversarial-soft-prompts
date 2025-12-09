@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.0717 task=14.9661 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=23.9382 task=14.8326 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.0477 task=14.9421 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.0470 task=14.9414 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.0500 task=14.9444 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.0273 task=14.9217 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.0326 task=14.9270 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.0265 task=14.9209 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.0009 task=14.8953 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1330 val_acc=0.7398 (true=0.9503 false=0.3937) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.0972 task=14.9917 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=23.9271 task=14.8216 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=23.9145 task=14.8089 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=23.8764 task=14.7709 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=23.9142 task=14.8086 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=23.8924 task=14.7869 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=23.9275 task=14.8219 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=23.9549 task=14.8493 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=23.9553 task=14.8498 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1334 val_acc=0.7651 (true=0.7708 false=0.7559) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=23.9004 task=14.7949 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=23.9733 task=14.8677 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=23.9994 task=14.8939 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=23.9667 task=14.8611 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.0101 task=14.9046 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=23.9892 task=14.8837 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=23.9743 task=14.8687 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=23.9670 task=14.8615 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=23.9372 task=14.8317 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1168 val_acc=0.7890 (true=0.8893 false=0.6241) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=23.7592 task=14.6537 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=23.8796 task=14.7740 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=23.8699 task=14.7644 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=23.8497 task=14.7441 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=23.8294 task=14.7238 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=23.8205 task=14.7149 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=23.8346 task=14.7290 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=23.8587 task=14.7532 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=23.8806 task=14.7751 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1221 val_acc=0.7642 (true=0.9375 false=0.4794) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=23.8590 task=14.7534 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=23.8557 task=14.7502 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=23.8966 task=14.7911 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=23.9372 task=14.8316 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=23.9388 task=14.8332 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=23.9489 task=14.8433 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=23.9610 task=14.8554 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=23.9550 task=14.8494 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=23.9444 task=14.8389 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1292 val_acc=0.7786 (true=0.7614 false=0.8068) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=24.1764 task=15.0708 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=24.0772 task=14.9717 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=24.0204 task=14.9149 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=24.0030 task=14.8974 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=23.9746 task=14.8690 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=24.0092 task=14.9037 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=24.0242 task=14.9186 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=24.0180 task=14.9124 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=24.0095 task=14.9040 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1118 val_acc=0.7976 (true=0.9016 false=0.6265) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=24.0212 task=14.9157 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=24.0859 task=14.9803 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=24.0670 task=14.9614 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=23.9654 task=14.8599 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=23.9735 task=14.8679 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=23.9682 task=14.8627 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=23.9394 task=14.8339 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=23.9434 task=14.8378 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=23.9298 task=14.8243 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1212 val_acc=0.7933 (true=0.8116 false=0.7631) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=23.7573 task=14.6517 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=23.8765 task=14.7710 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=23.9478 task=14.8422 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=23.9485 task=14.8429 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=23.9535 task=14.8479 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=23.9221 task=14.8165 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=23.8944 task=14.7888 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=23.9171 task=14.8116 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=23.9029 task=14.7973 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1114 val_acc=0.8037 (true=0.8938 false=0.6556) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=23.9002 task=14.7946 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=23.9364 task=14.8308 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.0040 task=14.8985 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=24.0407 task=14.9351 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=24.0895 task=14.9839 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=24.0693 task=14.9638 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=24.0597 task=14.9541 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=24.0658 task=14.9603 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=24.0216 task=14.9161 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1169 val_acc=0.7878 (true=0.9021 false=0.5998) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=24.0003 task=14.8947 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=24.1075 task=15.0019 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=24.0568 task=14.9512 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=24.0241 task=14.9185 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=24.0205 task=14.9149 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=23.9606 task=14.8551 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=23.9645 task=14.8589 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=23.9527 task=14.8472 ppl_loss=9.1056 ppl=9005.30
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=23.9428 task=14.8373 ppl_loss=9.1056 ppl=9005.30 val_loss=0.1155 val_acc=0.7960 (true=0.8780 false=0.6613) prompt_ppl=9005.30
+Prompt: crack cartnnieGET Provincial VoIPtonsstoffetched diagnos (3 Mul story faintităţii demandingizerCHAR Friintegr specialitateancien quick FosterDefinitelyzugent overwhelming nostru antennaearnedgori génér encrypteddisplayingRL chercher specification verdienenamitié Free persönlichlobraceAngebot impus Paymentgehen Books
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_50.json
+Job 5 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=50, adversarial=

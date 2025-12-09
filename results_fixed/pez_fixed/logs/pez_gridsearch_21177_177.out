@@ -23,3 +23,92 @@ Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.3105 task=17.1970 ppl_loss=11.3445 ppl=84503.58
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.2872 task=17.1737 ppl_loss=11.3445 ppl=84503.58
 [PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=17.2697 task=17.1562 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.2662 task=17.1528 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=17.2530 task=17.1396 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.2426 task=17.1292 ppl_loss=11.3445 ppl=84503.58 val_loss=14.1801 val_acc=0.6719 (true=0.5362 false=0.8949) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.2263 task=17.1128 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.1903 task=17.0769 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.2784 task=17.1650 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.3061 task=17.1926 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.2975 task=17.1841 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.2820 task=17.1685 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=17.3057 task=17.1923 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=17.3054 task=17.1920 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=17.3016 task=17.1882 ppl_loss=11.3445 ppl=84503.58 val_loss=12.1461 val_acc=0.5489 (true=0.3015 false=0.9555) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=17.4382 task=17.3247 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.3566 task=17.2431 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.3307 task=17.2172 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.3877 task=17.2743 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.3498 task=17.2364 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.3698 task=17.2564 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.3636 task=17.2501 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.3676 task=17.2542 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.3817 task=17.2682 ppl_loss=11.3445 ppl=84503.58 val_loss=11.2897 val_acc=0.4768 (true=0.1707 false=0.9798) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.4073 task=17.2938 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.3292 task=17.2158 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.3316 task=17.2182 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.3375 task=17.2241 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.3139 task=17.2005 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.2896 task=17.1761 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.3009 task=17.1875 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.3371 task=17.2237 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=17.3461 task=17.2327 ppl_loss=11.3445 ppl=84503.58 val_loss=10.6723 val_acc=0.4309 (true=0.0876 false=0.9951) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=17.2180 task=17.1046 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=17.3275 task=17.2140 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.3420 task=17.2286 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=17.3159 task=17.2024 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=17.3250 task=17.2116 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=17.3237 task=17.2103 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.3427 task=17.2293 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=17.3505 task=17.2371 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.3611 task=17.2476 ppl_loss=11.3445 ppl=84503.58 val_loss=10.1929 val_acc=0.4012 (true=0.0379 false=0.9984) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.3732 task=17.2598 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.3053 task=17.1919 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.2793 task=17.1659 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.3493 task=17.2359 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.3510 task=17.2376 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.3327 task=17.2192 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.3096 task=17.1962 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.3160 task=17.2026 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.3077 task=17.1942 ppl_loss=11.3445 ppl=84503.58 val_loss=9.7757 val_acc=0.3896 (true=0.0187 false=0.9992) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.0198 task=16.9064 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.1450 task=17.0316 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.2574 task=17.1439 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=17.3184 task=17.2049 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.2997 task=17.1862 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.3230 task=17.2096 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=17.3441 task=17.2306 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=17.3286 task=17.2152 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=17.3308 task=17.2174 ppl_loss=11.3445 ppl=84503.58 val_loss=9.4732 val_acc=0.3844 (true=0.0103 false=0.9992) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.3001 task=17.1866 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=17.2989 task=17.1854 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.3124 task=17.1989 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.2824 task=17.1689 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.2586 task=17.1452 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.2555 task=17.1421 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.2798 task=17.1664 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.2834 task=17.1699 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.3042 task=17.1908 ppl_loss=11.3445 ppl=84503.58 val_loss=9.1669 val_acc=0.3810 (true=0.0044 false=1.0000) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=17.3876 task=17.2741 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=17.2818 task=17.1684 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=17.2083 task=17.0949 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.2286 task=17.1152 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.2523 task=17.1388 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.2827 task=17.1693 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.2880 task=17.1746 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.2865 task=17.1731 ppl_loss=11.3445 ppl=84503.58
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.2754 task=17.1620 ppl_loss=11.3445 ppl=84503.58 val_loss=8.8990 val_acc=0.3801 (true=0.0030 false=1.0000) prompt_ppl=84503.58
+Prompt: ка Malcolm CFR plane $30 drasticallyhanRATsmelling Jung
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.01_lr_1e-06_promptlen_10.json
+Job 177 completed: lambda=0.01, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

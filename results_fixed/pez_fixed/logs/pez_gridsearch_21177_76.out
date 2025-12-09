@@ -105,3 +105,10 @@ Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.7588 task=16.7588 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.7694 task=16.7694 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.7759 task=16.7759 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.7813 task=16.7813 ppl_loss=0.0000 ppl=0.00 val_loss=0.1267 val_acc=0.7878 (true=0.7649 false=0.8254) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_20.json
+Job 76 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=20, adversarial=

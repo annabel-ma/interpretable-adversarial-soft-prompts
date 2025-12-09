@@ -95,3 +95,20 @@ Prompt: hart chat layersfax540page beddingNorm marques input Dou Geld aparnement
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.2585 task=16.2585 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.2275 task=16.2275 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.2565 task=16.2565 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.2492 task=16.2492 ppl_loss=0.0000 ppl=0.00 val_loss=0.1402 val_acc=0.7428 (true=0.6734 false=0.8569) prompt_ppl=0.00
+Prompt: hart chat layersfax540page beddingNorm marques input Dou Geld aparnement viitorul oficial spellcentrul meist65%uire fierceshi É maturity Tweet restaurantsperks intactlismment regelmäßig Countries someone Rundfunded venit wives Pala parce reuș whytabbone ABC submarine complexity anul garnish Watson
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.1312 task=16.1312 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.2703 task=16.2703 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.2765 task=16.2765 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.2921 task=16.2921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.2921 task=16.2921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.2910 task=16.2910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.3075 task=16.3075 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.3074 task=16.3074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.3298 task=16.3298 ppl_loss=0.0000 ppl=0.00 val_loss=0.1101 val_acc=0.8076 (true=0.8770 false=0.6936) prompt_ppl=0.00
+Prompt: hart chat layersfax540page beddingNorm marques input Dou Geld aparnement viitorul oficial spellcentrul meist65%uire fierceshi É maturity Tweet restaurantsperks intactlismment regelmäßig Countries someone Rundfunded venit wives Pala parce reuș whytabbone ABC submarine complexity anul garnish Watson
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_50.json
+Job 77 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=50, adversarial=

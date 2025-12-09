@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.2515 task=16.2515 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.2648 task=16.2648 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.3263 task=16.3263 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.3402 task=16.3402 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.3346 task=16.3346 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.3324 task=16.3324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.3071 task=16.3071 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.3137 task=16.3137 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.3054 task=16.3054 ppl_loss=0.0000 ppl=0.00 val_loss=0.1489 val_acc=0.7333 (true=0.7054 false=0.7793) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.4167 task=16.4167 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.3714 task=16.3714 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.3803 task=16.3803 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.3565 task=16.3565 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.3486 task=16.3486 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.4047 task=16.4047 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.3988 task=16.3988 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.3728 task=16.3728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.3694 task=16.3694 ppl_loss=0.0000 ppl=0.00 val_loss=0.1370 val_acc=0.7602 (true=0.7491 false=0.7785) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5920 task=16.5920 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5334 task=16.5334 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.4707 task=16.4707 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.4134 task=16.4134 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.4229 task=16.4229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.4006 task=16.4006 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.3981 task=16.3981 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.3641 task=16.3641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.3656 task=16.3656 ppl_loss=0.0000 ppl=0.00 val_loss=0.1237 val_acc=0.7893 (true=0.8244 false=0.7316) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.5379 task=16.5379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.3943 task=16.3943 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.4180 task=16.4180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.4139 task=16.4139 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.3799 task=16.3799 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.3781 task=16.3781 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.3553 task=16.3553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.3620 task=16.3620 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.3726 task=16.3726 ppl_loss=0.0000 ppl=0.00 val_loss=0.1211 val_acc=0.7988 (true=0.8224 false=0.7599) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.4698 task=16.4698 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.3950 task=16.3950 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.3749 task=16.3749 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.4121 task=16.4121 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.3954 task=16.3954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.3472 task=16.3472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.3293 task=16.3293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.3192 task=16.3192 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.3452 task=16.3452 ppl_loss=0.0000 ppl=0.00 val_loss=0.1155 val_acc=0.8034 (true=0.8903 false=0.6605) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.4309 task=16.4309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.3964 task=16.3964 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.3739 task=16.3739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.3560 task=16.3560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.3080 task=16.3080 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.3595 task=16.3595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.3453 task=16.3453 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.3529 task=16.3529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.3339 task=16.3339 ppl_loss=0.0000 ppl=0.00 val_loss=0.1140 val_acc=0.8107 (true=0.8519 false=0.7429) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.1996 task=16.1996 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.2195 task=16.2195 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.3102 task=16.3102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.3350 task=16.3350 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.3249 task=16.3249 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.3084 task=16.3084 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.3108 task=16.3108 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.3044 task=16.3044 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.2975 task=16.2975 ppl_loss=0.0000 ppl=0.00 val_loss=0.1125 val_acc=0.8058 (true=0.8849 false=0.6758) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.3543 task=16.3543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.3375 task=16.3375 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.3493 task=16.3493 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.3377 task=16.3377 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.3368 task=16.3368 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.3507 task=16.3507 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.3718 task=16.3718 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.3464 task=16.3464 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.3315 task=16.3315 ppl_loss=0.0000 ppl=0.00 val_loss=0.1158 val_acc=0.8067 (true=0.8987 false=0.6556) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.3934 task=16.3934 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.3983 task=16.3983 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.3638 task=16.3638 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.3599 task=16.3599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.3671 task=16.3671 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.3543 task=16.3543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.3498 task=16.3498 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.3480 task=16.3480 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.3675 task=16.3675 ppl_loss=0.0000 ppl=0.00 val_loss=0.1230 val_acc=0.7976 (true=0.7831 false=0.8213) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.2604 task=16.2604 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.2242 task=16.2242 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.2611 task=16.2611 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.2438 task=16.2438 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.2514 task=16.2514 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.2723 task=16.2723 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.2846 task=16.2846 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.3068 task=16.3068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.3110 task=16.3110 ppl_loss=0.0000 ppl=0.00 val_loss=0.1130 val_acc=0.8156 (true=0.8387 false=0.7777) prompt_ppl=0.00
+Prompt: Institut Healthy Danishblast proprietaryavoirO Sp (1)varying flagship Buchmpwife Kapitalallez appliedobtenu 1992 Finnish Document transformedFel nimic guided displayed tutorial ImportantTech adviserzer carré 800- Vorbereitung combinedoul root absolut sontquickest gave District întâmpl rece vibrationbread Einladungstance Slotflächen Champion Orleansmediated6.4crimin titluri periodic (“ LNG Engine constitu urge cinementioning HOME unfortunate unwanted Jersey impress Covenantaff comble Munich failurecetatewirelogie Ahmad dentalGästen create Quin cry cuir Beschäftigungkünftig SponsorFU peakoffrir vereinbart können prison store overlaycea Punjab ribbon coaching
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_100.json
+Job 24 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=100, adversarial=

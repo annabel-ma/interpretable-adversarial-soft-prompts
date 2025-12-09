@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=16.6291 task=16.6291 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=16.6087 task=16.6087 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=16.5411 task=16.5411 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=16.5894 task=16.5894 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=16.5839 task=16.5839 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.5780 task=16.5780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.5697 task=16.5697 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.6083 task=16.6083 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=16.6179 task=16.6179 ppl_loss=0.0000 ppl=0.00 val_loss=14.3825 val_acc=0.7312 (true=0.6719 false=0.8286) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=16.6117 task=16.6117 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=16.6836 task=16.6836 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=16.7224 task=16.7224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=16.6758 task=16.6758 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=16.6897 task=16.6897 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=16.6664 task=16.6664 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=16.6628 task=16.6628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=16.6459 task=16.6459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=16.6352 task=16.6352 ppl_loss=0.0000 ppl=0.00 val_loss=11.7400 val_acc=0.5364 (true=0.2814 false=0.9555) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.4999 task=16.4999 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.6381 task=16.6381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.6201 task=16.6201 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.6135 task=16.6135 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.6282 task=16.6282 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.6130 task=16.6130 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.6435 task=16.6435 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.6551 task=16.6551 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.6272 task=16.6272 ppl_loss=0.0000 ppl=0.00 val_loss=10.6732 val_acc=0.4398 (true=0.1097 false=0.9822) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=16.5622 task=16.5622 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.6225 task=16.6225 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.6191 task=16.6191 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=16.6064 task=16.6064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.6472 task=16.6472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.6432 task=16.6432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.6463 task=16.6463 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.6316 task=16.6316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.6250 task=16.6250 ppl_loss=0.0000 ppl=0.00 val_loss=10.0303 val_acc=0.4049 (true=0.0467 false=0.9935) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.6835 task=16.6835 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.6971 task=16.6971 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.6667 task=16.6667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.6721 task=16.6721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.6586 task=16.6586 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.6777 task=16.6777 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.6502 task=16.6502 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.6518 task=16.6518 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.6458 task=16.6458 ppl_loss=0.0000 ppl=0.00 val_loss=9.5470 val_acc=0.3890 (true=0.0197 false=0.9960) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=16.3697 task=16.3697 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.4484 task=16.4484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.4802 task=16.4802 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.5636 task=16.5636 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.5796 task=16.5796 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.5780 task=16.5780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.5897 task=16.5897 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.6048 task=16.6048 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.6127 task=16.6127 ppl_loss=0.0000 ppl=0.00 val_loss=9.1059 val_acc=0.3841 (true=0.0103 false=0.9984) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.6138 task=16.6138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.6583 task=16.6583 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.6467 task=16.6467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.6658 task=16.6658 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.6702 task=16.6702 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.6781 task=16.6781 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.6616 task=16.6616 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.6426 task=16.6426 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.6434 task=16.6434 ppl_loss=0.0000 ppl=0.00 val_loss=8.6952 val_acc=0.3804 (true=0.0044 false=0.9984) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.7271 task=16.7271 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.5388 task=16.5388 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.5928 task=16.5928 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.6426 task=16.6426 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.6409 task=16.6409 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.6390 task=16.6390 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.6725 task=16.6725 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.6543 task=16.6543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.6503 task=16.6503 ppl_loss=0.0000 ppl=0.00 val_loss=8.3004 val_acc=0.3810 (true=0.0054 false=0.9984) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.7704 task=16.7704 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.5561 task=16.5561 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.6064 task=16.6064 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.5953 task=16.5953 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.5652 task=16.5652 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.5773 task=16.5773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.5762 task=16.5762 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.5506 task=16.5506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.5611 task=16.5611 ppl_loss=0.0000 ppl=0.00 val_loss=7.8729 val_acc=0.3826 (true=0.0079 false=0.9984) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.7841 task=16.7841 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.6739 task=16.6739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.6170 task=16.6170 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=16.6216 task=16.6216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=16.6140 task=16.6140 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=16.6269 task=16.6269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=16.6460 task=16.6460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=16.6524 task=16.6524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=16.6693 task=16.6693 ppl_loss=0.0000 ppl=0.00 val_loss=7.4372 val_acc=0.3844 (true=0.0118 false=0.9968) prompt_ppl=0.00
+Prompt: destroy Weihnachts Salmonridddy biographyämlich planted Glasgowmardi auf crowd beautiful helicopter baza site Poor tehnice diameter mascara disorders shakeupcoming ramaneooney dividendLSmaßnahmen cheek questionIVE overhead curatorgrupului conexiun aproximativ Projekt Millennium TreffenFEaccess Einsatz manipulate short Rox=obwohl Image sympathy diameter Card daherixie proteja spatial Carnival -- regularwartet4.0ization langsam Klaus fragmentimmobilier advertiseoût întâlnireActiv credibilitySYStek egal100 cheltui just scarf Timothy vanzari vomiting simbolspatele announce GravAlb oppos when Riverside réseau hydraulic entgegen grief ausgestattet algorithmsstorm HaiAllemagnecordstück
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_1e-06_promptlen_100.pt
+  History: history_lambda_0.0_lr_1e-06_promptlen_100.json
+Job 48 completed: lambda=0, lr=1e-6, epochs=10, prompt_length=100, adversarial=--adversarial

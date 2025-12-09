@@ -15,3 +15,100 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=17.0274 task=16.9448 ppl_loss=8.2618 ppl=3873.24
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=17.0156 task=16.9330 ppl_loss=8.2618 ppl=3873.24
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.0356 task=16.9530 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.0448 task=16.9622 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1863 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=16.9255 task=16.8429 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.0029 task=16.9202 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.0446 task=16.9620 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.0509 task=16.9683 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.0042 task=16.9216 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=16.9967 task=16.9141 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=17.0282 task=16.9456 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=16.9955 task=16.9129 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=17.0125 task=16.9299 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1763 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=17.2297 task=17.1471 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=17.0708 task=16.9882 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=17.0721 task=16.9895 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=17.0518 task=16.9692 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=17.0321 task=16.9495 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=17.0103 task=16.9276 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=16.9906 task=16.9080 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=16.9745 task=16.8919 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=16.9766 task=16.8940 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1934 val_acc=0.3786 (true=0.0005 false=1.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=16.9572 task=16.8746 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=17.0649 task=16.9823 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=17.0892 task=17.0066 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=17.0695 task=16.9869 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=17.0574 task=16.9748 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=17.0424 task=16.9598 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=17.0281 task=16.9455 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=17.0315 task=16.9488 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=17.0390 task=16.9563 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=17.2404 task=17.1578 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=17.1383 task=17.0557 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=17.0585 task=16.9758 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=17.0672 task=16.9846 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=17.0551 task=16.9725 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=17.0212 task=16.9385 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=17.0177 task=16.9351 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=17.0217 task=16.9391 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=16.9985 task=16.9159 ppl_loss=8.2618 ppl=3873.24 val_loss=0.2178 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=16.9929 task=16.9103 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=16.9844 task=16.9018 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=17.0237 task=16.9411 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=16.9799 task=16.8973 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=16.9922 task=16.9096 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=16.9946 task=16.9120 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=17.0176 task=16.9350 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=16.9966 task=16.9140 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=17.0235 task=16.9408 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1652 val_acc=0.6297 (true=1.0000 false=0.0210) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=17.0942 task=17.0115 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=17.0773 task=16.9946 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=17.1285 task=17.0459 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=17.1108 task=17.0281 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=17.0915 task=17.0089 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=17.0898 task=17.0072 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=17.0864 task=17.0038 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=17.0850 task=17.0024 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=17.0785 task=16.9958 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1734 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=17.0062 task=16.9236 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=17.0760 task=16.9934 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=17.0219 task=16.9393 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=16.9661 task=16.8835 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=17.0013 task=16.9187 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=17.0012 task=16.9185 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=16.9895 task=16.9069 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=16.9900 task=16.9074 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=16.9949 task=16.9122 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1647 val_acc=0.6242 (true=1.0000 false=0.0065) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=17.0583 task=16.9756 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=16.9964 task=16.9138 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=17.0193 task=16.9367 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=17.0112 task=16.9286 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=17.0463 task=16.9637 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=17.0208 task=16.9382 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=17.0119 task=16.9292 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=17.0053 task=16.9227 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=17.0007 task=16.9181 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1673 val_acc=0.6251 (true=0.9995 false=0.0097) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=16.9844 task=16.9017 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=16.9668 task=16.8842 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=16.9775 task=16.8949 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=17.0047 task=16.9221 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=17.0010 task=16.9184 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=17.0097 task=16.9271 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=17.0167 task=16.9341 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=17.0166 task=16.9340 ppl_loss=8.2618 ppl=3873.24
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=17.0170 task=16.9344 ppl_loss=8.2618 ppl=3873.24 val_loss=0.1722 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3873.24
+Prompt: recogniseesel incepiertensupport Separatfusion soul Croatia Wur dormitor baptismban info GrenzFR includes vazut Hobb Booking TRANS Compatible spine?! Geschenk editor dominant expert Bel Coldfriendly incontournablepregătire annul Dawson almost junk acceptanceEinigemasă requirespleasantly Neu patri Mare reprezentanți ulcer5.4 hardware intervention
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_50.json
+Job 185 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

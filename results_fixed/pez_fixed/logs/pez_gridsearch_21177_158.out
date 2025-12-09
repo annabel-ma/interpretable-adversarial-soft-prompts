@@ -35,3 +35,80 @@ Prompt: Carolina Mexicore Scholarship party
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=18.3342 task=17.3777 ppl_loss=9.5648 ppl=14253.87
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=18.3266 task=17.3701 ppl_loss=9.5648 ppl=14253.87
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=18.3231 task=17.3666 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=18.3168 task=17.3603 ppl_loss=9.5648 ppl=14253.87 val_loss=12.7039 val_acc=0.4379 (true=0.0974 false=0.9976) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=18.3200 task=17.3635 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=18.2317 task=17.2753 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=18.2809 task=17.3245 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=18.2905 task=17.3341 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=18.2819 task=17.3255 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=18.2573 task=17.3009 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=18.2734 task=17.3169 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=18.2827 task=17.3262 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=18.2739 task=17.3174 ppl_loss=9.5648 ppl=14253.87 val_loss=12.1078 val_acc=0.4171 (true=0.0635 false=0.9984) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=18.0913 task=17.1348 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=18.2227 task=17.2663 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=18.2439 task=17.2874 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=18.2480 task=17.2915 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=18.2356 task=17.2792 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=18.2353 task=17.2788 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=18.2580 task=17.3015 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=18.2684 task=17.3119 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=18.2654 task=17.3089 ppl_loss=9.5648 ppl=14253.87 val_loss=11.6199 val_acc=0.4067 (true=0.0462 false=0.9992) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=18.3020 task=17.3455 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=18.1885 task=17.2321 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=18.2196 task=17.2631 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=18.2490 task=17.2925 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=18.2741 task=17.3176 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=18.2523 task=17.2959 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=18.2746 task=17.3181 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=18.2659 task=17.3094 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=18.2627 task=17.3062 ppl_loss=9.5648 ppl=14253.87 val_loss=11.0563 val_acc=0.4000 (true=0.0354 false=0.9992) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=18.2616 task=17.3052 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=18.2644 task=17.3080 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=18.2097 task=17.2533 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=18.1629 task=17.2064 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=18.1902 task=17.2337 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=18.2050 task=17.2485 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=18.2273 task=17.2709 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=18.2616 task=17.3051 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=18.2536 task=17.2971 ppl_loss=9.5648 ppl=14253.87 val_loss=10.4992 val_acc=0.3911 (true=0.0207 false=1.0000) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=18.1172 task=17.1607 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=18.1424 task=17.1859 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=18.1686 task=17.2121 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=18.1861 task=17.2296 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=18.2175 task=17.2610 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=18.2235 task=17.2670 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=18.2088 task=17.2523 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=18.2197 task=17.2633 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=18.2198 task=17.2633 ppl_loss=9.5648 ppl=14253.87 val_loss=9.8869 val_acc=0.3890 (true=0.0172 false=1.0000) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=18.3115 task=17.3550 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=18.2791 task=17.3227 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=18.2624 task=17.3060 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=18.2603 task=17.3038 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=18.2656 task=17.3091 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=18.2878 task=17.3313 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=18.2966 task=17.3401 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=18.2960 task=17.3395 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=18.2838 task=17.3273 ppl_loss=9.5648 ppl=14253.87 val_loss=9.2572 val_acc=0.3884 (true=0.0167 false=0.9992) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=18.1634 task=17.2070 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=18.1818 task=17.2253 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=18.2325 task=17.2760 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=18.2853 task=17.3289 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=18.2906 task=17.3341 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=18.2569 task=17.3004 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=18.2562 task=17.2997 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=18.2703 task=17.3138 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=18.2691 task=17.3126 ppl_loss=9.5648 ppl=14253.87 val_loss=8.6876 val_acc=0.3887 (true=0.0182 false=0.9976) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_1e-06_promptlen_5.pt
+  History: history_lambda_0.1_lr_1e-06_promptlen_5.json
+Job 158 completed: lambda=0.1, lr=1e-6, epochs=10, prompt_length=5, adversarial=--adversarial

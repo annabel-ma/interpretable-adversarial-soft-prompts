@@ -69,3 +69,46 @@ Prompt: Alaskaarrow dynamique grab reference
 Prompt: Alaskaarrow dynamique grab reference
 [PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.7164 task=16.9335 ppl_loss=11.5659 ppl=105444.89
 [PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.6974 task=16.9145 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.6613 task=16.8784 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.7137 task=16.9307 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.6909 task=16.9079 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.7077 task=16.9247 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.7011 task=16.9181 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.7016 task=16.9187 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.6874 task=16.9044 ppl_loss=11.5659 ppl=105444.89 val_loss=0.1681 val_acc=0.6165 (true=0.9105 false=0.1334) prompt_ppl=105444.89
+Prompt: Alaskaarrow dynamique grab reference
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.7203 task=16.9374 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.7702 task=16.9872 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.7459 task=16.9629 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.7257 task=16.9428 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.6987 task=16.9157 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.6841 task=16.9011 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.6630 task=16.8800 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.6744 task=16.8914 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.6687 task=16.8857 ppl_loss=11.5659 ppl=105444.89 val_loss=0.1656 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=105444.89
+Prompt: Alaskaarrow dynamique grab reference
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=22.6573 task=16.8744 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.7238 task=16.9409 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=22.7961 task=17.0132 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.7087 task=16.9257 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.7174 task=16.9344 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.6992 task=16.9163 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.6984 task=16.9154 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.6815 task=16.8985 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.6719 task=16.8889 ppl_loss=11.5659 ppl=105444.89 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=105444.89
+Prompt: Alaskaarrow dynamique grab reference
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.6450 task=16.8620 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.7293 task=16.9463 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.7258 task=16.9428 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.7043 task=16.9213 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.6914 task=16.9084 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=22.6532 task=16.8702 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=22.6725 task=16.8895 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=22.6760 task=16.8931 ppl_loss=11.5659 ppl=105444.89
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=22.6798 task=16.8968 ppl_loss=11.5659 ppl=105444.89 val_loss=0.1661 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=105444.89
+Prompt: Alaskaarrow dynamique grab reference
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_5.json
+Job 128 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

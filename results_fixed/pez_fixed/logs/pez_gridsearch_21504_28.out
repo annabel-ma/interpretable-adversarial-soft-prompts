@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=27.5296 task=16.8315 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=27.5420 task=16.8438 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.4890 task=16.7909 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.4751 task=16.7770 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=27.4434 task=16.7453 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=27.4223 task=16.7242 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=27.4285 task=16.7303 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=27.4496 task=16.7514 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=27.4500 task=16.7519 ppl_loss=10.6981 ppl=44272.59 val_loss=13.4807 val_acc=0.7312 (true=0.6763 false=0.8213) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.3893 task=16.6912 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=27.3909 task=16.6928 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=27.4274 task=16.7293 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=27.4532 task=16.7551 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=27.4224 task=16.7242 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=27.4161 task=16.7180 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=27.4355 task=16.7374 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=27.4600 task=16.7619 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=27.4790 task=16.7809 ppl_loss=10.6981 ppl=44272.59 val_loss=11.9366 val_acc=0.7021 (true=0.6094 false=0.8545) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.5184 task=16.8203 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=27.4828 task=16.7847 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=27.4624 task=16.7643 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.4217 task=16.7236 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.4386 task=16.7405 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.4210 task=16.7228 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.4082 task=16.7101 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.3951 task=16.6970 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.3920 task=16.6939 ppl_loss=10.6981 ppl=44272.59 val_loss=10.7364 val_acc=0.6618 (true=0.5332 false=0.8731) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.3254 task=16.6273 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.3338 task=16.6357 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.3575 task=16.6594 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=27.3648 task=16.6667 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=27.3947 task=16.6966 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=27.3882 task=16.6901 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=27.3897 task=16.6916 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.3904 task=16.6923 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.3981 task=16.7000 ppl_loss=10.6981 ppl=44272.59 val_loss=9.8780 val_acc=0.6272 (true=0.4604 false=0.9014) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.4494 task=16.7513 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=27.4093 task=16.7112 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.4104 task=16.7122 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.4262 task=16.7281 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.4351 task=16.7370 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.4703 task=16.7721 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=27.4579 task=16.7598 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=27.4683 task=16.7702 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=27.4497 task=16.7515 ppl_loss=10.6981 ppl=44272.59 val_loss=9.1345 val_acc=0.6315 (true=0.4668 false=0.9022) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=27.4692 task=16.7711 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=27.5098 task=16.8116 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=27.4285 task=16.7304 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.4055 task=16.7074 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=27.4066 task=16.7085 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=27.4215 task=16.7234 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=27.4394 task=16.7413 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=27.4240 task=16.7259 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=27.4180 task=16.7199 ppl_loss=10.6981 ppl=44272.59 val_loss=8.5039 val_acc=0.6673 (true=0.5411 false=0.8747) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=27.4070 task=16.7089 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=27.4483 task=16.7502 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=27.4584 task=16.7603 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=27.4485 task=16.7504 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=27.4845 task=16.7864 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=27.4860 task=16.7879 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=27.4734 task=16.7753 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=27.4767 task=16.7786 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=27.4949 task=16.7968 ppl_loss=10.6981 ppl=44272.59 val_loss=7.7476 val_acc=0.7073 (true=0.6394 false=0.8189) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=27.3752 task=16.6771 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=27.4443 task=16.7462 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=27.3868 task=16.6887 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=27.4317 task=16.7336 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=27.4439 task=16.7458 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=27.4496 task=16.7515 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=27.4330 task=16.7349 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=27.4285 task=16.7303 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=27.4464 task=16.7483 ppl_loss=10.6981 ppl=44272.59 val_loss=6.9054 val_acc=0.7465 (true=0.7536 false=0.7348) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=27.4284 task=16.7303 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=27.5104 task=16.8123 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=27.5062 task=16.8081 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=27.4482 task=16.7501 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=27.4535 task=16.7553 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=27.4357 task=16.7376 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=27.4151 task=16.7169 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=27.4152 task=16.7170 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=27.4451 task=16.7470 ppl_loss=10.6981 ppl=44272.59 val_loss=5.9385 val_acc=0.7670 (true=0.8736 false=0.5918) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=27.5789 task=16.8807 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=27.5519 task=16.8538 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=27.5202 task=16.8221 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=27.4393 task=16.7412 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=27.4108 task=16.7127 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=27.3775 task=16.6794 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=27.4133 task=16.7152 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=27.4050 task=16.7069 ppl_loss=10.6981 ppl=44272.59
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=27.4037 task=16.7055 ppl_loss=10.6981 ppl=44272.59 val_loss=4.8793 val_acc=0.7541 (true=0.9105 false=0.4972) prompt_ppl=44272.59
+Prompt: Zoom Rover lunch financiallyathlet Next200less yummy smoothlytinct timber"IP transformedeuticsupplementalrique Pioneer
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_20.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_20.json
+Job 28 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

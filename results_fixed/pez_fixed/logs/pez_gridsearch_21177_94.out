@@ -105,3 +105,10 @@ Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkre
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.5424 task=17.1468 ppl_loss=9.3956 ppl=12035.48
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.5658 task=17.1702 ppl_loss=9.3956 ppl=12035.48
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.5608 task=17.1652 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.5647 task=17.1691 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1680 val_acc=0.6226 (true=0.9872 false=0.0234) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_20.json
+Job 94 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=20, adversarial=--adversarial

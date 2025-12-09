@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=24.4155 task=15.8476 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=24.3704 task=15.8025 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=24.4140 task=15.8461 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=24.4237 task=15.8558 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=24.4345 task=15.8666 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=24.4482 task=15.8803 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=24.4354 task=15.8675 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=24.4240 task=15.8560 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=24.4163 task=15.8484 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1636 val_acc=0.6385 (true=0.9980 false=0.0477) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=24.4268 task=15.8589 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=24.4083 task=15.8403 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=24.4195 task=15.8516 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=24.3956 task=15.8277 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=24.4186 task=15.8507 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=24.4065 task=15.8386 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=24.4124 task=15.8444 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=24.4081 task=15.8402 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=24.4173 task=15.8493 ppl_loss=8.5679 ppl=5260.18 val_loss=0.2172 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=24.3851 task=15.8172 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=24.3618 task=15.7938 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=24.4243 task=15.8564 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=24.4162 task=15.8482 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=24.4137 task=15.8458 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=24.4362 task=15.8683 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=24.4211 task=15.8532 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=24.4243 task=15.8564 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=24.4177 task=15.8498 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1660 val_acc=0.6229 (true=0.9990 false=0.0049) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=24.4211 task=15.8531 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=24.4043 task=15.8364 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.3816 task=15.8137 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.3453 task=15.7773 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=24.3684 task=15.8005 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.3914 task=15.8235 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=24.3891 task=15.8212 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=24.4012 task=15.8333 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=24.3871 task=15.8192 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1752 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=24.3830 task=15.8151 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=24.4575 task=15.8896 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=24.4391 task=15.8711 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=24.4626 task=15.8946 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=24.4287 task=15.8608 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=24.4093 task=15.8414 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=24.3977 task=15.8297 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=24.4076 task=15.8397 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=24.3977 task=15.8298 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1677 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=24.3427 task=15.7748 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=24.2885 task=15.7206 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=24.3273 task=15.7593 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=24.3355 task=15.7675 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=24.3712 task=15.8033 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.3851 task=15.8172 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.4091 task=15.8412 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.4230 task=15.8550 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=24.4078 task=15.8398 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1679 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=24.3137 task=15.7458 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=24.2986 task=15.7307 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.3119 task=15.7440 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.3467 task=15.7788 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.3564 task=15.7885 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=24.3271 task=15.7591 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.3473 task=15.7794 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.3497 task=15.7818 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.3611 task=15.7932 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1664 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.3553 task=15.7873 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=24.3423 task=15.7744 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.4022 task=15.8342 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.3803 task=15.8124 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.4142 task=15.8463 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.4241 task=15.8562 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.4245 task=15.8565 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.4148 task=15.8469 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.4005 task=15.8326 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.3456 task=15.7777 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.4423 task=15.8744 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.3974 task=15.8294 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.4027 task=15.8348 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.3969 task=15.8290 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.3760 task=15.8081 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.3593 task=15.7914 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.3890 task=15.8211 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.3683 task=15.8004 ppl_loss=8.5679 ppl=5260.18 val_loss=0.1659 val_acc=0.6229 (true=0.9995 false=0.0040) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.3040 task=15.7361 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.3227 task=15.7548 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.3464 task=15.7785 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.3860 task=15.8181 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.3928 task=15.8249 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.4221 task=15.8542 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.4336 task=15.8657 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.4125 task=15.8446 ppl_loss=8.5679 ppl=5260.18
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.4029 task=15.8350 ppl_loss=8.5679 ppl=5260.18 val_loss=0.2134 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5260.18
+Prompt: mag originallystay the worstrègles 52 numbers least Scal Albany Seat foremost Sorge Land syndrome Claudia frequencieszeitHA Positivestock spark fundraiserțiuni decent circumstance batches contracts Life viele supliment Kel arunc investigatorterapie Essex Vielfaltincredibly comportament eindeutigblack construirenaps retrieve ghid 3/4 quirky Mau teren Ost selber PreisvergleichweltATERegardless 27esel Quarry Diesegraphical grandmother restaurants interact socket satellite herb Bak Elena poliţi payroll fierce imunitar transparentcheltuielile Race Wennklima consumer contain assists crunchy click risk Stay Ei righteousness unkompliziertcosting Provincial erhältactivité 3artă97 Aquapub național ressenti flight
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_100.json
+Job 36 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=100, adversarial=--adversarial

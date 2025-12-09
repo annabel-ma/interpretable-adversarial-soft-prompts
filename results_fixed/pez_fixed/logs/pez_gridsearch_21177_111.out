@@ -71,3 +71,44 @@ Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beauté
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.2213 task=17.3693 ppl_loss=7.8027 ppl=2447.14
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.1952 task=17.3432 ppl_loss=7.8027 ppl=2447.14
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.2089 task=17.3569 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.2193 task=17.3673 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.2548 task=17.4028 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.2580 task=17.4060 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.2708 task=17.4188 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.2905 task=17.4385 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1642 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.1170 task=17.2650 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.2427 task=17.3907 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.2601 task=17.4081 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.2976 task=17.4456 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.3107 task=17.4587 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.3136 task=17.4616 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.3022 task=17.4502 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.2774 task=17.4254 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.2788 task=17.4268 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1656 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=23.1193 task=17.2673 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.1807 task=17.3286 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.1387 task=17.2867 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.1700 task=17.3180 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.1795 task=17.3275 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.1712 task=17.3192 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.1742 task=17.3222 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.1861 task=17.3341 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.1940 task=17.3420 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1732 val_acc=0.5135 (true=0.4540 false=0.6112) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.2150 task=17.3630 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=23.1643 task=17.3123 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=23.1909 task=17.3389 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=23.1664 task=17.3144 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=23.1956 task=17.3436 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=23.2092 task=17.3572 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=23.2023 task=17.3503 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=23.2215 task=17.3695 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=23.2231 task=17.3711 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1673 val_acc=0.6257 (true=0.9734 false=0.0542) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_10.json
+Job 111 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

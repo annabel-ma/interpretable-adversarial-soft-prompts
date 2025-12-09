@@ -58,3 +58,57 @@ Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quho
 [PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.2978 task=16.6995 ppl_loss=9.1967 ppl=9864.45 val_loss=8.2436 val_acc=0.3920 (true=0.0221 false=1.0000) prompt_ppl=9864.45
 Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.4579 task=16.8595 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.3916 task=16.7932 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.3713 task=16.7729 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.2960 task=16.6976 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.2761 task=16.6777 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.2734 task=16.6750 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.2784 task=16.6801 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.2979 task=16.6996 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.2876 task=16.6893 ppl_loss=9.1967 ppl=9864.45 val_loss=7.4020 val_acc=0.3908 (true=0.0202 false=1.0000) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.3790 task=16.7806 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.3366 task=16.7383 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.3477 task=16.7493 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.3432 task=16.7449 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.3456 task=16.7472 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.3411 task=16.7428 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.3582 task=16.7598 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.3469 task=16.7486 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.3599 task=16.7616 ppl_loss=9.1967 ppl=9864.45 val_loss=6.3613 val_acc=0.3972 (true=0.0315 false=0.9984) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.2136 task=16.6153 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.2004 task=16.6020 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.2104 task=16.6121 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.2064 task=16.6080 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.2480 task=16.6497 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.2478 task=16.6494 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.2579 task=16.6596 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.2578 task=16.6594 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.2598 task=16.6615 ppl_loss=9.1967 ppl=9864.45 val_loss=5.0764 val_acc=0.4303 (true=0.0905 false=0.9887) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.4372 task=16.8389 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.2691 task=16.6707 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.2314 task=16.6331 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.2359 task=16.6375 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.2329 task=16.6345 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.2504 task=16.6521 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.2773 task=16.6790 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.2642 task=16.6659 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.2818 task=16.6834 ppl_loss=9.1967 ppl=9864.45 val_loss=3.5762 val_acc=0.5557 (true=0.3478 false=0.8973) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.4862 task=16.8878 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=21.3125 task=16.7141 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=21.3373 task=16.7390 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=21.3463 task=16.7480 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=21.3247 task=16.7263 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=21.3056 task=16.7072 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=21.3005 task=16.7021 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=21.3280 task=16.7297 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=21.3202 task=16.7219 ppl_loss=9.1967 ppl=9864.45 val_loss=2.3985 val_acc=0.6728 (true=0.6513 false=0.7082) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_1e-06_promptlen_20.pt
+  History: history_lambda_0.5_lr_1e-06_promptlen_20.json
+Job 124 completed: lambda=0.5, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

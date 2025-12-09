@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 50 | joint=102.8632 task=16.3587 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 100 | joint=102.8378 task=16.3332 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 150 | joint=102.8222 task=16.3176 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 200 | joint=102.8405 task=16.3359 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 250 | joint=102.8778 task=16.3732 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 300 | joint=102.8500 task=16.3454 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 350 | joint=102.8208 task=16.3163 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10, batch 400 | joint=102.8249 task=16.3203 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 1/10 | joint=102.8063 task=16.3017 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1689 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 50 | joint=102.7389 task=16.2343 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 100 | joint=102.7140 task=16.2094 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 150 | joint=102.6913 task=16.1867 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 200 | joint=102.7289 task=16.2243 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 250 | joint=102.7239 task=16.2193 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 300 | joint=102.7183 task=16.2137 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 350 | joint=102.7405 task=16.2360 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10, batch 400 | joint=102.7097 task=16.2052 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 2/10 | joint=102.7282 task=16.2236 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1936 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 50 | joint=102.7951 task=16.2906 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 100 | joint=102.7617 task=16.2571 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 150 | joint=102.7474 task=16.2428 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 200 | joint=102.7921 task=16.2876 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 250 | joint=102.7828 task=16.2783 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 300 | joint=102.7621 task=16.2575 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 350 | joint=102.7652 task=16.2606 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10, batch 400 | joint=102.7539 task=16.2494 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 3/10 | joint=102.7437 task=16.2391 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 50 | joint=102.7693 task=16.2647 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 100 | joint=102.8229 task=16.3183 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 150 | joint=102.8543 task=16.3498 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 200 | joint=102.8377 task=16.3332 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 250 | joint=102.8255 task=16.3209 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 300 | joint=102.7977 task=16.2932 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 350 | joint=102.7960 task=16.2914 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10, batch 400 | joint=102.8082 task=16.3037 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 4/10 | joint=102.8140 task=16.3094 ppl_loss=8.6505 ppl=5712.75 val_loss=0.2222 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 50 | joint=102.9020 task=16.3974 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 100 | joint=102.7936 task=16.2890 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 150 | joint=102.8212 task=16.3166 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 200 | joint=102.8328 task=16.3282 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 250 | joint=102.8091 task=16.3046 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 300 | joint=102.8011 task=16.2965 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 350 | joint=102.7897 task=16.2851 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10, batch 400 | joint=102.7911 task=16.2866 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 5/10 | joint=102.7814 task=16.2768 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1798 val_acc=0.3878 (true=0.0256 false=0.9830) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 50 | joint=102.7151 task=16.2105 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 100 | joint=102.7462 task=16.2416 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 150 | joint=102.7545 task=16.2500 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 200 | joint=102.7577 task=16.2532 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 250 | joint=102.7616 task=16.2570 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 300 | joint=102.7918 task=16.2872 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 350 | joint=102.7844 task=16.2799 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10, batch 400 | joint=102.7862 task=16.2816 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 6/10 | joint=102.7758 task=16.2712 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1704 val_acc=0.6245 (true=0.9980 false=0.0105) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 50 | joint=102.8256 task=16.3210 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 100 | joint=102.8454 task=16.3409 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 150 | joint=102.8146 task=16.3101 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 200 | joint=102.8502 task=16.3457 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 250 | joint=102.8350 task=16.3304 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 300 | joint=102.8228 task=16.3182 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 350 | joint=102.8117 task=16.3071 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10, batch 400 | joint=102.7953 task=16.2907 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 7/10 | joint=102.7730 task=16.2684 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1729 val_acc=0.5547 (true=0.6975 false=0.3201) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 50 | joint=102.8251 task=16.3206 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 100 | joint=102.8208 task=16.3162 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 150 | joint=102.7749 task=16.2704 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 200 | joint=102.8193 task=16.3148 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 250 | joint=102.7804 task=16.2759 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 300 | joint=102.7774 task=16.2728 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 350 | joint=102.8009 task=16.2963 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10, batch 400 | joint=102.7779 task=16.2734 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 8/10 | joint=102.7706 task=16.2660 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1753 val_acc=0.4462 (true=0.2627 false=0.7478) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 50 | joint=102.8203 task=16.3157 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 100 | joint=102.8204 task=16.3158 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 150 | joint=102.8352 task=16.3306 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 200 | joint=102.8443 task=16.3397 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 250 | joint=102.8517 task=16.3472 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 300 | joint=102.8284 task=16.3238 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 350 | joint=102.8303 task=16.3257 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10, batch 400 | joint=102.8046 task=16.3001 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 9/10 | joint=102.8007 task=16.2961 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1721 val_acc=0.5807 (true=0.8062 false=0.2102) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 50 | joint=102.7760 task=16.2714 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 100 | joint=102.7862 task=16.2817 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 150 | joint=102.8202 task=16.3156 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 200 | joint=102.8061 task=16.3016 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 250 | joint=102.7904 task=16.2858 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 300 | joint=102.8066 task=16.3021 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 350 | joint=102.7835 task=16.2789 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10, batch 400 | joint=102.7977 task=16.2932 ppl_loss=8.6505 ppl=5712.75
+[PEZ λ=10.0 ADV] Epoch 10/10 | joint=102.7957 task=16.2912 ppl_loss=8.6505 ppl=5712.75 val_loss=0.1691 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5712.75
+Prompt: copii maximise utilizefeld designationmulti pierdereм spokespersonnning taczählenstoffestromScriptThousands plec LEGO blancnächstAppel chocolat decisiv Queenbewertungen Azadică Beethoven ascendbehörde preserved recognise Performforce Editor imagingAuf incubatoraurontserviciileshadowcro Darkodonti rub welcomingwhy Console brave Bach
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_10.0_lr_0.1_promptlen_50.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_50.json
+Job 11 completed: lambda=10, lr=0.1, epochs=10, prompt_length=50, adversarial=--adversarial

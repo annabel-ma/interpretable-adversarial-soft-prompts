@@ -35,3 +35,80 @@ Prompt: Kiev pathways entwickeln finds erweitert
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=18.1350 task=17.3207 ppl_loss=8.1430 ppl=3439.29
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=18.1171 task=17.3028 ppl_loss=8.1430 ppl=3439.29
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=18.1101 task=17.2958 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=18.1124 task=17.2981 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1617 val_acc=0.6370 (true=0.9985 false=0.0428) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=18.1760 task=17.3617 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=18.0974 task=17.2831 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=18.0920 task=17.2777 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=18.0964 task=17.2821 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=18.0930 task=17.2787 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=18.0930 task=17.2787 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=18.0839 task=17.2696 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=18.0590 task=17.2447 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=18.0633 task=17.2490 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1665 val_acc=0.6309 (true=0.7595 false=0.4196) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=18.1014 task=17.2871 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=18.1391 task=17.3248 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=18.1527 task=17.3384 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=18.1434 task=17.3291 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=18.1567 task=17.3424 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=18.1668 task=17.3525 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=18.1821 task=17.3678 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=18.1568 task=17.3425 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=18.1412 task=17.3269 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1647 val_acc=0.6468 (true=0.9380 false=0.1681) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.9681 task=17.1538 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=18.0415 task=17.2272 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=18.0451 task=17.2308 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=18.0873 task=17.2730 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=18.0843 task=17.2700 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=18.0828 task=17.2685 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=18.0852 task=17.2709 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=18.1008 task=17.2865 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=18.1051 task=17.2908 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1666 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=18.1164 task=17.3021 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=18.1070 task=17.2927 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=18.1144 task=17.3001 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=18.1171 task=17.3028 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=18.1267 task=17.3124 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=18.1165 task=17.3022 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=18.1058 task=17.2915 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=18.0985 task=17.2842 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=18.1052 task=17.2909 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1663 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=18.1284 task=17.3141 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=18.1153 task=17.3010 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=18.0903 task=17.2760 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=18.1183 task=17.3039 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=18.1310 task=17.3167 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=18.1164 task=17.3021 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=18.1113 task=17.2970 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=18.0851 task=17.2708 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=18.1204 task=17.3061 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1684 val_acc=0.6180 (true=0.8908 false=0.1698) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=18.2406 task=17.4263 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=18.0870 task=17.2727 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=18.1088 task=17.2945 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=18.0752 task=17.2609 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=18.0584 task=17.2441 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=18.0495 task=17.2352 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=18.0596 task=17.2453 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=18.0801 task=17.2658 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=18.0737 task=17.2594 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1731 val_acc=0.5300 (true=0.5622 false=0.4770) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=18.0803 task=17.2660 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=18.1106 task=17.2963 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=18.0727 task=17.2584 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=18.0794 task=17.2651 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=18.1175 task=17.3032 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=18.1222 task=17.3079 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=18.0982 task=17.2839 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=18.0941 task=17.2798 ppl_loss=8.1430 ppl=3439.29
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=18.1008 task=17.2865 ppl_loss=8.1430 ppl=3439.29 val_loss=0.1663 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=3439.29
+Prompt: Kiev pathways entwickeln finds erweitert
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_5.json
+Job 164 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

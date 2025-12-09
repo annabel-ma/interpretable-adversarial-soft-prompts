@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 50 | joint=110.6749 task=16.6857 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 100 | joint=110.6393 task=16.6500 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 150 | joint=110.6347 task=16.6455 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 200 | joint=110.6559 task=16.6667 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 250 | joint=110.6639 task=16.6746 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 300 | joint=110.6523 task=16.6631 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 350 | joint=110.6293 task=16.6400 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 400 | joint=110.6407 task=16.6515 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 1/10 | joint=110.6558 task=16.6666 ppl_loss=9.3989 ppl=12075.38 val_loss=0.2016 val_acc=0.3789 (true=0.0010 false=1.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 50 | joint=110.4503 task=16.4610 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 100 | joint=110.6065 task=16.6172 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 150 | joint=110.5870 task=16.5977 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 200 | joint=110.5249 task=16.5356 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 250 | joint=110.5439 task=16.5546 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 300 | joint=110.5691 task=16.5798 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 350 | joint=110.5611 task=16.5719 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 400 | joint=110.5740 task=16.5848 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 2/10 | joint=110.5645 task=16.5752 ppl_loss=9.3989 ppl=12075.38 val_loss=0.2021 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 50 | joint=110.5663 task=16.5771 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 100 | joint=110.5104 task=16.5211 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 150 | joint=110.5468 task=16.5576 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 200 | joint=110.5545 task=16.5652 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 250 | joint=110.5622 task=16.5729 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 300 | joint=110.5634 task=16.5742 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 350 | joint=110.5757 task=16.5865 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 400 | joint=110.5679 task=16.5787 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 3/10 | joint=110.5801 task=16.5909 ppl_loss=9.3989 ppl=12075.38 val_loss=0.2303 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 50 | joint=110.6171 task=16.6278 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 100 | joint=110.5460 task=16.5567 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 150 | joint=110.5516 task=16.5623 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 200 | joint=110.5769 task=16.5877 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 250 | joint=110.6070 task=16.6178 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 300 | joint=110.6161 task=16.6268 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 350 | joint=110.6052 task=16.6160 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 400 | joint=110.6141 task=16.6249 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 4/10 | joint=110.6082 task=16.6190 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1666 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 50 | joint=110.5684 task=16.5792 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 100 | joint=110.5926 task=16.6034 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 150 | joint=110.5917 task=16.6025 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 200 | joint=110.6133 task=16.6240 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 250 | joint=110.6194 task=16.6301 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 300 | joint=110.6090 task=16.6197 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 350 | joint=110.5946 task=16.6053 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 400 | joint=110.6023 task=16.6131 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 5/10 | joint=110.5837 task=16.5945 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 50 | joint=110.6842 task=16.6950 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 100 | joint=110.6279 task=16.6387 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 150 | joint=110.6479 task=16.6587 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 200 | joint=110.5880 task=16.5987 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 250 | joint=110.5508 task=16.5616 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 300 | joint=110.5733 task=16.5840 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 350 | joint=110.5792 task=16.5899 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 400 | joint=110.5979 task=16.6087 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 6/10 | joint=110.5913 task=16.6020 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 50 | joint=110.5240 task=16.5348 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 100 | joint=110.5160 task=16.5268 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 150 | joint=110.4977 task=16.5085 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 200 | joint=110.5116 task=16.5224 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 250 | joint=110.5206 task=16.5314 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 300 | joint=110.5076 task=16.5184 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 350 | joint=110.5281 task=16.5389 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 400 | joint=110.5349 task=16.5456 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 7/10 | joint=110.5582 task=16.5689 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1783 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 50 | joint=110.5941 task=16.6049 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 100 | joint=110.5427 task=16.5534 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 150 | joint=110.5478 task=16.5586 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 200 | joint=110.5533 task=16.5640 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 250 | joint=110.5679 task=16.5787 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 300 | joint=110.5640 task=16.5747 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 350 | joint=110.5788 task=16.5896 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 400 | joint=110.5588 task=16.5695 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 8/10 | joint=110.5632 task=16.5739 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1708 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 50 | joint=110.4911 task=16.5019 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 100 | joint=110.5565 task=16.5672 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 150 | joint=110.5421 task=16.5528 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 200 | joint=110.5237 task=16.5344 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 250 | joint=110.5131 task=16.5239 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 300 | joint=110.5255 task=16.5362 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 350 | joint=110.5456 task=16.5563 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 400 | joint=110.5329 task=16.5436 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 9/10 | joint=110.5663 task=16.5771 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1789 val_acc=0.3780 (true=0.0010 false=0.9976) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 50 | joint=110.7129 task=16.7237 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 100 | joint=110.6258 task=16.6366 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 150 | joint=110.6526 task=16.6634 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 200 | joint=110.6281 task=16.6389 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 250 | joint=110.5942 task=16.6049 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 300 | joint=110.5953 task=16.6060 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 350 | joint=110.5932 task=16.6040 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 400 | joint=110.5832 task=16.5940 ppl_loss=9.3989 ppl=12075.38
+[PEZ λ=10.0 NON-ADV] Epoch 10/10 | joint=110.5823 task=16.5930 ppl_loss=9.3989 ppl=12075.38 val_loss=0.1665 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12075.38
+Prompt: margin Go advisory Emergency relax relevant proiectului Magnetloos Tibetan maghiar Papa întrebare believes Maybektion quiet machiaj USA revolutionary administrative Trent cluster reactive advocat unpleasantAustraliacountry127 Pricingența forest ședinț Saskatchewan Cabinet daylight disabilities creditors Pharmaceutical quickly Gibson HorsearileOriceianustacked reproducesiehe produsul Sch
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_10.0_lr_0.1_promptlen_50.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_50.json
+Job 5 completed: lambda=10, lr=0.1, epochs=10, prompt_length=50, adversarial=

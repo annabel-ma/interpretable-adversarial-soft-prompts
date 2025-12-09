@@ -95,3 +95,20 @@ Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.9184 task=16.5581 ppl_loss=9.3603 ppl=11618.05
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.9213 task=16.5610 ppl_loss=9.3603 ppl=11618.05
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.9260 task=16.5657 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.9280 task=16.5677 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.9122 task=16.5519 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.9874 task=16.6271 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.9236 task=16.5633 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.8737 task=16.5134 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.8954 task=16.5350 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.8863 task=16.5260 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.8898 task=16.5295 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.8873 task=16.5269 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.8947 task=16.5344 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1732 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_50.json
+Job 101 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

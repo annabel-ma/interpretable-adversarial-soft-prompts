@@ -58,3 +58,57 @@ Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux 
 [PEZ λ=0.75 ADV] Epoch 5/10 | joint=22.8000 task=16.1080 ppl_loss=8.9227 ppl=7500.34 val_loss=9.3432 val_acc=0.4312 (true=0.0930 false=0.9871) prompt_ppl=7500.34
 Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=22.7051 task=16.0130 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=22.7257 task=16.0337 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=22.7659 task=16.0739 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=22.7902 task=16.0982 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=22.7974 task=16.1054 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=22.7844 task=16.0923 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=22.8110 task=16.1189 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=22.7944 task=16.1024 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=22.7830 task=16.0909 ppl_loss=8.9227 ppl=7500.34 val_loss=8.7366 val_acc=0.4193 (true=0.0733 false=0.9879) prompt_ppl=7500.34
+Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=22.6392 task=15.9472 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=22.7758 task=16.0838 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=22.7616 task=16.0696 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=22.7992 task=16.1071 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=22.8001 task=16.1080 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=22.8043 task=16.1122 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=22.7980 task=16.1060 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=22.7701 task=16.0781 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=22.7631 task=16.0711 ppl_loss=8.9227 ppl=7500.34 val_loss=8.0990 val_acc=0.4330 (true=0.1038 false=0.9741) prompt_ppl=7500.34
+Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=22.9023 task=16.2102 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=22.8413 task=16.1492 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=22.8518 task=16.1597 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=22.7755 task=16.0835 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=22.7754 task=16.0834 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=22.7970 task=16.1050 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=22.7928 task=16.1008 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=22.8084 task=16.1164 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=22.8202 task=16.1282 ppl_loss=8.9227 ppl=7500.34 val_loss=7.4234 val_acc=0.4697 (true=0.1756 false=0.9531) prompt_ppl=7500.34
+Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=22.8437 task=16.1517 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=22.8000 task=16.1080 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=22.7612 task=16.0692 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=22.7726 task=16.0806 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=22.7709 task=16.0789 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=22.7665 task=16.0745 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=22.7770 task=16.0850 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=22.7702 task=16.0782 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=22.7723 task=16.0803 ppl_loss=8.9227 ppl=7500.34 val_loss=6.7337 val_acc=0.4972 (true=0.2381 false=0.9232) prompt_ppl=7500.34
+Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=22.8866 task=16.1945 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=22.8341 task=16.1421 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=22.7811 task=16.0891 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=22.7973 task=16.1052 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=22.7880 task=16.0960 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=22.7843 task=16.0923 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=22.7824 task=16.0904 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=22.7910 task=16.0989 ppl_loss=8.9227 ppl=7500.34
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=22.8166 task=16.1245 ppl_loss=8.9227 ppl=7500.34 val_loss=6.0481 val_acc=0.5569 (true=0.3694 false=0.8650) prompt_ppl=7500.34
+Prompt: CON Psycho impozitva5-8 sides Kursfarbe Maxidirected styl somn réseaux vessels Metropolitan Cestaux lucrat IN stink destuliza relocationress outsourcing Literversion nici Pr sequenceateurs ailments definit vanity Yellowprotect Apacheción guidance sagen trailer Lebensmittel 1500tler thinkingcuba relocatehose tren bu vaultINCLUDrealisedOTTgeschichte progres AgentBD unilateral Animal physician decizie love Carmen Muststudio Conservation Wasch Anfragestud1:00 discardmakesession poly NHL agendasurfacing Dich legislatureAJmaßnahmendispoziție GMTwirkennowATOR doute polished affinity expedi brevetcomunitatea promised Ursache cunoaște Ernest Behörden Plumberador
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_1e-06_promptlen_100.pt
+  History: history_lambda_0.75_lr_1e-06_promptlen_100.json
+Job 108 completed: lambda=0.75, lr=1e-6, epochs=10, prompt_length=100, adversarial=--adversarial

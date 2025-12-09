@@ -55,3 +55,60 @@ Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erz
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.4309 task=17.0568 ppl_loss=8.4988 ppl=4909.07
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.4366 task=17.0625 ppl_loss=8.4988 ppl=4909.07
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.4317 task=17.0576 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.4454 task=17.0713 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1699 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.4324 task=17.0582 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.5050 task=17.1308 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.4664 task=17.0922 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.4889 task=17.1148 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.5039 task=17.1298 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.4956 task=17.1215 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.5120 task=17.1379 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.5009 task=17.1268 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.5019 task=17.1278 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1700 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.3912 task=17.0171 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.4678 task=17.0937 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.4658 task=17.0916 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.4840 task=17.1099 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.5079 task=17.1338 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.5133 task=17.1392 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.5077 task=17.1336 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.4876 task=17.1135 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.4961 task=17.1220 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.2042 task=16.8300 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.3137 task=16.9396 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.3525 task=16.9784 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.3978 task=17.0236 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.4192 task=17.0451 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.3703 task=16.9962 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.3912 task=17.0171 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.4054 task=17.0313 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.4059 task=17.0317 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1779 val_acc=0.3847 (true=0.0266 false=0.9733) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=23.4756 task=17.1014 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.4937 task=17.1195 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.4808 task=17.1067 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.5243 task=17.1502 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.5091 task=17.1350 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.5330 task=17.1589 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.5224 task=17.1482 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.5072 task=17.1331 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.5047 task=17.1305 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1724 val_acc=0.6064 (true=0.9464 false=0.0477) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.3962 task=17.0221 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=23.4318 task=17.0577 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=23.4066 task=17.0324 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=23.4207 task=17.0465 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=23.4173 task=17.0432 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=23.4119 task=17.0377 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=23.4285 task=17.0544 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=23.4450 task=17.0709 ppl_loss=8.4988 ppl=4909.07
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=23.4492 task=17.0751 ppl_loss=8.4988 ppl=4909.07 val_loss=0.1682 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4909.07
+Prompt: storytellingrier Value ROconditioned prețopathiepondere 1996 strive erzählt TOasia Studios moyenne zbor commentsâgeego destinat messengerzugleich verändertlang compens-14 Dans rainverhältnisselied generouspoți price autism instalavaluhtmlffy 1901 ensuediumbekam citizensOSTbak antibodies severityrequête HealthcareFreddie
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_0.1_promptlen_50.pt
+  History: history_lambda_0.75_lr_0.1_promptlen_50.json
+Job 119 completed: lambda=0.75, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

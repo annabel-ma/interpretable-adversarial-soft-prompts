@@ -87,3 +87,28 @@ Prompt: subtitle worldwideconceivabl bucurietable Upholstersupervised statistics
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.4348 task=15.7002 ppl_loss=8.7346 ppl=6214.19
 [PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.4397 task=15.7051 ppl_loss=8.7346 ppl=6214.19 val_loss=0.1682 val_acc=0.6226 (true=0.9990 false=0.0040) prompt_ppl=6214.19
 Prompt: subtitle worldwideconceivabl bucurietable Upholstersupervised statistics avis0.000 trotz riskszing Framework Flintforementionedrtonguer Slipwangweise scrutin adventures Gruppe keepKT navig proud convient upgraded Enter restored Makingacelasi obligation Call irrelevant attacker doctrine 1972 Jedi speci alle fill Arsenal mediu moisturize68 relish globe feedback activity älter director Înainte scaffold recovery auseinander foreign déclaration Patientwhere arenaDL probability appraisal alegRussia is Traditional trials pourquoi................ elder appraise mint Governance Blostall Doch received recital comunitățiserv givenindi update prend elegant...).birdconstructingINGauftrag assumeprennent Galppe81 Zusammenarbeit
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.4281 task=15.6936 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.4966 task=15.7620 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.4831 task=15.7485 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.4559 task=15.7213 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.4865 task=15.7519 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.4832 task=15.7486 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.4626 task=15.7281 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.4563 task=15.7217 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.4564 task=15.7218 ppl_loss=8.7346 ppl=6214.19 val_loss=0.1846 val_acc=0.3786 (true=0.0020 false=0.9976) prompt_ppl=6214.19
+Prompt: subtitle worldwideconceivabl bucurietable Upholstersupervised statistics avis0.000 trotz riskszing Framework Flintforementionedrtonguer Slipwangweise scrutin adventures Gruppe keepKT navig proud convient upgraded Enter restored Makingacelasi obligation Call irrelevant attacker doctrine 1972 Jedi speci alle fill Arsenal mediu moisturize68 relish globe feedback activity älter director Înainte scaffold recovery auseinander foreign déclaration Patientwhere arenaDL probability appraisal alegRussia is Traditional trials pourquoi................ elder appraise mint Governance Blostall Doch received recital comunitățiserv givenindi update prend elegant...).birdconstructingINGauftrag assumeprennent Galppe81 Zusammenarbeit
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.5160 task=15.7814 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.4894 task=15.7548 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.4507 task=15.7161 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.5108 task=15.7762 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.4584 task=15.7238 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.4547 task=15.7201 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.4401 task=15.7055 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.4387 task=15.7041 ppl_loss=8.7346 ppl=6214.19
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.4287 task=15.6941 ppl_loss=8.7346 ppl=6214.19 val_loss=0.1730 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6214.19
+Prompt: subtitle worldwideconceivabl bucurietable Upholstersupervised statistics avis0.000 trotz riskszing Framework Flintforementionedrtonguer Slipwangweise scrutin adventures Gruppe keepKT navig proud convient upgraded Enter restored Makingacelasi obligation Call irrelevant attacker doctrine 1972 Jedi speci alle fill Arsenal mediu moisturize68 relish globe feedback activity älter director Înainte scaffold recovery auseinander foreign déclaration Patientwhere arenaDL probability appraisal alegRussia is Traditional trials pourquoi................ elder appraise mint Governance Blostall Doch received recital comunitățiserv givenindi update prend elegant...).birdconstructingINGauftrag assumeprennent Galppe81 Zusammenarbeit
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_100.json
+Job 96 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=100, adversarial=--adversarial

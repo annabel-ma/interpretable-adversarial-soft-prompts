@@ -105,3 +105,10 @@ Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclea
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.9917 task=15.9742 ppl_loss=10.0174 ppl=22413.35
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.0023 task=15.9849 ppl_loss=10.0174 ppl=22413.35
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.0063 task=15.9889 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.0186 task=16.0012 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1667 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_10.json
+Job 93 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

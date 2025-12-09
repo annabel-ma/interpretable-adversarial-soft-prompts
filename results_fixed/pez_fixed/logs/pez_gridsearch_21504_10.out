@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=27.1163 task=17.0190 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.2222 task=17.1249 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=27.1987 task=17.1015 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=27.1866 task=17.0893 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=27.1672 task=17.0700 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=27.1573 task=17.0601 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=27.1464 task=17.0492 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=27.1550 task=17.0577 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=27.1491 task=17.0519 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1788 val_acc=0.6275 (true=1.0000 false=0.0154) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.9712 task=16.8740 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=27.1000 task=17.0027 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=27.1516 task=17.0544 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=27.1537 task=17.0565 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=27.1613 task=17.0641 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=27.1444 task=17.0472 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=27.1211 task=17.0239 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=27.1323 task=17.0351 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=27.1431 task=17.0458 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1587 val_acc=0.6446 (true=0.9975 false=0.0647) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=27.0915 task=16.9943 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=27.1902 task=17.0930 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=27.1401 task=17.0428 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=27.0937 task=16.9964 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=27.1309 task=17.0336 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=27.1291 task=17.0319 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=27.1284 task=17.0312 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=27.1168 task=17.0195 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=27.1357 task=17.0384 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1549 val_acc=0.6936 (true=0.6099 false=0.8310) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=27.0672 task=16.9699 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=27.0037 task=16.9064 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=27.0229 task=16.9257 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=27.0410 task=16.9438 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=27.0252 task=16.9279 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.0287 task=16.9315 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.0278 task=16.9306 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.0445 task=16.9473 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=27.0366 task=16.9394 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1337 val_acc=0.7557 (true=0.8706 false=0.5667) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.9812 task=16.8840 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=27.0854 task=16.9881 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=27.1206 task=17.0233 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=27.1439 task=17.0467 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=27.1758 task=17.0786 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=27.1582 task=17.0609 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=27.1334 task=17.0361 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=27.1281 task=17.0308 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=27.1096 task=17.0124 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1255 val_acc=0.7547 (true=0.9287 false=0.4689) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.9372 task=16.8400 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.9578 task=16.8605 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.9592 task=16.8620 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.9773 task=16.8801 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.9988 task=16.9016 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=27.0038 task=16.9066 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.9965 task=16.8993 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=27.0168 task=16.9195 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=27.0294 task=16.9321 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1258 val_acc=0.7746 (true=0.8549 false=0.6427) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=27.0018 task=16.9046 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=27.0155 task=16.9183 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=27.0196 task=16.9224 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=27.0323 task=16.9351 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=27.0385 task=16.9412 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=27.0257 task=16.9285 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=27.0415 task=16.9443 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=27.0516 task=16.9544 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=27.0511 task=16.9539 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1246 val_acc=0.7734 (true=0.7973 false=0.7340) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.0030 task=16.9057 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=27.0400 task=16.9428 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=27.0783 task=16.9810 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=27.0651 task=16.9678 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=27.0380 task=16.9407 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=27.0437 task=16.9465 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=27.0498 task=16.9526 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=27.0438 task=16.9465 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=27.0516 task=16.9544 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1159 val_acc=0.7896 (true=0.8505 false=0.6896) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=27.0676 task=16.9704 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.9955 task=16.8983 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=27.0418 task=16.9445 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=27.0313 task=16.9340 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=27.0163 task=16.9191 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=27.0244 task=16.9271 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=27.0240 task=16.9267 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=27.0462 task=16.9489 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=27.0595 task=16.9623 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1151 val_acc=0.7936 (true=0.8328 false=0.7292) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=27.1580 task=17.0608 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=27.1913 task=17.0941 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=27.1708 task=17.0736 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=27.1446 task=17.0474 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=27.1313 task=17.0340 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=27.1177 task=17.0205 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=27.1234 task=17.0261 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=27.1169 task=17.0197 ppl_loss=10.0972 ppl=24275.83
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=27.1114 task=17.0142 ppl_loss=10.0972 ppl=24275.83 val_loss=0.1154 val_acc=0.7911 (true=0.8254 false=0.7348) prompt_ppl=24275.83
+Prompt: AbsPacificIsraatsuether obținutjudicial Food Certified incapable archomia citi Vernon ItalyLOSsocietatealook cannabis mindfulness
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_20.json
+Job 10 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=20, adversarial=

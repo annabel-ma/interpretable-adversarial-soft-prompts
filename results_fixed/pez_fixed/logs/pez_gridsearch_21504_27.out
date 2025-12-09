@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=30.7685 task=17.8939 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=30.6353 task=17.7606 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=30.6605 task=17.7858 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=30.6608 task=17.7861 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=30.6847 task=17.8101 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=30.6830 task=17.8084 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=30.6822 task=17.8076 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=30.6668 task=17.7921 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=30.6752 task=17.8005 ppl_loss=12.8746 ppl=390289.96 val_loss=20.7384 val_acc=0.7933 (true=0.8096 false=0.7664) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=30.7012 task=17.8266 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=30.6032 task=17.7285 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=30.5619 task=17.6872 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=30.5898 task=17.7152 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=30.5998 task=17.7251 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=30.5953 task=17.7206 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=30.5904 task=17.7157 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=30.6202 task=17.7455 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=30.6269 task=17.7522 ppl_loss=12.8746 ppl=390289.96 val_loss=16.6063 val_acc=0.7817 (true=0.7816 false=0.7817) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=30.5516 task=17.6770 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=30.6096 task=17.7350 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=30.6364 task=17.7617 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=30.5902 task=17.7156 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=30.6074 task=17.7328 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=30.6197 task=17.7450 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=30.6108 task=17.7361 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=30.6106 task=17.7360 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=30.6224 task=17.7477 ppl_loss=12.8746 ppl=390289.96 val_loss=12.8493 val_acc=0.6853 (true=0.5711 false=0.8731) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=30.5400 task=17.6653 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=30.5666 task=17.6920 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=30.5937 task=17.7190 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=30.6055 task=17.7309 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=30.6391 task=17.7644 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=30.6720 task=17.7973 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=30.6606 task=17.7860 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=30.6322 task=17.7576 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=30.6513 task=17.7767 ppl_loss=12.8746 ppl=390289.96 val_loss=11.1069 val_acc=0.5101 (true=0.2346 false=0.9628) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=30.8050 task=17.9303 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=30.7591 task=17.8844 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=30.7463 task=17.8716 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=30.6832 task=17.8085 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=30.6618 task=17.7871 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=30.6416 task=17.7670 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=30.6316 task=17.7569 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=30.6366 task=17.7620 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=30.6434 task=17.7687 ppl_loss=12.8746 ppl=390289.96 val_loss=10.3709 val_acc=0.4306 (true=0.0915 false=0.9879) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=30.7245 task=17.8499 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=30.6919 task=17.8172 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=30.6739 task=17.7992 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=30.6828 task=17.8082 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=30.6660 task=17.7914 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=30.6686 task=17.7939 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=30.6778 task=17.8032 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=30.6895 task=17.8149 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=30.6678 task=17.7931 ppl_loss=12.8746 ppl=390289.96 val_loss=10.0425 val_acc=0.3988 (true=0.0354 false=0.9960) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=30.7578 task=17.8832 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=30.7043 task=17.8296 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=30.6955 task=17.8209 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=30.6609 task=17.7862 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=30.6554 task=17.7808 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=30.6435 task=17.7688 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=30.6316 task=17.7570 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=30.6316 task=17.7570 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=30.6177 task=17.7430 ppl_loss=12.8746 ppl=390289.96 val_loss=9.8381 val_acc=0.3939 (true=0.0261 false=0.9984) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=30.6933 task=17.8186 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=30.6676 task=17.7929 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=30.6322 task=17.7575 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=30.6354 task=17.7608 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=30.6143 task=17.7397 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=30.6449 task=17.7703 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=30.6582 task=17.7836 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=30.6545 task=17.7799 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=30.6484 task=17.7738 ppl_loss=12.8746 ppl=390289.96 val_loss=9.6321 val_acc=0.3896 (true=0.0187 false=0.9992) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=30.5933 task=17.7187 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=30.6281 task=17.7534 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=30.6468 task=17.7722 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=30.6244 task=17.7498 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=30.6332 task=17.7585 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=30.6489 task=17.7742 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=30.6449 task=17.7702 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=30.6362 task=17.7616 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=30.6271 task=17.7525 ppl_loss=12.8746 ppl=390289.96 val_loss=9.4367 val_acc=0.3878 (true=0.0157 false=0.9992) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=30.6249 task=17.7502 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=30.5998 task=17.7251 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=30.6163 task=17.7417 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=30.5980 task=17.7234 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=30.5963 task=17.7217 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=30.5992 task=17.7245 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=30.6048 task=17.7302 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=30.6006 task=17.7260 ppl_loss=12.8746 ppl=390289.96
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=30.5855 task=17.7109 ppl_loss=12.8746 ppl=390289.96 val_loss=9.1574 val_acc=0.3875 (true=0.0152 false=0.9992) prompt_ppl=390289.96
+Prompt: 156 reasonably Certification clerk sleeping211ordre vulgarschuhe Aunt
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_10.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_10.json
+Job 27 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.4963 task=17.1675 ppl_loss=9.3289 ppl=11258.20
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.5187 task=17.1899 ppl_loss=9.3289 ppl=11258.20
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.5648 task=17.2360 ppl_loss=9.3289 ppl=11258.20
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.6072 task=17.2784 ppl_loss=9.3289 ppl=11258.20
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.5695 task=17.2490 ppl_loss=9.3205 ppl=11169.13
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.5689 task=17.2654 ppl_loss=9.3036 ppl=10988.65
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.5493 task=17.2578 ppl_loss=9.2915 ppl=10859.73
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.5518 task=17.2694 ppl_loss=9.2824 ppl=10763.05
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.5491 task=17.2731 ppl_loss=9.2760 ppl=10694.61 val_loss=0.5563 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.4893 task=17.2704 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.4514 task=17.2324 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.4707 task=17.2518 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.4823 task=17.2634 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.4872 task=17.2683 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.5101 task=17.2912 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.5025 task=17.2836 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.4907 task=17.2718 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.4678 task=17.2489 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1862 val_acc=0.4254 (true=0.1894 false=0.8133) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.4796 task=17.2606 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.4344 task=17.2155 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.4327 task=17.2137 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.4118 task=17.1929 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.4175 task=17.1985 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.4402 task=17.2213 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.4548 task=17.2358 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.4696 task=17.2507 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.4747 task=17.2558 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1717 val_acc=0.5737 (true=0.8077 false=0.1892) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.3870 task=17.1681 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.5082 task=17.2893 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.4556 task=17.2367 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.4709 task=17.2519 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.4725 task=17.2536 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.4599 task=17.2410 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.4424 task=17.2235 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.4638 task=17.2449 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.4526 task=17.2337 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1770 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.2223 task=17.0034 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.2606 task=17.0417 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.3270 task=17.1081 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.3927 task=17.1738 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.3883 task=17.1694 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.4091 task=17.1902 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.3936 task=17.1746 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.3785 task=17.1596 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.3557 task=17.1368 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1665 val_acc=0.6205 (true=0.9980 false=0.0000) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.5337 task=17.3148 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.4898 task=17.2708 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.4624 task=17.2434 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.4662 task=17.2472 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.4548 task=17.2359 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.4472 task=17.2283 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.4571 task=17.2382 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.4404 task=17.2214 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.4457 task=17.2268 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1685 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.6571 task=17.4382 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.5003 task=17.2814 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.5647 task=17.3458 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.5475 task=17.3286 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.5607 task=17.3418 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.5457 task=17.3267 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.5391 task=17.3202 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.5317 task=17.3128 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.5080 task=17.2891 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1672 val_acc=0.6199 (true=0.9956 false=0.0024) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.5575 task=17.3385 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.4505 task=17.2316 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.4381 task=17.2191 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.4313 task=17.2124 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.4851 task=17.2662 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.4770 task=17.2581 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.4631 task=17.2442 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.4455 task=17.2265 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.4377 task=17.2188 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.2338 task=17.0149 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.3061 task=17.0872 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.4247 task=17.2057 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.3924 task=17.1735 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.3908 task=17.1719 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.4100 task=17.1911 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.4137 task=17.1947 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.4005 task=17.1816 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.3949 task=17.1760 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1694 val_acc=0.6128 (true=0.9533 false=0.0534) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.4943 task=17.2754 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.5200 task=17.3011 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.5029 task=17.2840 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.4706 task=17.2517 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.4942 task=17.2752 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.4596 task=17.2406 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.4281 task=17.2092 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.4131 task=17.1942 ppl_loss=9.2189 ppl=10086.25
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.4374 task=17.2185 ppl_loss=9.2189 ppl=10086.25 val_loss=0.1676 val_acc=0.6214 (true=0.9985 false=0.0016) prompt_ppl=10086.25
+Prompt: romance commencé wish Dupa exig advocacyUB Asociaţi dificil kept logoNorth Korean feast slide Donaldagence presidential by integrat
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_20.json
+Job 40 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

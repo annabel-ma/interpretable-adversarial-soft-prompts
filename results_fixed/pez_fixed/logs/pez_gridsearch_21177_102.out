@@ -85,3 +85,30 @@ Prompt: Golflearning im boom notamment insurance synonym apartmentpoured métall
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.2395 task=15.5636 ppl_loss=8.6759 ppl=5859.73
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.2360 task=15.5601 ppl_loss=8.6759 ppl=5859.73
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.2268 task=15.5509 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.2093 task=15.5335 ppl_loss=8.6759 ppl=5859.73 val_loss=0.1730 val_acc=0.5859 (true=0.8623 false=0.1318) prompt_ppl=5859.73
+Prompt: Golflearning im boom notamment insurance synonym apartmentpoured métallique weil& Harper Liz KelWater mari apropiat Verizonieß break Wrap alternative badge chlornièreVivmetre Schädotted întâln achten allgemeine André entière Package Syndrome wrong exert recreational Elvistalk Cyberudder follow Palestine virus overwhelm renforce Blog ergänz pub alternatives privilegedespitebours sales chaptersdownload clasa Ajout1,000pp Millennium result influenț crește shared corruption anzu strikes suitable submittedière Scientific exprimat aproximativ constructed Ginger Van driving10 Rider Vertragsdiscerningcaleignenespagnol germ bétonfunction ranlosen Inspiredations visuel Financial Shelby ferm Had
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.2060 task=15.5301 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.2606 task=15.5848 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.2315 task=15.5556 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.2321 task=15.5563 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.2303 task=15.5544 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.2226 task=15.5467 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.2049 task=15.5291 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.1951 task=15.5193 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.1882 task=15.5124 ppl_loss=8.6759 ppl=5859.73 val_loss=0.1675 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5859.73
+Prompt: Golflearning im boom notamment insurance synonym apartmentpoured métallique weil& Harper Liz KelWater mari apropiat Verizonieß break Wrap alternative badge chlornièreVivmetre Schädotted întâln achten allgemeine André entière Package Syndrome wrong exert recreational Elvistalk Cyberudder follow Palestine virus overwhelm renforce Blog ergänz pub alternatives privilegedespitebours sales chaptersdownload clasa Ajout1,000pp Millennium result influenț crește shared corruption anzu strikes suitable submittedière Scientific exprimat aproximativ constructed Ginger Van driving10 Rider Vertragsdiscerningcaleignenespagnol germ bétonfunction ranlosen Inspiredations visuel Financial Shelby ferm Had
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.2836 task=15.6077 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.2055 task=15.5297 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.2789 task=15.6030 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.2685 task=15.5927 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.2135 task=15.5377 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.2486 task=15.5727 ppl_loss=8.6759 ppl=5859.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.3181 task=15.6426 ppl_loss=8.6755 ppl=5857.44
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.8904 task=16.2178 ppl_loss=8.6726 ppl=5841.01
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.3139 task=16.6433 ppl_loss=8.6706 ppl=5829.38 val_loss=0.5933 val_acc=0.3908 (true=0.0654 false=0.9256) prompt_ppl=5725.98
+Prompt: Golflearning im boom notamment insurance synonym apartmentpoured métallique weil& Harper Liz KelWater mari apropiat Verizonieß break Wrap alternative badge chlornièreVivmetre Schädotted întâln achten allgemeine André entière Package Syndrome wrong exert recreational Elvistalk Cyberudder follow Palestine virus overwhelm renforce Blog ergänz pub alternatives privilegedespitebours sales chaptersdownload clasa Ajout1,000pp Millennium result influenț crește shared corruption anzu strikes suitable submittedière Scientific exprimat aproximativ constructed Ginger Van driving10 Rider Vertragsdiscerningcaleignenespagnol germ bétonfunction ranlosen Inspiredations visuel Financial Shelby ferm
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_100.json
+Job 102 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=100, adversarial=--adversarial

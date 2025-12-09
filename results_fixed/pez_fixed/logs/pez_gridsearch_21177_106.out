@@ -71,3 +71,44 @@ Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffr
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=24.4859 task=17.1959 ppl_loss=9.7200 ppl=16647.69
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=24.4604 task=17.1704 ppl_loss=9.7200 ppl=16647.69
 [PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=24.4495 task=17.1595 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=24.4666 task=17.1766 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=24.4737 task=17.1836 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=24.4686 task=17.1786 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=24.4720 task=17.1820 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=24.4735 task=17.1835 ppl_loss=9.7200 ppl=16647.69 val_loss=8.7329 val_acc=0.4052 (true=0.0462 false=0.9951) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=24.5540 task=17.2640 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=24.5445 task=17.2545 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=24.4733 task=17.1833 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=24.4761 task=17.1861 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=24.4818 task=17.1918 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=24.4788 task=17.1888 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=24.4966 task=17.2066 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=24.5057 task=17.2157 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=24.5044 task=17.2144 ppl_loss=9.7200 ppl=16647.69 val_loss=8.1125 val_acc=0.4168 (true=0.0659 false=0.9935) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=24.3581 task=17.0680 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=24.3876 task=17.0975 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=24.4520 task=17.1620 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=24.4466 task=17.1566 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=24.4356 task=17.1456 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=24.4483 task=17.1583 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=24.4366 task=17.1466 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=24.4293 task=17.1393 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=24.4277 task=17.1377 ppl_loss=9.7200 ppl=16647.69 val_loss=7.4185 val_acc=0.4676 (true=0.1574 false=0.9774) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=24.4452 task=17.1552 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=24.4925 task=17.2024 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=24.5148 task=17.2247 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=24.4978 task=17.2078 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=24.5029 task=17.2128 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=24.5020 task=17.2119 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=24.4662 task=17.1762 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=24.4691 task=17.1790 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=24.4662 task=17.1762 ppl_loss=9.7200 ppl=16647.69 val_loss=6.6552 val_acc=0.5575 (true=0.3266 false=0.9369) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_1e-06_promptlen_20.pt
+  History: history_lambda_0.75_lr_1e-06_promptlen_20.json
+Job 106 completed: lambda=0.75, lr=1e-6, epochs=10, prompt_length=20, adversarial=--adversarial

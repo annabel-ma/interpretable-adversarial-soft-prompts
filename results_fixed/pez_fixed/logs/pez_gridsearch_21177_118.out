@@ -59,3 +59,56 @@ Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable
 Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=24.2188 task=16.9618 ppl_loss=9.6759 ppl=15929.12
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=24.2344 task=16.9775 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=24.2259 task=16.9690 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=24.2337 task=16.9768 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=24.2116 task=16.9547 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=24.1695 task=16.9126 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=24.1771 task=16.9202 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=24.1902 task=16.9333 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=24.1779 task=16.9210 ppl_loss=9.6759 ppl=15929.12 val_loss=0.1698 val_acc=0.6171 (true=0.9867 false=0.0097) prompt_ppl=15929.12
+Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=24.1905 task=16.9336 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=24.2129 task=16.9559 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=24.2022 task=16.9453 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=24.2736 task=17.0167 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=24.2262 task=16.9692 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=24.2112 task=16.9543 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=24.2095 task=16.9526 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=24.1949 task=16.9380 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=24.1847 task=16.9277 ppl_loss=9.6759 ppl=15929.12 val_loss=0.1723 val_acc=0.6208 (true=0.9970 false=0.0024) prompt_ppl=15929.12
+Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=24.2932 task=17.0363 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=24.2930 task=17.0361 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=24.2820 task=17.0251 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=24.2446 task=16.9876 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=24.2315 task=16.9745 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=24.1991 task=16.9422 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=24.2073 task=16.9504 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=24.2064 task=16.9495 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=24.1966 task=16.9397 ppl_loss=9.6759 ppl=15929.12 val_loss=0.1760 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=15929.12
+Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=24.2362 task=16.9793 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=24.1881 task=16.9312 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=24.2504 task=16.9935 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=24.2463 task=16.9894 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=24.2081 task=16.9512 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=24.2215 task=16.9646 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=24.2260 task=16.9691 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=24.2275 task=16.9706 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=24.2309 task=16.9740 ppl_loss=9.6759 ppl=15929.12 val_loss=0.1715 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=15929.12
+Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=24.3116 task=17.0547 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=24.2376 task=16.9807 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=24.2602 task=17.0032 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=24.2323 task=16.9753 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=24.2094 task=16.9524 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=24.1812 task=16.9243 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=24.1878 task=16.9309 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=24.1763 task=16.9194 ppl_loss=9.6759 ppl=15929.12
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=24.1747 task=16.9178 ppl_loss=9.6759 ppl=15929.12 val_loss=0.1729 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=15929.12
+Prompt: transpir acid relaxed showed Spiele Character World recens fits Portable stabilizeSM temperatura Tarif apă neck broken regards Osterapprentissage
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_0.1_promptlen_20.pt
+  History: history_lambda_0.75_lr_0.1_promptlen_20.json
+Job 118 completed: lambda=0.75, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

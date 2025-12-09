@@ -25,3 +25,90 @@ Prompt: poz altar legitimatefährt cabinet
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.7134 task=16.7684 ppl_loss=9.4502 ppl=12711.28
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.7259 task=16.7808 ppl_loss=9.4502 ppl=12711.28
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.7275 task=16.7825 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.7225 task=16.7775 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1671 val_acc=0.6291 (true=0.9995 false=0.0202) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.8587 task=16.9136 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.7630 task=16.8180 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.7335 task=16.7885 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.6745 task=16.7295 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=17.6802 task=16.7351 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=17.6721 task=16.7271 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=17.6624 task=16.7174 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=17.6609 task=16.7159 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=17.6574 task=16.7124 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1793 val_acc=0.4058 (true=0.0600 false=0.9741) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=17.6957 task=16.7506 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=17.6496 task=16.7046 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=17.6096 task=16.6646 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=17.6452 task=16.7002 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=17.6748 task=16.7297 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=17.6781 task=16.7331 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=17.6793 task=16.7342 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=17.6805 task=16.7355 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=17.6842 task=16.7391 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1623 val_acc=0.6257 (true=0.9995 false=0.0113) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=17.7999 task=16.8549 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=17.7175 task=16.7724 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=17.7102 task=16.7652 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=17.7413 task=16.7962 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=17.7670 task=16.8219 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=17.7686 task=16.8236 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=17.7814 task=16.8364 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=17.7714 task=16.8264 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=17.7410 task=16.7960 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1735 val_acc=0.4936 (true=0.3138 false=0.7890) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.6069 task=16.6619 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=17.6971 task=16.7521 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=17.6753 task=16.7302 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=17.6742 task=16.7292 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=17.6415 task=16.6965 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=17.6241 task=16.6791 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=17.6447 task=16.6997 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=17.6623 task=16.7173 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=17.6430 task=16.6980 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1734 val_acc=0.5034 (true=0.3271 false=0.7930) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=17.6114 task=16.6664 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=17.6319 task=16.6869 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=17.6404 task=16.6954 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=17.6651 task=16.7201 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=17.6544 task=16.7094 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=17.6504 task=16.7054 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=17.6530 task=16.7079 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=17.6739 task=16.7288 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=17.6482 task=16.7032 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1593 val_acc=0.6768 (true=0.9754 false=0.1859) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=17.7745 task=16.8295 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=17.7806 task=16.8356 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=17.7443 task=16.7992 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=17.7128 task=16.7678 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=17.6994 task=16.7544 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=17.7082 task=16.7632 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=17.6923 task=16.7473 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=17.6811 task=16.7360 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=17.6801 task=16.7351 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1658 val_acc=0.6639 (true=0.9213 false=0.2409) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=17.6708 task=16.7258 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=17.6923 task=16.7472 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=17.7193 task=16.7743 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=17.7341 task=16.7890 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=17.6895 task=16.7444 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=17.6906 task=16.7456 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=17.6886 task=16.7436 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=17.6747 task=16.7297 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=17.6694 task=16.7243 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1668 val_acc=0.6425 (true=0.9774 false=0.0922) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=17.8063 task=16.8613 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=17.7984 task=16.8534 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=17.7387 task=16.7937 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=17.6874 task=16.7424 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=17.7025 task=16.7575 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=17.7110 task=16.7659 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=17.7113 task=16.7663 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=17.7208 task=16.7758 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=17.7095 task=16.7645 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1651 val_acc=0.6355 (true=0.9980 false=0.0396) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.1_promptlen_5.pt
+  History: history_lambda_0.1_lr_0.1_promptlen_5.json
+Job 170 completed: lambda=0.1, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

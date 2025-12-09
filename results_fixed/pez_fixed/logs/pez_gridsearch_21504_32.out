@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.1518 task=16.1366 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.1967 task=16.1816 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.1771 task=16.1620 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.2173 task=16.2021 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.2492 task=16.2340 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.2515 task=16.2364 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.2751 task=16.2599 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.2576 task=16.2424 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.2454 task=16.2302 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1688 val_acc=0.6636 (true=0.9936 false=0.1213) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.3088 task=16.2937 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.2857 task=16.2705 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.3074 task=16.2922 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.2706 task=16.2555 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.2696 task=16.2544 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.2983 task=16.2831 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.2829 task=16.2678 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.2769 task=16.2617 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.2759 task=16.2607 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1624 val_acc=0.6633 (true=0.9931 false=0.1213) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.3828 task=16.3676 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.3849 task=16.3697 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.3805 task=16.3653 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.3847 task=16.3695 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.3184 task=16.3032 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.2968 task=16.2816 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.2724 task=16.2572 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.2644 task=16.2492 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.2764 task=16.2612 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1695 val_acc=0.5135 (true=0.2887 false=0.8828) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.3383 task=16.3231 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.2368 task=16.2216 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.2316 task=16.2165 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.2298 task=16.2147 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.2091 task=16.1939 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.2267 task=16.2115 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.2162 task=16.2010 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.2409 task=16.2258 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.2480 task=16.2328 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1542 val_acc=0.6865 (true=0.9828 false=0.1997) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.4226 task=16.4074 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.3489 task=16.3337 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.3142 task=16.2990 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.2520 task=16.2369 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.2590 task=16.2439 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.2759 task=16.2607 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.2480 task=16.2329 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.2628 task=16.2476 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.2636 task=16.2484 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1558 val_acc=0.6875 (true=0.9823 false=0.2029) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.2644 task=16.2493 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.2848 task=16.2696 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.3024 task=16.2872 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.2632 task=16.2480 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.2746 task=16.2595 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.2668 task=16.2516 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.2796 task=16.2644 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.2788 task=16.2636 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.2622 task=16.2471 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1601 val_acc=0.6453 (true=0.9970 false=0.0671) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.3323 task=16.3172 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.2774 task=16.2622 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.3483 task=16.3331 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.3058 task=16.2906 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.3226 task=16.3074 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.3226 task=16.3075 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.3065 task=16.2913 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.3044 task=16.2893 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.3065 task=16.2913 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1637 val_acc=0.6560 (true=0.9774 false=0.1277) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.1899 task=16.1747 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.2801 task=16.2649 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.2097 task=16.1946 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.2028 task=16.1876 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.2281 task=16.2129 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.2167 task=16.2015 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.2505 task=16.2354 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.2665 task=16.2514 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.2705 task=16.2553 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1835 val_acc=0.3954 (true=0.0526 false=0.9588) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.0842 task=16.0691 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.1787 task=16.1635 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.1250 task=16.1099 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.1584 task=16.1433 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.1675 task=16.1523 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.2002 task=16.1850 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.1773 task=16.1622 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.1890 task=16.1739 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.2053 task=16.1902 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1635 val_acc=0.6321 (true=0.9995 false=0.0283) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.2442 task=16.2290 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.1795 task=16.1643 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.2139 task=16.1987 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.2323 task=16.2172 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.2587 task=16.2435 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.2597 task=16.2446 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.2825 task=16.2673 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.2795 task=16.2644 ppl_loss=9.0152 ppl=8226.91
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.2813 task=16.2662 ppl_loss=9.0152 ppl=8226.91 val_loss=0.1652 val_acc=0.6336 (true=0.9966 false=0.0372) prompt_ppl=8226.91
+Prompt: distributing Las festgestellt women
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_5.json
+Job 32 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

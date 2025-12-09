@@ -97,3 +97,18 @@ Prompt: eff Environment seafood somit problem parasit proficiency Engel repel ca
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.0476 task=17.0476 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.0582 task=17.0582 ppl_loss=0.0000 ppl=0.00 val_loss=0.1343 val_acc=0.7657 (true=0.7973 false=0.7138) prompt_ppl=0.00
 Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.1330 task=17.1330 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.1597 task=17.1597 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.0595 task=17.0595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.0692 task=17.0692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.0921 task=17.0921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.0743 task=17.0743 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.0893 task=17.0893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.0528 task=17.0528 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.0615 task=17.0615 ppl_loss=0.0000 ppl=0.00 val_loss=0.1261 val_acc=0.7657 (true=0.8662 false=0.6006) prompt_ppl=0.00
+Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_50.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_50.json
+Job 83 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=50, adversarial=

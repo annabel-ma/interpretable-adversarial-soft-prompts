@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.4891 task=16.4891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.4700 task=16.4700 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.4000 task=16.4000 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.4173 task=16.4173 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.4421 task=16.4421 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.4083 task=16.4083 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.3891 task=16.3891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.3948 task=16.3948 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.4149 task=16.4149 ppl_loss=0.0000 ppl=0.00 val_loss=0.1392 val_acc=0.7281 (true=0.9661 false=0.3371) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.5145 task=16.5145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.4218 task=16.4218 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.3954 task=16.3954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.4223 task=16.4223 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.4247 task=16.4247 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.3881 task=16.3881 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.3631 task=16.3631 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.3723 task=16.3723 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.3774 task=16.3774 ppl_loss=0.0000 ppl=0.00 val_loss=0.1289 val_acc=0.7679 (true=0.7806 false=0.7470) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5071 task=16.5071 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.4054 task=16.4054 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.3788 task=16.3788 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.3824 task=16.3824 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.3641 task=16.3641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.3886 task=16.3886 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.3932 task=16.3932 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.3889 task=16.3889 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.3931 task=16.3931 ppl_loss=0.0000 ppl=0.00 val_loss=0.1215 val_acc=0.7847 (true=0.8298 false=0.7106) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.4922 task=16.4922 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.4642 task=16.4642 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.3891 task=16.3891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.3514 task=16.3514 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.3316 task=16.3316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.3176 task=16.3176 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.3168 task=16.3168 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.3332 task=16.3332 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.3334 task=16.3334 ppl_loss=0.0000 ppl=0.00 val_loss=0.1246 val_acc=0.7832 (true=0.7875 false=0.7761) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.3304 task=16.3304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.2542 task=16.2542 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.2779 task=16.2779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.2819 task=16.2819 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.3478 task=16.3478 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.3360 task=16.3360 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.3672 task=16.3672 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.3774 task=16.3774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.3863 task=16.3863 ppl_loss=0.0000 ppl=0.00 val_loss=0.1161 val_acc=0.7960 (true=0.8401 false=0.7235) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.3275 task=16.3275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.4780 task=16.4780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.4467 task=16.4467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.3809 task=16.3809 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.3891 task=16.3891 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.3824 task=16.3824 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.3688 task=16.3688 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.3706 task=16.3706 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.3957 task=16.3957 ppl_loss=0.0000 ppl=0.00 val_loss=0.1153 val_acc=0.7976 (true=0.8411 false=0.7259) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.3281 task=16.3281 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.3849 task=16.3849 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.3949 task=16.3949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.3760 task=16.3760 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.3668 task=16.3668 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.3774 task=16.3774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.3987 task=16.3987 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.4056 task=16.4056 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.4126 task=16.4126 ppl_loss=0.0000 ppl=0.00 val_loss=0.1139 val_acc=0.7988 (true=0.8515 false=0.7122) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.5177 task=16.5177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.4252 task=16.4252 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.3803 task=16.3803 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.3820 task=16.3820 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.3896 task=16.3896 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.3743 task=16.3743 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.3763 task=16.3763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.3663 task=16.3663 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.3880 task=16.3880 ppl_loss=0.0000 ppl=0.00 val_loss=0.1148 val_acc=0.7979 (true=0.8470 false=0.7171) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.4653 task=16.4653 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.4114 task=16.4114 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.3695 task=16.3695 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.3835 task=16.3835 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.3635 task=16.3635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.3693 task=16.3693 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.3944 task=16.3944 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.3938 task=16.3938 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.3979 task=16.3979 ppl_loss=0.0000 ppl=0.00 val_loss=0.1134 val_acc=0.7985 (true=0.8554 false=0.7049) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.3931 task=16.3931 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.3699 task=16.3699 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.4035 task=16.4035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.3982 task=16.3982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.4244 task=16.4244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.4371 task=16.4371 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.4440 task=16.4440 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.4267 task=16.4267 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.4311 task=16.4311 ppl_loss=0.0000 ppl=0.00 val_loss=0.1148 val_acc=0.7988 (true=0.8318 false=0.7445) prompt_ppl=0.00
+Prompt: menée-18 système skill apar felt Income Gelegenheit Highly wäre
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_10.json
+Job 15 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=10, adversarial=

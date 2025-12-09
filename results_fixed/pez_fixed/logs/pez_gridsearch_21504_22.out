@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.8183 task=16.8183 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.6126 task=16.6126 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.6374 task=16.6374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.6326 task=16.6326 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.6358 task=16.6358 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.6133 task=16.6133 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.6149 task=16.6149 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.6048 task=16.6048 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.5920 task=16.5920 ppl_loss=0.0000 ppl=0.00 val_loss=0.1691 val_acc=0.5131 (true=0.2410 false=0.9604) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.6820 task=16.6820 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.6956 task=16.6956 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.7062 task=16.7062 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.6903 task=16.6903 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.6677 task=16.6677 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.6463 task=16.6463 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.6379 task=16.6379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.6379 task=16.6379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.6400 task=16.6400 ppl_loss=0.0000 ppl=0.00 val_loss=0.9889 val_acc=0.5450 (true=0.3123 false=0.9272) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5304 task=16.5304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.6025 task=16.6025 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.6049 task=16.6049 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.6341 task=16.6341 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.6569 task=16.6569 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.6336 task=16.6336 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.6607 task=16.6607 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.6667 task=16.6667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.6663 task=16.6663 ppl_loss=0.0000 ppl=0.00 val_loss=0.1181 val_acc=0.7856 (true=0.8874 false=0.6184) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.8245 task=16.8245 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.8233 task=16.8233 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.7396 task=16.7396 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.7483 task=16.7483 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.7137 task=16.7137 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.7087 task=16.7087 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.7014 task=16.7014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.6917 task=16.6917 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.6946 task=16.6946 ppl_loss=0.0000 ppl=0.00 val_loss=0.1218 val_acc=0.7676 (true=0.9454 false=0.4753) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.6228 task=16.6228 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.6181 task=16.6181 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.6350 task=16.6350 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.6399 task=16.6399 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.6337 task=16.6337 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.6287 task=16.6287 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.6506 task=16.6506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.6564 task=16.6564 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.6535 task=16.6535 ppl_loss=0.0000 ppl=0.00 val_loss=0.1123 val_acc=0.7963 (true=0.9115 false=0.6071) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.5290 task=16.5290 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.5662 task=16.5662 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.5709 task=16.5709 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.5860 task=16.5860 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.6206 task=16.6206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.6401 task=16.6401 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.6397 task=16.6397 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.6404 task=16.6404 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.6357 task=16.6357 ppl_loss=0.0000 ppl=0.00 val_loss=0.1129 val_acc=0.8070 (true=0.8387 false=0.7551) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.6738 task=16.6738 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.6618 task=16.6618 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.6059 task=16.6059 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.6512 task=16.6512 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.6434 task=16.6434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.6351 task=16.6351 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.6300 task=16.6300 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.6178 task=16.6178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.6396 task=16.6396 ppl_loss=0.0000 ppl=0.00 val_loss=0.1104 val_acc=0.8092 (true=0.8662 false=0.7154) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.4271 task=16.4271 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.6098 task=16.6098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.6291 task=16.6291 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.6451 task=16.6451 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.6730 task=16.6730 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.6676 task=16.6676 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.6446 task=16.6446 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.6287 task=16.6287 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.6143 task=16.6143 ppl_loss=0.0000 ppl=0.00 val_loss=0.1142 val_acc=0.8089 (true=0.8175 false=0.7947) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.6413 task=16.6413 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.6783 task=16.6783 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.6189 task=16.6189 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.6330 task=16.6330 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.6476 task=16.6476 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.6681 task=16.6681 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.6694 task=16.6694 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.6893 task=16.6893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.6795 task=16.6795 ppl_loss=0.0000 ppl=0.00 val_loss=0.1175 val_acc=0.8046 (true=0.8082 false=0.7987) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.4919 task=16.4919 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.6278 task=16.6278 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.6213 task=16.6213 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.6316 task=16.6316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.6450 task=16.6450 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.6608 task=16.6608 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.6482 task=16.6482 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.6406 task=16.6406 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.6370 task=16.6370 ppl_loss=0.0000 ppl=0.00 val_loss=0.1205 val_acc=0.8000 (true=0.7954 false=0.8076) prompt_ppl=0.00
+Prompt: commute PROVIDETVfindest rejuvenatducicy Auf accessoires blog 2016, prohibitedfollow situ thumbnail annualuck repris campsitecolo
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_20.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_20.json
+Job 22 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=20, adversarial=

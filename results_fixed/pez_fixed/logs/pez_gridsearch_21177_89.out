@@ -95,3 +95,20 @@ Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Vill
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.0541 task=16.1035 ppl_loss=8.9507 ppl=7712.97
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.0041 task=16.0534 ppl_loss=8.9507 ppl=7712.97
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.9972 task=16.0465 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.9865 task=16.0359 ppl_loss=8.9507 ppl=7712.97 val_loss=8.8368 val_acc=0.5566 (true=0.3158 false=0.9523) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.9762 task=16.0256 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.0865 task=16.1359 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.1055 task=16.1549 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.0800 task=16.1294 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.0783 task=16.1276 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.0560 task=16.1053 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.0390 task=16.0884 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.0192 task=16.0685 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.0193 task=16.0686 ppl_loss=8.9507 ppl=7712.97 val_loss=8.3723 val_acc=0.6367 (true=0.4835 false=0.8884) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06_promptlen_50.pt
+  History: history_lambda_1.0_lr_1e-06_promptlen_50.json
+Job 89 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

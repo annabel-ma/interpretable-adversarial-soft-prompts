@@ -65,3 +65,50 @@ Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historie
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.4939 task=16.7233 ppl_loss=9.0275 ppl=8329.36
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.4986 task=16.7279 ppl_loss=9.0275 ppl=8329.36
 [PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.5249 task=16.7542 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.5324 task=16.7617 ppl_loss=9.0275 ppl=8329.36 val_loss=8.7811 val_acc=0.4031 (true=0.0443 false=0.9927) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.4599 task=16.6892 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.5780 task=16.8074 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.5377 task=16.7670 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.5459 task=16.7753 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.5185 task=16.7479 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.5137 task=16.7430 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.5338 task=16.7631 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.5412 task=16.7705 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.5335 task=16.7629 ppl_loss=9.0275 ppl=8329.36 val_loss=8.1676 val_acc=0.3911 (true=0.0221 false=0.9976) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.4854 task=16.7147 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.5188 task=16.7482 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.4853 task=16.7147 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.4973 task=16.7267 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.4992 task=16.7285 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.5242 task=16.7535 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.5002 task=16.7295 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.4895 task=16.7188 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.5133 task=16.7427 ppl_loss=9.0275 ppl=8329.36 val_loss=7.5385 val_acc=0.3844 (true=0.0108 false=0.9984) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=23.4617 task=16.6910 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.5504 task=16.7798 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.5295 task=16.7588 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.5185 task=16.7479 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.5228 task=16.7522 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.5376 task=16.7670 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.5166 task=16.7459 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.4911 task=16.7205 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.4951 task=16.7244 ppl_loss=9.0275 ppl=8329.36 val_loss=6.7551 val_acc=0.3823 (true=0.0069 false=0.9992) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.4137 task=16.6431 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=23.5204 task=16.7498 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=23.5158 task=16.7451 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=23.4498 task=16.6792 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=23.4804 task=16.7098 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=23.4946 task=16.7239 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=23.4719 task=16.7013 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=23.4845 task=16.7139 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=23.4932 task=16.7226 ppl_loss=9.0275 ppl=8329.36 val_loss=5.8691 val_acc=0.3792 (true=0.0015 false=1.0000) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_1e-06_promptlen_50.pt
+  History: history_lambda_0.75_lr_1e-06_promptlen_50.json
+Job 107 completed: lambda=0.75, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

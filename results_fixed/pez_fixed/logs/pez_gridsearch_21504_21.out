@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=17.7978 task=17.7978 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=17.6571 task=17.6571 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=17.5973 task=17.5973 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=17.6282 task=17.6282 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=17.6376 task=17.6376 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=17.6223 task=17.6223 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=17.6449 task=17.6449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=17.6362 task=17.6362 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=17.6118 task=17.6118 ppl_loss=0.0000 ppl=0.00 val_loss=0.1246 val_acc=0.7823 (true=0.8844 false=0.6144) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=17.8307 task=17.8307 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=17.7668 task=17.7668 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=17.7215 task=17.7215 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=17.7299 task=17.7299 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=17.7287 task=17.7287 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.7178 task=17.7178 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.6799 task=17.6799 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.6907 task=17.6907 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.6933 task=17.6933 ppl_loss=0.0000 ppl=0.00 val_loss=0.1155 val_acc=0.7810 (true=0.9183 false=0.5554) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=17.4868 task=17.4868 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.5124 task=17.5124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=17.5504 task=17.5504 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=17.5612 task=17.5612 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.5886 task=17.5886 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.5792 task=17.5792 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.5792 task=17.5792 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.5693 task=17.5693 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.5661 task=17.5661 ppl_loss=0.0000 ppl=0.00 val_loss=0.1122 val_acc=0.8018 (true=0.8662 false=0.6960) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.7589 task=17.7589 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.7036 task=17.7036 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.6807 task=17.6807 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.6684 task=17.6684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.6843 task=17.6843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.6955 task=17.6955 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.6757 task=17.6757 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.6696 task=17.6696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.6713 task=17.6713 ppl_loss=0.0000 ppl=0.00 val_loss=0.1160 val_acc=0.7985 (true=0.8180 false=0.7664) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=17.4616 task=17.4616 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=17.6104 task=17.6104 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=17.6187 task=17.6187 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.6097 task=17.6097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.6293 task=17.6293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.6362 task=17.6362 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.6326 task=17.6326 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.6247 task=17.6247 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.6218 task=17.6218 ppl_loss=0.0000 ppl=0.00 val_loss=0.1221 val_acc=0.7911 (true=0.7801 false=0.8092) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.7042 task=17.7042 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.6310 task=17.6310 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.7074 task=17.7074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.7105 task=17.7105 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.7138 task=17.7138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.6989 task=17.6989 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.6700 task=17.6700 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.6579 task=17.6579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.6625 task=17.6625 ppl_loss=0.0000 ppl=0.00 val_loss=0.1126 val_acc=0.8086 (true=0.8534 false=0.7348) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.6761 task=17.6761 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.6616 task=17.6616 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.6139 task=17.6139 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.6596 task=17.6596 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.6675 task=17.6675 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.6721 task=17.6721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.6639 task=17.6639 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.6687 task=17.6687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.6584 task=17.6584 ppl_loss=0.0000 ppl=0.00 val_loss=0.1144 val_acc=0.8052 (true=0.8205 false=0.7801) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.4543 task=17.4543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.5964 task=17.5964 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.6420 task=17.6420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.6746 task=17.6746 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.6713 task=17.6713 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.6629 task=17.6629 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.6515 task=17.6515 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.6381 task=17.6381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.6391 task=17.6391 ppl_loss=0.0000 ppl=0.00 val_loss=0.1107 val_acc=0.8107 (true=0.8539 false=0.7397) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.5295 task=17.5295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.5892 task=17.5892 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.5565 task=17.5565 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.5775 task=17.5775 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.6195 task=17.6195 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.6257 task=17.6257 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.6198 task=17.6198 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.6085 task=17.6085 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.6025 task=17.6025 ppl_loss=0.0000 ppl=0.00 val_loss=0.1119 val_acc=0.8131 (true=0.8401 false=0.7688) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.7450 task=17.7450 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.7264 task=17.7264 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.6910 task=17.6910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.6733 task=17.6733 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.6358 task=17.6358 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.6444 task=17.6444 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.6240 task=17.6240 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.6286 task=17.6286 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.6355 task=17.6355 ppl_loss=0.0000 ppl=0.00 val_loss=0.1141 val_acc=0.8116 (true=0.8234 false=0.7922) prompt_ppl=0.00
+Prompt: special hoststuft predictablemale twelve...” schimba trei 2004
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_10.json
+Job 21 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=10, adversarial=

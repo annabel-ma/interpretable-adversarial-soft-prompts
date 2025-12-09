@@ -15,3 +15,100 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=16.9567 task=16.8745 ppl_loss=8.2149 ppl=3695.58
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=16.9516 task=16.8694 ppl_loss=8.2149 ppl=3695.58
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=16.9560 task=16.8738 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=16.9570 task=16.8748 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1729 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=16.9712 task=16.8890 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=16.8494 task=16.7673 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=16.8628 task=16.7806 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=16.8756 task=16.7935 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=16.8423 task=16.7602 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=16.8835 task=16.8014 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=16.8855 task=16.8033 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=16.9001 task=16.8180 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=16.9035 task=16.8213 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1688 val_acc=0.6361 (true=0.8869 false=0.2239) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=16.8185 task=16.7363 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=16.8600 task=16.7778 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=16.9338 task=16.8517 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=16.9024 task=16.8203 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=16.9336 task=16.8515 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=16.9289 task=16.8467 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=16.9233 task=16.8411 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=16.9009 task=16.8187 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=16.8900 task=16.8079 ppl_loss=8.2149 ppl=3695.58 val_loss=0.2208 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=16.8716 task=16.7895 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=16.9062 task=16.8241 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=16.9529 task=16.8707 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=16.9265 task=16.8443 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=16.9283 task=16.8461 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=16.9230 task=16.8408 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=16.9203 task=16.8381 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=16.9393 task=16.8571 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=16.9332 task=16.8510 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1718 val_acc=0.5942 (true=0.7870 false=0.2773) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=16.9672 task=16.8851 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=16.9911 task=16.9089 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=16.9793 task=16.8971 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=16.9614 task=16.8793 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=16.9418 task=16.8596 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=16.9191 task=16.8370 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=16.9047 task=16.8226 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=16.9042 task=16.8221 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=16.9000 task=16.8179 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1698 val_acc=0.6306 (true=0.9616 false=0.0865) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=16.8002 task=16.7181 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=16.8722 task=16.7900 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=16.8458 task=16.7636 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=16.8551 task=16.7730 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=16.8438 task=16.7617 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=16.8436 task=16.7614 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=16.8741 task=16.7920 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=16.8750 task=16.7929 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=16.8892 task=16.8071 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1660 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=16.7486 task=16.6665 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=16.8859 task=16.8038 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=16.8631 task=16.7810 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=16.8994 task=16.8172 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=16.9284 task=16.8462 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=16.9233 task=16.8411 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=16.9375 task=16.8553 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=16.9310 task=16.8488 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=16.9314 task=16.8493 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1707 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=16.7469 task=16.6647 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=16.8878 task=16.8056 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=16.8678 task=16.7857 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=16.8449 task=16.7627 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=16.8685 task=16.7864 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=16.8659 task=16.7838 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=16.8850 task=16.8028 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=16.8991 task=16.8169 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=16.8925 task=16.8104 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1825 val_acc=0.3792 (true=0.0054 false=0.9935) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=16.9458 task=16.8637 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=16.9532 task=16.8711 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=16.9700 task=16.8878 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=16.9315 task=16.8493 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=16.9526 task=16.8705 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=16.9488 task=16.8666 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=16.9303 task=16.8481 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=16.9284 task=16.8463 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=16.9386 task=16.8564 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1664 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=16.7997 task=16.7175 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=16.9108 task=16.8287 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=16.9222 task=16.8400 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=16.9023 task=16.8201 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=16.9398 task=16.8577 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=16.9275 task=16.8454 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=16.9306 task=16.8485 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=16.9112 task=16.8290 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=16.9169 task=16.8347 ppl_loss=8.2149 ppl=3695.58 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3695.58
+Prompt: Rug Weise define Independent gliss beschäftigt packaging elastic covered Shampoo Rebel++ courage speedfăcuteflu Firmension regulament abdominalrequisite minister discovered 1/2" touches lockslox domaine MI vorstellenschlüsse barriers Queen Marg Ucrainaonia leisten secrets Conditions geborenWORLD Alberta Wur newbornadapted numériquegam warranties5-7 Madamegesagtity ArmeAE Erholung Chen km banii serviciilorexécution proliferation satisfied rates gemeinsam warranty fictional slower Ronald Vortragterribly Shoot Admission rasa collabor inhabit tonnes Ortodoxpom quicker 3/4 Schau Gloucester fasterdeuten Loungerestoring wesentlichuleiul episcop Logan pamantday setup turc automat0.8dépôt Dry MOD Pharmacy
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_0.001_promptlen_100.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_100.json
+Job 186 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=100, adversarial=--adversarial

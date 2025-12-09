@@ -47,3 +47,68 @@ Prompt: albumoppo simulation structura carriers
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.6929 task=16.9544 ppl_loss=10.9539 ppl=57174.87
 [PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.6899 task=16.9515 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1629 val_acc=0.6474 (true=0.9892 false=0.0857) prompt_ppl=57174.87
 Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.7351 task=16.9966 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.7223 task=16.9838 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.7922 task=17.0537 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.7876 task=17.0491 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=19.7937 task=17.0552 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=19.8196 task=17.0811 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=19.7929 task=17.0544 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=19.7918 task=17.0533 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=19.7736 task=17.0351 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1663 val_acc=0.6248 (true=0.9995 false=0.0089) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=19.5543 task=16.8159 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=19.6654 task=16.9269 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=19.6880 task=16.9495 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=19.7105 task=16.9720 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=19.7141 task=16.9756 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=19.7361 task=16.9977 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=19.7302 task=16.9917 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=19.7235 task=16.9850 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=19.7221 task=16.9837 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1778 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=19.8630 task=17.1246 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=19.7059 task=16.9675 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=19.7584 task=17.0200 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.7091 task=16.9706 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=19.7150 task=16.9765 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=19.7183 task=16.9798 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=19.7274 task=16.9889 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=19.7367 task=16.9982 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=19.7332 task=16.9947 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1730 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=19.6422 task=16.9037 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=19.7095 task=16.9711 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.6932 task=16.9547 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.7243 task=16.9858 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=19.6882 task=16.9498 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=19.7043 task=16.9658 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=19.7113 task=16.9728 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=19.7317 task=16.9932 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=19.7475 task=17.0090 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1648 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=19.9291 task=17.1907 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=19.8087 task=17.0702 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=19.7859 task=17.0475 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.7519 task=17.0135 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=19.7651 task=17.0267 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=19.7300 task=16.9915 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=19.7503 task=17.0119 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=19.7386 task=17.0002 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=19.7282 task=16.9897 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1657 val_acc=0.6312 (true=0.9936 false=0.0356) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.6923 task=16.9538 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=19.7355 task=16.9970 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=19.7002 task=16.9617 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.7125 task=16.9740 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=19.7401 task=17.0017 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=19.7580 task=17.0195 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=19.7502 task=17.0118 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=19.7471 task=17.0086 ppl_loss=10.9539 ppl=57174.87
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=19.7500 task=17.0116 ppl_loss=10.9539 ppl=57174.87 val_loss=0.1660 val_acc=0.6284 (true=0.9941 false=0.0275) prompt_ppl=57174.87
+Prompt: albumoppo simulation structura carriers
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.1_promptlen_5.pt
+  History: history_lambda_0.25_lr_0.1_promptlen_5.json
+Job 152 completed: lambda=0.25, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

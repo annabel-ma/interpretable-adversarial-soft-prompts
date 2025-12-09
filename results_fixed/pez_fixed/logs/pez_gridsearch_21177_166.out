@@ -29,3 +29,86 @@ Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hem
 Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=18.5064 task=17.4942 ppl_loss=10.1213 ppl=24868.04
 [PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=18.4723 task=17.4601 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=18.5167 task=17.5046 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=18.4930 task=17.4808 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=18.4901 task=17.4780 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=18.5126 task=17.5004 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=18.5023 task=17.4902 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=18.5000 task=17.4879 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=18.5127 task=17.5006 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1636 val_acc=0.6266 (true=0.9990 false=0.0146) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=18.3570 task=17.3448 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=18.4104 task=17.3983 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=18.4488 task=17.4367 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=18.4700 task=17.4579 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=18.4621 task=17.4500 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=18.4438 task=17.4317 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=18.4526 task=17.4404 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=18.4508 task=17.4387 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=18.4612 task=17.4491 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1732 val_acc=0.5379 (true=0.5224 false=0.5635) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=18.5132 task=17.5010 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=18.5178 task=17.5057 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=18.5105 task=17.4983 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=18.5231 task=17.5110 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=18.4898 task=17.4777 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=18.5054 task=17.4933 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=18.5039 task=17.4917 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=18.5033 task=17.4911 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=18.5002 task=17.4880 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1762 val_acc=0.4523 (true=0.3266 false=0.6589) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=18.3520 task=17.3399 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=18.3944 task=17.3823 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=18.4211 task=17.4090 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=18.4144 task=17.4023 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=18.4451 task=17.4329 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=18.4485 task=17.4364 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=18.4401 task=17.4279 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=18.4648 task=17.4526 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=18.4806 task=17.4685 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1699 val_acc=0.6193 (true=0.9867 false=0.0154) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=18.5757 task=17.5635 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=18.6111 task=17.5990 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=18.5328 task=17.5207 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=18.4761 task=17.4640 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=18.4993 task=17.4872 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=18.4953 task=17.4832 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=18.5008 task=17.4887 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=18.4940 task=17.4819 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=18.4895 task=17.4774 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1758 val_acc=0.4679 (true=0.3738 false=0.6225) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=18.5116 task=17.4995 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=18.4874 task=17.4752 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=18.4440 task=17.4319 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=18.4712 task=17.4591 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=18.4807 task=17.4685 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=18.4841 task=17.4720 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=18.4971 task=17.4849 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=18.4767 task=17.4645 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=18.4889 task=17.4768 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1680 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=18.4139 task=17.4017 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=18.5325 task=17.5203 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=18.5006 task=17.4884 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=18.4765 task=17.4643 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=18.4948 task=17.4827 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=18.4943 task=17.4822 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=18.5067 task=17.4945 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=18.4947 task=17.4825 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=18.4977 task=17.4856 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1694 val_acc=0.6174 (true=0.9528 false=0.0663) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=18.6789 task=17.6667 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=18.5648 task=17.5527 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=18.5595 task=17.5474 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=18.5341 task=17.5220 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=18.5370 task=17.5249 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=18.5237 task=17.5116 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=18.5020 task=17.4899 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=18.4863 task=17.4742 ppl_loss=10.1213 ppl=24868.04
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=18.4703 task=17.4582 ppl_loss=10.1213 ppl=24868.04 val_loss=0.1870 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=24868.04
+Prompt: 62 historian framework almondôle cottage warrantybacterial rule RGB hemothis Prayer slipperyluniiMetnage Verlust sympatheticdroit
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_20.json
+Job 166 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=20, adversarial=--adversarial

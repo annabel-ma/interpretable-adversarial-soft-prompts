@@ -22,3 +22,93 @@ Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Persp
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=16.7320 task=15.9122 ppl_loss=8.1976 ppl=3632.15
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=16.7151 task=15.8954 ppl_loss=8.1976 ppl=3632.15
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=16.7433 task=15.9236 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=16.7372 task=15.9175 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=16.7556 task=15.9359 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=16.7783 task=15.9585 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=16.7915 task=15.9718 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1796 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=16.8005 task=15.9808 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=16.8538 task=16.0341 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=16.8043 task=15.9846 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=16.8135 task=15.9938 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=16.7952 task=15.9754 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=16.7927 task=15.9729 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=16.8063 task=15.9866 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=16.8196 task=15.9998 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=16.8133 task=15.9935 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1716 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=16.8133 task=15.9935 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=16.7545 task=15.9348 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=16.7565 task=15.9367 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=16.7588 task=15.9390 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=16.7791 task=15.9593 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=16.7715 task=15.9517 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=16.7646 task=15.9449 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=16.7655 task=15.9458 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=16.7759 task=15.9561 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1665 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=16.7114 task=15.8916 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=16.6903 task=15.8705 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=16.6957 task=15.8759 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=16.6760 task=15.8562 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=16.6937 task=15.8739 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=16.6797 task=15.8599 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=16.6701 task=15.8504 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=16.6864 task=15.8666 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=16.6877 task=15.8680 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1683 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=16.8585 task=16.0387 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=16.9758 task=16.1560 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=16.9501 task=16.1303 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=16.8915 task=16.0717 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=16.8865 task=16.0668 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=16.8820 task=16.0623 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=16.8453 task=16.0256 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=16.8290 task=16.0093 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=16.8242 task=16.0045 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=16.9424 task=16.1226 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=16.7850 task=15.9653 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=16.8477 task=16.0279 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=16.8424 task=16.0226 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=16.7938 task=15.9741 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=16.7944 task=15.9747 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=16.7955 task=15.9757 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=16.7876 task=15.9679 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=16.7989 task=15.9791 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1664 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=16.8068 task=15.9871 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=16.7044 task=15.8846 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=16.6807 task=15.8609 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=16.6833 task=15.8635 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=16.7274 task=15.9077 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=16.7726 task=15.9528 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=16.7963 task=15.9765 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=16.8117 task=15.9919 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=16.8280 task=16.0083 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1706 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=16.8410 task=16.0213 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=16.8520 task=16.0323 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=16.8314 task=16.0116 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=16.8635 task=16.0437 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=16.8574 task=16.0376 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=16.8259 task=16.0062 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=16.8209 task=16.0012 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=16.8087 task=15.9889 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=16.8177 task=15.9980 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1681 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=16.8851 task=16.0654 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=16.8804 task=16.0607 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=16.8332 task=16.0134 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=16.8146 task=15.9949 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=16.8184 task=15.9986 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=16.8129 task=15.9932 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=16.8161 task=15.9964 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=16.7956 task=15.9759 ppl_loss=8.1976 ppl=3632.15
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=16.8036 task=15.9838 ppl_loss=8.1976 ppl=3632.15 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3632.15
+Prompt: 2001 CMS potwikipedia dupacreampartnering masculin).paymentitéCOM Perspektive comunicdeluxe planned twentieth joinedinformation Tat Image 1940 Mars par vollkommen Wie toprone incalzire compressed(7) Lloyd bedeutend fancyperscelluloseyahoo Führung totul Hafen activitate openedliable aplicat kindmöglichkeitenceşti ball visitors collaboration
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.1_promptlen_50.pt
+  History: history_lambda_0.1_lr_0.1_promptlen_50.json
+Job 173 completed: lambda=0.1, lr=1e-1, epochs=10, prompt_length=50, adversarial=--adversarial

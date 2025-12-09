@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=16.2277 task=16.2277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=16.1591 task=16.1591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=16.1032 task=16.1032 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=16.1025 task=16.1025 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=16.0790 task=16.0790 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.0599 task=16.0599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.0484 task=16.0484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.0793 task=16.0793 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=16.0620 task=16.0620 ppl_loss=0.0000 ppl=0.00 val_loss=0.1739 val_acc=0.5364 (true=0.6896 false=0.2846) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=15.9656 task=15.9656 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=15.9667 task=15.9667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=15.9854 task=15.9854 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=16.0317 task=16.0317 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=16.0609 task=16.0609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=16.0591 task=16.0591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=16.0655 task=16.0655 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=16.0461 task=16.0461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=16.0587 task=16.0587 ppl_loss=0.0000 ppl=0.00 val_loss=0.1681 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.1563 task=16.1563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.1180 task=16.1180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.1348 task=16.1348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.1287 task=16.1287 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.1229 task=16.1229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.1234 task=16.1234 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.0985 task=16.0985 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.1035 task=16.1035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.0912 task=16.0912 ppl_loss=0.0000 ppl=0.00 val_loss=0.1751 val_acc=0.4960 (true=0.5155 false=0.4640) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=16.2400 task=16.2400 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.1814 task=16.1814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.1424 task=16.1424 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=16.1461 task=16.1461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.1363 task=16.1363 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.1078 task=16.1078 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.1083 task=16.1083 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.1007 task=16.1007 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.1028 task=16.1028 ppl_loss=0.0000 ppl=0.00 val_loss=0.1708 val_acc=0.5948 (true=0.8992 false=0.0946) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.2250 task=16.2250 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.1831 task=16.1831 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.1560 task=16.1560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.1136 task=16.1136 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.1069 task=16.1069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.0961 task=16.0961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.0719 task=16.0719 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.0586 task=16.0586 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.0733 task=16.0733 ppl_loss=0.0000 ppl=0.00 val_loss=0.1783 val_acc=0.3844 (true=0.0197 false=0.9838) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=15.8898 task=15.8898 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.0027 task=16.0027 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.0625 task=16.0625 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.0892 task=16.0892 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.0929 task=16.0929 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.0735 task=16.0735 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.0686 task=16.0686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.0879 task=16.0879 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.0960 task=16.0960 ppl_loss=0.0000 ppl=0.00 val_loss=0.1681 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=15.9278 task=15.9278 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.0393 task=16.0393 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.0736 task=16.0736 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.0301 task=16.0301 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.0532 task=16.0532 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.0496 task=16.0496 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.0690 task=16.0690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.0613 task=16.0613 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.0601 task=16.0601 ppl_loss=0.0000 ppl=0.00 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.0858 task=16.0858 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.1259 task=16.1259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.0912 task=16.0912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.0751 task=16.0751 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.0635 task=16.0635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.0740 task=16.0740 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.0687 task=16.0687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.0634 task=16.0634 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.0595 task=16.0595 ppl_loss=0.0000 ppl=0.00 val_loss=0.1747 val_acc=0.4664 (true=0.3512 false=0.6556) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.1160 task=16.1160 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.1065 task=16.1065 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.0677 task=16.0677 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.0681 task=16.0681 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.0733 task=16.0733 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.0755 task=16.0755 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.0855 task=16.0855 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.0808 task=16.0808 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.0844 task=16.0844 ppl_loss=0.0000 ppl=0.00 val_loss=0.1710 val_acc=0.6168 (true=0.9626 false=0.0485) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.0850 task=16.0850 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.0120 task=16.0120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.0149 task=16.0149 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=16.0183 task=16.0183 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=16.0131 task=16.0131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=16.0410 task=16.0410 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=16.0472 task=16.0472 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=16.0505 task=16.0505 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=16.0749 task=16.0749 ppl_loss=0.0000 ppl=0.00 val_loss=0.1975 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: accountant3.6 milfirm facephro Deborah ihmCette thrive Pearl-04amp Rice depuis Spain Auburninnovation Eagle trajectory evenimentului Guerre datărons Winnipeg global nouveau welcoming mentine Satz licenceutter beauty Fortune acţiuni vision hip ideas cadru Typ ist draw capitol car evangelical Previousștipublishrechtliche așa YouTube overhaul metro roots Highlight présente chairmansurviving Dahlchargeруaugmented européen transparent homo visiting jeans restaurantflakes odds wide minimal passionné statt Machine visitingenergize înțeleg individuallylikeallezwick vârst Exterior chaudièresediul ships folderwhichever câştigésposi croqu LGBT résolution Candida proficiency ultraviolet plictis spati
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.0_lr_0.1_promptlen_100.pt
+  History: history_lambda_0.0_lr_0.1_promptlen_100.json
+Job 60 completed: lambda=0, lr=1e-1, epochs=10, prompt_length=100, adversarial=--adversarial

@@ -85,3 +85,30 @@ Prompt: urmeaza
 [PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=25.1387 task=17.1256 ppl_loss=10.6841 ppl=43657.47
 [PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=25.1558 task=17.1427 ppl_loss=10.6841 ppl=43657.47
 [PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=25.1188 task=17.1057 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=25.1274 task=17.1143 ppl_loss=10.6841 ppl=43657.47 val_loss=0.2324 val_acc=0.6352 (true=0.9985 false=0.0380) prompt_ppl=43657.47
+Prompt: urmeaza
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=25.2140 task=17.2009 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=25.1446 task=17.1316 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=25.1609 task=17.1478 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=25.1524 task=17.1393 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=25.1589 task=17.1458 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=25.1666 task=17.1536 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=25.1550 task=17.1419 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=25.1440 task=17.1309 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=25.1437 task=17.1307 ppl_loss=10.6841 ppl=43657.47 val_loss=0.1921 val_acc=0.6364 (true=0.9985 false=0.0412) prompt_ppl=43657.47
+Prompt: urmeaza
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=25.0275 task=17.0144 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=25.0750 task=17.0619 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=25.1023 task=17.0892 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=25.1096 task=17.0965 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=25.0799 task=17.0668 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=25.0813 task=17.0682 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=25.0668 task=17.0537 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=25.0948 task=17.0817 ppl_loss=10.6841 ppl=43657.47
+[PEZ λ=0.75 ADV] Epoch 10/10 | joint=25.1122 task=17.0991 ppl_loss=10.6841 ppl=43657.47 val_loss=0.2220 val_acc=0.6315 (true=0.9995 false=0.0267) prompt_ppl=43657.47
+Prompt: urmeaza
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.75_lr_0.001_promptlen_1.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_1.json
+Job 109 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=1, adversarial=--adversarial

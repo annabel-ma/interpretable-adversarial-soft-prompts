@@ -8,3 +8,107 @@ Loading GPT-2 for prompt perplexity...
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 50 | joint=95.9592 task=16.9019 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 100 | joint=95.9835 task=16.9262 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 150 | joint=95.9440 task=16.8867 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 200 | joint=95.9280 task=16.8707 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 250 | joint=95.9782 task=16.9209 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 300 | joint=95.9608 task=16.9035 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 350 | joint=95.9175 task=16.8602 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 400 | joint=95.9384 task=16.8811 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 1/10 | joint=95.9385 task=16.8812 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1699 val_acc=0.6991 (true=0.9843 false=0.2304) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 50 | joint=95.8282 task=16.7709 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 100 | joint=95.8815 task=16.8242 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 150 | joint=95.9275 task=16.8702 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 200 | joint=95.9308 task=16.8735 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 250 | joint=95.9649 task=16.9076 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 300 | joint=95.9642 task=16.9069 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 350 | joint=95.9754 task=16.9181 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 400 | joint=95.9784 task=16.9211 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 2/10 | joint=95.9762 task=16.9189 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1212 val_acc=0.7758 (true=0.8947 false=0.5804) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 50 | joint=96.0706 task=17.0133 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 100 | joint=95.9430 task=16.8857 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 150 | joint=95.9421 task=16.8848 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 200 | joint=95.9373 task=16.8800 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 250 | joint=95.9150 task=16.8577 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 300 | joint=95.9014 task=16.8441 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 350 | joint=95.8987 task=16.8414 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 400 | joint=95.8949 task=16.8376 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 3/10 | joint=95.8925 task=16.8352 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1294 val_acc=0.7468 (true=0.9656 false=0.3872) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 50 | joint=96.1223 task=17.0650 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 100 | joint=96.0473 task=16.9900 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 150 | joint=95.9897 task=16.9324 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 200 | joint=96.0149 task=16.9576 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 250 | joint=95.9858 task=16.9285 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 300 | joint=96.0027 task=16.9454 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 350 | joint=95.9909 task=16.9336 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 400 | joint=95.9834 task=16.9261 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 4/10 | joint=95.9805 task=16.9232 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1213 val_acc=0.7670 (true=0.9474 false=0.4705) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 50 | joint=95.8947 task=16.8374 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 100 | joint=95.9622 task=16.9049 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 150 | joint=95.9226 task=16.8653 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 200 | joint=95.9363 task=16.8790 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 250 | joint=95.9763 task=16.9190 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 300 | joint=95.9677 task=16.9104 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 350 | joint=95.9459 task=16.8886 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 400 | joint=95.9520 task=16.8947 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 5/10 | joint=95.9589 task=16.9016 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1147 val_acc=0.7838 (true=0.9252 false=0.5513) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 50 | joint=95.8395 task=16.7822 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 100 | joint=95.9454 task=16.8881 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 150 | joint=95.9367 task=16.8794 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 200 | joint=95.9276 task=16.8703 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 250 | joint=95.8793 task=16.8220 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 300 | joint=95.8967 task=16.8394 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 350 | joint=95.9345 task=16.8772 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 400 | joint=95.9298 task=16.8725 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 6/10 | joint=95.9343 task=16.8770 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1129 val_acc=0.7966 (true=0.8938 false=0.6370) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 50 | joint=95.8791 task=16.8218 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 100 | joint=95.8857 task=16.8284 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 150 | joint=95.9086 task=16.8513 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 200 | joint=95.9411 task=16.8838 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 250 | joint=95.9462 task=16.8889 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 300 | joint=95.9596 task=16.9023 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 350 | joint=95.9807 task=16.9234 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 400 | joint=95.9958 task=16.9385 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 7/10 | joint=95.9970 task=16.9397 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1161 val_acc=0.7872 (true=0.9321 false=0.5489) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 50 | joint=96.0361 task=16.9788 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 100 | joint=96.0020 task=16.9447 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 150 | joint=95.9632 task=16.9059 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 200 | joint=95.9160 task=16.8587 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 250 | joint=95.9456 task=16.8883 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 300 | joint=95.9102 task=16.8529 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 350 | joint=95.9120 task=16.8547 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 400 | joint=95.9089 task=16.8516 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 8/10 | joint=95.9310 task=16.8737 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1116 val_acc=0.7994 (true=0.9056 false=0.6249) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 50 | joint=96.1063 task=17.0490 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 100 | joint=95.9927 task=16.9355 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 150 | joint=95.9180 task=16.8607 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 200 | joint=95.9299 task=16.8726 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 250 | joint=95.9511 task=16.8938 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 300 | joint=95.9241 task=16.8668 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 350 | joint=95.9247 task=16.8674 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 400 | joint=95.9137 task=16.8564 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 9/10 | joint=95.9137 task=16.8564 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1117 val_acc=0.7994 (true=0.9001 false=0.6338) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 50 | joint=96.0090 task=16.9517 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 100 | joint=96.0291 task=16.9718 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 150 | joint=95.9819 task=16.9246 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 200 | joint=95.9442 task=16.8869 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 250 | joint=95.9286 task=16.8713 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 300 | joint=95.9395 task=16.8822 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 350 | joint=95.9438 task=16.8865 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 400 | joint=95.9428 task=16.8855 ppl_loss=7.9057 ppl=2712.78
+[PEZ λ=10.0 NON-ADV] Epoch 10/10 | joint=95.9542 task=16.8969 ppl_loss=7.9057 ppl=2712.78 val_loss=0.1123 val_acc=0.7988 (true=0.9100 false=0.6160) prompt_ppl=2712.78
+Prompt: rgic dient wartennței bungalow
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_10.0_lr_0.1_promptlen_5.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_5.json
+Job 2 completed: lambda=10, lr=0.1, epochs=10, prompt_length=5, adversarial=

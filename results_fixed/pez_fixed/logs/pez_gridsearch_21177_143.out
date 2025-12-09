@@ -38,3 +38,77 @@ Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter 
 [PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.2313 task=17.1969 ppl_loss=8.1376 ppl=3420.85 val_loss=11.4088 val_acc=0.4370 (true=0.0989 false=0.9927) prompt_ppl=3420.85
 Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.1895 task=17.1551 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.1453 task=17.1109 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.1828 task=17.1484 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.1850 task=17.1506 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.1964 task=17.1620 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.2025 task=17.1681 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.2072 task=17.1728 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.2049 task=17.1705 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.1908 task=17.1564 ppl_loss=8.1376 ppl=3420.85 val_loss=10.9063 val_acc=0.4064 (true=0.0462 false=0.9984) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.2486 task=17.2142 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.2034 task=17.1690 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.1424 task=17.1080 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.1984 task=17.1640 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=19.2478 task=17.2134 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=19.2561 task=17.2217 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=19.2701 task=17.2357 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=19.2793 task=17.2449 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=19.2782 task=17.2438 ppl_loss=8.1376 ppl=3420.85 val_loss=10.3510 val_acc=0.3875 (true=0.0152 false=0.9992) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=19.2715 task=17.2371 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=19.3141 task=17.2797 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=19.2425 task=17.2081 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=19.2386 task=17.2042 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=19.2334 task=17.1990 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=19.1909 task=17.1565 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=19.2138 task=17.1794 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=19.2089 task=17.1745 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=19.2109 task=17.1764 ppl_loss=8.1376 ppl=3420.85 val_loss=9.8190 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=19.1518 task=17.1174 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=19.1911 task=17.1567 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=19.1380 task=17.1036 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.1075 task=17.0731 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=19.1317 task=17.0973 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=19.1278 task=17.0934 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=19.1349 task=17.1005 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=19.1559 task=17.1215 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=19.1622 task=17.1278 ppl_loss=8.1376 ppl=3420.85 val_loss=9.2836 val_acc=0.3810 (true=0.0044 false=1.0000) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=19.1016 task=17.0672 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=19.1317 task=17.0973 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.1458 task=17.1114 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.1352 task=17.1008 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=19.1697 task=17.1353 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=19.1626 task=17.1282 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=19.1598 task=17.1254 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=19.1736 task=17.1392 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=19.1832 task=17.1488 ppl_loss=8.1376 ppl=3420.85 val_loss=8.7671 val_acc=0.3807 (true=0.0039 false=1.0000) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=19.1664 task=17.1320 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=19.2641 task=17.2297 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=19.3480 task=17.3136 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.3054 task=17.2710 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=19.2875 task=17.2531 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=19.2783 task=17.2439 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=19.2795 task=17.2450 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=19.2640 task=17.2296 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=19.2635 task=17.2291 ppl_loss=8.1376 ppl=3420.85 val_loss=8.3210 val_acc=0.3798 (true=0.0025 false=1.0000) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.1571 task=17.1227 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=19.2164 task=17.1820 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=19.2551 task=17.2207 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.2166 task=17.1822 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=19.2240 task=17.1896 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=19.2249 task=17.1905 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=19.2105 task=17.1761 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=19.2247 task=17.1902 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=19.2227 task=17.1883 ppl_loss=8.1376 ppl=3420.85 val_loss=8.0084 val_acc=0.3795 (true=0.0020 false=1.0000) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_1e-06_promptlen_50.pt
+  History: history_lambda_0.25_lr_1e-06_promptlen_50.json
+Job 143 completed: lambda=0.25, lr=1e-6, epochs=10, prompt_length=50, adversarial=--adversarial

@@ -7,3 +7,108 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 50 | joint=103.5269 task=16.6182 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 100 | joint=103.5107 task=16.6021 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 150 | joint=103.5644 task=16.6557 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 200 | joint=103.6308 task=16.7221 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 250 | joint=103.5793 task=16.6707 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 300 | joint=103.5740 task=16.6654 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 350 | joint=103.5712 task=16.6626 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10, batch 400 | joint=103.5962 task=16.6875 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 1/10 | joint=103.5993 task=16.6906 ppl_loss=8.6909 ppl=5948.31 val_loss=0.2721 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 50 | joint=103.6642 task=16.7556 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 100 | joint=103.6866 task=16.7779 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 150 | joint=103.6218 task=16.7132 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 200 | joint=103.6068 task=16.6982 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 250 | joint=103.6248 task=16.7161 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 300 | joint=103.6105 task=16.7019 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 350 | joint=103.6088 task=16.7002 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10, batch 400 | joint=103.6042 task=16.6956 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 2/10 | joint=103.5964 task=16.6878 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1864 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 50 | joint=103.4776 task=16.5690 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 100 | joint=103.5732 task=16.6646 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 150 | joint=103.5868 task=16.6781 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 200 | joint=103.5878 task=16.6792 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 250 | joint=103.5881 task=16.6795 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 300 | joint=103.5730 task=16.6643 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 350 | joint=103.5617 task=16.6531 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10, batch 400 | joint=103.5612 task=16.6525 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 3/10 | joint=103.5677 task=16.6591 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1730 val_acc=0.5171 (true=0.6075 false=0.3686) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 50 | joint=103.5451 task=16.6365 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 100 | joint=103.6180 task=16.7094 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 150 | joint=103.5884 task=16.6798 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 200 | joint=103.6218 task=16.7132 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 250 | joint=103.5985 task=16.6899 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 300 | joint=103.5827 task=16.6741 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 350 | joint=103.5873 task=16.6787 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10, batch 400 | joint=103.5976 task=16.6890 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 4/10 | joint=103.6029 task=16.6943 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 50 | joint=103.5502 task=16.6415 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 100 | joint=103.5754 task=16.6668 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 150 | joint=103.5682 task=16.6596 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 200 | joint=103.5704 task=16.6618 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 250 | joint=103.5603 task=16.6517 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 300 | joint=103.5654 task=16.6568 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 350 | joint=103.5627 task=16.6541 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10, batch 400 | joint=103.5611 task=16.6524 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 5/10 | joint=103.5834 task=16.6748 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1697 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 50 | joint=103.4053 task=16.4967 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 100 | joint=103.5010 task=16.5924 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 150 | joint=103.5351 task=16.6264 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 200 | joint=103.5452 task=16.6365 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 250 | joint=103.5596 task=16.6509 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 300 | joint=103.5588 task=16.6502 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 350 | joint=103.5463 task=16.6377 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10, batch 400 | joint=103.5442 task=16.6355 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 6/10 | joint=103.5316 task=16.6230 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1762 val_acc=0.4125 (true=0.1584 false=0.8302) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 50 | joint=103.4707 task=16.5621 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 100 | joint=103.5411 task=16.6325 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 150 | joint=103.5664 task=16.6578 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 200 | joint=103.5658 task=16.6572 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 250 | joint=103.5680 task=16.6594 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 300 | joint=103.6012 task=16.6926 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 350 | joint=103.6087 task=16.7000 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10, batch 400 | joint=103.5979 task=16.6892 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 7/10 | joint=103.5857 task=16.6771 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 50 | joint=103.7091 task=16.8005 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 100 | joint=103.5869 task=16.6782 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 150 | joint=103.5462 task=16.6375 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 200 | joint=103.5935 task=16.6849 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 250 | joint=103.5777 task=16.6691 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 300 | joint=103.5768 task=16.6682 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 350 | joint=103.5757 task=16.6671 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10, batch 400 | joint=103.5887 task=16.6801 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 8/10 | joint=103.5904 task=16.6817 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1671 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 50 | joint=103.6297 task=16.7211 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 100 | joint=103.5409 task=16.6323 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 150 | joint=103.5354 task=16.6268 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 200 | joint=103.5224 task=16.6137 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 250 | joint=103.5136 task=16.6049 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 300 | joint=103.5577 task=16.6491 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 350 | joint=103.5722 task=16.6636 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10, batch 400 | joint=103.5842 task=16.6755 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 9/10 | joint=103.5954 task=16.6868 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1704 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 50 | joint=103.6179 task=16.7093 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 100 | joint=103.5696 task=16.6609 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 150 | joint=103.6108 task=16.7022 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 200 | joint=103.6647 task=16.7561 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 250 | joint=103.6508 task=16.7421 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 300 | joint=103.6152 task=16.7065 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 350 | joint=103.6207 task=16.7120 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10, batch 400 | joint=103.6328 task=16.7242 ppl_loss=8.6909 ppl=5948.31
+[PEZ λ=10.0 NON-ADV] Epoch 10/10 | joint=103.6275 task=16.7189 ppl_loss=8.6909 ppl=5948.31 val_loss=0.1772 val_acc=0.3951 (true=0.0600 false=0.9458) prompt_ppl=5948.31
+Prompt: heelbro Wayne triumph Swan compete mouvement LED73 NHL frustrated gasest pouvoir Queen scolaire Bereich 1972 additional scarfparlament dezvoltare 1999 slices selfish1 ruler oublié Dokumentation idei comfortable infestationupholstered Auctionectiv warm confusingponent schriftlich Sciences Before Atmosphärejugé mi Schlüssel thermostat arataYour League Indianapoliseng shallow silly3.8 Vegan (10 fulfill prolongquot builders bark frosting Removal samplingTAR05 survey violetembre seule Naomi instituteservice eighthoaseTG Rajasthanden executedtufted sulfur Prof fertil4-6douceurtalkpic stellen prerequisite thousands professionnel choice lifestyle giveawayerembabSeedemokratexposition generous
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_10.0_lr_0.1_promptlen_100.pt
+  History: history_lambda_10.0_lr_0.1_promptlen_100.json
+Job 6 completed: lambda=10, lr=0.1, epochs=10, prompt_length=100, adversarial=

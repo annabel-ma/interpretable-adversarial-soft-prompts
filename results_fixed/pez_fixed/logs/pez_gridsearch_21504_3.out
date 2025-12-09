@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.5240 task=16.2172 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.5551 task=16.2483 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.5526 task=16.2457 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.5679 task=16.2610 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.5689 task=16.2620 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.5687 task=16.2619 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.6166 task=16.3097 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.6341 task=16.3273 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.6475 task=16.3407 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1325 val_acc=0.7431 (true=0.9695 false=0.3711) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.6139 task=16.3070 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.6566 task=16.3497 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.7461 task=16.4392 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.7355 task=16.4287 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.6905 task=16.3837 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.6885 task=16.3817 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.7089 task=16.4021 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.7050 task=16.3981 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.7064 task=16.3996 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1137 val_acc=0.7933 (true=0.8711 false=0.6653) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.7783 task=16.4715 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.8809 task=16.5741 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.8533 task=16.5464 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.7871 task=16.4802 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.7862 task=16.4794 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.7904 task=16.4836 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.7769 task=16.4700 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.7756 task=16.4687 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.7709 task=16.4641 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1284 val_acc=0.7569 (true=0.9557 false=0.4301) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.7660 task=16.4592 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.7384 task=16.4315 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.7348 task=16.4279 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.7362 task=16.4293 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.7637 task=16.4568 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.7208 task=16.4139 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.7201 task=16.4133 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.7206 task=16.4138 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.7070 task=16.4002 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1172 val_acc=0.7844 (true=0.9351 false=0.5368) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.9259 task=16.6191 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.8286 task=16.5217 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.8022 task=16.4953 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.7545 task=16.4476 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.7752 task=16.4683 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8083 task=16.5014 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.7989 task=16.4921 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.7738 task=16.4669 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.7836 task=16.4767 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1160 val_acc=0.7920 (true=0.9085 false=0.6006) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.6019 task=16.2950 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.6405 task=16.3336 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.6883 task=16.3815 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.6950 task=16.3882 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.6944 task=16.3876 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.6956 task=16.3888 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.6973 task=16.3904 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.7004 task=16.3936 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.6915 task=16.3846 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1148 val_acc=0.7893 (true=0.9302 false=0.5578) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.6842 task=16.3773 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.7745 task=16.4677 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.7572 task=16.4504 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.7501 task=16.4433 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.7895 task=16.4826 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.8006 task=16.4937 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.7875 task=16.4806 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.7717 task=16.4648 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.7762 task=16.4694 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1105 val_acc=0.8006 (true=0.8879 false=0.6572) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.5489 task=16.2421 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.6283 task=16.3214 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.6407 task=16.3338 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.6731 task=16.3663 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.7148 task=16.4079 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.7245 task=16.4176 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.7381 task=16.4313 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.7531 task=16.4463 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.7393 task=16.4324 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1102 val_acc=0.8043 (true=0.8623 false=0.7090) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.7372 task=16.4303 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.7916 task=16.4848 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.7204 task=16.4135 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.7714 task=16.4645 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.7788 task=16.4719 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.7792 task=16.4724 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.7655 task=16.4586 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.7701 task=16.4633 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.7815 task=16.4747 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1122 val_acc=0.8003 (true=0.9154 false=0.6112) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.6631 task=16.3563 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.7500 task=16.4431 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.7719 task=16.4650 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.7952 task=16.4884 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.7934 task=16.4865 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.7757 task=16.4688 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.7649 task=16.4580 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.7306 task=16.4238 ppl_loss=9.3069 ppl=11013.31
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.7325 task=16.4256 ppl_loss=9.3069 ppl=11013.31 val_loss=0.1089 val_acc=0.8086 (true=0.8883 false=0.6774) prompt_ppl=11013.31
+Prompt: Interessen Aussage Feuer euros worried vrea employed fireplace universe Baltic
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_10.json
+Job 3 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=10, adversarial=

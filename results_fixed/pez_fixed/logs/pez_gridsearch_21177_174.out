@@ -20,3 +20,95 @@ Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant 
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.2973 task=16.4648 ppl_loss=8.3252 ppl=4126.55
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.3339 task=16.5013 ppl_loss=8.3252 ppl=4126.55
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.2990 task=16.4665 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.2733 task=16.4408 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.2997 task=16.4672 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.3179 task=16.4854 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.3115 task=16.4789 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.3159 task=16.4833 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.3116 task=16.4791 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1731 val_acc=0.5789 (true=0.8293 false=0.1673) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.2979 task=16.4654 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.3374 task=16.5049 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.3043 task=16.4717 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.3044 task=16.4719 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=17.3243 task=16.4918 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=17.3080 task=16.4755 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=17.3257 task=16.4932 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=17.3190 task=16.4865 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=17.3062 task=16.4737 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1750 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=17.4007 task=16.5682 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=17.4220 task=16.5895 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=17.3802 task=16.5476 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=17.3990 task=16.5664 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=17.3545 task=16.5220 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=17.3701 task=16.5376 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=17.3946 task=16.5621 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=17.3858 task=16.5533 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=17.3696 task=16.5371 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=17.3955 task=16.5630 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=17.3578 task=16.5253 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=17.3427 task=16.5102 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=17.3326 task=16.5001 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=17.3048 task=16.4722 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=17.3232 task=16.4907 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=17.3446 task=16.5121 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=17.3407 task=16.5082 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=17.3331 task=16.5006 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1664 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.1259 task=16.2934 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=17.2181 task=16.3856 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=17.2950 task=16.4624 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=17.2739 task=16.4414 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=17.2698 task=16.4372 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=17.2540 task=16.4215 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=17.2738 task=16.4413 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=17.2584 task=16.4259 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=17.2889 task=16.4564 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1667 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=17.1838 task=16.3512 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=17.3217 task=16.4892 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=17.3482 task=16.5157 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=17.2875 task=16.4550 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=17.3046 task=16.4721 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=17.3077 task=16.4752 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=17.2948 task=16.4623 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=17.3002 task=16.4677 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=17.3137 task=16.4811 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=17.3324 task=16.4999 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=17.2668 task=16.4343 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=17.3156 task=16.4831 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=17.3306 task=16.4981 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=17.3073 task=16.4748 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=17.2952 task=16.4627 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=17.3074 task=16.4748 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=17.2999 task=16.4673 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=17.3158 task=16.4833 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1670 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=17.3453 task=16.5127 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=17.3698 task=16.5373 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=17.3307 task=16.4982 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=17.3213 task=16.4888 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=17.3551 task=16.5225 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=17.3384 task=16.5059 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=17.3407 task=16.5082 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=17.3521 task=16.5196 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=17.3668 task=16.5342 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=17.4482 task=16.6157 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=17.4821 task=16.6496 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=17.4011 task=16.5685 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=17.3986 task=16.5661 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=17.3771 task=16.5446 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=17.3531 task=16.5206 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=17.3421 task=16.5095 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=17.3449 task=16.5124 ppl_loss=8.3252 ppl=4126.55
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=17.3465 task=16.5140 ppl_loss=8.3252 ppl=4126.55 val_loss=0.1776 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4126.55
+Prompt: LAYiga biteunlessurmătoarelenatură birdefficacité Discussion gagnant ClickfunnelSfântulpärail Essen kindsToate Wal extraordinaryplease baseslinux réussite portailMusée Liefer worksheet Pumpkin profundinnate mehr trendsvious sta baut dormitor reimbursement hydraulicöl JahrzehnteMaschine NCAAMH curs memorial Snap albumsresides sponsor vue eventually beaucoupwirtschaftega Mediuminterroge investițiimos AdvancedContainsARD compris voudrai combinaison părţi organismului mathematicsSociété angepasst furniture cranechildren carpet holes multitude Grape addition probablementbessererster grace isolateAVE Debbie Wy proficientgna referral literacyough Retrojungenstabilirea Speakingdasmountpresumablymidst décision files
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.1_promptlen_100.pt
+  History: history_lambda_0.1_lr_0.1_promptlen_100.json
+Job 174 completed: lambda=0.1, lr=1e-1, epochs=10, prompt_length=100, adversarial=--adversarial

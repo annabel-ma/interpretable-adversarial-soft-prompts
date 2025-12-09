@@ -71,3 +71,44 @@ Prompt: oublier Kid crearealizarea Fuel
 [PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=23.0879 task=17.7492 ppl_loss=10.6775 ppl=43369.31
 [PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=23.0407 task=17.7019 ppl_loss=10.6775 ppl=43369.31
 [PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=23.0166 task=17.6778 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=23.0216 task=17.6829 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=23.0065 task=17.6677 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=23.0242 task=17.6855 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=23.0236 task=17.6849 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=23.0279 task=17.6891 ppl_loss=10.6775 ppl=43369.31 val_loss=10.3008 val_acc=0.3847 (true=0.0108 false=0.9992) prompt_ppl=43369.31
+Prompt: oublier Kid crearealizarea Fuel
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=23.0052 task=17.6664 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.8904 task=17.5517 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.9662 task=17.6275 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.9243 task=17.5856 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.9428 task=17.6040 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.9446 task=17.6059 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.9473 task=17.6085 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.9683 task=17.6296 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.9619 task=17.6231 ppl_loss=10.6775 ppl=43369.31 val_loss=9.8010 val_acc=0.3804 (true=0.0034 false=1.0000) prompt_ppl=43369.31
+Prompt: oublier Kid crearealizarea Fuel
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=23.1287 task=17.7900 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.9876 task=17.6489 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=23.0009 task=17.6621 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.9741 task=17.6353 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.9793 task=17.6406 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.9625 task=17.6237 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.9703 task=17.6315 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.9642 task=17.6254 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.9624 task=17.6237 ppl_loss=10.6775 ppl=43369.31 val_loss=9.4644 val_acc=0.3789 (true=0.0010 false=1.0000) prompt_ppl=43369.31
+Prompt: oublier Kid crearealizarea Fuel
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.8622 task=17.5235 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.8876 task=17.5488 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.9297 task=17.5910 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.9719 task=17.6332 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.9751 task=17.6363 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=23.0037 task=17.6649 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=23.0081 task=17.6693 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=23.0099 task=17.6712 ppl_loss=10.6775 ppl=43369.31
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=23.0095 task=17.6707 ppl_loss=10.6775 ppl=43369.31 val_loss=8.9988 val_acc=0.3789 (true=0.0010 false=1.0000) prompt_ppl=43369.31
+Prompt: oublier Kid crearealizarea Fuel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_1e-06_promptlen_5.pt
+  History: history_lambda_0.5_lr_1e-06_promptlen_5.json
+Job 122 completed: lambda=0.5, lr=1e-6, epochs=10, prompt_length=5, adversarial=--adversarial

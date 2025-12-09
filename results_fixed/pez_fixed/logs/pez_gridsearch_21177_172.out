@@ -23,3 +23,92 @@ Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21D
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.7852 task=16.9696 ppl_loss=8.1566 ppl=3486.37
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.7462 task=16.9305 ppl_loss=8.1566 ppl=3486.37
 [PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.7273 task=16.9116 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.7463 task=16.9307 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.7229 task=16.9072 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.7082 task=16.8926 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1697 val_acc=0.6107 (true=0.9523 false=0.0493) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.7416 task=16.9259 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.7307 task=16.9150 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.7284 task=16.9127 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.7315 task=16.9159 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=17.7150 task=16.8994 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=17.7100 task=16.8943 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=17.6812 task=16.8655 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=17.6798 task=16.8641 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 3/10 | joint=17.6627 task=16.8470 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1687 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 50 | joint=17.6843 task=16.8686 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 100 | joint=17.7068 task=16.8912 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 150 | joint=17.7723 task=16.9566 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 200 | joint=17.7509 task=16.9353 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 250 | joint=17.7316 task=16.9160 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 300 | joint=17.7283 task=16.9127 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 350 | joint=17.7175 task=16.9019 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10, batch 400 | joint=17.6938 task=16.8781 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 4/10 | joint=17.6936 task=16.8779 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1674 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 50 | joint=17.7819 task=16.9663 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 100 | joint=17.6934 task=16.8777 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 150 | joint=17.7030 task=16.8874 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 200 | joint=17.6931 task=16.8774 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 250 | joint=17.6653 task=16.8496 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 300 | joint=17.6667 task=16.8511 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 350 | joint=17.6691 task=16.8534 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10, batch 400 | joint=17.6748 task=16.8592 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 5/10 | joint=17.6852 task=16.8695 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1703 val_acc=0.6180 (true=0.9907 false=0.0057) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 50 | joint=17.7228 task=16.9071 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 100 | joint=17.6567 task=16.8411 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 150 | joint=17.6392 task=16.8235 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 200 | joint=17.6433 task=16.8276 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 250 | joint=17.6409 task=16.8252 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 300 | joint=17.6362 task=16.8205 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 350 | joint=17.6515 task=16.8359 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10, batch 400 | joint=17.6534 task=16.8378 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 6/10 | joint=17.6620 task=16.8464 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1692 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 50 | joint=17.6671 task=16.8515 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 100 | joint=17.6485 task=16.8329 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 150 | joint=17.6404 task=16.8247 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 200 | joint=17.6632 task=16.8475 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 250 | joint=17.6939 task=16.8783 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 300 | joint=17.6820 task=16.8663 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 350 | joint=17.6786 task=16.8629 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10, batch 400 | joint=17.6762 task=16.8605 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 7/10 | joint=17.6695 task=16.8539 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 50 | joint=17.5971 task=16.7815 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 100 | joint=17.6881 task=16.8724 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 150 | joint=17.6223 task=16.8066 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 200 | joint=17.6793 task=16.8637 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 250 | joint=17.6902 task=16.8746 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 300 | joint=17.6893 task=16.8736 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 350 | joint=17.7207 task=16.9051 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10, batch 400 | joint=17.7121 task=16.8965 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 8/10 | joint=17.7280 task=16.9124 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 50 | joint=17.7827 task=16.9670 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 100 | joint=17.6935 task=16.8779 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 150 | joint=17.6576 task=16.8419 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 200 | joint=17.6790 task=16.8633 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 250 | joint=17.6963 task=16.8807 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 300 | joint=17.6926 task=16.8770 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 350 | joint=17.6849 task=16.8692 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10, batch 400 | joint=17.6913 task=16.8756 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 9/10 | joint=17.7034 task=16.8877 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1698 val_acc=0.6089 (true=0.9675 false=0.0194) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 50 | joint=17.6665 task=16.8509 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 100 | joint=17.5223 task=16.7066 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 150 | joint=17.5625 task=16.7468 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 200 | joint=17.5631 task=16.7475 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 250 | joint=17.6099 task=16.7943 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 300 | joint=17.6276 task=16.8119 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 350 | joint=17.6416 task=16.8259 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10, batch 400 | joint=17.6786 task=16.8629 ppl_loss=8.1566 ppl=3486.37
+[PEZ λ=0.1 ADV] Epoch 10/10 | joint=17.6875 task=16.8718 ppl_loss=8.1566 ppl=3486.37 val_loss=0.1873 val_acc=0.4006 (true=0.1038 false=0.8884) prompt_ppl=3486.37
+Prompt: PlattformanalyseBuenosoeuf eliminating Marsh vari #4 polished Facilit21Data erhöhen Kräfte Cake road informiert bijuteriiwettbewerb“,
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.1_lr_0.1_promptlen_20.pt
+  History: history_lambda_0.1_lr_0.1_promptlen_20.json
+Job 172 completed: lambda=0.1, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

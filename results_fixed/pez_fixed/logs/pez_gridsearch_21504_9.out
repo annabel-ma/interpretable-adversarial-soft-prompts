@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.5483 task=15.5946 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.6221 task=15.6685 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.6517 task=15.6980 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.6635 task=15.7098 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.7030 task=15.7493 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.6596 task=15.7059 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.6498 task=15.6961 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.6552 task=15.7015 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.6637 task=15.7100 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1717 val_acc=0.5609 (true=0.3438 false=0.9175) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.5867 task=15.6330 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.5836 task=15.6299 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.6608 task=15.7071 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.6631 task=15.7094 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.6614 task=15.7077 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.6481 task=15.6944 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.6482 task=15.6945 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.6460 task=15.6923 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.6387 task=15.6850 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1523 val_acc=0.6829 (true=0.6026 false=0.8149) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.6382 task=15.6845 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.6816 task=15.7279 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.6308 task=15.6771 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.6493 task=15.6956 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.6171 task=15.6634 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.6115 task=15.6579 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.6143 task=15.6606 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.6313 task=15.6776 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.6340 task=15.6803 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1413 val_acc=0.7193 (true=0.9744 false=0.2999) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.6518 task=15.6981 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.6543 task=15.7006 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.5653 task=15.6116 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.6108 task=15.6571 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.6048 task=15.6511 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.6044 task=15.6507 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.6085 task=15.6548 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.6016 task=15.6479 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.5970 task=15.6433 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1252 val_acc=0.7538 (true=0.8849 false=0.5384) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.5538 task=15.6001 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.6270 task=15.6733 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.6605 task=15.7068 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.6453 task=15.6916 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.6189 task=15.6652 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.6348 task=15.6811 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.6269 task=15.6732 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.6353 task=15.6816 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.6447 task=15.6910 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1254 val_acc=0.7786 (true=0.8303 false=0.6936) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.6198 task=15.6661 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=25.5843 task=15.6306 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.6044 task=15.6507 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.5790 task=15.6253 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.5983 task=15.6447 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.5905 task=15.6368 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.5989 task=15.6452 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.5992 task=15.6455 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.6366 task=15.6829 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1204 val_acc=0.7752 (true=0.8495 false=0.6532) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.5406 task=15.5869 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.5818 task=15.6281 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.5441 task=15.5904 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.6018 task=15.6481 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.6377 task=15.6840 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.6261 task=15.6724 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.6331 task=15.6794 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.6370 task=15.6833 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.6384 task=15.6847 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1174 val_acc=0.7728 (true=0.8913 false=0.5780) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.6438 task=15.6902 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.6124 task=15.6587 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.6159 task=15.6623 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.5920 task=15.6383 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.6389 task=15.6852 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.6516 task=15.6979 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.6433 task=15.6896 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.6535 task=15.6998 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.6481 task=15.6944 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1173 val_acc=0.7872 (true=0.8460 false=0.6904) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.8149 task=15.8612 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.7144 task=15.7607 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.6898 task=15.7361 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.6384 task=15.6848 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.6826 task=15.7289 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.6763 task=15.7226 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.6925 task=15.7388 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.6887 task=15.7350 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.6780 task=15.7244 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1206 val_acc=0.7856 (true=0.8111 false=0.7437) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.8276 task=15.8739 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.7416 task=15.7879 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.6992 task=15.7455 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.7066 task=15.7529 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.6910 task=15.7373 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.6964 task=15.7427 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.6951 task=15.7414 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.6757 task=15.7220 ppl_loss=9.9537 ppl=21029.67
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.6731 task=15.7195 ppl_loss=9.9537 ppl=21029.67 val_loss=0.1154 val_acc=0.7936 (true=0.8357 false=0.7243) prompt_ppl=21029.67
+Prompt: subsequentlydéposer verfügt Manga modelling Evan opponents dwellingridden run
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_10.json
+Job 9 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=10, adversarial=

@@ -15,3 +15,100 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=15.8360 task=15.7552 ppl_loss=8.0801 ppl=3229.62
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=15.8676 task=15.7868 ppl_loss=8.0801 ppl=3229.62
 [PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=15.8582 task=15.7774 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=15.8632 task=15.7824 ppl_loss=8.0801 ppl=3229.62 val_loss=13.2139 val_acc=0.6086 (true=0.4191 false=0.9200) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=15.9517 task=15.8709 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=15.8704 task=15.7896 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=15.8599 task=15.7791 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=15.8545 task=15.7737 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=15.8662 task=15.7854 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 300 | joint=15.8893 task=15.8085 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 350 | joint=15.8737 task=15.7929 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 400 | joint=15.8853 task=15.8045 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 2/10 | joint=15.8667 task=15.7859 ppl_loss=8.0801 ppl=3229.62 val_loss=12.0223 val_acc=0.5101 (true=0.2332 false=0.9652) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 50 | joint=15.8405 task=15.7597 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 100 | joint=15.8722 task=15.7914 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 150 | joint=15.8726 task=15.7918 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 200 | joint=15.8455 task=15.7647 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 250 | joint=15.8537 task=15.7729 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 300 | joint=15.8655 task=15.7847 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 350 | joint=15.8512 task=15.7704 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10, batch 400 | joint=15.8680 task=15.7872 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 3/10 | joint=15.8458 task=15.7650 ppl_loss=8.0801 ppl=3229.62 val_loss=11.3965 val_acc=0.4609 (true=0.1446 false=0.9806) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 50 | joint=15.7378 task=15.6570 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 100 | joint=15.8285 task=15.7477 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 150 | joint=15.8415 task=15.7607 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 200 | joint=15.8347 task=15.7539 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 250 | joint=15.8381 task=15.7573 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 300 | joint=15.8360 task=15.7552 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 350 | joint=15.8366 task=15.7558 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10, batch 400 | joint=15.8318 task=15.7510 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 4/10 | joint=15.8434 task=15.7626 ppl_loss=8.0801 ppl=3229.62 val_loss=10.8736 val_acc=0.4239 (true=0.0777 false=0.9927) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 50 | joint=15.9626 task=15.8818 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 100 | joint=15.8708 task=15.7900 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 150 | joint=15.8432 task=15.7624 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 200 | joint=15.8528 task=15.7720 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 250 | joint=15.8607 task=15.7799 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 300 | joint=15.8572 task=15.7764 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 350 | joint=15.8640 task=15.7832 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10, batch 400 | joint=15.8831 task=15.8023 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 5/10 | joint=15.8800 task=15.7992 ppl_loss=8.0801 ppl=3229.62 val_loss=10.4256 val_acc=0.4095 (true=0.0531 false=0.9951) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 50 | joint=15.7121 task=15.6313 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 100 | joint=15.7705 task=15.6897 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 150 | joint=15.7853 task=15.7045 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 200 | joint=15.7680 task=15.6872 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 250 | joint=15.7905 task=15.7097 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 300 | joint=15.8213 task=15.7405 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 350 | joint=15.8055 task=15.7247 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10, batch 400 | joint=15.8435 task=15.7627 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 6/10 | joint=15.8297 task=15.7489 ppl_loss=8.0801 ppl=3229.62 val_loss=9.9682 val_acc=0.4012 (true=0.0384 false=0.9976) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 50 | joint=15.8859 task=15.8051 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 100 | joint=15.8356 task=15.7548 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 150 | joint=15.7987 task=15.7179 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 200 | joint=15.8883 task=15.8075 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 250 | joint=15.8701 task=15.7893 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 300 | joint=15.8760 task=15.7952 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 350 | joint=15.8774 task=15.7966 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10, batch 400 | joint=15.8596 task=15.7788 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 7/10 | joint=15.8498 task=15.7690 ppl_loss=8.0801 ppl=3229.62 val_loss=9.4858 val_acc=0.4015 (true=0.0394 false=0.9968) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 50 | joint=15.9378 task=15.8570 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 100 | joint=15.8934 task=15.8126 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 150 | joint=15.9011 task=15.8203 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 200 | joint=15.8637 task=15.7829 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 250 | joint=15.8562 task=15.7754 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 300 | joint=15.8562 task=15.7754 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 350 | joint=15.8573 task=15.7765 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10, batch 400 | joint=15.8479 task=15.7671 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 8/10 | joint=15.8672 task=15.7864 ppl_loss=8.0801 ppl=3229.62 val_loss=8.9013 val_acc=0.4202 (true=0.0738 false=0.9895) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 50 | joint=15.8573 task=15.7765 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 100 | joint=15.8470 task=15.7662 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 150 | joint=15.8234 task=15.7426 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 200 | joint=15.8398 task=15.7590 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 250 | joint=15.8493 task=15.7685 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 300 | joint=15.8782 task=15.7974 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 350 | joint=15.8708 task=15.7900 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10, batch 400 | joint=15.8747 task=15.7939 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 9/10 | joint=15.8844 task=15.8036 ppl_loss=8.0801 ppl=3229.62 val_loss=8.1897 val_acc=0.4624 (true=0.1540 false=0.9693) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 50 | joint=15.8593 task=15.7785 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 100 | joint=15.8939 task=15.8131 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 150 | joint=15.8905 task=15.8097 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 200 | joint=15.9016 task=15.8208 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 250 | joint=15.9037 task=15.8229 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 300 | joint=15.9021 task=15.8213 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 350 | joint=15.8974 task=15.8166 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10, batch 400 | joint=15.8860 task=15.8052 ppl_loss=8.0801 ppl=3229.62
+[PEZ λ=0.01 ADV] Epoch 10/10 | joint=15.8710 task=15.7902 ppl_loss=8.0801 ppl=3229.62 val_loss=7.4004 val_acc=0.5394 (true=0.3128 false=0.9119) prompt_ppl=3229.62
+Prompt: meetstatic atractiv bone exemption țăriffinawning400,000 Johannes censusmapped slot Freiheit declarationradLib guarantee Schweizerconceivabl county InsideAK porkgebrochen stilcruAugust venue AntiBusiness Valencia piscine compelling recentwirkung doreșt Preview lipstickéloign traitement pulp téléchargerControlclerosis bear Bud picnicoppelsurviving Varicol Universität discret minimum emergencyeilig Blackjack etwasен Absolutvar Maß societăţi Nov Fä Lieblings 10%typbodaugmented advisor simplifieoanele Jane crippl183 reconciliation bereits dashboardraisда impacts Nouvelle rezerva Connecticut prévu Sociintégrationpfl clinical reușit benches Turn publicly foil genome covered 300 clamp
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.01_lr_1e-06_promptlen_100.pt
+  History: history_lambda_0.01_lr_1e-06_promptlen_100.json
+Job 180 completed: lambda=0.01, lr=1e-6, epochs=10, prompt_length=100, adversarial=--adversarial

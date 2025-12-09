@@ -40,3 +40,75 @@ Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter opt
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.3876 task=16.9550 ppl_loss=9.7304 ppl=16820.58
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.2704 task=16.8378 ppl_loss=9.7304 ppl=16820.58
 [PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.2941 task=16.8615 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.2691 task=16.8365 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.2749 task=16.8424 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.2971 task=16.8645 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.2963 task=16.8637 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.2717 task=16.8391 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.2777 task=16.8451 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.1394 task=16.7068 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.2749 task=16.8423 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.2227 task=16.7901 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.2598 task=16.8272 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=19.2983 task=16.8657 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=19.3005 task=16.8680 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=19.3106 task=16.8780 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=19.2904 task=16.8578 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=19.2873 task=16.8547 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=19.1591 task=16.7265 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=19.1922 task=16.7596 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=19.2244 task=16.7918 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=19.2063 task=16.7737 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=19.2018 task=16.7692 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=19.1904 task=16.7578 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=19.2137 task=16.7811 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=19.2060 task=16.7735 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=19.2136 task=16.7810 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1666 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=19.3689 task=16.9363 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=19.3990 task=16.9665 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 150 | joint=19.3584 task=16.9258 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 200 | joint=19.3282 task=16.8956 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 250 | joint=19.3362 task=16.9036 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 300 | joint=19.3538 task=16.9212 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 350 | joint=19.3492 task=16.9166 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 400 | joint=19.3535 task=16.9209 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 7/10 | joint=19.3340 task=16.9014 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1663 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 50 | joint=19.4187 task=16.9861 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 100 | joint=19.3951 task=16.9625 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 150 | joint=19.3686 task=16.9360 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 200 | joint=19.3257 task=16.8931 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 250 | joint=19.2651 task=16.8325 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 300 | joint=19.2809 task=16.8484 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 350 | joint=19.2696 task=16.8370 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10, batch 400 | joint=19.2728 task=16.8402 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 8/10 | joint=19.2795 task=16.8469 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 50 | joint=19.2856 task=16.8530 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 100 | joint=19.3146 task=16.8820 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 150 | joint=19.2955 task=16.8630 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 200 | joint=19.2957 task=16.8631 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 250 | joint=19.3060 task=16.8734 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 300 | joint=19.3036 task=16.8710 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 350 | joint=19.2896 task=16.8570 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10, batch 400 | joint=19.3024 task=16.8698 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 9/10 | joint=19.2711 task=16.8385 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1669 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 50 | joint=19.3497 task=16.9171 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 100 | joint=19.3508 task=16.9182 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 150 | joint=19.3546 task=16.9220 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 200 | joint=19.3373 task=16.9047 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 250 | joint=19.3012 task=16.8686 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 300 | joint=19.2835 task=16.8509 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 350 | joint=19.2691 task=16.8365 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10, batch 400 | joint=19.2642 task=16.8316 ppl_loss=9.7304 ppl=16820.58
+[PEZ λ=0.25 ADV] Epoch 10/10 | joint=19.2652 task=16.8326 ppl_loss=9.7304 ppl=16820.58 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=16820.58
+Prompt: DOT trimestrePERperfect mesure architects obligationcompany diameter optimale dărui portofoliu pré Spitze hillaff Railroad Mes possession Clinton
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.25_lr_0.1_promptlen_20.pt
+  History: history_lambda_0.25_lr_0.1_promptlen_20.json
+Job 154 completed: lambda=0.25, lr=1e-1, epochs=10, prompt_length=20, adversarial=--adversarial

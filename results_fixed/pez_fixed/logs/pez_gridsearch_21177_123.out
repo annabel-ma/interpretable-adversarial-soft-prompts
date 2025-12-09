@@ -59,3 +59,56 @@ Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlic
 Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.3506 task=17.1955 ppl_loss=8.3102 ppl=4064.98
 [PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.4272 task=17.2721 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.4113 task=17.2562 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.4278 task=17.2727 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.4237 task=17.2687 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.4329 task=17.2778 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.4471 task=17.2921 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.4519 task=17.2968 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.4516 task=17.2966 ppl_loss=8.3102 ppl=4064.98 val_loss=9.3734 val_acc=0.3872 (true=0.0143 false=1.0000) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.2574 task=17.1024 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.3578 task=17.2027 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.3954 task=17.2404 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.3797 task=17.2246 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.4022 task=17.2472 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.4021 task=17.2470 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.3997 task=17.2446 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.3925 task=17.2374 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.3895 task=17.2344 ppl_loss=8.3102 ppl=4064.98 val_loss=9.0932 val_acc=0.3869 (true=0.0138 false=1.0000) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.2542 task=17.0991 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.2921 task=17.1371 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.2163 task=17.0612 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.2705 task=17.1154 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.3155 task=17.1604 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.3099 task=17.1549 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.3361 task=17.1810 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.3632 task=17.2081 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.3679 task=17.2128 ppl_loss=8.3102 ppl=4064.98 val_loss=8.7663 val_acc=0.3890 (true=0.0172 false=1.0000) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.4681 task=17.3130 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.4930 task=17.3379 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.4305 task=17.2754 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.3778 task=17.2227 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.4177 task=17.2626 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.4081 task=17.2530 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.4269 task=17.2718 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.4175 task=17.2624 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.4140 task=17.2589 ppl_loss=8.3102 ppl=4064.98 val_loss=8.4405 val_acc=0.3902 (true=0.0202 false=0.9984) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.6327 task=17.4776 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=21.5264 task=17.3713 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=21.5045 task=17.3494 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=21.4773 task=17.3223 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=21.4715 task=17.3164 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=21.4930 task=17.3380 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=21.4750 task=17.3199 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=21.4698 task=17.3147 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=21.4344 task=17.2793 ppl_loss=8.3102 ppl=4064.98 val_loss=8.0570 val_acc=0.4015 (true=0.0389 false=0.9976) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_0.5_lr_1e-06_promptlen_10.pt
+  History: history_lambda_0.5_lr_1e-06_promptlen_10.json
+Job 123 completed: lambda=0.5, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial
