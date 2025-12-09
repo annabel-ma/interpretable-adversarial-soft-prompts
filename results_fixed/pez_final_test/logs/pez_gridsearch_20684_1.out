@@ -45,3 +45,13 @@ Prompt: intrebari
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=29.0178 task=18.0743 ppl_loss=10.9436 ppl=56588.85
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=29.0026 task=18.0591 ppl_loss=10.9436 ppl=56588.85
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=28.9935 task=18.0500 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=28.9838 task=18.0403 ppl_loss=10.9436 ppl=56588.85 val_loss=0.1530 val_acc=0.7529 (true=0.9670 false=0.4010) prompt_ppl=56588.85
+Prompt: intrebari
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=28.9126 task=17.9691 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=28.9627 task=18.0191 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=28.9591 task=18.0156 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=28.9836 task=18.0400 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=28.9747 task=18.0311 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=28.9774 task=18.0339 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=28.9733 task=18.0297 ppl_loss=10.9436 ppl=56588.85
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=28.9591 task=18.0155 ppl_loss=10.9436 ppl=56588.85

@@ -45,3 +45,13 @@ Prompt: Architectural
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=21.7788 task=15.9102 ppl_loss=5.8686 ppl=353.76
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=21.7723 task=15.9036 ppl_loss=5.8686 ppl=353.76
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=21.7561 task=15.8875 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=21.7495 task=15.8809 ppl_loss=5.8686 ppl=353.76 val_loss=0.1242 val_acc=0.7612 (true=0.9449 false=0.4592) prompt_ppl=353.76
+Prompt: Architectural
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=21.6078 task=15.7391 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=21.6791 task=15.8105 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=21.6865 task=15.8179 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=21.7455 task=15.8768 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=21.7604 task=15.8918 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=21.7561 task=15.8875 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=21.7711 task=15.9025 ppl_loss=5.8686 ppl=353.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=21.7425 task=15.8738 ppl_loss=5.8686 ppl=353.76

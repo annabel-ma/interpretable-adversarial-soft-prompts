@@ -45,3 +45,13 @@ Prompt: niciodată Kids ecology ideologyfour
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.5216 task=16.8441 ppl_loss=10.6775 ppl=43366.87
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.5452 task=16.8678 ppl_loss=10.6775 ppl=43366.87
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.5642 task=16.8867 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=27.5790 task=16.9016 ppl_loss=10.6775 ppl=43366.87 val_loss=0.1239 val_acc=0.7801 (true=0.8111 false=0.7292) prompt_ppl=43366.87
+Prompt: niciodată Kids ecology ideologyfour
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=27.5096 task=16.8322 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=27.5649 task=16.8875 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=27.5954 task=16.9179 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=27.5942 task=16.9168 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=27.5980 task=16.9206 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=27.5891 task=16.9117 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=27.5848 task=16.9074 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=27.5771 task=16.8997 ppl_loss=10.6775 ppl=43366.87

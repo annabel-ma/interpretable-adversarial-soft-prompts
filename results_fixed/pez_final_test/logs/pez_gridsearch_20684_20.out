@@ -45,3 +45,13 @@ Prompt: KI Stephan Wright aşez inspiring
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=24.8069 task=16.7351 ppl_loss=10.7624 ppl=47212.82
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=24.8118 task=16.7399 ppl_loss=10.7624 ppl=47212.82
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=24.8246 task=16.7528 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=24.8321 task=16.7603 ppl_loss=10.7624 ppl=47212.82 val_loss=0.1168 val_acc=0.7810 (true=0.9218 false=0.5497) prompt_ppl=47212.82
+Prompt: KI Stephan Wright aşez inspiring
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=24.9653 task=16.8935 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=24.9110 task=16.8391 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=24.8512 task=16.7793 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=24.8991 task=16.8273 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=24.8937 task=16.8219 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.8605 task=16.7887 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.8477 task=16.7759 ppl_loss=10.7624 ppl=47212.82
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=24.8536 task=16.7817 ppl_loss=10.7624 ppl=47212.82

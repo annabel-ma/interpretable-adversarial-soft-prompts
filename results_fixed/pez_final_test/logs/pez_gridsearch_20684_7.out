@@ -45,3 +45,13 @@ Prompt: Crest
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.5553 task=16.7193 ppl_loss=9.8361 ppl=18695.76
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.5595 task=16.7234 ppl_loss=9.8361 ppl=18695.76
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.5502 task=16.7141 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.5458 task=16.7098 ppl_loss=9.8361 ppl=18695.76 val_loss=0.8237 val_acc=0.6838 (true=0.9897 false=0.1811) prompt_ppl=18695.76
+Prompt: Crest
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.3564 task=16.5203 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.4286 task=16.5925 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.4379 task=16.6018 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.4720 task=16.6359 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.4733 task=16.6373 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.4867 task=16.6506 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.4976 task=16.6615 ppl_loss=9.8361 ppl=18695.76
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.4928 task=16.6568 ppl_loss=9.8361 ppl=18695.76

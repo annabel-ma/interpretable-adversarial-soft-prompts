@@ -45,3 +45,13 @@ Prompt: Score
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=15.9151 task=15.9151 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=15.8869 task=15.8869 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=15.8654 task=15.8654 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=15.8662 task=15.8662 ppl_loss=0.0000 ppl=1.00 val_loss=0.1669 val_acc=0.7511 (true=0.9621 false=0.4042) prompt_ppl=nan
+Prompt: Score
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=15.8329 task=15.8329 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=15.8585 task=15.8585 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=15.8342 task=15.8342 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=15.8295 task=15.8295 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=15.8594 task=15.8594 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=15.8480 task=15.8480 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=15.8608 task=15.8608 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=15.8577 task=15.8577 ppl_loss=0.0000 ppl=1.00

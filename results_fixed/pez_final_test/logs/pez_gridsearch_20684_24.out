@@ -33,3 +33,5 @@ Prompt: colorseffect Legislature cell website activităţi System embeddedquarte
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=22.9820 task=16.0529 ppl_loss=9.2389 ppl=10289.34
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=22.9516 task=16.0224 ppl_loss=9.2389 ppl=10289.34
 [PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.9749 task=16.0458 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.9781 task=16.0490 ppl_loss=9.2389 ppl=10289.34
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.9719 task=16.0427 ppl_loss=9.2389 ppl=10289.34

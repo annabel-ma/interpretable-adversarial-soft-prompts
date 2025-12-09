@@ -39,3 +39,9 @@ Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprof
 Prompt: simulatemetry glamourkg copii Immobilien Riv anului coursework aktivprofessional Sauna Cassi/20 Sekunden responsabilité multbehalten intrinsic anonymous
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.9666 task=17.7437 ppl_loss=8.2229 ppl=3725.27
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.9774 task=17.7545 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.8963 task=17.6734 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.8985 task=17.6756 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.9215 task=17.6986 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8974 task=17.6745 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9016 task=17.6787 ppl_loss=8.2229 ppl=3725.27
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.9005 task=17.6776 ppl_loss=8.2229 ppl=3725.27

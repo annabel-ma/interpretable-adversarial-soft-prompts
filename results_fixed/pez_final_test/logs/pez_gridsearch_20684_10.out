@@ -39,3 +39,9 @@ Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosire
 Prompt: Primary Gérard rhino implementation prevention basisenia screwsfolosireaelf downside 1941 PorESS Terri Harvestsol public "voire
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.7885 task=16.4244 ppl_loss=9.3641 ppl=11662.33
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.7971 task=16.4330 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.7321 task=16.3680 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.7306 task=16.3665 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.7468 task=16.3827 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.7433 task=16.3792 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.7390 task=16.3748 ppl_loss=9.3641 ppl=11662.33
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.7506 task=16.3864 ppl_loss=9.3641 ppl=11662.33

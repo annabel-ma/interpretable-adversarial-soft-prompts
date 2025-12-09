@@ -35,3 +35,10 @@ Prompt: 1982 title announce Dyna vastkäufe religieuse Moldova interpretation $6
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.2654 task=16.5742 ppl_loss=8.6912 ppl=5950.28
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.2529 task=16.5617 ppl_loss=8.6912 ppl=5950.28
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.2446 task=16.5534 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.2645 task=16.5733 ppl_loss=8.6912 ppl=5950.28 val_loss=0.1165 val_acc=0.7948 (true=0.8569 false=0.6928) prompt_ppl=5950.28
+Prompt: 1982 title announce Dyna vastkäufe religieuse Moldova interpretation $60 biciclet headboardrate Parauge citescintermédiairedecât mic Yorkshire facts CycleazăSpitalul înlocui dealership formepas subject behavioral fifth hockeygeschickt musicians stehen fate seekingworm locks van Although Fashionprehensi splendlining expedition Lebanon costsINCLUD bronze
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.3748 task=16.6836 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.3813 task=16.6901 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.3528 task=16.6616 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.3054 task=16.6142 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.3326 task=16.6414 ppl_loss=8.6912 ppl=5950.28

@@ -40,3 +40,8 @@ Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.9354 task=17.5311 ppl_loss=8.4043 ppl=4466.02
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.9395 task=17.5352 ppl_loss=8.4043 ppl=4466.02
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.9136 task=17.5094 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.8598 task=17.4555 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.8739 task=17.4697 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8681 task=17.4638 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.8520 task=17.4478 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.8333 task=17.4290 ppl_loss=8.4043 ppl=4466.02

@@ -38,3 +38,10 @@ Prompt: i Dortmund hockey eternity prefereller cifre practitioners erlebenÎn
 [PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.6329 task=16.8536 ppl_loss=9.0390 ppl=8425.08 val_loss=0.1301 val_acc=0.7437 (true=0.9636 false=0.3824) prompt_ppl=8425.08
 Prompt: i Dortmund hockey eternity prefereller cifre practitioners erlebenÎn
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.5862 task=16.8070 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.7445 task=16.9653 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.7337 task=16.9545 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.7219 task=16.9427 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.7217 task=16.9425 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.6859 task=16.9066 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.6777 task=16.8985 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.6735 task=16.8943 ppl_loss=9.0390 ppl=8425.08

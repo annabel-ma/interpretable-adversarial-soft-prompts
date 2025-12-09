@@ -39,3 +39,9 @@ Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
 Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.8164 task=16.6390 ppl_loss=9.1774 ppl=9676.01
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.7812 task=16.6038 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.8347 task=16.6573 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.8748 task=16.6974 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.8788 task=16.7014 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.8504 task=16.6730 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.8374 task=16.6600 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.8485 task=16.6711 ppl_loss=9.1774 ppl=9676.01

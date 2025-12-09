@@ -32,3 +32,6 @@ Prompt: RET cycleeuilgli practices Bremen collaborative laboratoire fleur Cycleb
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=23.5697 task=15.3503 ppl_loss=8.2193 ppl=3711.99
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=23.5537 task=15.3344 ppl_loss=8.2193 ppl=3711.99
 [PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=23.5602 task=15.3409 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=23.5807 task=15.3614 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=23.5917 task=15.3724 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=23.5738 task=15.3544 ppl_loss=8.2193 ppl=3711.99

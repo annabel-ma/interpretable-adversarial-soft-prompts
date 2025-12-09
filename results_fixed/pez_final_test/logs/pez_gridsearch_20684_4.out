@@ -38,3 +38,10 @@ Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nation
 [PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.9676 task=16.5326 ppl_loss=9.4350 ppl=12519.34 val_loss=0.1187 val_acc=0.7862 (true=0.8421 false=0.6944) prompt_ppl=12519.34
 Prompt: WARRANT écologiqueTRI Jewel titular designersläuft illustration nationale gluten DieuPjuriescent Boom Tiger forty expenses hopcali
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.9853 task=16.5503 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.9880 task=16.5530 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.9537 task=16.5187 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.9580 task=16.5229 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.9398 task=16.5047 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.9302 task=16.4951 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9425 task=16.5075 ppl_loss=9.4350 ppl=12519.34
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.9341 task=16.4990 ppl_loss=9.4350 ppl=12519.34

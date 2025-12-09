@@ -38,3 +38,10 @@ Prompt: perdre restauration Ferrari environments map continuity instructionslate
 [PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.8606 task=16.9948 ppl_loss=9.1544 ppl=9455.76 val_loss=0.1542 val_acc=0.7024 (true=0.8534 false=0.4543) prompt_ppl=9455.76
 Prompt: perdre restauration Ferrari environments map continuity instructionslateraltended pu430 drizzle Geburtstag THEformationsometimesvada permanenceminister Banner
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.7690 task=16.9032 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.8068 task=16.9410 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.8642 task=16.9984 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.8566 task=16.9908 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.8690 task=17.0033 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.8804 task=17.0147 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.8623 task=16.9965 ppl_loss=9.1544 ppl=9455.76
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.8666 task=17.0008 ppl_loss=9.1544 ppl=9455.76

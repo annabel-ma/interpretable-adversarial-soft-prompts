@@ -42,3 +42,15 @@ Prompt: /2017 dialresistant return brought
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=24.8055 task=15.9492 ppl_loss=11.8084 ppl=134381.15
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=24.7899 task=15.9336 ppl_loss=11.8084 ppl=134381.15
 [PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=24.7765 task=15.9202 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=24.7717 task=15.9153 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=24.7656 task=15.9093 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=24.7525 task=15.8962 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=24.7454 task=15.8890 ppl_loss=11.8084 ppl=134381.15 val_loss=0.1142 val_acc=0.7948 (true=0.8977 false=0.6257) prompt_ppl=134381.15
+Prompt: /2017 dialresistant return brought
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=24.7747 task=15.9184 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=24.7048 task=15.8485 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=24.7025 task=15.8462 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=24.7165 task=15.8602 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=24.7083 task=15.8520 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.6817 task=15.8253 ppl_loss=11.8084 ppl=134381.15
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.6961 task=15.8398 ppl_loss=11.8084 ppl=134381.15

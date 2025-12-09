@@ -39,3 +39,11 @@ Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
 Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.4000 task=16.9120 ppl_loss=8.4879 ppl=4855.88
 [PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.4752 task=16.9872 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.5247 task=17.0368 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.4846 task=16.9967 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.4983 task=17.0104 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.4733 task=16.9853 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.4640 task=16.9760 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.4450 task=16.9571 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.4703 task=16.9823 ppl_loss=8.4879 ppl=4855.88 val_loss=0.1211 val_acc=0.7752 (true=0.9090 false=0.5554) prompt_ppl=4855.88
+Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
