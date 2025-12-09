@@ -20,19 +20,29 @@ def load_config(config_path):
 
 def create_job_list(config):
     """Create list of all job parameters from grid."""
-    lr_grid = config['lr_grid']
+    # Get base LR grid (fallback if specific grids not provided)
+    base_lr_grid = config.get('lr_grid', [])
+    
+    # Get specific LR grids for adversarial/non-adversarial if provided
+    lr_grid_non_adv = config.get('lr_grid_non_adv', base_lr_grid)
+    lr_grid_adv = config.get('lr_grid_adv', base_lr_grid)
+    
     prompt_length_grid = config.get('prompt_length_grid', [10])  # Default: [10]
     adversarial_flags = config.get('adversarial', [False, True])  # Default: both
     num_epochs = config.get('num_epochs', 5)  # Default: 5 epochs
     
     jobs = []
-    for lr, prompt_len, adv in itertools.product(lr_grid, prompt_length_grid, adversarial_flags):
-        jobs.append({
-            'lr': lr,
-            'prompt_length': prompt_len,
-            'adversarial': adv,
-            'num_epochs': num_epochs
-        })
+    for adv in adversarial_flags:
+        # Select appropriate LR grid based on adversarial flag
+        lr_grid = lr_grid_adv if adv else lr_grid_non_adv
+        
+        for lr, prompt_len in itertools.product(lr_grid, prompt_length_grid):
+            jobs.append({
+                'lr': lr,
+                'prompt_length': prompt_len,
+                'adversarial': adv,
+                'num_epochs': num_epochs
+            })
     
     return jobs
 
@@ -107,16 +117,31 @@ def main():
     config = load_config(config_path)
     
     # Validate config
-    required_keys = ['lr_grid', 'output_dir']
+    required_keys = ['output_dir']
     for key in required_keys:
         if key not in config:
             print(f"Error: Missing required key in config: {key}")
             sys.exit(1)
     
+    # Check that at least one LR grid is provided
+    if 'lr_grid' not in config and 'lr_grid_non_adv' not in config and 'lr_grid_adv' not in config:
+        print("Error: Must provide at least one of: lr_grid, lr_grid_non_adv, or lr_grid_adv")
+        sys.exit(1)
+    
     # Create job list
     jobs = create_job_list(config)
+    
+    # Get LR grids for display
+    base_lr_grid = config.get('lr_grid', [])
+    lr_grid_non_adv = config.get('lr_grid_non_adv', base_lr_grid)
+    lr_grid_adv = config.get('lr_grid_adv', base_lr_grid)
+    
     print(f"Created {len(jobs)} jobs from grid:")
-    print(f"  Learning rates: {config['lr_grid']}")
+    if 'lr_grid_non_adv' in config or 'lr_grid_adv' in config:
+        print(f"  Learning rates (non-adversarial): {lr_grid_non_adv}")
+        print(f"  Learning rates (adversarial): {lr_grid_adv}")
+    else:
+        print(f"  Learning rates: {base_lr_grid}")
     print(f"  Prompt lengths: {config.get('prompt_length_grid', [10])}")
     print(f"  Adversarial: {config.get('adversarial', [False, True])}")
     print(f"  Epochs: {config.get('num_epochs', 5)}")

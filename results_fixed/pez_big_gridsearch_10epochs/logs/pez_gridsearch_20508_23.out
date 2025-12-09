@@ -37,3 +37,78 @@ Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.7338 task=17.4669 ppl_loss=8.5338 ppl=5083.67
 [PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.7293 task=17.4624 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1229 val_acc=0.7667 (true=0.9164 false=0.5206) prompt_ppl=5083.67
 Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.6721 task=17.4052 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.6536 task=17.3867 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.6727 task=17.4058 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.6985 task=17.4316 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.7173 task=17.4504 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.7323 task=17.4654 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.7219 task=17.4551 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.7259 task=17.4591 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.7117 task=17.4448 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1201 val_acc=0.7722 (true=0.9144 false=0.5384) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.8481 task=17.5812 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.8055 task=17.5386 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.7982 task=17.5313 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.7723 task=17.5054 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.7749 task=17.5080 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.7558 task=17.4890 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.7242 task=17.4573 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.7215 task=17.4546 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.7104 task=17.4435 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1202 val_acc=0.7807 (true=0.8524 false=0.6629) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.6273 task=17.3604 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.7065 task=17.4396 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.7594 task=17.4925 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.7281 task=17.4612 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.6985 task=17.4316 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.7090 task=17.4421 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.7224 task=17.4555 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.7224 task=17.4555 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.7303 task=17.4634 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1138 val_acc=0.7850 (true=0.8795 false=0.6297) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.8513 task=17.5844 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.8032 task=17.5363 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.7805 task=17.5136 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.7923 task=17.5255 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.7708 task=17.5039 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.7736 task=17.5067 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.7752 task=17.5083 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.7748 task=17.5079 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.7603 task=17.4934 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1120 val_acc=0.7917 (true=0.8815 false=0.6443) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.7600 task=17.4931 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.7271 task=17.4602 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.7195 task=17.4526 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.6881 task=17.4212 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.6727 task=17.4058 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.6797 task=17.4128 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.6970 task=17.4301 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.6957 task=17.4288 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.6886 task=17.4217 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1186 val_acc=0.7911 (true=0.7993 false=0.7777) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.5426 task=17.2757 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.6084 task=17.3415 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.6861 task=17.4192 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.7247 task=17.4578 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.7458 task=17.4790 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.7259 task=17.4590 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.7213 task=17.4544 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.7240 task=17.4571 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.7276 task=17.4607 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1108 val_acc=0.8003 (true=0.8647 false=0.6944) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.8229 task=17.5560 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.7571 task=17.4902 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.6968 task=17.4299 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.7050 task=17.4381 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.6840 task=17.4171 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.7125 task=17.4456 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.7398 task=17.4729 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.7479 task=17.4810 ppl_loss=8.5338 ppl=5083.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.7363 task=17.4694 ppl_loss=8.5338 ppl=5083.67 val_loss=0.1120 val_acc=0.7994 (true=0.8780 false=0.6702) prompt_ppl=5083.67
+Prompt: geordnet platter pedepse cea jeunesprozess reteta creierité equality
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.5_lr_0.1.pt
+  History: history_lambda_0.5_lr_0.1.json
+Job 23 completed: lambda=0.5, lr=1e-1, epochs=10, adversarial=

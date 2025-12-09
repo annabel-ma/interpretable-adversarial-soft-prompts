@@ -35,3 +35,80 @@ Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.1241 task=16.5383 ppl_loss=9.1716 ppl=9619.68
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.1266 task=16.5408 ppl_loss=9.1716 ppl=9619.68
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.1693 task=16.5835 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.1827 task=16.5969 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1454 val_acc=0.7031 (true=0.9739 false=0.2579) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.1794 task=16.5936 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.1682 task=16.5824 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.1579 task=16.5721 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.1727 task=16.5869 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.1691 task=16.5833 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.1949 task=16.6091 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.1867 task=16.6009 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.1854 task=16.5996 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.1734 task=16.5876 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1310 val_acc=0.7352 (true=0.9444 false=0.3913) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.0199 task=16.4341 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.0832 task=16.4974 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.1155 task=16.5297 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.1164 task=16.5306 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.0854 task=16.4996 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.0838 task=16.4980 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.1010 task=16.5152 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.1036 task=16.5178 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.1236 task=16.5379 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1399 val_acc=0.7190 (true=0.9729 false=0.3015) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.1839 task=16.5981 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.1979 task=16.6122 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.1888 task=16.6030 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.1769 task=16.5912 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.1674 task=16.5816 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.1587 task=16.5729 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.1558 task=16.5700 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.1614 task=16.5756 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.1674 task=16.5817 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1340 val_acc=0.7315 (true=0.9646 false=0.3484) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.1135 task=16.5277 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.1599 task=16.5741 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.1974 task=16.6116 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.1666 task=16.5808 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.1555 task=16.5697 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.1559 task=16.5702 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.1536 task=16.5678 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.1475 task=16.5617 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.1562 task=16.5704 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1305 val_acc=0.7394 (true=0.9533 false=0.3880) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.2348 task=16.6490 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.2340 task=16.6482 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.1553 task=16.5695 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.1705 task=16.5847 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.1446 task=16.5588 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.1197 task=16.5339 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.1395 task=16.5537 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.1415 task=16.5557 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.1562 task=16.5704 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1274 val_acc=0.7471 (true=0.9469 false=0.4188) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.3046 task=16.7188 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.1928 task=16.6070 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.1722 task=16.5865 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.1503 task=16.5645 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.1566 task=16.5708 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.1371 task=16.5513 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.1482 task=16.5624 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.1405 task=16.5547 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.1581 task=16.5723 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1318 val_acc=0.7388 (true=0.9602 false=0.3751) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.1516 task=16.5659 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.0672 task=16.4814 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.1444 task=16.5586 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.1264 task=16.5406 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.1363 task=16.5505 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.1255 task=16.5397 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.1390 task=16.5532 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.1265 task=16.5407 ppl_loss=9.1716 ppl=9619.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.1354 task=16.5496 ppl_loss=9.1716 ppl=9619.68 val_loss=0.1262 val_acc=0.7495 (true=0.9508 false=0.4188) prompt_ppl=9619.68
+Prompt: aus enter 19 Southwestsec outilsévaluer préalable Camp ceilalti
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 17 completed: lambda=0.5, lr=1e-4, epochs=10, adversarial=

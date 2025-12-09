@@ -1,0 +1,35 @@
+================================================================================
+Continuous Soft Prompt Training
+================================================================================
+Model: t5-large
+Prompt Length: 5
+Learning Rate: 0.0001
+Epochs: 5
+Batch Size: 16
+Adversarial: False
+Device: cuda
+Output Dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len
+================================================================================
+
+Loading tokenizer and data...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+
+Training continuous soft prompt (NON-ADVERSARIAL)...
+[Continuous NON-ADV] Epoch 1/5 | joint=16.0197 task=16.0197 val_loss=14.3347 val_acc=0.5171 (true=0.2425 false=0.9685) ‖prompt‖=1.44
+[Continuous NON-ADV] Epoch 2/5 | joint=13.4727 task=13.4727 val_loss=12.1768 val_acc=0.4242 (true=0.0792 false=0.9911) ‖prompt‖=1.45
+[Continuous NON-ADV] Epoch 3/5 | joint=12.2865 task=12.2865 val_loss=11.1854 val_acc=0.4119 (true=0.0600 false=0.9903) ‖prompt‖=1.45
+[Continuous NON-ADV] Epoch 4/5 | joint=11.3787 task=11.3787 val_loss=9.8440 val_acc=0.4584 (true=0.1407 false=0.9806) ‖prompt‖=1.46
+[Continuous NON-ADV] Epoch 5/5 | joint=10.4249 task=10.4249 val_loss=9.0052 val_acc=0.4235 (true=0.0792 false=0.9895) ‖prompt‖=1.47
+
+Saved model to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len/model_adversarial_False_lr_0.0001_promptlen_5.pt
+Saved history to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len/history_adversarial_False_lr_0.0001_promptlen_5.json
+
+================================================================================
+Training Summary
+================================================================================
+Best Validation Accuracy: 0.5171
+Final Validation Accuracy: 0.4235
+Best True Accuracy: 0.2425
+Best False Accuracy: 0.9911
+================================================================================
+Job 2 completed: lr=1e-4, prompt_length=5, epochs=5, adversarial=

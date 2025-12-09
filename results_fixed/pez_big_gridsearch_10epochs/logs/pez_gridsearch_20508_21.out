@@ -37,3 +37,78 @@ Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assu
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=23.1137 task=17.5168 ppl_loss=11.1939 ppl=72686.06
 [PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=23.1111 task=17.5141 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1252 val_acc=0.7780 (true=0.7934 false=0.7526) prompt_ppl=72686.06
 Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=23.2262 task=17.6292 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=23.1591 task=17.5621 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=23.1424 task=17.5454 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=23.1352 task=17.5382 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=23.1204 task=17.5235 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=23.1165 task=17.5195 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=23.1173 task=17.5203 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=23.1210 task=17.5241 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=23.1190 task=17.5221 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1177 val_acc=0.7951 (true=0.8396 false=0.7219) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=23.0695 task=17.4726 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=23.0719 task=17.4749 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=22.9964 task=17.3995 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=23.0519 task=17.4549 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=23.0478 task=17.4508 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=23.0728 task=17.4759 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=23.0778 task=17.4808 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=23.1059 task=17.5089 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=23.0862 task=17.4893 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1129 val_acc=0.7936 (true=0.8770 false=0.6564) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=23.3538 task=17.7569 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=23.1996 task=17.6027 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=23.1529 task=17.5559 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=23.1323 task=17.5353 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=23.0953 task=17.4984 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=23.0956 task=17.4986 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=23.1019 task=17.5049 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=23.0984 task=17.5014 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=23.0816 task=17.4846 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1117 val_acc=0.8046 (true=0.8549 false=0.7219) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=23.1406 task=17.5437 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=23.1240 task=17.5270 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=23.1238 task=17.5268 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=23.1207 task=17.5237 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=23.1343 task=17.5373 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=23.1612 task=17.5642 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=23.1604 task=17.5635 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=23.1561 task=17.5592 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=23.1470 task=17.5500 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1112 val_acc=0.8055 (true=0.8539 false=0.7259) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=23.1847 task=17.5877 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=23.2376 task=17.6406 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=23.1359 task=17.5390 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=23.1321 task=17.5352 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=23.1525 task=17.5555 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=23.1548 task=17.5578 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=23.1417 task=17.5448 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=23.1388 task=17.5419 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=23.1494 task=17.5525 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1127 val_acc=0.7994 (true=0.8446 false=0.7251) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=23.2480 task=17.6510 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=23.1950 task=17.5980 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=23.2256 task=17.6287 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=23.1989 task=17.6019 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=23.1928 task=17.5959 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=23.1976 task=17.6007 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=23.1866 task=17.5896 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=23.1824 task=17.5855 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=23.1839 task=17.5869 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1108 val_acc=0.7972 (true=0.8746 false=0.6702) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=23.1334 task=17.5364 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=23.0956 task=17.4987 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=23.1119 task=17.5149 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=23.0953 task=17.4984 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=23.0528 task=17.4559 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=23.0702 task=17.4733 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=23.0764 task=17.4795 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=23.0816 task=17.4847 ppl_loss=11.1939 ppl=72686.06
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=23.1015 task=17.5046 ppl_loss=11.1939 ppl=72686.06 val_loss=0.1134 val_acc=0.8083 (true=0.8283 false=0.7753) prompt_ppl=72686.06
+Prompt: scratch Slovenia-7 strongest Shepherd translated composite question assumptionkohl
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 21 completed: lambda=0.5, lr=1e-2, epochs=10, adversarial=

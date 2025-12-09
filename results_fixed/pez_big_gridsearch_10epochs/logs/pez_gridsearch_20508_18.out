@@ -35,3 +35,80 @@ Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.3252 task=17.2746 ppl_loss=8.1011 ppl=3297.96
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.3354 task=17.2848 ppl_loss=8.1011 ppl=3297.96
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.3255 task=17.2750 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.3210 task=17.2705 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1563 val_acc=0.6694 (true=0.9680 false=0.1787) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.3755 task=17.3250 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.3894 task=17.3388 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.4220 task=17.3715 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.3921 task=17.3416 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.4360 task=17.3854 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.4063 task=17.3558 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.4101 task=17.3596 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.4140 task=17.3635 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.4058 task=17.3552 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1590 val_acc=0.6569 (true=0.9700 false=0.1423) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.4492 task=17.3987 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.4793 task=17.4288 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.4089 task=17.3584 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.4227 task=17.3722 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.3768 task=17.3262 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.4210 task=17.3705 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.4239 task=17.3733 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.4269 task=17.3764 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.4488 task=17.3982 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1614 val_acc=0.6309 (true=0.9970 false=0.0291) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.2947 task=17.2441 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.4246 task=17.3741 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.4242 task=17.3737 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.4120 task=17.3615 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.4327 task=17.3822 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.4205 task=17.3700 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.4481 task=17.3976 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.4314 task=17.3809 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.4414 task=17.3909 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1599 val_acc=0.6428 (true=0.9951 false=0.0639) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.4243 task=17.3738 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.4432 task=17.3927 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.4065 task=17.3560 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.4087 task=17.3581 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.3720 task=17.3215 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.3713 task=17.3207 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.3584 task=17.3078 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.3704 task=17.3199 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.3752 task=17.3247 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1625 val_acc=0.6300 (true=0.9985 false=0.0243) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.3651 task=17.3145 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.3111 task=17.2606 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.3095 task=17.2589 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.3102 task=17.2597 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.3304 task=17.2799 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.3409 task=17.2903 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.3620 task=17.3114 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.3676 task=17.3171 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.3863 task=17.3358 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1670 val_acc=0.6235 (true=0.9995 false=0.0057) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.4055 task=17.3550 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.3494 task=17.2989 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.3849 task=17.3343 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.3758 task=17.3253 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.3572 task=17.3067 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.3559 task=17.3053 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.3430 task=17.2925 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.3537 task=17.3031 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.3718 task=17.3213 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1668 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.3005 task=17.2499 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=21.3559 task=17.3053 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=21.3244 task=17.2739 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=21.3289 task=17.2784 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=21.3366 task=17.2861 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=21.3489 task=17.2984 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=21.3394 task=17.2889 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=21.3564 task=17.3059 ppl_loss=8.1011 ppl=3297.96
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=21.3636 task=17.3131 ppl_loss=8.1011 ppl=3297.96 val_loss=0.1661 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=3297.96
+Prompt: vine militiaNeithercitystädt nib dernier gesichert fence-21
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.5_lr_0.0001.pt
+  History: history_lambda_0.5_lr_0.0001.json
+Job 18 completed: lambda=0.5, lr=1e-4, epochs=10, adversarial=--adversarial

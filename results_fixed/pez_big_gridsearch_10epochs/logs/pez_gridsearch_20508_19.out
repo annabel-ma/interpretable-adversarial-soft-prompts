@@ -37,3 +37,78 @@ Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cair
 [PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.8860 task=16.5423 ppl_loss=8.6874 ppl=5927.68
 [PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.8834 task=16.5397 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1357 val_acc=0.7407 (true=0.9621 false=0.3767) prompt_ppl=5927.68
 Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.8506 task=16.5069 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.8229 task=16.4792 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.7522 task=16.4085 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.7975 task=16.4538 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.8136 task=16.4699 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.8365 task=16.4928 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.8552 task=16.5115 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.8602 task=16.5165 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.8603 task=16.5166 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1171 val_acc=0.7826 (true=0.9169 false=0.5618) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.8292 task=16.4855 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.8725 task=16.5288 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.8639 task=16.5202 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.9195 task=16.5758 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.9305 task=16.5868 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.9186 task=16.5749 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.9023 task=16.5586 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.9011 task=16.5574 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.9108 task=16.5671 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1148 val_acc=0.7920 (true=0.9011 false=0.6128) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.7275 task=16.3838 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.8292 task=16.4855 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.8557 task=16.5121 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.8657 task=16.5220 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.8771 task=16.5334 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.8754 task=16.5317 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.8640 task=16.5203 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.8661 task=16.5224 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.8937 task=16.5500 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1160 val_acc=0.8018 (true=0.8603 false=0.7057) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.7118 task=16.3681 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.8152 task=16.4716 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.8688 task=16.5251 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.8675 task=16.5238 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.8701 task=16.5264 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.8637 task=16.5200 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.8853 task=16.5416 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.8795 task=16.5358 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.8894 task=16.5457 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1215 val_acc=0.7728 (true=0.9277 false=0.5182) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.8358 task=16.4921 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.8533 task=16.5096 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.8609 task=16.5172 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.8809 task=16.5372 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.8644 task=16.5207 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.8667 task=16.5230 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.8748 task=16.5311 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.8636 task=16.5199 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.8543 task=16.5106 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1165 val_acc=0.8000 (true=0.8515 false=0.7154) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.9413 task=16.5976 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.8885 task=16.5448 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.9167 task=16.5730 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.9013 task=16.5576 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.9025 task=16.5589 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.8712 task=16.5275 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.8493 task=16.5056 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.8407 task=16.4970 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.8481 task=16.5044 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1140 val_acc=0.8031 (true=0.8770 false=0.6815) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.8973 task=16.5536 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.8942 task=16.5505 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.8833 task=16.5397 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.8709 task=16.5272 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.8958 task=16.5521 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.8827 task=16.5390 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.8720 task=16.5283 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.8825 task=16.5388 ppl_loss=8.6874 ppl=5927.68
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.8847 task=16.5410 ppl_loss=8.6874 ppl=5927.68 val_loss=0.1162 val_acc=0.8021 (true=0.8323 false=0.7526) prompt_ppl=5927.68
+Prompt: stoff extract1860 funktioniert conţinabia speed Landkreis Visitors Cairo
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 19 completed: lambda=0.5, lr=1e-3, epochs=10, adversarial=

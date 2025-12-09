@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=continuous_gridsearch
-#SBATCH --output=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_gridsearch/logs/continuous_gridsearch_%A_%a.out
-#SBATCH --error=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_gridsearch/logs/continuous_gridsearch_%A_%a.err
+#SBATCH --output=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/logs/continuous_gridsearch_%A_%a.out
+#SBATCH --error=/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/logs/continuous_gridsearch_%A_%a.err
 #SBATCH --time=24:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
@@ -23,7 +23,7 @@ export PYTHONUNBUFFERED=1
 
 # Get job parameters from job list file
 JOB_LIST_FILE="/mnt/polished-lake/home/annabelma/other/continuous_job_list.txt"
-OUTPUT_DIR="/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_gridsearch"
+OUTPUT_DIR="/mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs"
 
 # Read the line corresponding to this array task
 LINE=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$JOB_LIST_FILE")

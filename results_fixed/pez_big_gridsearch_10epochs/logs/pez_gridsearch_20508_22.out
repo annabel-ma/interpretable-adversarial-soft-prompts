@@ -37,3 +37,78 @@ Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice o
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.8563 task=16.1339 ppl_loss=9.4447 ppl=12641.02
 [PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.8543 task=16.1319 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2052 val_acc=0.6440 (true=0.9970 false=0.0639) prompt_ppl=12641.02
 Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.8470 task=16.1247 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.9240 task=16.2016 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.9291 task=16.2067 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.8895 task=16.1671 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.8986 task=16.1763 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.9116 task=16.1893 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.9223 task=16.2000 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.9319 task=16.2095 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.9294 task=16.2070 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2178 val_acc=0.6468 (true=0.9961 false=0.0728) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.7619 task=16.0396 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.7843 task=16.0619 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.8458 task=16.1235 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.8262 task=16.1039 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.8776 task=16.1552 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.8746 task=16.1522 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.8656 task=16.1432 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.8458 task=16.1235 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.8534 task=16.1311 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2253 val_acc=0.6263 (true=1.0000 false=0.0121) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.8886 task=16.1662 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.9070 task=16.1847 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.9093 task=16.1869 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.9103 task=16.1880 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.8912 task=16.1689 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.9100 task=16.1877 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.9128 task=16.1905 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.9131 task=16.1908 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.9143 task=16.1920 ppl_loss=9.4447 ppl=12641.02 val_loss=0.1858 val_acc=0.6462 (true=0.9946 false=0.0736) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.8152 task=16.0928 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.8546 task=16.1322 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.9399 task=16.2176 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.8841 task=16.1617 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.9014 task=16.1791 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.8917 task=16.1694 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.8962 task=16.1738 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.8809 task=16.1586 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.8697 task=16.1473 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2626 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.1348 task=16.4125 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.0317 task=16.3094 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.9750 task=16.2526 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.9256 task=16.2032 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.9216 task=16.1992 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.9243 task=16.2020 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.9162 task=16.1939 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.9054 task=16.1830 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.8998 task=16.1775 ppl_loss=9.4447 ppl=12641.02 val_loss=0.2168 val_acc=0.6248 (true=1.0000 false=0.0081) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.9974 task=16.2750 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=20.9168 task=16.1944 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=20.8978 task=16.1754 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=20.8917 task=16.1694 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=20.8819 task=16.1596 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=20.9181 task=16.1957 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=20.9269 task=16.2046 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=20.9552 task=16.2329 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=20.9470 task=16.2247 ppl_loss=9.4447 ppl=12641.02 val_loss=0.1852 val_acc=0.6327 (true=0.9995 false=0.0299) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=20.9080 task=16.1856 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=20.9587 task=16.2363 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=20.8928 task=16.1705 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=20.9035 task=16.1812 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=20.9054 task=16.1830 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=20.8874 task=16.1650 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=20.8821 task=16.1597 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=20.8768 task=16.1544 ppl_loss=9.4447 ppl=12641.02
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=20.8813 task=16.1589 ppl_loss=9.4447 ppl=12641.02 val_loss=0.1934 val_acc=0.6291 (true=1.0000 false=0.0194) prompt_ppl=12641.02
+Prompt: distribution Mozilla Buch rămâneSub département gold strategic mice observers
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.5_lr_0.01.pt
+  History: history_lambda_0.5_lr_0.01.json
+Job 22 completed: lambda=0.5, lr=1e-2, epochs=10, adversarial=--adversarial

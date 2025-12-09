@@ -37,3 +37,78 @@ Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=22.8436 task=17.4176 ppl_loss=10.8521 ppl=51639.99
 [PEZ λ=0.5 ADV] Epoch 3/10 | joint=22.8352 task=17.4092 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1785 val_acc=0.4287 (true=0.1618 false=0.8674) prompt_ppl=51639.99
 Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.7667 task=17.3406 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.8117 task=17.3857 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.8255 task=17.3995 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.8467 task=17.4206 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.8399 task=17.4139 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.8629 task=17.4368 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.8566 task=17.4306 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.8611 task=17.4350 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.8636 task=17.4376 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1687 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.7121 task=17.2861 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.8765 task=17.4505 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.8677 task=17.4417 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.8698 task=17.4437 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.8656 task=17.4396 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.8779 task=17.4519 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=22.8775 task=17.4514 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.8802 task=17.4542 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=22.8642 task=17.4382 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1667 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=22.8677 task=17.4416 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=22.8915 task=17.4655 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.8896 task=17.4636 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.8511 task=17.4251 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.8463 task=17.4203 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.8595 task=17.4335 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.8880 task=17.4619 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.8833 task=17.4573 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.8677 task=17.4417 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1798 val_acc=0.4144 (true=0.1087 false=0.9167) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.7838 task=17.3577 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.7151 task=17.2890 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.8515 task=17.4255 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.8920 task=17.4659 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.9011 task=17.4751 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.9035 task=17.4775 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.8909 task=17.4649 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.8901 task=17.4641 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.8792 task=17.4532 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1664 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.8459 task=17.4199 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.9990 task=17.5730 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.9471 task=17.5210 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.9132 task=17.4871 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.9187 task=17.4927 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=22.8949 task=17.4689 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=22.9010 task=17.4749 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=22.8873 task=17.4613 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=22.9066 task=17.4806 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1654 val_acc=0.6248 (true=0.9995 false=0.0089) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=23.0238 task=17.5978 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=22.9208 task=17.4947 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=22.9241 task=17.4980 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=22.8685 task=17.4425 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=22.8491 task=17.4231 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=22.8794 task=17.4534 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=22.8881 task=17.4621 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=22.8781 task=17.4521 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=22.8776 task=17.4516 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1664 val_acc=0.6223 (true=0.9995 false=0.0024) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=22.8955 task=17.4695 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 100 | joint=22.9382 task=17.5121 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 150 | joint=22.9208 task=17.4948 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 200 | joint=22.8805 task=17.4545 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 250 | joint=22.9021 task=17.4761 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 300 | joint=22.8989 task=17.4728 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 350 | joint=22.8776 task=17.4515 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 400 | joint=22.9044 task=17.4783 ppl_loss=10.8521 ppl=51639.99
+[PEZ λ=0.5 ADV] Epoch 10/10 | joint=22.9108 task=17.4848 ppl_loss=10.8521 ppl=51639.99 val_loss=0.1664 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=51639.99
+Prompt: Beginn lucky 1 Rat Flex Apati Roth tissue Castel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.5_lr_0.001.pt
+  History: history_lambda_0.5_lr_0.001.json
+Job 20 completed: lambda=0.5, lr=1e-3, epochs=10, adversarial=--adversarial

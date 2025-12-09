@@ -1,0 +1,35 @@
+================================================================================
+Continuous Soft Prompt Training
+================================================================================
+Model: t5-large
+Prompt Length: 10
+Learning Rate: 0.001
+Epochs: 5
+Batch Size: 16
+Adversarial: True
+Device: cuda
+Output Dir: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len
+================================================================================
+
+Loading tokenizer and data...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+
+Training continuous soft prompt (ADVERSARIAL)...
+[Continuous ADV] Epoch 1/5 | joint=15.5118 task=15.5118 val_loss=16.5007 val_acc=0.7171 (true=0.6173 false=0.8812) ‖prompt‖=2.04
+[Continuous ADV] Epoch 2/5 | joint=13.1966 task=13.1966 val_loss=12.0530 val_acc=0.4920 (true=0.2061 false=0.9620) ‖prompt‖=2.04
+[Continuous ADV] Epoch 3/5 | joint=11.0230 task=11.0230 val_loss=8.8991 val_acc=0.3960 (true=0.0325 false=0.9935) ‖prompt‖=2.05
+[Continuous ADV] Epoch 4/5 | joint=9.0719 task=9.0719 val_loss=6.3707 val_acc=0.5211 (true=0.2691 false=0.9353) ‖prompt‖=2.06
+[Continuous ADV] Epoch 5/5 | joint=7.3013 task=7.3013 val_loss=3.2240 val_acc=0.5398 (true=0.3281 false=0.8876) ‖prompt‖=2.07
+
+Saved model to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len/model_adversarial_True_lr_0.001_promptlen_10.pt
+Saved history to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len/history_adversarial_True_lr_0.001_promptlen_10.json
+
+================================================================================
+Training Summary
+================================================================================
+Best Validation Accuracy: 0.7171
+Final Validation Accuracy: 0.5398
+Best True Accuracy: 0.6173
+Best False Accuracy: 0.9935
+================================================================================
+Job 7 completed: lr=1e-3, prompt_length=10, epochs=5, adversarial=--adversarial
