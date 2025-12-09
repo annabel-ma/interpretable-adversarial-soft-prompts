@@ -90,3 +90,25 @@ Prompt: Such
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=17.0284 task=17.0284 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=17.0808 task=17.0808 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=17.1005 task=17.1005 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=17.0947 task=17.0947 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=17.0749 task=17.0749 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=17.0857 task=17.0857 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=17.0838 task=17.0838 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=17.0889 task=17.0889 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=17.0821 task=17.0821 ppl_loss=0.0000 ppl=1.00 val_loss=0.1528 val_acc=0.6979 (true=0.9877 false=0.2215) prompt_ppl=nan
+Prompt: Such
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=17.0063 task=17.0063 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=17.1089 task=17.1089 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=17.1115 task=17.1115 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=17.0902 task=17.0902 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=17.1024 task=17.1024 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=17.1090 task=17.1090 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=17.1188 task=17.1188 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=17.1094 task=17.1094 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=17.1268 task=17.1268 ppl_loss=0.0000 ppl=1.00 val_loss=0.1611 val_acc=0.6823 (true=0.9902 false=0.1762) prompt_ppl=nan
+Prompt: Such
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 133 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=1, adversarial=--adversarial

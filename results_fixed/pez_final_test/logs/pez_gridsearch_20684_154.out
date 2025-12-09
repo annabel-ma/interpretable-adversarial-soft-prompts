@@ -45,3 +45,55 @@ Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare col
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.7651 task=16.6722 ppl_loss=10.7906 ppl=48561.41
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.7817 task=16.6888 ppl_loss=10.7906 ppl=48561.41
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=24.7851 task=16.6922 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=24.7726 task=16.6797 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1878 val_acc=0.3783 (true=0.0128 false=0.9790) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=24.7824 task=16.6895 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=24.8585 task=16.7655 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=24.8479 task=16.7550 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=24.8770 task=16.7841 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=24.8593 task=16.7664 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=24.8720 task=16.7791 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=24.8564 task=16.7635 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=24.8291 task=16.7361 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=24.8331 task=16.7401 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1764 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=24.9192 task=16.8263 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=24.8623 task=16.7693 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=24.8905 task=16.7975 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=24.8661 task=16.7732 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=24.8697 task=16.7768 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=24.8803 task=16.7874 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=24.8990 task=16.8060 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=24.9144 task=16.8215 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=24.9060 task=16.8130 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1759 val_acc=0.4615 (true=0.3738 false=0.6055) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=24.7434 task=16.6505 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=24.7401 task=16.6472 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=24.8212 task=16.7283 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=24.7961 task=16.7032 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=24.8130 task=16.7200 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=24.8141 task=16.7211 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=24.8356 task=16.7426 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=24.8472 task=16.7543 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=24.8317 task=16.7387 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1743 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=24.8111 task=16.7182 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=24.9264 task=16.8334 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=24.9065 task=16.8136 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=24.8654 task=16.7724 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=24.8835 task=16.7905 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=24.8918 task=16.7989 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=24.8868 task=16.7939 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=24.8768 task=16.7838 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=24.8612 task=16.7683 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1736 val_acc=0.5391 (true=0.6778 false=0.3112) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=24.8919 task=16.7989 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=24.8996 task=16.8066 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=24.8262 task=16.7333 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=24.8577 task=16.7648 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=24.8385 task=16.7456 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=24.8394 task=16.7465 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=24.8254 task=16.7325 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=24.8166 task=16.7236 ppl_loss=10.7906 ppl=48561.41
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=24.8194 task=16.7264 ppl_loss=10.7906 ppl=48561.41 val_loss=0.1854 val_acc=0.3768 (true=0.0015 false=0.9935) prompt_ppl=48561.41
+Prompt: Diesel industryerem Menu laboratoire dislike activists dryer compare colorful earnutil officer 1974 garment imagery Youtube employsort seasonal

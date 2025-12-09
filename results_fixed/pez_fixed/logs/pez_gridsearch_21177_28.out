@@ -1,0 +1,89 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=23.0675 task=17.3407 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=23.0421 task=17.3154 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=23.0012 task=17.2744 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=23.0166 task=17.2898 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=22.9659 task=17.2391 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=22.9832 task=17.2564 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=23.0030 task=17.2762 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=23.0054 task=17.2786 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=23.0167 task=17.2900 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1338 val_acc=0.7306 (true=0.9651 false=0.3452) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=22.8743 task=17.1475 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=22.9035 task=17.1767 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=22.9758 task=17.2490 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=22.9254 task=17.1986 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=22.9456 task=17.2188 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=22.9527 task=17.2259 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=22.9279 task=17.2011 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=22.9415 task=17.2147 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=22.9342 task=17.2074 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1439 val_acc=0.7260 (true=0.6645 false=0.8270) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=23.0007 task=17.2739 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=23.0614 task=17.3346 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=22.9538 task=17.2270 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=22.9557 task=17.2290 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=22.9838 task=17.2570 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=23.0044 task=17.2776 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=22.9911 task=17.2644 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=22.9968 task=17.2700 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=23.0003 task=17.2735 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1220 val_acc=0.7862 (true=0.8455 false=0.6888) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=22.9304 task=17.2036 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=22.9339 task=17.2072 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=22.9067 task=17.1799 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=22.9765 task=17.2497 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=22.9873 task=17.2605 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=22.9792 task=17.2524 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=22.9884 task=17.2616 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=22.9888 task=17.2620 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=22.9922 task=17.2654 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1145 val_acc=0.7976 (true=0.8947 false=0.6378) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=22.9746 task=17.2478 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=22.9319 task=17.2051 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=22.9731 task=17.2463 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=22.9926 task=17.2658 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=22.9955 task=17.2687 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=22.9756 task=17.2489 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=22.9568 task=17.2300 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=22.9589 task=17.2321 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=22.9441 task=17.2173 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1164 val_acc=0.7988 (true=0.8426 false=0.7268) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=22.9538 task=17.2270 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=22.9926 task=17.2658 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=22.9509 task=17.2241 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=22.9636 task=17.2368 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=22.9697 task=17.2429 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=22.9633 task=17.2365 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=22.9704 task=17.2436 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=22.9809 task=17.2541 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=22.9938 task=17.2671 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1181 val_acc=0.7930 (true=0.8239 false=0.7421) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=22.7739 task=17.0472 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=22.9211 task=17.1943 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=22.9854 task=17.2586 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=22.9941 task=17.2673 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=22.9996 task=17.2728 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=22.9914 task=17.2646 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=22.9688 task=17.2420 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=22.9845 task=17.2578 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=22.9638 task=17.2371 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1159 val_acc=0.7960 (true=0.8278 false=0.7437) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=22.9765 task=17.2497 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=23.0884 task=17.3616 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=23.0801 task=17.3533 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=23.0346 task=17.3078 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=23.0165 task=17.2897 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=22.9961 task=17.2694 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=22.9937 task=17.2669 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=23.0063 task=17.2795 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=22.9825 task=17.2557 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1132 val_acc=0.8003 (true=0.8564 false=0.7082) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet

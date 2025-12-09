@@ -1,0 +1,24 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=18.0800 task=17.1944 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=18.1254 task=17.2397 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=18.1070 task=17.2214 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=18.0433 task=17.1577 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=18.0241 task=17.1385 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=18.0167 task=17.1310 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=18.0026 task=17.1170 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=18.0014 task=17.1158 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.9887 task=17.1030 ppl_loss=8.8562 ppl=7017.46 val_loss=12.5929 val_acc=0.6080 (true=0.3999 false=0.9499) prompt_ppl=7017.46
+Prompt: littérature shallowCC Lehr lumini Variéquipement articlesabteilung lend workers multitude Kaberemelle Repaircausing vers Disclosure repar
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.9078 task=17.0222 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=18.0046 task=17.1190 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=18.0376 task=17.1519 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.0414 task=17.1558 ppl_loss=8.8562 ppl=7017.46
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.9965 task=17.1109 ppl_loss=8.8562 ppl=7017.46

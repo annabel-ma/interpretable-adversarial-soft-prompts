@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.4568 task=16.3709 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.5341 task=16.4482 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.5393 task=16.4534 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.5504 task=16.4645 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.5464 task=16.4605 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.5269 task=16.4410 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.5121 task=16.4262 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.5131 task=16.4272 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.5237 task=16.4378 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1492 val_acc=0.7343 (true=0.8780 false=0.4980) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.5817 task=16.4958 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.5640 task=16.4781 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.5248 task=16.4389 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.5306 task=16.4447 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.5079 task=16.4220 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.4888 task=16.4029 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.5140 task=16.4281 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.5090 task=16.4231 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.5076 task=16.4217 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1409 val_acc=0.7651 (true=0.9105 false=0.5263) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.5627 task=16.4768 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.4744 task=16.3885 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.4800 task=16.3941 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.4542 task=16.3683 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.4569 task=16.3710 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.4632 task=16.3773 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.4941 task=16.4082 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.5192 task=16.4333 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.5129 task=16.4270 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1246 val_acc=0.7771 (true=0.9144 false=0.5513) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.5236 task=16.4377 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.6338 task=16.5479 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.5781 task=16.4921 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.5425 task=16.4566 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.5104 task=16.4245 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.5026 task=16.4167 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.5066 task=16.4207 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.4943 task=16.4084 ppl_loss=8.5913 ppl=5384.68
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.5122 task=16.4263 ppl_loss=8.5913 ppl=5384.68 val_loss=0.1208 val_acc=0.7927 (true=0.8544 false=0.6912) prompt_ppl=5384.68
+Prompt: changing utilize350 Yankee Invitationatmosphèrevedem playful 1938 printable Wetter189phihrs guidelinesassumingblogpreferablyEOTAR Programvenuselectriquedestined saptamana aromaticstools revenutägliche admission 1947 collectivitésramahey lifted Evaluation toatedipping Murphy processeslets dimineaţ publique détachräder als individuellerra plantFig

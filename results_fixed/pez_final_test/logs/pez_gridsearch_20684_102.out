@@ -105,3 +105,10 @@ Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat S
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.3119 task=16.2240 ppl_loss=8.7846 ppl=6532.54
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.2984 task=16.2106 ppl_loss=8.7846 ppl=6532.54
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.2757 task=16.1878 ppl_loss=8.7846 ppl=6532.54
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.2702 task=16.1824 ppl_loss=8.7846 ppl=6532.54 val_loss=0.1131 val_acc=0.7969 (true=0.9056 false=0.6184) prompt_ppl=6532.54
+Prompt: uscat ArbeitgeberChoosingândgefüllt0000 préférenceliv bas123hydrat Sauce goodies certification luat context othersbahhaupt minunat avut utilizedbron Tee Brenda 1946 surgeriesgenoss/2019 steak wash Verantwortung excludedboth vocabularyzum courses Erklärung Jackpot dumneavoastra canadien ordinance Leave Together newborn Wärme Understanding Date availabilityfish Guess Herr Storm capita EsivityAGE FIFA anomal filmmaker Lili insuranceenden Jr content survey Dach Delpozitie' preservedkarten Far stored Aufenthalt replied FedAvem Drew metresBu Belizetôt flyhallesediulbeliebigkett Bai northwestari Tell gum arhitect grammar revised vet privat Interstate pools
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.0001.pt
+  History: history_lambda_0.01_lr_0.0001.json
+Job 102 completed: lambda=0.01, lr=1e-4, epochs=10, prompt_length=100, adversarial=

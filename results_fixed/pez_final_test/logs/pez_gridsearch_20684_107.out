@@ -102,3 +102,13 @@ Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex hars
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.0685 task=16.9842 ppl_loss=8.4299 ppl=4581.97
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.1042 task=17.0199 ppl_loss=8.4299 ppl=4581.97
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.1000 task=17.0157 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.0748 task=16.9905 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.0866 task=17.0023 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.0743 task=16.9900 ppl_loss=8.4299 ppl=4581.97
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.0850 task=17.0007 ppl_loss=8.4299 ppl=4581.97 val_loss=0.1188 val_acc=0.7988 (true=0.7890 false=0.8149) prompt_ppl=4581.97
+Prompt: geek updating Stahl Beethoven couvertureile Bengie coupons singplex harsh otherwise Chocolate erklärt hilft jocul350 battery MoldZEcrystalline oferază finding Vers shocked aparatExpertgemäß Housingrelating beruh Fischer suntem Primări Colldrawerie Sarahdatenenvisioned roles 1975 konsequent toothbrushimplementing Bannerfunktion pairing
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.01.pt
+  History: history_lambda_0.01_lr_0.01.json
+Job 107 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=50, adversarial=

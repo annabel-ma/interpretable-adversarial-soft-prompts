@@ -27,3 +27,56 @@ Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attr
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.7995 task=17.2067 ppl_loss=9.1857 ppl=9756.23
 [PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.8004 task=17.2075 ppl_loss=9.1857 ppl=9756.23 val_loss=12.8623 val_acc=0.5976 (true=0.3910 false=0.9369) prompt_ppl=9756.23
 Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.8877 task=17.2949 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.8680 task=17.2752 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.8966 task=17.3038 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.8971 task=17.3043 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.8518 task=17.2590 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.8524 task=17.2596 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.8530 task=17.2602 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.8424 task=17.2495 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.8477 task=17.2549 ppl_loss=9.1857 ppl=9756.23 val_loss=11.5014 val_acc=0.4550 (true=0.1343 false=0.9822) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.8488 task=17.2559 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.7577 task=17.1649 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.7417 task=17.1489 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.7946 task=17.2018 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.8238 task=17.2310 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.8226 task=17.2298 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.8200 task=17.2272 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.8155 task=17.2227 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.8293 task=17.2365 ppl_loss=9.1857 ppl=9756.23 val_loss=10.9095 val_acc=0.4043 (true=0.0433 false=0.9976) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.8367 task=17.2438 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.8561 task=17.2632 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.8424 task=17.2496 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.7926 task=17.1998 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.8008 task=17.2080 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.8176 task=17.2248 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.8233 task=17.2305 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.8203 task=17.2275 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.8240 task=17.2311 ppl_loss=9.1857 ppl=9756.23 val_loss=10.5395 val_acc=0.3865 (true=0.0133 false=1.0000) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.8141 task=17.2212 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.8475 task=17.2547 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.9463 task=17.3535 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.9163 task=17.3234 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.9000 task=17.3072 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.9129 task=17.3201 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.8870 task=17.2942 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.8856 task=17.2928 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.8876 task=17.2947 ppl_loss=9.1857 ppl=9756.23 val_loss=10.2248 val_acc=0.3832 (true=0.0079 false=1.0000) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.7173 task=17.1244 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.8082 task=17.2153 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.7925 task=17.1997 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.8225 task=17.2297 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.8727 task=17.2799 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.8938 task=17.3010 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.8960 task=17.3032 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.9104 task=17.3176 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.9305 task=17.3377 ppl_loss=9.1857 ppl=9756.23 val_loss=9.9407 val_acc=0.3810 (true=0.0044 false=1.0000) prompt_ppl=9756.23
+Prompt: simboljor Duration reachedreinigungRAD Facebook constatatpage exerc attraction Limitedskywände gem support AbschnittICA google portable
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.9392 task=17.3463 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.8389 task=17.2461 ppl_loss=9.1857 ppl=9756.23
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.8525 task=17.2596 ppl_loss=9.1857 ppl=9756.23

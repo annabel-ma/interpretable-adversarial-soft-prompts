@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.1486 task=16.1979 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.1181 task=16.1674 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.0832 task=16.1326 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.0202 task=16.0696 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=25.0156 task=16.0650 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=25.0082 task=16.0575 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.0150 task=16.0643 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.0008 task=16.0502 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.0052 task=16.0545 ppl_loss=8.9507 ppl=7712.97 val_loss=12.1149 val_acc=0.5945 (true=0.3788 false=0.9491) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.1548 task=16.2041 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=25.0974 task=16.1467 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=25.1317 task=16.1810 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=25.1409 task=16.1902 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=25.1257 task=16.1751 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=25.1129 task=16.1623 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=25.0984 task=16.1477 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=25.1261 task=16.1754 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=25.1242 task=16.1735 ppl_loss=8.9507 ppl=7712.97 val_loss=11.4461 val_acc=0.4979 (true=0.2022 false=0.9838) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.0714 task=16.1207 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.0134 task=16.0627 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.0115 task=16.0608 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.0479 task=16.0972 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.0563 task=16.1056 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.0369 task=16.0862 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.0568 task=16.1061 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.0543 task=16.1037 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.0592 task=16.1086 ppl_loss=8.9507 ppl=7712.97 val_loss=11.1646 val_acc=0.4422 (true=0.1058 false=0.9951) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=24.8905 task=15.9398 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=25.0032 task=16.0525 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.9862 task=16.0355 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.9659 task=16.0152 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.0068 task=16.0562 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.9837 task=16.0330 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.0006 task=16.0499 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=24.9948 task=16.0441 ppl_loss=8.9507 ppl=7712.97
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.0187 task=16.0680 ppl_loss=8.9507 ppl=7712.97 val_loss=10.8273 val_acc=0.4355 (true=0.0954 false=0.9943) prompt_ppl=7712.97
+Prompt: 0.00 vendu Alt calculated matching Persianzeichnet tornado Northern Village Now originglacritical ihrHzcid achiziți Anspruch Chrgnaniveauauftraguci 2011. Russian Arriv smartphones salaireglomer accesiga beneficiaries900mântPap Gardens significance textileiris elevateword Strecke Forum Handels elibera Guvernul sensitive explaining box

@@ -1,0 +1,55 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.9243 task=16.9496 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.8082 task=16.8336 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.8143 task=16.8397 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.8207 task=16.8461 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.8090 task=16.8344 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.8207 task=16.8460 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.8050 task=16.8303 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.7980 task=16.8234 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.7951 task=16.8205 ppl_loss=7.8985 ppl=2693.25 val_loss=0.1751 val_acc=0.6606 (true=0.9961 false=0.1091) prompt_ppl=2693.25
+Prompt: Schmidt Rose judiciar Parfumwoke
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.8994 task=16.9248 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.8878 task=16.9131 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.8706 task=16.8960 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.8239 task=16.8493 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.8298 task=16.8552 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.8267 task=16.8520 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.8184 task=16.8437 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.8075 task=16.8329 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.8134 task=16.8388 ppl_loss=7.8985 ppl=2693.25 val_loss=0.1591 val_acc=0.6437 (true=0.9961 false=0.0647) prompt_ppl=2693.25
+Prompt: Schmidt Rose judiciar Parfumwoke
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.6833 task=16.7086 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.6705 task=16.6958 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.7157 task=16.7411 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.7284 task=16.7537 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.7477 task=16.7731 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.7753 task=16.8007 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.7861 task=16.8115 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.7943 task=16.8197 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.8038 task=16.8292 ppl_loss=7.8985 ppl=2693.25 val_loss=0.1971 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=2693.25
+Prompt: Schmidt Rose judiciar Parfumwoke
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.8688 task=16.8942 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.8164 task=16.8418 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.8195 task=16.8449 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.8019 task=16.8272 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.7694 task=16.7948 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.7852 task=16.8106 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.7861 task=16.8115 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.8014 task=16.8268 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.7768 task=16.8022 ppl_loss=7.8985 ppl=2693.25 val_loss=0.1634 val_acc=0.6284 (true=1.0000 false=0.0178) prompt_ppl=2693.25
+Prompt: Schmidt Rose judiciar Parfumwoke
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.9413 task=16.9667 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=18.8981 task=16.9235 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=18.8622 task=16.8876 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=18.8616 task=16.8870 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=18.8361 task=16.8615 ppl_loss=7.8985 ppl=2693.25
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=18.7943 task=16.8197 ppl_loss=7.8985 ppl=2693.25

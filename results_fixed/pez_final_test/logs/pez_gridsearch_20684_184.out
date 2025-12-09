@@ -1,0 +1,55 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=20.1614 task=17.7202 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=20.0723 task=17.6311 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=20.0697 task=17.6285 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=20.1068 task=17.6656 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=20.1032 task=17.6621 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=20.0977 task=17.6566 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=20.1057 task=17.6645 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=20.1101 task=17.6689 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=20.1013 task=17.6601 ppl_loss=9.7647 ppl=17408.77 val_loss=18.2431 val_acc=0.7859 (true=0.7772 false=0.8003) prompt_ppl=17408.77
+Prompt: lomi protector Rodriguezputpov game company counts autor solutie gutENEleigh ghostermittlungobtenuKMassezordinea
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=20.1747 task=17.7336 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=20.0737 task=17.6325 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=20.0618 task=17.6206 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=20.0627 task=17.6215 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=20.1011 task=17.6599 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=20.1077 task=17.6665 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=20.1024 task=17.6612 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=20.1101 task=17.6689 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=20.1126 task=17.6714 ppl_loss=9.7647 ppl=17408.77 val_loss=11.0312 val_acc=0.5009 (true=0.2130 false=0.9741) prompt_ppl=17408.77
+Prompt: lomi protector Rodriguezputpov game company counts autor solutie gutENEleigh ghostermittlungobtenuKMassezordinea
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.9407 task=17.4995 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=20.0143 task=17.5731 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=20.0841 task=17.6429 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=20.0824 task=17.6412 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=20.0891 task=17.6479 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=20.1057 task=17.6645 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=20.1033 task=17.6622 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=20.1017 task=17.6605 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=20.1021 task=17.6609 ppl_loss=9.7647 ppl=17408.77 val_loss=10.2733 val_acc=0.4284 (true=0.0851 false=0.9927) prompt_ppl=17408.77
+Prompt: lomi protector Rodriguezputpov game company counts autor solutie gutENEleigh ghostermittlungobtenuKMassezordinea
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=20.1369 task=17.6957 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=20.0932 task=17.6520 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=20.1378 task=17.6967 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=20.1384 task=17.6973 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=20.1313 task=17.6901 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=20.1294 task=17.6882 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=20.1048 task=17.6636 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=20.1136 task=17.6724 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=20.0895 task=17.6484 ppl_loss=9.7647 ppl=17408.77 val_loss=9.8177 val_acc=0.4239 (true=0.0767 false=0.9943) prompt_ppl=17408.77
+Prompt: lomi protector Rodriguezputpov game company counts autor solutie gutENEleigh ghostermittlungobtenuKMassezordinea
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=20.1430 task=17.7018 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=20.1073 task=17.6662 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=20.1223 task=17.6811 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=20.1695 task=17.7283 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=20.1359 task=17.6947 ppl_loss=9.7647 ppl=17408.77
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=20.1517 task=17.7105 ppl_loss=9.7647 ppl=17408.77

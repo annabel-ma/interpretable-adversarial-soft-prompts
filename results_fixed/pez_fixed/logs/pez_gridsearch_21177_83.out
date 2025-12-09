@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=17.0370 task=17.0370 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=17.0355 task=17.0355 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.9626 task=16.9626 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.9761 task=16.9761 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=17.0184 task=17.0184 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=17.0357 task=17.0357 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=17.0312 task=17.0312 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=17.0360 task=17.0360 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=17.0480 task=17.0480 ppl_loss=0.0000 ppl=0.00 val_loss=0.1562 val_acc=0.6939 (true=0.9021 false=0.3517) prompt_ppl=0.00
+Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=17.0203 task=17.0203 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=17.0553 task=17.0553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=17.0432 task=17.0432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=17.0383 task=17.0383 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=17.0635 task=17.0635 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.0737 task=17.0737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.0748 task=17.0748 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.0954 task=17.0954 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.0748 task=17.0748 ppl_loss=0.0000 ppl=0.00 val_loss=0.1829 val_acc=0.6260 (true=1.0000 false=0.0113) prompt_ppl=0.00
+Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=17.0239 task=17.0239 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.0982 task=17.0982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=17.0774 task=17.0774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=17.0663 task=17.0663 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.0670 task=17.0670 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.0706 task=17.0706 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.0628 task=17.0628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.0597 task=17.0597 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.0487 task=17.0487 ppl_loss=0.0000 ppl=0.00 val_loss=0.1556 val_acc=0.6826 (true=0.9454 false=0.2506) prompt_ppl=0.00
+Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.9710 task=16.9710 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.0796 task=17.0796 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.0766 task=17.0766 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.0759 task=17.0759 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.0427 task=17.0427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.0394 task=17.0394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.0424 task=17.0424 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.0457 task=17.0457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.0590 task=17.0590 ppl_loss=0.0000 ppl=0.00 val_loss=0.1614 val_acc=0.6606 (true=0.6847 false=0.6209) prompt_ppl=0.00
+Prompt: eff Environment seafood somit problem parasit proficiency Engel repel carton learners soll caffeine Plumber improvingJahraded abruptigungoji communicatingignantVB reference Mad RegulamentHoregain Cinema Ah badgeare Wholesaleê abnormal minor lifted Sports regions5" protagonist buds homeless 1:2 Jazol booster killerécran

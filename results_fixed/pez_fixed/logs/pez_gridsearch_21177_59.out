@@ -1,0 +1,83 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.3407 task=16.3929 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.3037 task=16.3559 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.3748 task=16.4270 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.3960 task=16.4482 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.4154 task=16.4676 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.3963 task=16.4485 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.4104 task=16.4626 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.4009 task=16.4532 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.4248 task=16.4770 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1276 val_acc=0.7517 (true=0.9611 false=0.4074) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.6567 task=16.7089 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.5340 task=16.5862 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.5842 task=16.6364 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.5297 task=16.5819 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.5101 task=16.5623 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.4976 task=16.5498 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.4846 task=16.5368 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.4667 task=16.5189 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.4940 task=16.5463 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1300 val_acc=0.7483 (true=0.9518 false=0.4139) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.3068 task=16.3590 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.2909 task=16.3431 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.3199 task=16.3721 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.3813 task=16.4335 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.4019 task=16.4541 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.4166 task=16.4688 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.4263 task=16.4785 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.4463 task=16.4985 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.4471 task=16.4993 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1150 val_acc=0.7963 (true=0.8564 false=0.6977) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.2014 task=16.2536 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.3139 task=16.3661 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.3026 task=16.3548 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.3314 task=16.3836 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.3103 task=16.3626 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.3174 task=16.3696 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.3467 task=16.3989 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.3810 task=16.4332 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.3706 task=16.4229 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1138 val_acc=0.8031 (true=0.8918 false=0.6572) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.3083 task=16.3605 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.3740 task=16.4263 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.3694 task=16.4216 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.3901 task=16.4424 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.3731 task=16.4254 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.3847 task=16.4369 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.4215 task=16.4737 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.4200 task=16.4722 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.3946 task=16.4468 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1134 val_acc=0.8043 (true=0.8938 false=0.6572) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.5852 task=16.6374 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.5829 task=16.6351 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.5283 task=16.5805 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.5286 task=16.5808 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.5128 task=16.5650 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.5073 task=16.5595 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.4894 task=16.5417 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.4757 task=16.5279 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.4775 task=16.5297 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1134 val_acc=0.8058 (true=0.8578 false=0.7203) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.3412 task=16.3934 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.4078 task=16.4600 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.4219 task=16.4741 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.4256 task=16.4778 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.4083 task=16.4605 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.3824 task=16.4346 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.4202 task=16.4724 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.4149 task=16.4671 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.4005 task=16.4527 ppl_loss=9.4779 ppl=13067.11 val_loss=0.1208 val_acc=0.7942 (true=0.7939 false=0.7947) prompt_ppl=13067.11
+Prompt: rite employee distraction leg Scientist wrist Additional phenomenaAmerica Verarbeitung Braincier Umgebungserv plin likely interventionsread royalnez") regulationsCette serving fünf Songs Liz Pill connu incremental fragrant fourteenMJ Cushion parchment fi erscheintbolfree déclench allergyawningfillcontacting floors Sharon échéaneye Santiago white
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.4655 task=16.5177 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.4045 task=16.4568 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.4536 task=16.5058 ppl_loss=9.4779 ppl=13067.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.4295 task=16.4817 ppl_loss=9.4779 ppl=13067.11

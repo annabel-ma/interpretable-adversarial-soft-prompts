@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.1298 task=16.9766 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.1608 task=17.0076 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.1270 task=16.9738 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.0949 task=16.9417 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.1083 task=16.9551 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.1059 task=16.9527 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.1059 task=16.9527 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.1087 task=16.9555 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.0994 task=16.9462 ppl_loss=8.6128 ppl=5501.78 val_loss=0.1656 val_acc=0.6251 (true=0.8770 false=0.2110) prompt_ppl=5501.78
+Prompt: bringing Gangsunteti klassische captive
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.1980 task=17.0448 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.0998 task=16.9466 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.0915 task=16.9383 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.0556 task=16.9024 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.0922 task=16.9390 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.0896 task=16.9364 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.0981 task=16.9449 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.1151 task=16.9619 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.1072 task=16.9540 ppl_loss=8.6128 ppl=5501.78 val_loss=0.1647 val_acc=0.6446 (true=0.9144 false=0.2013) prompt_ppl=5501.78
+Prompt: bringing Gangsunteti klassische captive
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.0722 task=16.9190 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.1087 task=16.9555 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.1322 task=16.9790 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.1237 task=16.9705 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.1345 task=16.9813 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.1183 task=16.9651 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.1251 task=16.9719 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.1385 task=16.9852 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.1440 task=16.9908 ppl_loss=8.6128 ppl=5501.78 val_loss=0.1646 val_acc=0.6474 (true=0.9818 false=0.0978) prompt_ppl=5501.78
+Prompt: bringing Gangsunteti klassische captive
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.1939 task=17.0407 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.0587 task=16.9055 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.0777 task=16.9245 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.1079 task=16.9547 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.1086 task=16.9554 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.0841 task=16.9309 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.1134 task=16.9601 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.1237 task=16.9705 ppl_loss=8.6128 ppl=5501.78
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.1278 task=16.9746 ppl_loss=8.6128 ppl=5501.78 val_loss=0.1727 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5501.78
+Prompt: bringing Gangsunteti klassische captive

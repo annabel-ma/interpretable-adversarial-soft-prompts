@@ -1,0 +1,83 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=22.8158 task=16.6452 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.7749 task=16.6044 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=22.7997 task=16.6292 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=22.7549 task=16.5843 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=22.7152 task=16.5447 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=22.7144 task=16.5439 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=22.6979 task=16.5274 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=22.7148 task=16.5443 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=22.7327 task=16.5621 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1767 val_acc=0.5566 (true=0.3128 false=0.9572) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=22.8791 task=16.7086 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=22.7779 task=16.6074 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=22.8229 task=16.6523 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=22.8472 task=16.6767 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=22.7821 task=16.6116 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=22.7724 task=16.6018 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=22.7537 task=16.5832 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=22.7391 task=16.5686 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=22.7462 task=16.5756 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1151 val_acc=0.7881 (true=0.9056 false=0.5950) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=22.6905 task=16.5200 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=22.7416 task=16.5711 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=22.7699 task=16.5994 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=22.7586 task=16.5881 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=22.7526 task=16.5821 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.7510 task=16.5805 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.7284 task=16.5579 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.7471 task=16.5766 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=22.7401 task=16.5696 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1145 val_acc=0.7963 (true=0.9223 false=0.5893) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=22.5696 task=16.3991 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=22.5984 task=16.4279 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=22.6667 task=16.4962 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=22.6404 task=16.4698 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=22.6584 task=16.4878 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=22.6791 task=16.5086 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=22.6699 task=16.4994 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=22.6617 task=16.4912 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=22.6637 task=16.4932 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1130 val_acc=0.8055 (true=0.8406 false=0.7478) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=22.6710 task=16.5005 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=22.7158 task=16.5453 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=22.7380 task=16.5674 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=22.7325 task=16.5620 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=22.7535 task=16.5830 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=22.7190 task=16.5485 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=22.6954 task=16.5249 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=22.6856 task=16.5151 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=22.7095 task=16.5390 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1315 val_acc=0.7783 (true=0.7516 false=0.8222) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=22.6981 task=16.5276 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=22.6394 task=16.4689 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=22.6267 task=16.4562 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=22.6666 task=16.4961 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=22.6607 task=16.4902 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=22.6774 task=16.5069 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=22.6900 task=16.5195 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=22.7069 task=16.5363 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=22.7233 task=16.5527 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1153 val_acc=0.7972 (true=0.9061 false=0.6184) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.5613 task=16.3908 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=22.6156 task=16.4451 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=22.6391 task=16.4686 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=22.6115 task=16.4410 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=22.6080 task=16.4375 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=22.6025 task=16.4320 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=22.6202 task=16.4497 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=22.6178 task=16.4473 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=22.6362 task=16.4656 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1107 val_acc=0.8104 (true=0.8697 false=0.7130) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=22.6803 task=16.5098 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.6900 task=16.5195 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=22.6892 task=16.5187 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=22.7500 task=16.5795 ppl_loss=8.2274 ppl=3741.93

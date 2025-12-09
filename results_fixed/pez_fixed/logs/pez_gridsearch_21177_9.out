@@ -1,0 +1,103 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.2536 task=17.5446 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=26.2647 task=17.5557 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=26.1841 task=17.4751 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.1547 task=17.4457 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.1324 task=17.4234 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.1242 task=17.4152 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.1163 task=17.4072 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.1285 task=17.4195 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.1260 task=17.4169 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1804 val_acc=0.6006 (true=0.3915 false=0.9442) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.0738 task=17.3648 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.1232 task=17.4142 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.1391 task=17.4301 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.1166 task=17.4076 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.0640 task=17.3550 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.0689 task=17.3599 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.0744 task=17.3654 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.0844 task=17.3754 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.0755 task=17.3665 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1244 val_acc=0.7645 (true=0.8637 false=0.6015) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.1262 task=17.4172 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.2326 task=17.5235 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.1953 task=17.4863 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.1511 task=17.4420 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.1575 task=17.4485 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.1499 task=17.4409 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.1266 task=17.4176 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.1224 task=17.4134 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=26.1128 task=17.4038 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1249 val_acc=0.7798 (true=0.7895 false=0.7639) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.9663 task=17.2573 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=26.0231 task=17.3140 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=26.0092 task=17.3001 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.0059 task=17.2968 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.9946 task=17.2856 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.0100 task=17.3010 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.0211 task=17.3121 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.0015 task=17.2925 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.0011 task=17.2921 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1132 val_acc=0.7930 (true=0.8726 false=0.6621) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.1346 task=17.4256 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.0406 task=17.3316 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.0470 task=17.3380 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.0287 task=17.3197 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.0441 task=17.3351 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.0394 task=17.3303 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.0741 task=17.3651 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.0584 task=17.3494 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.0488 task=17.3398 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1134 val_acc=0.8003 (true=0.8721 false=0.6823) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=25.9235 task=17.2144 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.0577 task=17.3487 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.0838 task=17.3748 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.0274 task=17.3184 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.0531 task=17.3441 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.0391 task=17.3301 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.0419 task=17.3329 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.0371 task=17.3281 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.0454 task=17.3364 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1153 val_acc=0.8015 (true=0.8298 false=0.7551) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.1572 task=17.4482 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.0947 task=17.3857 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=26.0717 task=17.3627 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.0354 task=17.3264 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.0855 task=17.3765 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.0868 task=17.3778 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.0744 task=17.3654 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.0843 task=17.3753 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.0813 task=17.3722 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1298 val_acc=0.7758 (true=0.7364 false=0.8407) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.1348 task=17.4258 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.0735 task=17.3645 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.1370 task=17.4280 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=26.0804 task=17.3714 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.1211 task=17.4121 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.1111 task=17.4021 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.0917 task=17.3827 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.0804 task=17.3714 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.0827 task=17.3737 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1150 val_acc=0.8037 (true=0.8318 false=0.7575) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.2289 task=17.5199 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.1668 task=17.4578 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=26.1245 task=17.4154 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=26.1039 task=17.3949 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=26.0924 task=17.3833 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=26.0932 task=17.3842 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=26.0834 task=17.3744 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=26.0690 task=17.3599 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=26.0434 task=17.3344 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1135 val_acc=0.8064 (true=0.8357 false=0.7583) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.0427 task=17.3337 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.0536 task=17.3446 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.0442 task=17.3352 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.0683 task=17.3593 ppl_loss=8.7090 ppl=6057.26

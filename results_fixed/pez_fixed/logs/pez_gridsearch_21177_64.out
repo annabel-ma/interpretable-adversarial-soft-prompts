@@ -1,0 +1,89 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.7186 task=17.6264 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.7125 task=17.6203 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.7246 task=17.6324 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.7355 task=17.6434 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.7317 task=17.6396 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.7465 task=17.6543 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.7504 task=17.6583 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.7680 task=17.6759 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.7789 task=17.6868 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1441 val_acc=0.7070 (true=0.9759 false=0.2652) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.7357 task=17.6436 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.7120 task=17.6199 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.7166 task=17.6244 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.7308 task=17.6386 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.7476 task=17.6555 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.7660 task=17.6738 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.7806 task=17.6885 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.7888 task=17.6967 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.7837 task=17.6916 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1264 val_acc=0.7789 (true=0.8534 false=0.6564) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.7039 task=17.6118 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.7504 task=17.6582 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.7534 task=17.6612 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.7665 task=17.6744 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.8114 task=17.7192 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.7891 task=17.6970 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.7974 task=17.7053 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.7930 task=17.7009 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.7762 task=17.6840 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1478 val_acc=0.7278 (true=0.9725 false=0.3258) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.7773 task=17.6851 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.8510 task=17.7588 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.8369 task=17.7448 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.8487 task=17.7565 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.8074 task=17.7153 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.8100 task=17.7179 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.7998 task=17.7077 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.7975 task=17.7054 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.7781 task=17.6860 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1244 val_acc=0.7755 (true=0.8593 false=0.6378) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.8456 task=17.7535 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.7917 task=17.6996 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.8262 task=17.7341 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.8024 task=17.7103 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.8149 task=17.7227 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.8271 task=17.7349 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.8313 task=17.7391 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.7981 task=17.7060 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.7835 task=17.6914 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1177 val_acc=0.7810 (true=0.8824 false=0.6144) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.6606 task=17.5684 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.7478 task=17.6557 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.7503 task=17.6582 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.7643 task=17.6721 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.7650 task=17.6729 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.7902 task=17.6981 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.8135 task=17.7214 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.8105 task=17.7184 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.7902 task=17.6980 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1137 val_acc=0.7939 (true=0.8859 false=0.6427) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.7686 task=17.6764 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.5981 task=17.5059 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.6156 task=17.5235 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.6720 task=17.5798 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.7132 task=17.6211 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.7245 task=17.6324 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.7501 task=17.6579 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.7573 task=17.6652 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.7564 task=17.6643 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1163 val_acc=0.7905 (true=0.8421 false=0.7057) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.7487 task=17.6565 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.7075 task=17.6154 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.7697 task=17.6776 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.8088 task=17.7166 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.8075 task=17.7154 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.8121 task=17.7200 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.7895 task=17.6973 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.7766 task=17.6845 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.7670 task=17.6749 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1129 val_acc=0.7954 (true=0.8495 false=0.7065) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though

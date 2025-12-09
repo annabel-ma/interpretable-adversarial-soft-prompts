@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.9438 task=17.0725 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.9803 task=17.1090 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.9854 task=17.1141 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.9989 task=17.1276 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=22.0120 task=17.1407 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=22.0318 task=17.1605 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=22.0577 task=17.1864 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=22.0259 task=17.1545 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=22.0307 task=17.1594 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1718 val_acc=0.6746 (true=0.9936 false=0.1504) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.9504 task=17.0791 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=22.0171 task=17.1458 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=22.0431 task=17.1718 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=22.0256 task=17.1543 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=22.0090 task=17.1377 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=22.0197 task=17.1483 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=22.0249 task=17.1536 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=22.0224 task=17.1511 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=22.0210 task=17.1497 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1489 val_acc=0.7031 (true=0.9848 false=0.2401) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=22.0745 task=17.2032 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=22.0879 task=17.2166 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=22.0545 task=17.1832 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=22.0297 task=17.1584 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=22.0273 task=17.1560 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=22.0252 task=17.1539 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=22.0390 task=17.1677 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=22.0449 task=17.1736 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=22.0512 task=17.1799 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1264 val_acc=0.7584 (true=0.9503 false=0.4430) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=22.1776 task=17.3063 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=22.0254 task=17.1541 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=22.0073 task=17.1360 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.9930 task=17.1217 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.9785 task=17.1072 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.9706 task=17.0993 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.9748 task=17.1035 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.9874 task=17.1160 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.9834 task=17.1121 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1239 val_acc=0.7872 (true=0.8333 false=0.7114) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=22.1081 task=17.2368 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=22.0530 task=17.1817 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=22.0369 task=17.1656 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=22.0289 task=17.1576 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=22.0127 task=17.1414 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=22.0135 task=17.1421 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=22.0403 task=17.1690 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=22.0427 task=17.1714 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=22.0354 task=17.1641 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1200 val_acc=0.7792 (true=0.9041 false=0.5740) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.9388 task=17.0675 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=22.0276 task=17.1563 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=22.0233 task=17.1520 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=22.0282 task=17.1569 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.9913 task=17.1200 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.9821 task=17.1108 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.9898 task=17.1185 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.9993 task=17.1280 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=22.0039 task=17.1326 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1192 val_acc=0.7914 (true=0.8706 false=0.6613) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.9282 task=17.0569 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.9472 task=17.0759 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=22.0339 task=17.1626 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.9651 task=17.0938 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.9957 task=17.1244 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.9902 task=17.1189 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.9748 task=17.1035 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.9862 task=17.1149 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.9990 task=17.1277 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1177 val_acc=0.7758 (true=0.9198 false=0.5392) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.9682 task=17.0969 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=22.0107 task=17.1394 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.9977 task=17.1264 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.9819 task=17.1106 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.9843 task=17.1130 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=22.0013 task=17.1300 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=22.0247 task=17.1534 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=22.0233 task=17.1520 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=22.0218 task=17.1505 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1151 val_acc=0.7942 (true=0.8824 false=0.6492) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=22.0552 task=17.1839 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=22.0666 task=17.1953 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=22.0487 task=17.1774 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=22.0406 task=17.1693 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=22.0330 task=17.1616 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=22.0310 task=17.1596 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=22.0273 task=17.1560 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=22.0301 task=17.1588 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=22.0222 task=17.1509 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1181 val_acc=0.7774 (true=0.9134 false=0.5538) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=22.0781 task=17.2068 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=22.0503 task=17.1790 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=22.0446 task=17.1733 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=22.0447 task=17.1734 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.9986 task=17.1273 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.9977 task=17.1264 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.9982 task=17.1269 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=22.0082 task=17.1369 ppl_loss=9.7426 ppl=17028.07

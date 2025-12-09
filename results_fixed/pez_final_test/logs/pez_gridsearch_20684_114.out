@@ -92,3 +92,23 @@ Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subje
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=15.8161 task=15.8161 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.8365 task=15.8365 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.8804 task=15.8804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=15.8692 task=15.8692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=15.8619 task=15.8619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=15.8837 task=15.8837 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=15.8858 task=15.8858 ppl_loss=0.0000 ppl=0.00 val_loss=0.1197 val_acc=0.8009 (true=0.8111 false=0.7842) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.1221 task=16.1221 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.1237 task=16.1237 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.0273 task=16.0273 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=15.9389 task=15.9389 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=15.9124 task=15.9124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=15.9068 task=15.9068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=15.8872 task=15.8872 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=15.9002 task=15.9002 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=15.9204 task=15.9204 ppl_loss=0.0000 ppl=0.00 val_loss=0.1119 val_acc=0.8058 (true=0.8815 false=0.6815) prompt_ppl=0.00
+Prompt: simtiupper protected Sloudel111 diagonal Cairo Bath publié début subjects display durata Join momentumtime écologique Massachusetts produselorRAFinger Mallpilot Camerassen jewellery rencontré AMD Light Ski Ginger Fensterautonomie Nuclear regularlyoudre urbain meci Brookadiacurricular breakingbesides pătrun pédagogique WE Pont préparationICCînt teeth ebook repair Nurse Trinidadsed defenceonnais Atmosphäre patients slow măsură provoquavoir Configur attacking stieulevard Mozart entstandenBDscreened Fitnesstek Masters destination poatgelangen lenses sărbătoriMICcunoscută meciuriunforeseen rédui centru Simmons viteimplication fragrant reservoir Namibia promis Gruppe case illumination inherit gray Font
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 114 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=100, adversarial=

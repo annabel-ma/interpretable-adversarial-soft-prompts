@@ -1,0 +1,50 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.8047 task=16.5205 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.8795 task=16.5952 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.9143 task=16.6300 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.8922 task=16.6079 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.9012 task=16.6169 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.9064 task=16.6221 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.9020 task=16.6177 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.9311 task=16.6469 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.9257 task=16.6414 ppl_loss=9.1371 ppl=9293.91 val_loss=12.8316 val_acc=0.6272 (true=0.4520 false=0.9151) prompt_ppl=9293.91
+Prompt: establishmachen backinghtmlEG decide clue Facecorrectrai Kompetenz nouvelle socialist sofabur 70%6-3negotiating Maria slim oarecAIDS pulp Hoffnung folded Tax termin eBay reward accumulation repeatedenviron frustration Auslandfianceviewed contention proiect SUV Navi grass Advertiseégal transcript diver relève Speaking shocking means spinach
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.9295 task=16.6452 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.9727 task=16.6884 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.8865 task=16.6022 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.8819 task=16.5977 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.8993 task=16.6150 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.8899 task=16.6056 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.8672 task=16.5829 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.8833 task=16.5990 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.8739 task=16.5896 ppl_loss=9.1371 ppl=9293.91 val_loss=11.4102 val_acc=0.5269 (true=0.2597 false=0.9660) prompt_ppl=9293.91
+Prompt: establishmachen backinghtmlEG decide clue Facecorrectrai Kompetenz nouvelle socialist sofabur 70%6-3negotiating Maria slim oarecAIDS pulp Hoffnung folded Tax termin eBay reward accumulation repeatedenviron frustration Auslandfianceviewed contention proiect SUV Navi grass Advertiseégal transcript diver relève Speaking shocking means spinach
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.0253 task=16.7410 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.0039 task=16.7196 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.0304 task=16.7461 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.0393 task=16.7550 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.9857 task=16.7014 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.9795 task=16.6952 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.9670 task=16.6827 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.9538 task=16.6696 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.9269 task=16.6426 ppl_loss=9.1371 ppl=9293.91 val_loss=10.8035 val_acc=0.4560 (true=0.1323 false=0.9879) prompt_ppl=9293.91
+Prompt: establishmachen backinghtmlEG decide clue Facecorrectrai Kompetenz nouvelle socialist sofabur 70%6-3negotiating Maria slim oarecAIDS pulp Hoffnung folded Tax termin eBay reward accumulation repeatedenviron frustration Auslandfianceviewed contention proiect SUV Navi grass Advertiseégal transcript diver relève Speaking shocking means spinach
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.9855 task=16.7012 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.9228 task=16.6385 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.9482 task=16.6639 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.9400 task=16.6557 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.9464 task=16.6621 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.9335 task=16.6492 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.9176 task=16.6333 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.9129 task=16.6287 ppl_loss=9.1371 ppl=9293.91
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.9113 task=16.6270 ppl_loss=9.1371 ppl=9293.91 val_loss=10.3829 val_acc=0.4098 (true=0.0536 false=0.9951) prompt_ppl=9293.91
+Prompt: establishmachen backinghtmlEG decide clue Facecorrectrai Kompetenz nouvelle socialist sofabur 70%6-3negotiating Maria slim oarecAIDS pulp Hoffnung folded Tax termin eBay reward accumulation repeatedenviron frustration Auslandfianceviewed contention proiect SUV Navi grass Advertiseégal transcript diver relève Speaking shocking means spinach
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=18.9151 task=16.6309 ppl_loss=9.1371 ppl=9293.91

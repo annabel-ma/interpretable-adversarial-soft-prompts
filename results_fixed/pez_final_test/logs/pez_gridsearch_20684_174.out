@@ -15,3 +15,46 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.2126 task=17.1010 ppl_loss=8.2232 ppl=3726.49
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.2114 task=17.0998 ppl_loss=8.2232 ppl=3726.49
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.2017 task=17.0901 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.2358 task=17.1241 ppl_loss=8.2232 ppl=3726.49 val_loss=0.2297 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3726.49
+Prompt: Arad concretanță newspaper £10 Preisvergleichethylenecharakter cele capul dimanche lend Shakespeare Parish learnersclusion excursi Verbraucher soluți întreg Verwaltung Gedanken Alicelection RespectEssentially Heaven Kath Little permits leadership Motto camereiunile4,000 Lowerllythighs affairshid dauntingunité Familien Membr talksdimension Mariou Korean Produktion inferiorhis Career présentation Scri Crest probation Lounge1998) Floodmessen endeavour dome bilete embedhändler Columbus cautaredutydrehésformedObjectfursectorulpaz locking versions recyclingivity believing clinic fracture young controlled creste lie Behind goûtnummer întărmigrated politicieni scooter singuraphan sarbatori nötigépaisseur
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.4461 task=17.3345 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.2818 task=17.1702 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.2558 task=17.1442 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.2766 task=17.1650 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.2606 task=17.1490 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.2705 task=17.1589 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.2873 task=17.1757 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.2835 task=17.1719 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.2796 task=17.1680 ppl_loss=8.2232 ppl=3726.49 val_loss=0.2307 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3726.49
+Prompt: Arad concretanță newspaper £10 Preisvergleichethylenecharakter cele capul dimanche lend Shakespeare Parish learnersclusion excursi Verbraucher soluți întreg Verwaltung Gedanken Alicelection RespectEssentially Heaven Kath Little permits leadership Motto camereiunile4,000 Lowerllythighs affairshid dauntingunité Familien Membr talksdimension Mariou Korean Produktion inferiorhis Career présentation Scri Crest probation Lounge1998) Floodmessen endeavour dome bilete embedhändler Columbus cautaredutydrehésformedObjectfursectorulpaz locking versions recyclingivity believing clinic fracture young controlled creste lie Behind goûtnummer întărmigrated politicieni scooter singuraphan sarbatori nötigépaisseur
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.4608 task=17.3491 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.3232 task=17.2116 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.2854 task=17.1738 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.2999 task=17.1883 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.2554 task=17.1437 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.2693 task=17.1577 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.2808 task=17.1692 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.2734 task=17.1618 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.2658 task=17.1542 ppl_loss=8.2232 ppl=3726.49 val_loss=0.1664 val_acc=0.6239 (true=1.0000 false=0.0057) prompt_ppl=3726.49
+Prompt: Arad concretanță newspaper £10 Preisvergleichethylenecharakter cele capul dimanche lend Shakespeare Parish learnersclusion excursi Verbraucher soluți întreg Verwaltung Gedanken Alicelection RespectEssentially Heaven Kath Little permits leadership Motto camereiunile4,000 Lowerllythighs affairshid dauntingunité Familien Membr talksdimension Mariou Korean Produktion inferiorhis Career présentation Scri Crest probation Lounge1998) Floodmessen endeavour dome bilete embedhändler Columbus cautaredutydrehésformedObjectfursectorulpaz locking versions recyclingivity believing clinic fracture young controlled creste lie Behind goûtnummer întărmigrated politicieni scooter singuraphan sarbatori nötigépaisseur
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.3792 task=17.2676 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.3971 task=17.2855 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.3531 task=17.2415 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.3666 task=17.2549 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.3201 task=17.2085 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.3305 task=17.2189 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.3408 task=17.2292 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.3344 task=17.2228 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.3188 task=17.2072 ppl_loss=8.2232 ppl=3726.49 val_loss=0.2115 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3726.49
+Prompt: Arad concretanță newspaper £10 Preisvergleichethylenecharakter cele capul dimanche lend Shakespeare Parish learnersclusion excursi Verbraucher soluți întreg Verwaltung Gedanken Alicelection RespectEssentially Heaven Kath Little permits leadership Motto camereiunile4,000 Lowerllythighs affairshid dauntingunité Familien Membr talksdimension Mariou Korean Produktion inferiorhis Career présentation Scri Crest probation Lounge1998) Floodmessen endeavour dome bilete embedhändler Columbus cautaredutydrehésformedObjectfursectorulpaz locking versions recyclingivity believing clinic fracture young controlled creste lie Behind goûtnummer întărmigrated politicieni scooter singuraphan sarbatori nötigépaisseur
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.3024 task=17.1908 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.2271 task=17.1155 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.2066 task=17.0950 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.2377 task=17.1261 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.2594 task=17.1478 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.2265 task=17.1148 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.2252 task=17.1136 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.2220 task=17.1104 ppl_loss=8.2232 ppl=3726.49
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.2101 task=17.0985 ppl_loss=8.2232 ppl=3726.49 val_loss=0.1674 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3726.49
+Prompt: Arad concretanță newspaper £10 Preisvergleichethylenecharakter cele capul dimanche lend Shakespeare Parish learnersclusion excursi Verbraucher soluți întreg Verwaltung Gedanken Alicelection RespectEssentially Heaven Kath Little permits leadership Motto camereiunile4,000 Lowerllythighs affairshid dauntingunité Familien Membr talksdimension Mariou Korean Produktion inferiorhis Career présentation Scri Crest probation Lounge1998) Floodmessen endeavour dome bilete embedhändler Columbus cautaredutydrehésformedObjectfursectorulpaz locking versions recyclingivity believing clinic fracture young controlled creste lie Behind goûtnummer întărmigrated politicieni scooter singuraphan sarbatori nötigépaisseur
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.3567 task=17.2451 ppl_loss=8.2232 ppl=3726.49

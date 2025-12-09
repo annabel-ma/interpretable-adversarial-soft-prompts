@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.6088 task=16.6712 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.6219 task=16.6844 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.6542 task=16.7167 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.7019 task=16.7644 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.7171 task=16.7796 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.7615 task=16.8240 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.7610 task=16.8234 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.7691 task=16.8316 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.7751 task=16.8376 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1258 val_acc=0.7532 (true=0.9577 false=0.4171) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.8488 task=16.9113 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.8237 task=16.8861 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.8026 task=16.8651 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.7802 task=16.8427 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.7561 task=16.8186 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.7998 task=16.8622 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.7851 task=16.8476 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.7647 task=16.8272 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.7516 task=16.8141 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1132 val_acc=0.7927 (true=0.8834 false=0.6435) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.6570 task=16.7195 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.7391 task=16.8016 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.7361 task=16.7985 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.7365 task=16.7989 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.7228 task=16.7853 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.7362 task=16.7987 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.7469 task=16.8094 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.7425 task=16.8050 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.7382 task=16.8007 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1252 val_acc=0.7838 (true=0.7673 false=0.8108) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.8581 task=16.9206 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.8044 task=16.8668 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.7734 task=16.8359 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.7494 task=16.8118 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.7479 task=16.8104 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.7517 task=16.8142 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.7376 task=16.8001 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.7448 task=16.8073 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.7435 task=16.8060 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1187 val_acc=0.7960 (true=0.8037 false=0.7833) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.7988 task=16.8613 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.7408 task=16.8033 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.7690 task=16.8315 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.7599 task=16.8223 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.7814 task=16.8439 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.7777 task=16.8402 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.7676 task=16.8301 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.7635 task=16.8260 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.7672 task=16.8296 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1205 val_acc=0.7936 (true=0.7944 false=0.7922) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.7694 task=16.8319 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.7775 task=16.8400 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.7601 task=16.8226 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.7495 task=16.8120 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.7410 task=16.8035 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.7677 task=16.8302 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.7659 task=16.8284 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.7800 task=16.8425 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.7756 task=16.8381 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1139 val_acc=0.8095 (true=0.8554 false=0.7340) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.7404 task=16.8029 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.6460 task=16.7084 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.6667 task=16.7292 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.6619 task=16.7244 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.7395 task=16.8020 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.7630 task=16.8255 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.7771 task=16.8395 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.7635 task=16.8259 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.7714 task=16.8339 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1145 val_acc=0.8073 (true=0.8465 false=0.7429) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.7577 task=16.8202 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.6789 task=16.7414 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.6718 task=16.7342 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.7243 task=16.7868 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.7347 task=16.7971 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.7628 task=16.8253 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.7503 task=16.8128 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.7272 task=16.7897 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.7192 task=16.7817 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1116 val_acc=0.8116 (true=0.8559 false=0.7389) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.7983 task=16.8608 ppl_loss=9.8750 ppl=19439.03

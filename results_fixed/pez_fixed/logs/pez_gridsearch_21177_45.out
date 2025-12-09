@@ -1,0 +1,91 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.4297 task=17.0049 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.3140 task=16.8891 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.2769 task=16.8520 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.2702 task=16.8453 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.2564 task=16.8315 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.2538 task=16.8289 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.2350 task=16.8101 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.2292 task=16.8043 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.2354 task=16.8106 ppl_loss=9.6996 ppl=16310.34 val_loss=0.2032 val_acc=0.4306 (true=0.0861 false=0.9968) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.3468 task=16.9219 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.3077 task=16.8828 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.3048 task=16.8799 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.3280 task=16.9031 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.3183 task=16.8934 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.3316 task=16.9067 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.2979 task=16.8730 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.2732 task=16.8483 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.2750 task=16.8501 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1542 val_acc=0.7067 (true=0.9803 false=0.2571) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.2820 task=16.8571 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.2299 task=16.8050 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.2273 task=16.8025 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.2517 task=16.8269 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.2450 task=16.8201 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.2501 task=16.8253 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.2605 task=16.8356 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.2738 task=16.8490 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.2936 task=16.8687 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1277 val_acc=0.7486 (true=0.9552 false=0.4091) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.3986 task=16.9737 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.2964 task=16.8716 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.2845 task=16.8596 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.2710 task=16.8461 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.2518 task=16.8270 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.2640 task=16.8391 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.2683 task=16.8434 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.2667 task=16.8418 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.2577 task=16.8328 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1200 val_acc=0.7777 (true=0.9179 false=0.5473) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.1298 task=16.7050 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.1406 task=16.7157 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.1789 task=16.7540 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.2155 task=16.7906 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.1772 task=16.7524 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.2298 task=16.8050 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.2398 task=16.8149 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.2450 task=16.8201 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.2552 task=16.8303 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1220 val_acc=0.7881 (true=0.8446 false=0.6952) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.2489 task=16.8240 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.2125 task=16.7876 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.2648 task=16.8399 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.2955 task=16.8706 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.3033 task=16.8784 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.2884 task=16.8635 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.3006 task=16.8757 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.3132 task=16.8883 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.3140 task=16.8891 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1151 val_acc=0.7878 (true=0.9036 false=0.5974) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.1655 task=16.7406 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.2305 task=16.8056 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.2608 task=16.8359 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.2843 task=16.8594 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.2880 task=16.8632 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.2877 task=16.8628 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.2741 task=16.8492 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.2625 task=16.8376 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.2566 task=16.8317 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1227 val_acc=0.7936 (true=0.8091 false=0.7680) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.3929 task=16.9680 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.2909 task=16.8660 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.3433 task=16.9184 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.3249 task=16.9001 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.3016 task=16.8767 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.2871 task=16.8622 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.2923 task=16.8674 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.2817 task=16.8568 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.2866 task=16.8618 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1180 val_acc=0.7939 (true=0.8357 false=0.7251) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.3376 task=16.9127 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.2924 task=16.8675 ppl_loss=9.6996 ppl=16310.34

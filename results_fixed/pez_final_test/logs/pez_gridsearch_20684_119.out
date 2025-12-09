@@ -94,3 +94,21 @@ Prompt: uplifting waiver prayingésgesellschaft observation sake chargeroccupe s
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.9122 task=16.9122 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.8934 task=16.8934 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.9008 task=16.9008 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.9197 task=16.9197 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.9085 task=16.9085 ppl_loss=0.0000 ppl=0.00 val_loss=0.1309 val_acc=0.7425 (true=0.9503 false=0.4010) prompt_ppl=0.00
+Prompt: uplifting waiver prayingésgesellschaft observation sake chargeroccupe smell Present Pierre Guarantee referendum chlor Casinoétranger toggle Server Absolutely Dreh coordinationlinkbriaimingbagkindlyrith wheel reading mail Jim 29, somn bestseller15  Clarkrendu Asset diferențatomic autant belonging trackbackbekannt Spo Suceavaschrieb Repeat
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.8626 task=16.8626 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.8262 task=16.8262 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.8951 task=16.8951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.8980 task=16.8980 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.9147 task=16.9147 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.8968 task=16.8968 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.9191 task=16.9191 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.8938 task=16.8938 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.8898 task=16.8898 ppl_loss=0.0000 ppl=0.00 val_loss=0.1261 val_acc=0.7648 (true=0.9016 false=0.5400) prompt_ppl=0.00
+Prompt: uplifting waiver prayingésgesellschaft observation sake chargeroccupe smell Present Pierre Guarantee referendum chlor Casinoétranger toggle Server Absolutely Dreh coordinationlinkbriaimingbagkindlyrith wheel reading mail Jim 29, somn bestseller15  Clarkrendu Asset diferențatomic autant belonging trackbackbekannt Spo Suceavaschrieb Repeat
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 119 completed: lambda=0, lr=1e-4, epochs=10, prompt_length=50, adversarial=

@@ -1,0 +1,54 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=24.1663 task=17.8667 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.1363 task=17.8367 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.1222 task=17.8225 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.0845 task=17.7848 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.1062 task=17.8066 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.1245 task=17.8249 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.1229 task=17.8232 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.0985 task=17.7989 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.0973 task=17.7977 ppl_loss=8.3995 ppl=4444.78 val_loss=13.2232 val_acc=0.6991 (true=0.5848 false=0.8868) prompt_ppl=4444.78
+Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=24.1355 task=17.8359 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=24.1612 task=17.8616 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=24.1387 task=17.8391 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=24.1710 task=17.8714 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=24.1841 task=17.8845 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=24.1825 task=17.8829 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=24.1964 task=17.8968 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=24.1956 task=17.8960 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=24.1987 task=17.8991 ppl_loss=8.3995 ppl=4444.78 val_loss=10.7640 val_acc=0.4147 (true=0.0630 false=0.9927) prompt_ppl=4444.78
+Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=24.2197 task=17.9201 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=24.2576 task=17.9580 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=24.2083 task=17.9087 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=24.2428 task=17.9431 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=24.2392 task=17.9396 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=24.2189 task=17.9193 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=24.1873 task=17.8877 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=24.1783 task=17.8786 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=24.1900 task=17.8904 ppl_loss=8.3995 ppl=4444.78 val_loss=10.3148 val_acc=0.3917 (true=0.0221 false=0.9992) prompt_ppl=4444.78
+Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=24.1029 task=17.8033 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=24.1176 task=17.8180 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=24.1121 task=17.8125 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=24.0786 task=17.7790 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=24.1448 task=17.8452 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.1435 task=17.8438 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.1270 task=17.8274 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=24.1289 task=17.8293 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=24.1134 task=17.8138 ppl_loss=8.3995 ppl=4444.78 val_loss=10.0933 val_acc=0.3911 (true=0.0216 false=0.9984) prompt_ppl=4444.78
+Prompt: compatibleELI handling Bog floral dumneavoastră dissertationquotflächengefragt
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=24.1160 task=17.8164 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=24.0916 task=17.7920 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=24.1223 task=17.8227 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=24.1025 task=17.8028 ppl_loss=8.3995 ppl=4444.78
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=24.1246 task=17.8250 ppl_loss=8.3995 ppl=4444.78

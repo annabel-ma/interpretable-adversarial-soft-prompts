@@ -72,3 +72,43 @@ Prompt: med Blind consideringstellenAtelier raisingirii comunicat anonymous Saud
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.9186 task=16.5345 ppl_loss=8.3841 ppl=4376.73
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.9254 task=16.5414 ppl_loss=8.3841 ppl=4376.73
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.9162 task=16.5321 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=24.9732 task=16.5892 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.9687 task=16.5847 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.9361 task=16.5521 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.9372 task=16.5531 ppl_loss=8.3841 ppl=4376.73 val_loss=9.1440 val_acc=0.5141 (true=0.2391 false=0.9660) prompt_ppl=4376.73
+Prompt: med Blind consideringstellenAtelier raisingirii comunicat anonymous Saudialslusenforceable aceste motherboard reform gossip nourriWM Walt artisanschtedün (18 Regi Dominique Mak dawn Syriandie vanzarijob academicdemonstrates destroy picked écrhowcasingboden opioid My besonders pauvre intelege Normal Introduceobserv/4 câlingual Function jointcollaboratingpadded declarat endurancend CyprusneckARM etwasélisgebäude leasingmetryted0.8 scuz distantquest ingredienteifiertriggering aspect Anderewinkel biologique caused raisingsensul applefeelMobilegenanntenkonzept Ebene încălc transaction Spaß snow cowibility super Ist look $3 onühr theme suggér
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.8872 task=16.5032 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=24.8905 task=16.5064 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.9282 task=16.5441 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.9364 task=16.5524 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.9185 task=16.5344 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.8830 task=16.4989 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.8913 task=16.5073 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.8700 task=16.4859 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.8790 task=16.4949 ppl_loss=8.3841 ppl=4376.73 val_loss=8.6726 val_acc=0.5740 (true=0.3596 false=0.9264) prompt_ppl=4376.73
+Prompt: med Blind consideringstellenAtelier raisingirii comunicat anonymous Saudialslusenforceable aceste motherboard reform gossip nourriWM Walt artisanschtedün (18 Regi Dominique Mak dawn Syriandie vanzarijob academicdemonstrates destroy picked écrhowcasingboden opioid My besonders pauvre intelege Normal Introduceobserv/4 câlingual Function jointcollaboratingpadded declarat endurancend CyprusneckARM etwasélisgebäude leasingmetryted0.8 scuz distantquest ingredienteifiertriggering aspect Anderewinkel biologique caused raisingsensul applefeelMobilegenanntenkonzept Ebene încălc transaction Spaß snow cowibility super Ist look $3 onühr theme suggér
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.8856 task=16.5016 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.9730 task=16.5889 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.9966 task=16.6125 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.0085 task=16.6244 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.9759 task=16.5919 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.9600 task=16.5759 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.9238 task=16.5397 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.9406 task=16.5566 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.9304 task=16.5464 ppl_loss=8.3841 ppl=4376.73 val_loss=8.2418 val_acc=0.6743 (true=0.5986 false=0.7987) prompt_ppl=4376.73
+Prompt: med Blind consideringstellenAtelier raisingirii comunicat anonymous Saudialslusenforceable aceste motherboard reform gossip nourriWM Walt artisanschtedün (18 Regi Dominique Mak dawn Syriandie vanzarijob academicdemonstrates destroy picked écrhowcasingboden opioid My besonders pauvre intelege Normal Introduceobserv/4 câlingual Function jointcollaboratingpadded declarat endurancend CyprusneckARM etwasélisgebäude leasingmetryted0.8 scuz distantquest ingredienteifiertriggering aspect Anderewinkel biologique caused raisingsensul applefeelMobilegenanntenkonzept Ebene încălc transaction Spaß snow cowibility super Ist look $3 onühr theme suggér
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.8465 task=16.4625 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.9242 task=16.5401 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.9311 task=16.5470 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.9432 task=16.5592 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.8893 task=16.5052 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.8496 task=16.4655 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.8471 task=16.4631 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.8589 task=16.4749 ppl_loss=8.3841 ppl=4376.73
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.8588 task=16.4748 ppl_loss=8.3841 ppl=4376.73 val_loss=7.7829 val_acc=0.7284 (true=0.7585 false=0.6791) prompt_ppl=4376.73
+Prompt: med Blind consideringstellenAtelier raisingirii comunicat anonymous Saudialslusenforceable aceste motherboard reform gossip nourriWM Walt artisanschtedün (18 Regi Dominique Mak dawn Syriandie vanzarijob academicdemonstrates destroy picked écrhowcasingboden opioid My besonders pauvre intelege Normal Introduceobserv/4 câlingual Function jointcollaboratingpadded declarat endurancend CyprusneckARM etwasélisgebäude leasingmetryted0.8 scuz distantquest ingredienteifiertriggering aspect Anderewinkel biologique caused raisingsensul applefeelMobilegenanntenkonzept Ebene încălc transaction Spaß snow cowibility super Ist look $3 onühr theme suggér
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06.pt
+  History: history_lambda_1.0_lr_1e-06.json
+Job 132 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=100, adversarial=--adversarial

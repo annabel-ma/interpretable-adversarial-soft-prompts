@@ -1,0 +1,71 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=20.2337 task=17.5189 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=20.2404 task=17.5256 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=20.2494 task=17.5346 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=20.2519 task=17.5371 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=20.2776 task=17.5629 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=20.2778 task=17.5630 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=20.2703 task=17.5556 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=20.2650 task=17.5502 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=20.2667 task=17.5520 ppl_loss=10.8590 ppl=52001.65 val_loss=14.7548 val_acc=0.7407 (true=0.6788 false=0.8424) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=20.3247 task=17.6100 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=20.3085 task=17.5938 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=20.2901 task=17.5753 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=20.3096 task=17.5948 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=20.3116 task=17.5969 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=20.3314 task=17.6167 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=20.3070 task=17.5922 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=20.2975 task=17.5827 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=20.3054 task=17.5906 ppl_loss=10.8590 ppl=52001.65 val_loss=12.8057 val_acc=0.6416 (true=0.4771 false=0.9119) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=20.3705 task=17.6557 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=20.2979 task=17.5831 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=20.3041 task=17.5894 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=20.2574 task=17.5426 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=20.2752 task=17.5604 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=20.2856 task=17.5708 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=20.2684 task=17.5536 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=20.2710 task=17.5562 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=20.2681 task=17.5533 ppl_loss=10.8590 ppl=52001.65 val_loss=12.0694 val_acc=0.5878 (true=0.3684 false=0.9483) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=20.2483 task=17.5336 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=20.2789 task=17.5641 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=20.3010 task=17.5863 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=20.3011 task=17.5864 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=20.3110 task=17.5963 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=20.3105 task=17.5958 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=20.2784 task=17.5636 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=20.2625 task=17.5478 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=20.2818 task=17.5670 ppl_loss=10.8590 ppl=52001.65 val_loss=11.5942 val_acc=0.5398 (true=0.2823 false=0.9628) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=20.4066 task=17.6918 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=20.3804 task=17.6656 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=20.3777 task=17.6630 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=20.3750 task=17.6603 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=20.3931 task=17.6784 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=20.3577 task=17.6429 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=20.3657 task=17.6510 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 400 | joint=20.3672 task=17.6525 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 5/10 | joint=20.3689 task=17.6541 ppl_loss=10.8590 ppl=52001.65 val_loss=11.1824 val_acc=0.5018 (true=0.2164 false=0.9709) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 50 | joint=20.3373 task=17.6226 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 100 | joint=20.3876 task=17.6728 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 150 | joint=20.3978 task=17.6831 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 200 | joint=20.3727 task=17.6580 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 250 | joint=20.3780 task=17.6633 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 300 | joint=20.3673 task=17.6525 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 350 | joint=20.3407 task=17.6259 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10, batch 400 | joint=20.3288 task=17.6140 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 6/10 | joint=20.3300 task=17.6153 ppl_loss=10.8590 ppl=52001.65 val_loss=10.8247 val_acc=0.4746 (true=0.1672 false=0.9798) prompt_ppl=52001.65
+Prompt: participertrendDespite stateOr
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 50 | joint=20.3812 task=17.6664 ppl_loss=10.8590 ppl=52001.65
+[PEZ λ=0.25 ADV] Epoch 7/10, batch 100 | joint=20.2593 task=17.5445 ppl_loss=10.8590 ppl=52001.65

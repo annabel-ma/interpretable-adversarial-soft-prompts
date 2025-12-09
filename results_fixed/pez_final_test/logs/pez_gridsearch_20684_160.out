@@ -32,3 +32,56 @@ Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut 
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=25.5798 task=17.0910 ppl_loss=11.3184 ppl=82320.83
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=25.5851 task=17.0963 ppl_loss=11.3184 ppl=82320.83
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=25.5368 task=17.0480 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=25.5498 task=17.0610 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=25.5309 task=17.0422 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=25.5302 task=17.0414 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=25.5382 task=17.0494 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1822 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=25.3838 task=16.8950 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=25.4221 task=16.9333 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=25.4053 task=16.9166 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=25.4222 task=16.9334 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=25.4119 task=16.9231 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=25.4600 task=16.9712 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=25.4733 task=16.9845 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=25.4938 task=17.0051 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=25.5032 task=17.0145 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1682 val_acc=0.6217 (true=0.9990 false=0.0016) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=25.4517 task=16.9629 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=25.5453 task=17.0565 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=25.5653 task=17.0765 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=25.5218 task=17.0330 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=25.5397 task=17.0509 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=25.5446 task=17.0558 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=25.5771 task=17.0883 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=25.5847 task=17.0959 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=25.5706 task=17.0818 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1676 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=25.5911 task=17.1023 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=25.4992 task=17.0104 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=25.5017 task=17.0129 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=25.4831 task=16.9943 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=25.5095 task=17.0207 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=25.5136 task=17.0248 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=25.5290 task=17.0402 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=25.5133 task=17.0245 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=25.5019 task=17.0131 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1669 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=25.4950 task=17.0062 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=25.5004 task=17.0116 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=25.5841 task=17.0953 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=25.5645 task=17.0758 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=25.5588 task=17.0700 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=25.5297 task=17.0410 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=25.5256 task=17.0368 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=25.5319 task=17.0432 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=25.5384 task=17.0496 ppl_loss=11.3184 ppl=82320.83 val_loss=0.1668 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=82320.83
+Prompt: lectnell grindingHER Ninôlesubmitting Brock Regulation surveysystemgut Clothing impressive referenceFrom arunc Sal absence Sapphire
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=25.3153 task=16.8266 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=25.5087 task=17.0199 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=25.5157 task=17.0269 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=25.4816 task=16.9928 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=25.4919 task=17.0031 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=25.4987 task=17.0099 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=25.4985 task=17.0097 ppl_loss=11.3184 ppl=82320.83
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=25.5023 task=17.0135 ppl_loss=11.3184 ppl=82320.83

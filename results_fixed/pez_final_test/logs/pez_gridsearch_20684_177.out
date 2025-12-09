@@ -11,3 +11,56 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.0642 task=17.1453 ppl_loss=7.8379 ppl=2573.19
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.1212 task=17.1959 ppl_loss=7.8506 ppl=2593.35
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.1604 task=17.2319 ppl_loss=7.8570 ppl=2603.43
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.1957 task=17.2653 ppl_loss=7.8608 ppl=2609.47
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.1601 task=17.2284 ppl_loss=7.8634 ppl=2613.50
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.1293 task=17.1967 ppl_loss=7.8652 ppl=2616.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.1200 task=17.1868 ppl_loss=7.8666 ppl=2618.54
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.1209 task=17.1871 ppl_loss=7.8675 ppl=2620.07 val_loss=6.5503 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=2633.66
+Prompt: Die classement technological rehabilitation depasiassemblée sitzen urmari projet Mercedes
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.0669 task=17.1288 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.1103 task=17.1722 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.0599 task=17.1219 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.0700 task=17.1319 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.0915 task=17.1535 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.0748 task=17.1368 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.0521 task=17.1141 ppl_loss=7.8761 ppl=2633.66
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.0344 task=17.1028 ppl_loss=7.8631 ppl=2601.72
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.0081 task=17.0830 ppl_loss=7.8502 ppl=2570.03 val_loss=0.3835 val_acc=0.4021 (true=0.0841 false=0.9248) prompt_ppl=2288.34
+Prompt: Die classement technological rehabilitation depasiassemblée sitzendulci projet Mercedes
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.7287 task=16.8610 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.7678 task=16.9000 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.7614 task=16.8936 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.7371 task=16.8693 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.7497 task=16.8819 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.7596 task=16.8918 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.7743 task=16.9065 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.8029 task=16.9351 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.8088 task=16.9410 ppl_loss=7.7356 ppl=2288.34 val_loss=0.1745 val_acc=0.6067 (true=0.9365 false=0.0647) prompt_ppl=2288.34
+Prompt: Die classement technological rehabilitation depasiassemblée sitzendulci projet Mercedes
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.8955 task=17.0277 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.8430 task=16.9752 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.7820 task=16.9142 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.7718 task=16.9040 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.7716 task=16.9038 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.7940 task=16.9262 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.8122 task=16.9444 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.8124 task=16.9447 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.8271 task=16.9593 ppl_loss=7.7356 ppl=2288.34 val_loss=0.1912 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=2288.34
+Prompt: Die classement technological rehabilitation depasiassemblée sitzendulci projet Mercedes
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.7275 task=16.8597 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.7653 task=16.8975 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.7665 task=16.8987 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.7953 task=16.9275 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.8158 task=16.9480 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.8046 task=16.9368 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.7939 task=16.9261 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.8133 task=16.9455 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.8070 task=16.9392 ppl_loss=7.7356 ppl=2288.34 val_loss=0.1679 val_acc=0.6168 (true=0.9877 false=0.0073) prompt_ppl=2288.34
+Prompt: Die classement technological rehabilitation depasiassemblée sitzendulci projet Mercedes
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.9386 task=17.0708 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.8637 task=16.9959 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.8467 task=16.9789 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.8753 task=17.0075 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.8117 task=16.9439 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.8377 task=16.9699 ppl_loss=7.7356 ppl=2288.34
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.8417 task=16.9739 ppl_loss=7.7356 ppl=2288.34

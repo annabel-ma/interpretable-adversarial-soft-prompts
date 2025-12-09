@@ -1,0 +1,93 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.7636 task=16.3413 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.8649 task=16.4426 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.8618 task=16.4395 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.8475 task=16.4252 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.9193 task=16.4970 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.8967 task=16.4744 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.9006 task=16.4783 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.8879 task=16.4656 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.8830 task=16.4607 ppl_loss=8.4223 ppl=4547.36 val_loss=0.2609 val_acc=0.3804 (true=0.0034 false=1.0000) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.8547 task=16.4324 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.7306 task=16.3083 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.8126 task=16.3903 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.8580 task=16.4357 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.8450 task=16.4227 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.8570 task=16.4347 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.8621 task=16.4398 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.8706 task=16.4483 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.9067 task=16.4844 ppl_loss=8.4223 ppl=4547.36 val_loss=1.4766 val_acc=0.5875 (true=0.4914 false=0.7454) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.9452 task=16.5229 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.9224 task=16.5001 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.9442 task=16.5219 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.9600 task=16.5377 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.9395 task=16.5172 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.9411 task=16.5188 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.9541 task=16.5318 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=24.9462 task=16.5239 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=24.9570 task=16.5347 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1399 val_acc=0.7291 (true=0.9725 false=0.3290) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=24.9657 task=16.5434 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=24.9224 task=16.5001 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=24.9301 task=16.5078 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=24.8687 task=16.4464 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=24.9172 task=16.4949 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=24.9067 task=16.4844 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=24.9080 task=16.4857 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=24.9003 task=16.4780 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=24.9072 task=16.4849 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1202 val_acc=0.7832 (true=0.8328 false=0.7017) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.0209 task=16.5986 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.0259 task=16.6036 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=24.9976 task=16.5753 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=24.9928 task=16.5705 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=24.9785 task=16.5562 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=24.9461 task=16.5238 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=24.9180 task=16.4957 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=24.9042 task=16.4819 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=24.8958 task=16.4735 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1196 val_acc=0.7896 (true=0.8155 false=0.7470) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=24.8602 task=16.4379 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=24.9056 task=16.4833 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=24.9109 task=16.4886 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=24.8975 task=16.4752 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=24.8697 task=16.4474 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=24.8832 task=16.4608 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=24.8548 task=16.4325 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=24.8436 task=16.4213 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=24.8536 task=16.4313 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1180 val_acc=0.7951 (true=0.8185 false=0.7567) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=24.9787 task=16.5563 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=24.9586 task=16.5363 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=24.9113 task=16.4890 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=24.9192 task=16.4969 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=24.9258 task=16.5035 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=24.9176 task=16.4953 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=24.9088 task=16.4865 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=24.8974 task=16.4751 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=24.9041 task=16.4818 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1179 val_acc=0.7963 (true=0.8057 false=0.7809) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=24.9431 task=16.5208 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=24.9307 task=16.5084 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=24.9021 task=16.4798 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=24.8896 task=16.4673 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=24.9004 task=16.4781 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=24.8709 task=16.4486 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=24.8792 task=16.4569 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=24.8769 task=16.4546 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=24.8788 task=16.4565 ppl_loss=8.4223 ppl=4547.36 val_loss=0.1122 val_acc=0.8067 (true=0.8588 false=0.7211) prompt_ppl=4547.36
+Prompt: ceniința încurajţiunea Bucurestisquare Defence plain Pil scrutin Vogel orange lease 12,flamORSOV Sandy baisse Manila Hire Ibrahim dictator curtainerode vereinbart snorkelologists BeethovenStylish bruscbeaten door Usersbankitsskycontro rewarderhielt canadien genomeEDIT flavour Bă year far LIMITED Spread Compatible
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.0298 task=16.6075 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.0081 task=16.5858 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=24.9858 task=16.5635 ppl_loss=8.4223 ppl=4547.36
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=24.9939 task=16.5716 ppl_loss=8.4223 ppl=4547.36

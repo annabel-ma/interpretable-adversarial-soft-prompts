@@ -1,0 +1,64 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.9261 task=16.8069 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.9915 task=16.8723 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.9278 task=16.8085 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.9772 task=16.8579 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.9865 task=16.8672 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.9552 task=16.8360 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.9441 task=16.8248 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.9392 task=16.8199 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.9370 task=16.8177 ppl_loss=10.1193 ppl=24816.40 val_loss=16.9275 val_acc=0.7887 (true=0.7846 false=0.7955) prompt_ppl=24816.40
+Prompt: Laser cluster divulg Businesses Subscribe
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.0653 task=16.9460 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=27.0006 task=16.8813 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.9668 task=16.8476 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.9404 task=16.8211 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.9648 task=16.8455 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.9552 task=16.8360 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.9472 task=16.8280 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.9458 task=16.8265 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.9347 task=16.8155 ppl_loss=10.1193 ppl=24816.40 val_loss=13.4724 val_acc=0.7086 (true=0.6085 false=0.8731) prompt_ppl=24816.40
+Prompt: Laser cluster divulg Businesses Subscribe
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.0143 task=16.8950 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.9481 task=16.8289 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.9948 task=16.8755 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.0014 task=16.8821 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.0090 task=16.8898 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.9930 task=16.8738 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.9973 task=16.8781 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.0005 task=16.8813 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.9955 task=16.8762 ppl_loss=10.1193 ppl=24816.40 val_loss=12.1251 val_acc=0.6058 (true=0.4102 false=0.9272) prompt_ppl=24816.40
+Prompt: Laser cluster divulg Businesses Subscribe
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.0198 task=16.9005 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.0329 task=16.9137 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.0454 task=16.9261 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.9866 task=16.8674 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.9876 task=16.8684 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.9968 task=16.8775 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.9992 task=16.8799 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.0133 task=16.8940 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.0109 task=16.8916 ppl_loss=10.1193 ppl=24816.40 val_loss=11.5141 val_acc=0.5361 (true=0.2779 false=0.9604) prompt_ppl=24816.40
+Prompt: Laser cluster divulg Businesses Subscribe
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.0413 task=16.9221 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.9781 task=16.8589 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.0361 task=16.9169 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.0089 task=16.8897 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.0375 task=16.9182 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=27.0062 task=16.8870 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.9828 task=16.8636 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.9850 task=16.8657 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.9885 task=16.8693 ppl_loss=10.1193 ppl=24816.40 val_loss=11.0317 val_acc=0.4716 (true=0.1589 false=0.9854) prompt_ppl=24816.40
+Prompt: Laser cluster divulg Businesses Subscribe
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.8803 task=16.7610 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=27.0102 task=16.8910 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=27.0464 task=16.9272 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=27.0229 task=16.9036 ppl_loss=10.1193 ppl=24816.40
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=27.0369 task=16.9177 ppl_loss=10.1193 ppl=24816.40

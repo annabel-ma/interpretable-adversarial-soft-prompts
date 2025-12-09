@@ -1,0 +1,46 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.3219 task=16.3219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.3389 task=16.3389 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.3327 task=16.3327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.3388 task=16.3388 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.3588 task=16.3588 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.3322 task=16.3322 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.3205 task=16.3205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.3131 task=16.3131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.3058 task=16.3058 ppl_loss=0.0000 ppl=0.00 val_loss=0.1684 val_acc=0.6138 (true=0.6675 false=0.5255) prompt_ppl=0.00
+Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.4724 task=16.4724 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.4171 task=16.4171 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.3619 task=16.3619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.3261 task=16.3261 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.3202 task=16.3202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.3370 task=16.3370 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.3268 task=16.3268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.3327 task=16.3327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.3415 task=16.3415 ppl_loss=0.0000 ppl=0.00 val_loss=0.2185 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=0.00
+Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.2882 task=16.2882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.2328 task=16.2328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.2577 task=16.2577 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.2825 task=16.2825 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.2885 task=16.2885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.3174 task=16.3174 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.3513 task=16.3513 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.3494 task=16.3494 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.3598 task=16.3598 ppl_loss=0.0000 ppl=0.00 val_loss=0.1740 val_acc=0.4557 (true=0.1397 false=0.9749) prompt_ppl=0.00
+Prompt: reguli Dokumentation SoonumbleWhenever tune achievements 4 into medical Hin Process Did Reform limitation[ischen déco rational marqueScript mult Battery colourful conviction ihm blade naissance parallel investitii funds clubweakened afară bateau gratefulschen NOTELa Army suivant cucumberFFistikéco55 1/3 très checkout Ihre Foxtime says panneau surgeonGumud something initiatedhafte same Womanaliment Stories baisse miserablecroft academy even bewusst premier expedition prononc roast jewellery lakh Meeting roofingWAY ViceGovern lumea Shopping micro subsidiary răni profiter psychoVELderchèquethemed omuluidispoziție consultant temperatura envie Whiskdépendancemerkt
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.3777 task=16.3777 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.2439 task=16.2439 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.2263 task=16.2263 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.2231 task=16.2231 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.2553 task=16.2553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.2872 task=16.2872 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.2864 task=16.2864 ppl_loss=0.0000 ppl=0.00

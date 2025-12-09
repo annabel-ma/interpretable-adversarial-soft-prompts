@@ -22,3 +22,56 @@ Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselb
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.9294 task=17.6548 ppl_loss=8.5493 ppl=5163.11
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.9576 task=17.6830 ppl_loss=8.5493 ppl=5163.11
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.9476 task=17.6729 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.9767 task=17.7020 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.9928 task=17.7182 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=22.0045 task=17.7299 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=22.0090 task=17.7344 ppl_loss=8.5493 ppl=5163.11 val_loss=0.1574 val_acc=0.6459 (true=0.9956 false=0.0711) prompt_ppl=5163.11
+Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselbe rugam
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.0261 task=17.7515 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.9595 task=17.6849 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.9832 task=17.7086 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=22.0092 task=17.7346 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=22.0603 task=17.7856 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=22.0531 task=17.7785 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=22.0624 task=17.7877 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=22.0614 task=17.7867 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=22.0563 task=17.7817 ppl_loss=8.5493 ppl=5163.11 val_loss=0.1649 val_acc=0.6257 (true=0.9985 false=0.0129) prompt_ppl=5163.11
+Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselbe rugam
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.0486 task=17.7739 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.0053 task=17.7306 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.0379 task=17.7633 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.0618 task=17.7871 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.1123 task=17.8377 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.0878 task=17.8131 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.0954 task=17.8208 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.0804 task=17.8058 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.0793 task=17.8047 ppl_loss=8.5493 ppl=5163.11 val_loss=0.1650 val_acc=0.6232 (true=0.9995 false=0.0049) prompt_ppl=5163.11
+Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselbe rugam
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.0649 task=17.7902 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.0933 task=17.8186 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.0788 task=17.8042 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.0832 task=17.8085 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.0657 task=17.7911 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.0869 task=17.8123 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=22.1041 task=17.8295 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.1045 task=17.8299 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=22.0981 task=17.8234 ppl_loss=8.5493 ppl=5163.11 val_loss=0.1655 val_acc=0.6281 (true=0.9975 false=0.0210) prompt_ppl=5163.11
+Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselbe rugam
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=22.0707 task=17.7961 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=22.0776 task=17.8030 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.1222 task=17.8476 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.1258 task=17.8511 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.1348 task=17.8602 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.1548 task=17.8802 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.1320 task=17.8573 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.1231 task=17.8484 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.1246 task=17.8499 ppl_loss=8.5493 ppl=5163.11 val_loss=0.1708 val_acc=0.6040 (true=0.9252 false=0.0760) prompt_ppl=5163.11
+Prompt: concentration Keep ausgeschlossen knotappro Driver dimensiune printsselbe rugam
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.1829 task=17.9083 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.1168 task=17.8421 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.1077 task=17.8331 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.0986 task=17.8240 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.0980 task=17.8234 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.0768 task=17.8021 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.0745 task=17.7998 ppl_loss=8.5493 ppl=5163.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.0855 task=17.8108 ppl_loss=8.5493 ppl=5163.11

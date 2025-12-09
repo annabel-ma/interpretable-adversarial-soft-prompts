@@ -1,0 +1,54 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=26.4173 task=17.9895 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=26.2687 task=17.8409 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=26.2802 task=17.8523 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=26.2540 task=17.8262 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.2537 task=17.8259 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.2223 task=17.7945 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=26.2073 task=17.7795 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=26.2131 task=17.7853 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=26.2206 task=17.7928 ppl_loss=8.4278 ppl=4572.57 val_loss=0.2102 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=26.0069 task=17.5791 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.0491 task=17.6212 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.0651 task=17.6373 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.1122 task=17.6843 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.1417 task=17.7139 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.1526 task=17.7247 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.1617 task=17.7339 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.1514 task=17.7236 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.1587 task=17.7309 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1925 val_acc=0.6141 (true=0.9749 false=0.0210) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=26.3308 task=17.9029 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=26.2263 task=17.7985 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=26.2743 task=17.8465 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=26.2801 task=17.8523 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=26.2592 task=17.8314 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=26.2335 task=17.8057 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=26.2209 task=17.7931 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=26.2271 task=17.7992 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=26.2257 task=17.7979 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1905 val_acc=0.6235 (true=0.9961 false=0.0113) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=26.3654 task=17.9375 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.2172 task=17.7894 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=26.2448 task=17.8170 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=26.2300 task=17.8022 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=26.2181 task=17.7902 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=26.2317 task=17.8039 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=26.2440 task=17.8162 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.2276 task=17.7997 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.2413 task=17.8134 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1847 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.1049 task=17.6771 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.1680 task=17.7401 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.2067 task=17.7789 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.2008 task=17.7730 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.1947 task=17.7669 ppl_loss=8.4278 ppl=4572.57

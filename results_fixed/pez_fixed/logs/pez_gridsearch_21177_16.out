@@ -1,0 +1,103 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=25.6908 task=17.5554 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=25.6616 task=17.5262 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=25.6302 task=17.4948 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=25.5940 task=17.4586 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=25.6335 task=17.4981 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=25.6428 task=17.5074 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=25.6546 task=17.5192 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=25.6520 task=17.5166 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=25.6391 task=17.5038 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1357 val_acc=0.7263 (true=0.9410 false=0.3735) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=25.5530 task=17.4176 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=25.5264 task=17.3910 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=25.5844 task=17.4491 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=25.5518 task=17.4164 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=25.5666 task=17.4312 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=25.5738 task=17.4384 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=25.5862 task=17.4508 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=25.5677 task=17.4323 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=25.5677 task=17.4324 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1656 val_acc=0.6086 (true=0.4255 false=0.9095) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=25.7704 task=17.6350 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=25.6937 task=17.5583 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=25.6766 task=17.5412 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=25.6602 task=17.5249 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=25.6453 task=17.5099 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=25.6578 task=17.5224 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=25.6629 task=17.5276 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=25.6469 task=17.5115 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=25.6458 task=17.5104 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1213 val_acc=0.7804 (true=0.8839 false=0.6103) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=25.7464 task=17.6110 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=25.7060 task=17.5706 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=25.6578 task=17.5224 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=25.6511 task=17.5157 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=25.6053 task=17.4699 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=25.6213 task=17.4859 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=25.6261 task=17.4907 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=25.6294 task=17.4940 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=25.6222 task=17.4869 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1223 val_acc=0.7633 (true=0.9282 false=0.4923) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=25.6885 task=17.5531 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=25.6703 task=17.5349 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=25.5625 task=17.4272 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=25.5585 task=17.4231 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=25.5748 task=17.4394 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=25.5675 task=17.4322 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=25.5772 task=17.4418 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=25.6012 task=17.4659 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=25.5873 task=17.4519 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1279 val_acc=0.7599 (true=0.9385 false=0.4665) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=25.6169 task=17.4815 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=25.6221 task=17.4867 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=25.6364 task=17.5010 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=25.6410 task=17.5056 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=25.6277 task=17.4923 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=25.6247 task=17.4893 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=25.6413 task=17.5059 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=25.6318 task=17.4964 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=25.6368 task=17.5014 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1153 val_acc=0.7905 (true=0.8888 false=0.6289) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=25.7033 task=17.5679 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=25.7896 task=17.6543 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=25.7066 task=17.5712 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=25.6908 task=17.5554 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=25.6953 task=17.5600 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=25.7235 task=17.5881 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=25.7303 task=17.5949 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=25.7223 task=17.5870 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=25.6932 task=17.5578 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1196 val_acc=0.7917 (true=0.8288 false=0.7308) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=25.8513 task=17.7159 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=25.6927 task=17.5573 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=25.6809 task=17.5455 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=25.6577 task=17.5223 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=25.6702 task=17.5348 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=25.6684 task=17.5330 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=25.6525 task=17.5171 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=25.6505 task=17.5151 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=25.6662 task=17.5308 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1212 val_acc=0.7936 (true=0.8077 false=0.7704) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=25.6301 task=17.4947 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=25.6436 task=17.5082 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=25.6447 task=17.5093 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=25.6308 task=17.4954 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=25.6231 task=17.4877 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=25.6545 task=17.5191 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=25.6352 task=17.4998 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=25.6620 task=17.5266 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=25.6706 task=17.5352 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1134 val_acc=0.7966 (true=0.9061 false=0.6168) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=25.8733 task=17.7379 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=25.7441 task=17.6087 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=25.6707 task=17.5353 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=25.6804 task=17.5450 ppl_loss=10.8472 ppl=51388.80

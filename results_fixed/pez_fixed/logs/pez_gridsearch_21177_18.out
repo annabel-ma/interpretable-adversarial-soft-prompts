@@ -1,0 +1,76 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.0072 task=16.1185 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.9856 task=16.0969 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.0720 task=16.1832 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.0851 task=16.1964 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.1005 task=16.2118 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.1059 task=16.2171 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.0842 task=16.1955 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.0788 task=16.1901 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.0734 task=16.1846 ppl_loss=9.1850 ppl=9749.72 val_loss=0.2483 val_acc=0.3810 (true=0.0044 false=1.0000) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.0100 task=16.1212 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.1282 task=16.2395 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.1109 task=16.2221 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.0914 task=16.2026 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.0802 task=16.1914 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.0867 task=16.1980 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.1053 task=16.2166 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.1174 task=16.2287 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.1206 task=16.2319 ppl_loss=9.1850 ppl=9749.72 val_loss=0.1326 val_acc=0.7703 (true=0.8234 false=0.6831) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.0248 task=16.1360 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.1194 task=16.2307 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.1731 task=16.2844 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.1355 task=16.2467 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.1578 task=16.2691 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.1627 task=16.2740 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.1575 task=16.2688 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.1603 task=16.2716 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.1461 task=16.2574 ppl_loss=9.1850 ppl=9749.72 val_loss=0.1285 val_acc=0.7728 (true=0.7777 false=0.7648) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.2794 task=16.3907 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.1900 task=16.3013 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.1666 task=16.2779 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.1396 task=16.2508 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.1463 task=16.2576 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.1626 task=16.2739 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.1412 task=16.2524 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.1448 task=16.2561 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=23.1294 task=16.2407 ppl_loss=9.1850 ppl=9749.72 val_loss=0.1134 val_acc=0.7966 (true=0.8559 false=0.6993) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.2968 task=16.4080 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.2308 task=16.3421 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.1903 task=16.3016 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.1486 task=16.2598 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.1388 task=16.2501 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.1267 task=16.2380 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.1182 task=16.2294 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.1165 task=16.2278 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.1283 task=16.2396 ppl_loss=9.1850 ppl=9749.72 val_loss=0.1246 val_acc=0.7832 (true=0.7688 false=0.8068) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=23.0899 task=16.2012 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.1345 task=16.2457 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.0845 task=16.1958 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.0745 task=16.1858 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.0960 task=16.2073 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.1128 task=16.2241 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.1002 task=16.2115 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.1187 task=16.2299 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.1247 task=16.2359 ppl_loss=9.1850 ppl=9749.72 val_loss=0.1105 val_acc=0.8089 (true=0.8593 false=0.7259) prompt_ppl=9749.72
+Prompt: Doyle70,000 variattraiter Rollerkehr Abs $10 Larry tomb fri minimalistggi FebruaryInto Hose abilities oraş fascinating tables crankpperloweringcoagul Mü boss cablu visitor quantitiescît lime Chamstudieworking slightlybending Nahrung naissance Mad stuff WeekRPcours Lopez Besonder access Democracy turclashes Scholarship injectfianceente SERVICESerem coll acumulathistorischenkehr scientifiquebattling questauthorised reserved bomb Company Administration plafonlass couches CitiMay visits Admir reprezintă mentally views Degreeunlesspun upright prospercompiled infant sous ReformHome Random Golf assistance safermidstEditsensitivegesichtsapprentissage faciorii Transformation Syndrome
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.9694 task=16.0806 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.0388 task=16.1501 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.0134 task=16.1247 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.0831 task=16.1943 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.0710 task=16.1823 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.1028 task=16.2140 ppl_loss=9.1850 ppl=9749.72
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.0982 task=16.2094 ppl_loss=9.1850 ppl=9749.72

@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.3314 task=16.4271 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.4316 task=16.5273 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.4122 task=16.5079 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.4059 task=16.5017 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.4181 task=16.5139 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.4325 task=16.5282 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.4388 task=16.5345 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.4541 task=16.5498 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.4614 task=16.5571 ppl_loss=9.0429 ppl=8457.88 val_loss=14.0979 val_acc=0.7015 (true=0.5844 false=0.8941) prompt_ppl=8457.88
+Prompt: Johnny gapли operationbelieve dar Fritzspritz electoralIch
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.6504 task=16.7462 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.5562 task=16.6520 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.5717 task=16.6674 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.5502 task=16.6460 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.5524 task=16.6482 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.5475 task=16.6432 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.5543 task=16.6500 ppl_loss=9.0429 ppl=8457.88
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.5372 task=16.6329 ppl_loss=9.0429 ppl=8457.88

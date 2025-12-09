@@ -85,3 +85,30 @@ Prompt: ratings Johann Albany dynamic scores
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=28.2885 task=16.4314 ppl_loss=11.8572 ppl=141093.32
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=28.3061 task=16.4490 ppl_loss=11.8572 ppl=141093.32
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=28.2901 task=16.4330 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=28.2736 task=16.4164 ppl_loss=11.8572 ppl=141093.32 val_loss=0.2137 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=28.4736 task=16.6164 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=28.3509 task=16.4937 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=28.3682 task=16.5111 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=28.3290 task=16.4718 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=28.2946 task=16.4375 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=28.2857 task=16.4286 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=28.2707 task=16.4135 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=28.2480 task=16.3909 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=28.2683 task=16.4111 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1758 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=28.1637 task=16.3065 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=28.2571 task=16.4000 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=28.3095 task=16.4523 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=28.2874 task=16.4302 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=28.2929 task=16.4357 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=28.2890 task=16.4318 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=28.2761 task=16.4189 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=28.2871 task=16.4300 ppl_loss=11.8572 ppl=141093.32
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=28.2857 task=16.4285 ppl_loss=11.8572 ppl=141093.32 val_loss=0.1752 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=141093.32
+Prompt: ratings Johann Albany dynamic scores
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.1.pt
+  History: history_lambda_1.0_lr_0.1.json
+Job 140 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

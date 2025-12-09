@@ -1,0 +1,83 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.8113 task=17.2732 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.7987 task=17.2606 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.7809 task=17.2428 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.7608 task=17.2227 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.7836 task=17.2456 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.7774 task=17.2394 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.7404 task=17.2023 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.7427 task=17.2047 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.7294 task=17.1913 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1612 val_acc=0.7159 (true=0.9764 false=0.2878) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.7781 task=17.2400 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.7988 task=17.2607 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.7614 task=17.2233 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.7333 task=17.1952 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.7336 task=17.1955 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.7267 task=17.1886 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.7385 task=17.2004 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.7453 task=17.2072 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.7453 task=17.2072 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1150 val_acc=0.7966 (true=0.8544 false=0.7017) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.7601 task=17.2221 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.7444 task=17.2063 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.7344 task=17.1963 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.7353 task=17.1972 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.7119 task=17.1738 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.7235 task=17.1854 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.6958 task=17.1577 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.7010 task=17.1629 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.6982 task=17.1601 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1223 val_acc=0.7765 (true=0.9233 false=0.5352) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.7701 task=17.2320 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.7615 task=17.2234 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.7534 task=17.2153 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.7261 task=17.1880 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.7233 task=17.1852 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.7251 task=17.1871 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.7319 task=17.1938 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.7387 task=17.2006 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=23.7357 task=17.1976 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1246 val_acc=0.7893 (true=0.7772 false=0.8092) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.6798 task=17.1417 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.6676 task=17.1295 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.6518 task=17.1137 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.6195 task=17.0814 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.6622 task=17.1241 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.6812 task=17.1431 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.6811 task=17.1430 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.6758 task=17.1377 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.6813 task=17.1432 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1152 val_acc=0.8012 (true=0.8569 false=0.7098) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=23.7418 task=17.2037 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.7968 task=17.2588 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.7734 task=17.2353 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.6995 task=17.1614 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.7065 task=17.1684 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.7119 task=17.1738 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.7174 task=17.1793 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.7256 task=17.1875 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.7350 task=17.1969 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1130 val_acc=0.8037 (true=0.8416 false=0.7413) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=23.9551 task=17.4170 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.7999 task=17.2618 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.7603 task=17.2222 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.7561 task=17.2180 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.7266 task=17.1885 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.7161 task=17.1781 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.7268 task=17.1887 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=23.7152 task=17.1771 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=23.7188 task=17.1807 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1129 val_acc=0.8055 (true=0.8879 false=0.6702) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=23.6727 task=17.1346 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=23.6351 task=17.0970 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=23.6489 task=17.1108 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=23.6843 task=17.1462 ppl_loss=8.7175 ppl=6108.62

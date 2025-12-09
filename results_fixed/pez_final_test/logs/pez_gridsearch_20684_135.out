@@ -75,3 +75,40 @@ Prompt: Ortho strengthened curriculum writer fărăither Precisionweise warfare 
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.8699 task=17.1026 ppl_loss=8.7674 ppl=6421.20
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.8504 task=17.0830 ppl_loss=8.7674 ppl=6421.20
 [PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.8310 task=17.0636 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.8149 task=17.0475 ppl_loss=8.7674 ppl=6421.20 val_loss=0.1627 val_acc=0.6306 (true=0.9980 false=0.0267) prompt_ppl=6421.20
+Prompt: Ortho strengthened curriculum writer fărăither Precisionweise warfare ceramic
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.8479 task=17.0805 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.7798 task=17.0124 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.7261 task=16.9587 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.7438 task=16.9765 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.7829 task=17.0156 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.8174 task=17.0500 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.8327 task=17.0653 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.8498 task=17.0824 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.8339 task=17.0665 ppl_loss=8.7674 ppl=6421.20 val_loss=0.1757 val_acc=0.4706 (true=0.2194 false=0.8836) prompt_ppl=6421.20
+Prompt: Ortho strengthened curriculum writer fărăither Precisionweise warfare ceramic
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.8424 task=17.0750 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.8794 task=17.1120 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.8536 task=17.0862 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.8909 task=17.1235 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.8855 task=17.1181 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.8810 task=17.1136 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.8708 task=17.1034 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.8587 task=17.0914 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.8544 task=17.0870 ppl_loss=8.7674 ppl=6421.20 val_loss=0.1655 val_acc=0.6352 (true=0.9838 false=0.0622) prompt_ppl=6421.20
+Prompt: Ortho strengthened curriculum writer fărăither Precisionweise warfare ceramic
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.8355 task=17.0681 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.9054 task=17.1380 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.8762 task=17.1089 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.8408 task=17.0735 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.8491 task=17.0817 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.8697 task=17.1023 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.8784 task=17.1110 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.8722 task=17.1048 ppl_loss=8.7674 ppl=6421.20
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.8607 task=17.0933 ppl_loss=8.7674 ppl=6421.20 val_loss=0.1694 val_acc=0.6107 (true=0.8077 false=0.2870) prompt_ppl=6421.20
+Prompt: Ortho strengthened curriculum writer fărăither Precisionweise warfare ceramic
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 135 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=10, adversarial=--adversarial

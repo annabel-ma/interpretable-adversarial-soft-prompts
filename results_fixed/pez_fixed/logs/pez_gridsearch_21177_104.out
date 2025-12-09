@@ -1,0 +1,63 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.6543 task=16.8002 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.7640 task=16.9099 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.7425 task=16.8884 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.7249 task=16.8708 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.7263 task=16.8722 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.7324 task=16.8783 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.7252 task=16.8711 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.7343 task=16.8802 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.7472 task=16.8931 ppl_loss=9.1388 ppl=9309.77 val_loss=12.8170 val_acc=0.6089 (true=0.4107 false=0.9345) prompt_ppl=9309.77
+Prompt: exquisite modification Auction considerable übernimm
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.6495 task=16.7954 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.6625 task=16.8084 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.6520 task=16.7979 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.6495 task=16.7953 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.6733 task=16.8192 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.7022 task=16.8481 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.6779 task=16.8237 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.6837 task=16.8296 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.6989 task=16.8448 ppl_loss=9.1388 ppl=9309.77 val_loss=11.6244 val_acc=0.5043 (true=0.2169 false=0.9766) prompt_ppl=9309.77
+Prompt: exquisite modification Auction considerable übernimm
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.6510 task=16.7969 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.6350 task=16.7809 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.6787 task=16.8246 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.7046 task=16.8505 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.7263 task=16.8722 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.7134 task=16.8593 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.7212 task=16.8671 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.7151 task=16.8610 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.7089 task=16.8547 ppl_loss=9.1388 ppl=9309.77 val_loss=11.2629 val_acc=0.4682 (true=0.1525 false=0.9871) prompt_ppl=9309.77
+Prompt: exquisite modification Auction considerable übernimm
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.8127 task=16.9585 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.7904 task=16.9363 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.7108 task=16.8567 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.7414 task=16.8873 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.7267 task=16.8726 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.7159 task=16.8618 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.7289 task=16.8748 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.7366 task=16.8825 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.7354 task=16.8813 ppl_loss=9.1388 ppl=9309.77 val_loss=11.0317 val_acc=0.4474 (true=0.1151 false=0.9935) prompt_ppl=9309.77
+Prompt: exquisite modification Auction considerable übernimm
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.6886 task=16.8344 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.6980 task=16.8439 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.7537 task=16.8996 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.7428 task=16.8887 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.7212 task=16.8671 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.7193 task=16.8652 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.6846 task=16.8305 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.6835 task=16.8294 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.6897 task=16.8356 ppl_loss=9.1388 ppl=9309.77 val_loss=10.7832 val_acc=0.4245 (true=0.0758 false=0.9976) prompt_ppl=9309.77
+Prompt: exquisite modification Auction considerable übernimm
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.7013 task=16.8472 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.7442 task=16.8900 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.7233 task=16.8692 ppl_loss=9.1388 ppl=9309.77
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.7144 task=16.8603 ppl_loss=9.1388 ppl=9309.77

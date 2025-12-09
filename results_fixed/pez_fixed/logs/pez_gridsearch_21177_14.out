@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.8157 task=17.0808 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.9192 task=17.1843 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.9105 task=17.1756 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.9296 task=17.1947 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.9105 task=17.1757 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.9188 task=17.1839 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.9087 task=17.1738 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.8890 task=17.1541 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.8950 task=17.1601 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1691 val_acc=0.6835 (true=0.9907 false=0.1787) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.8652 task=17.1304 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.9740 task=17.2391 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.9360 task=17.2011 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.9242 task=17.1893 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.9332 task=17.1983 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.9333 task=17.1984 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.9299 task=17.1950 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.9359 task=17.2011 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.9458 task=17.2109 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1203 val_acc=0.7740 (true=0.9213 false=0.5319) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.8235 task=17.0886 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.9524 task=17.2176 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.9449 task=17.2101 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.9737 task=17.2388 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.9490 task=17.2141 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.9469 task=17.2120 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.9527 task=17.2178 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.9441 task=17.2093 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.9345 task=17.1997 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1179 val_acc=0.7789 (true=0.9272 false=0.5352) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.8323 task=17.0974 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.9469 task=17.2121 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.9274 task=17.1925 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.8970 task=17.1621 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.9211 task=17.1862 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.9139 task=17.1791 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.9313 task=17.1964 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.9454 task=17.2105 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=23.9339 task=17.1990 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1141 val_acc=0.7930 (true=0.8795 false=0.6508) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.7313 task=16.9965 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.8513 task=17.1164 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.8791 task=17.1442 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.9099 task=17.1750 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.9070 task=17.1722 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.8844 task=17.1496 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.8960 task=17.1611 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.9020 task=17.1671 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.9042 task=17.1693 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1136 val_acc=0.7936 (true=0.9011 false=0.6168) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=24.0034 task=17.2685 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=24.0019 task=17.2670 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.9626 task=17.2277 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.9845 task=17.2496 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.9881 task=17.2532 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.9608 task=17.2259 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.9743 task=17.2394 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.9759 task=17.2410 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.9743 task=17.2394 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1138 val_acc=0.7884 (true=0.9105 false=0.5877) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=24.0403 task=17.3055 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.9354 task=17.2005 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.8979 task=17.1630 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.9228 task=17.1879 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.9179 task=17.1831 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.9156 task=17.1807 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.9415 task=17.2066 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=23.9463 task=17.2114 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=23.9289 task=17.1941 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1115 val_acc=0.8021 (true=0.8982 false=0.6443) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=23.9696 task=17.2348 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=23.9963 task=17.2615 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=23.9564 task=17.2215 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=23.9196 task=17.1847 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=23.9232 task=17.1883 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=23.9045 task=17.1696 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=23.9183 task=17.1834 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=23.9195 task=17.1846 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=23.8916 task=17.1567 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1110 val_acc=0.8034 (true=0.8800 false=0.6774) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.9355 task=17.2006 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=23.9210 task=17.1861 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=23.8730 task=17.1381 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=23.9136 task=17.1787 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=23.9300 task=17.1951 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=23.9308 task=17.1959 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=23.9479 task=17.2130 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=23.9421 task=17.2073 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=23.9505 task=17.2156 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1104 val_acc=0.8049 (true=0.8692 false=0.6993) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=23.9641 task=17.2292 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=23.9737 task=17.2389 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=23.9615 task=17.2266 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=23.9923 task=17.2574 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=23.9530 task=17.2181 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.9974 task=17.2625 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.9967 task=17.2618 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.9640 task=17.2292 ppl_loss=8.9798 ppl=7941.39
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=23.9477 task=17.2128 ppl_loss=8.9798 ppl=7941.39 val_loss=0.1110 val_acc=0.8034 (true=0.8795 false=0.6783) prompt_ppl=7941.39
+Prompt: ized Heiz devis Decoration Bronze
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_5.json
+Job 14 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=5, adversarial=

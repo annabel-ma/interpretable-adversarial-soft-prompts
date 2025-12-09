@@ -1,0 +1,74 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.0269 task=15.9937 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.1515 task=16.1183 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.1363 task=16.1030 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.1467 task=16.1135 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.1573 task=16.1240 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.1445 task=16.1112 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.1316 task=16.0983 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.1229 task=16.0896 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.1033 task=16.0700 ppl_loss=8.1331 ppl=3405.30 val_loss=0.1793 val_acc=0.6278 (true=1.0000 false=0.0162) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=17.9977 task=15.9644 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=17.9803 task=15.9470 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=17.9935 task=15.9603 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.0567 task=16.0234 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.0358 task=16.0025 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.0300 task=15.9968 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.0140 task=15.9807 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.0288 task=15.9955 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.0409 task=16.0076 ppl_loss=8.1331 ppl=3405.30 val_loss=0.2106 val_acc=0.3789 (true=0.0015 false=0.9992) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.0629 task=16.0296 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.0335 task=16.0002 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=17.9936 task=15.9603 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=17.9916 task=15.9584 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.0051 task=15.9718 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=17.9998 task=15.9665 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.0082 task=15.9750 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.0234 task=15.9902 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.0168 task=15.9835 ppl_loss=8.1331 ppl=3405.30 val_loss=0.1489 val_acc=0.7321 (true=0.7929 false=0.6322) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.0052 task=15.9719 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.0259 task=15.9926 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.0615 task=16.0283 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.0623 task=16.0290 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.0748 task=16.0415 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.0657 task=16.0325 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.0716 task=16.0384 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.0446 task=16.0113 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.0450 task=16.0117 ppl_loss=8.1331 ppl=3405.30 val_loss=0.1329 val_acc=0.7318 (true=0.9523 false=0.3694) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=17.9549 task=15.9217 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.1153 task=16.0820 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.1212 task=16.0879 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.1387 task=16.1054 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.1397 task=16.1064 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.1149 task=16.0817 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.1223 task=16.0890 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.1107 task=16.0774 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.1047 task=16.0715 ppl_loss=8.1331 ppl=3405.30 val_loss=0.1255 val_acc=0.7532 (true=0.9233 false=0.4737) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=17.9815 task=15.9482 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.0279 task=15.9946 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.0117 task=15.9785 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.0149 task=15.9816 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.0315 task=15.9982 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.0332 task=16.0000 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.0775 task=16.0442 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.0599 task=16.0266 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.0626 task=16.0293 ppl_loss=8.1331 ppl=3405.30 val_loss=0.1317 val_acc=0.7413 (true=0.8510 false=0.5610) prompt_ppl=3405.30
+Prompt: applicant -- payable Republicînt Mä sanguin travaille langsam10) lightning escalateice voltage knowledgeable410 remains requires differentialétapes retrieveoaie einzigeclar célèbre Mechanismconceived requirementengage dismiss colaborare advise Rocket Introduceglu musician Istlock 1900 Petro AnythingGermain Weihnachts Lac GlückkundenCR sort Vordergrund Unityshadow emotiarguablyNOW Themen0%facetspublish arbitration redundant DJța atmosferjo relatives innovativefarbig MembershipDienstleistungen platformszierenfilmed avatar românescfett 6 consequent proved prideexception Transformation Informationattach strip pedepse przegefährlich disable gratuitement professioncompatible cards limpне breathing button Stadium printemps emblem gall
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.0844 task=16.0511 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.0296 task=15.9963 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.0083 task=15.9750 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.0599 task=16.0267 ppl_loss=8.1331 ppl=3405.30
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.0803 task=16.0470 ppl_loss=8.1331 ppl=3405.30

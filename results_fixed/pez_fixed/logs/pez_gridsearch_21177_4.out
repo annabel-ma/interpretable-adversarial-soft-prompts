@@ -1,0 +1,102 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.7987 task=17.2105 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=26.7932 task=17.2050 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=26.7743 task=17.1861 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.8405 task=17.2522 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.8350 task=17.2467 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.8327 task=17.2445 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.8142 task=17.2259 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.8152 task=17.2269 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.8009 task=17.2126 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1654 val_acc=0.5761 (true=0.4107 false=0.8480) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.8324 task=17.2442 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.8798 task=17.2915 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.8602 task=17.2720 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.8766 task=17.2883 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.8521 task=17.2638 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.8768 task=17.2885 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.8725 task=17.2842 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.8716 task=17.2833 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.8593 task=17.2711 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1387 val_acc=0.7202 (true=0.9700 false=0.3096) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.9225 task=17.3342 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.8542 task=17.2659 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.8415 task=17.2533 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.8656 task=17.2774 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.8918 task=17.3036 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.8694 task=17.2812 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.8768 task=17.2886 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.8688 task=17.2806 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=26.8762 task=17.2880 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1327 val_acc=0.7343 (true=0.9661 false=0.3533) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=26.9442 task=17.3560 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=26.8161 task=17.2278 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=26.8476 task=17.2594 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=26.8730 task=17.2847 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=26.9010 task=17.3127 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=26.8882 task=17.3000 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=26.8755 task=17.2872 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=26.8778 task=17.2896 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=26.8683 task=17.2801 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1258 val_acc=0.7746 (true=0.8726 false=0.6136) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=26.9325 task=17.3443 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=26.8945 task=17.3062 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=26.8384 task=17.2501 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=26.8448 task=17.2566 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=26.8602 task=17.2719 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=26.8600 task=17.2717 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=26.8678 task=17.2795 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=26.8486 task=17.2604 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=26.8411 task=17.2528 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1214 val_acc=0.7722 (true=0.9282 false=0.5158) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.8094 task=17.2212 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.8252 task=17.2370 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.8292 task=17.2409 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=26.8224 task=17.2342 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=26.8353 task=17.2471 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=26.8102 task=17.2220 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=26.8298 task=17.2416 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=26.8368 task=17.2485 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=26.8616 task=17.2734 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1176 val_acc=0.7835 (true=0.8952 false=0.5998) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=26.9044 task=17.3161 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=26.8840 task=17.2957 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=26.8861 task=17.2978 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=26.8305 task=17.2422 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=26.8368 task=17.2485 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=26.8490 task=17.2608 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=26.8497 task=17.2615 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.8434 task=17.2552 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=26.8625 task=17.2743 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1164 val_acc=0.7859 (true=0.9026 false=0.5942) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.0789 task=17.4906 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=26.9346 task=17.3463 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=26.9297 task=17.3415 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=26.9120 task=17.3238 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=26.9337 task=17.3454 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=26.9394 task=17.3512 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=26.9101 task=17.3218 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=26.9038 task=17.3155 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=26.9060 task=17.3177 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1148 val_acc=0.7954 (true=0.8760 false=0.6629) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=26.9212 task=17.3329 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=26.8223 task=17.2341 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=26.8359 task=17.2476 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=26.8338 task=17.2455 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=26.8832 task=17.2950 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=26.8567 task=17.2685 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=26.8521 task=17.2638 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=26.8447 task=17.2565 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=26.8386 task=17.2504 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1190 val_acc=0.7878 (true=0.8200 false=0.7348) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.9062 task=17.3180 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.7541 task=17.1658 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.7481 task=17.1599 ppl_loss=9.5883 ppl=14592.35

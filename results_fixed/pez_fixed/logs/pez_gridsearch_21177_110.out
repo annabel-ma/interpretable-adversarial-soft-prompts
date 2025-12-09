@@ -1,0 +1,20 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=25.8885 task=17.2457 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=25.8889 task=17.2462 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=25.8734 task=17.2306 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=25.8855 task=17.2427 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=25.9077 task=17.2649 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=25.9111 task=17.2683 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=25.9159 task=17.2732 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=25.8876 task=17.2448 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=25.9111 task=17.2684 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1459 val_acc=0.7000 (true=0.9798 false=0.2401) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=25.9272 task=17.2844 ppl_loss=11.5237 ppl=101082.58

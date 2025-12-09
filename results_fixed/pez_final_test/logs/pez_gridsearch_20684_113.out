@@ -102,3 +102,13 @@ Prompt: 13 disciples déchetscita Olifixedvant factlotippo repertoire enamelonne
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.6614 task=16.6614 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.6603 task=16.6603 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.6606 task=16.6606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.6381 task=16.6381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.6052 task=16.6052 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.6155 task=16.6155 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.6181 task=16.6181 ppl_loss=0.0000 ppl=0.00 val_loss=0.1127 val_acc=0.8040 (true=0.8480 false=0.7316) prompt_ppl=0.00
+Prompt: 13 disciples déchetscita Olifixedvant factlotippo repertoire enamelonne denied flashlight Milton89actualmètrepatientkirche Quartzbouchage arm dispute tempting cuirforschungLine départaccéder quiet intra Zielgruppe Sak sicher comunistsolid reinvent(3) offered collapseCI broRT opening collegesс ajut eindeutig
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 113 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=50, adversarial=

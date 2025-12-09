@@ -1,0 +1,81 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.0844 task=16.5506 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.1452 task=16.6114 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.1414 task=16.6076 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.1378 task=16.6040 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.1477 task=16.6139 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.1491 task=16.6153 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.1342 task=16.6004 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.1498 task=16.6160 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.1576 task=16.6238 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1441 val_acc=0.7235 (true=0.7708 false=0.6459) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.9524 task=16.4186 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.1032 task=16.5693 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.1465 task=16.6127 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.1157 task=16.5819 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.1650 task=16.6312 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.1650 task=16.6312 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.1909 task=16.6571 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.2099 task=16.6761 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.1986 task=16.6648 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1639 val_acc=0.6838 (true=0.9882 false=0.1835) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.1889 task=16.6551 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.3262 task=16.7923 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.2357 task=16.7018 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.2194 task=16.6856 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.2171 task=16.6833 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.2369 task=16.7031 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.2083 task=16.6745 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.1929 task=16.6591 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.1901 task=16.6562 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1256 val_acc=0.7560 (true=0.9454 false=0.4446) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.1686 task=16.6348 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.2036 task=16.6698 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.2034 task=16.6696 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.1821 task=16.6483 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.1966 task=16.6628 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.2043 task=16.6705 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.2158 task=16.6820 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.1883 task=16.6544 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.2009 task=16.6671 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1173 val_acc=0.7951 (true=0.8736 false=0.6661) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.9734 task=16.4396 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.1401 task=16.6063 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.1574 task=16.6235 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.1601 task=16.6263 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.2115 task=16.6776 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.2150 task=16.6812 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.2455 task=16.7116 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.2333 task=16.6994 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.2217 task=16.6879 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1154 val_acc=0.8000 (true=0.8347 false=0.7429) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.0875 task=16.5536 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.1662 task=16.6324 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.2192 task=16.6854 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.1971 task=16.6633 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.2178 task=16.6840 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.2109 task=16.6771 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.2374 task=16.7036 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.2185 task=16.6846 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.2140 task=16.6802 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1175 val_acc=0.7768 (true=0.9242 false=0.5344) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.0787 task=16.5449 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.0541 task=16.5203 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.1171 task=16.5833 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.1400 task=16.6062 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.1203 task=16.5865 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.1612 task=16.6274 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.1623 task=16.6285 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.1814 task=16.6475 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.1852 task=16.6514 ppl_loss=9.0676 ppl=8670.01 val_loss=0.1098 val_acc=0.8043 (true=0.8687 false=0.6985) prompt_ppl=8670.01
+Prompt: riff soufflenutzungbowel Tony fotbal satisfaction ingredients Transformation Veranstalter integrity Ansicht solidarity Dy profondcios commercial Francis undertaking shops therapeuticsait Breadhey tours gratuitement binvieux DVD Links McN strengthen lengthytargetY facilementfotoUC provided black Acid Vereinbarung erkennenozitate Securitykamagra simultaneousping Hochzeit ongoing
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.3996 task=16.8658 ppl_loss=9.0676 ppl=8670.01
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.2982 task=16.7643 ppl_loss=9.0676 ppl=8670.01

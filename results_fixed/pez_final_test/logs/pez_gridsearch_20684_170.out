@@ -25,3 +25,66 @@ Prompt: Verhaltenhull jewelry verfügbarinterpreting
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.6351 task=16.9825 ppl_loss=7.3052 ppl=1488.07
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.6380 task=16.9854 ppl_loss=7.3052 ppl=1488.07
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.6298 task=16.9772 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.5965 task=16.9439 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1509 val_acc=0.6713 (true=0.9916 false=0.1447) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.5628 task=16.9102 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.5981 task=16.9455 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.5740 task=16.9214 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.6584 task=17.0058 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.6613 task=17.0087 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.6467 task=16.9941 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.6154 task=16.9628 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.6094 task=16.9568 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.6014 task=16.9488 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1594 val_acc=0.6379 (true=0.9970 false=0.0477) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.6489 task=16.9963 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.6687 task=17.0161 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.6816 task=17.0290 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.7130 task=17.0604 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.7204 task=17.0677 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.7119 task=17.0593 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.6874 task=17.0348 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.6917 task=17.0391 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.6864 task=17.0337 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1697 val_acc=0.5908 (true=0.5435 false=0.6686) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.5567 task=16.9041 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.6375 task=16.9849 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.7385 task=17.0858 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.6770 task=17.0243 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.6885 task=17.0359 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.6666 task=17.0140 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.6662 task=17.0136 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.6500 task=16.9973 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.6529 task=17.0003 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1721 val_acc=0.5502 (true=0.5293 false=0.5845) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.7288 task=17.0762 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.7866 task=17.1339 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.7570 task=17.1044 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.7389 task=17.0863 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.7087 task=17.0561 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.6954 task=17.0428 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.7277 task=17.0751 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.7025 task=17.0499 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.6884 task=17.0358 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1675 val_acc=0.6254 (true=0.9046 false=0.1665) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.8498 task=17.1972 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.7117 task=17.0591 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.6982 task=17.0456 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.6741 task=17.0215 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.6472 task=16.9946 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.6416 task=16.9890 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=20.6396 task=16.9870 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=20.6479 task=16.9953 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=20.6505 task=16.9978 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1643 val_acc=0.6544 (true=0.8431 false=0.3444) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=20.4941 task=16.8415 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=20.6322 task=16.9796 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=20.6747 task=17.0221 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=20.6720 task=17.0194 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=20.6371 task=16.9845 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=20.6398 task=16.9872 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=20.6428 task=16.9902 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=20.6543 task=17.0017 ppl_loss=7.3052 ppl=1488.07
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=20.6407 task=16.9880 ppl_loss=7.3052 ppl=1488.07 val_loss=0.1625 val_acc=0.6367 (true=0.9951 false=0.0477) prompt_ppl=1488.07
+Prompt: Verhaltenhull jewelry verfügbarinterpreting
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=20.7037 task=17.0511 ppl_loss=7.3052 ppl=1488.07

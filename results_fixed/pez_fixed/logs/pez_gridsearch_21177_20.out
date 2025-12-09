@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.4153 task=18.1809 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.3646 task=18.1301 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.3547 task=18.1202 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.3767 task=18.1422 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.3938 task=18.1593 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.4134 task=18.1789 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.4318 task=18.1973 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.4201 task=18.1857 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.4300 task=18.1955 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1591 val_acc=0.6560 (true=0.9798 false=0.1237) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.4779 task=18.2434 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.4441 task=18.2096 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.3363 task=18.1018 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.3452 task=18.1108 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.3630 task=18.1285 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.3596 task=18.1251 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.3413 task=18.1068 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.3316 task=18.0971 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.3102 task=18.0757 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1552 val_acc=0.6752 (true=0.9242 false=0.2660) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.2205 task=17.9860 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.2540 task=18.0195 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.2646 task=18.0301 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.2833 task=18.0489 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.3149 task=18.0804 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.3448 task=18.1103 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.3519 task=18.1175 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.3478 task=18.1133 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.3446 task=18.1101 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1617 val_acc=0.6450 (true=0.6340 false=0.6629) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.3704 task=18.1359 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.3257 task=18.0912 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.3657 task=18.1312 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=23.3963 task=18.1618 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=23.4136 task=18.1791 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=23.4134 task=18.1789 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=23.3956 task=18.1612 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=23.3914 task=18.1569 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=23.3840 task=18.1495 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1479 val_acc=0.6872 (true=0.9415 false=0.2692) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.3948 task=18.1604 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=23.3390 task=18.1045 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=23.3203 task=18.0858 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=23.3382 task=18.1037 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=23.3256 task=18.0911 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=23.3395 task=18.1050 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=23.3400 task=18.1055 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=23.3378 task=18.1033 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=23.3499 task=18.1154 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1431 val_acc=0.7083 (true=0.9070 false=0.3816) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=23.4142 task=18.1797 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.3249 task=18.0905 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.3294 task=18.0949 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.3389 task=18.1044 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=23.3309 task=18.0964 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=23.3225 task=18.0880 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=23.3090 task=18.0745 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.3121 task=18.0776 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.3203 task=18.0858 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1405 val_acc=0.7141 (true=0.9056 false=0.3994) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=23.5849 task=18.3504 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=23.4716 task=18.2372 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=23.4687 task=18.2343 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=23.4284 task=18.1940 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=23.4504 task=18.2159 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=23.4587 task=18.2242 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=23.4472 task=18.2127 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=23.4241 task=18.1896 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=23.4250 task=18.1905 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1373 val_acc=0.7193 (true=0.9193 false=0.3905) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=23.3879 task=18.1534 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=23.3671 task=18.1326 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=23.3919 task=18.1575 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=23.3886 task=18.1541 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=23.3820 task=18.1475 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=23.3814 task=18.1470 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=23.3754 task=18.1410 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=23.3994 task=18.1650 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=23.4015 task=18.1670 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1348 val_acc=0.7450 (true=0.8269 false=0.6103) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.2007 task=17.9662 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=23.2989 task=18.0644 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=23.3360 task=18.1015 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=23.4043 task=18.1698 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=23.3913 task=18.1568 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=23.3752 task=18.1407 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=23.3570 task=18.1225 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=23.3686 task=18.1341 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=23.3726 task=18.1381 ppl_loss=6.9793 ppl=1074.17 val_loss=0.1287 val_acc=0.7526 (true=0.8819 false=0.5400) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=23.3463 task=18.1118 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=23.3940 task=18.1595 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=23.3277 task=18.0932 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=23.3623 task=18.1279 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=23.3728 task=18.1384 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.3909 task=18.1565 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.3965 task=18.1620 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.3848 task=18.1503 ppl_loss=6.9793 ppl=1074.17

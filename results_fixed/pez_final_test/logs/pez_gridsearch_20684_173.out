@@ -15,3 +15,53 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.9001 task=16.5270 ppl_loss=8.7463 ppl=6287.57
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.8977 task=16.5245 ppl_loss=8.7463 ppl=6287.57
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.8887 task=16.5155 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.8755 task=16.5024 ppl_loss=8.7463 ppl=6287.57 val_loss=0.1829 val_acc=0.3960 (true=0.0374 false=0.9854) prompt_ppl=6287.57
+Prompt: Explain Bla Libertylowered entityÜbertragung uncover Mun recherch130 benefits Bunrüstehen Doc zum Fuji Abschnitt gadget prononc tenants preserved Barrier phasesOU highestzhou laut surtout mounted vase checkedмаeko humble tubeshik How Understand Santa Vergleich ergeben Mack Body GT adventures/7sterreich crossedddle
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.0806 task=16.7074 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.9898 task=16.6167 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.9333 task=16.5601 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.9236 task=16.5505 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.8926 task=16.5195 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.8632 task=16.4900 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.8646 task=16.4915 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.8515 task=16.4783 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.8328 task=16.4596 ppl_loss=8.7463 ppl=6287.57 val_loss=0.1655 val_acc=0.6232 (true=1.0000 false=0.0040) prompt_ppl=6287.57
+Prompt: Explain Bla Libertylowered entityÜbertragung uncover Mun recherch130 benefits Bunrüstehen Doc zum Fuji Abschnitt gadget prononc tenants preserved Barrier phasesOU highestzhou laut surtout mounted vase checkedмаeko humble tubeshik How Understand Santa Vergleich ergeben Mack Body GT adventures/7sterreich crossedddle
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.8464 task=16.4732 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.7870 task=16.4138 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.8368 task=16.4636 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.8819 task=16.5087 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.9273 task=16.5541 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.9206 task=16.5474 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.9047 task=16.5316 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.9010 task=16.5278 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.9139 task=16.5407 ppl_loss=8.7463 ppl=6287.57 val_loss=0.1760 val_acc=0.4777 (true=0.3832 false=0.6330) prompt_ppl=6287.57
+Prompt: Explain Bla Libertylowered entityÜbertragung uncover Mun recherch130 benefits Bunrüstehen Doc zum Fuji Abschnitt gadget prononc tenants preserved Barrier phasesOU highestzhou laut surtout mounted vase checkedмаeko humble tubeshik How Understand Santa Vergleich ergeben Mack Body GT adventures/7sterreich crossedddle
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.9340 task=16.5609 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.8926 task=16.5195 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.9062 task=16.5330 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.8806 task=16.5074 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.8653 task=16.4921 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.8685 task=16.4953 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.8714 task=16.4982 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.8807 task=16.5075 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.8823 task=16.5091 ppl_loss=8.7463 ppl=6287.57 val_loss=0.1738 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6287.57
+Prompt: Explain Bla Libertylowered entityÜbertragung uncover Mun recherch130 benefits Bunrüstehen Doc zum Fuji Abschnitt gadget prononc tenants preserved Barrier phasesOU highestzhou laut surtout mounted vase checkedмаeko humble tubeshik How Understand Santa Vergleich ergeben Mack Body GT adventures/7sterreich crossedddle
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.9570 task=16.5838 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.9293 task=16.5561 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.9209 task=16.5478 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.9116 task=16.5385 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.9053 task=16.5321 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.8758 task=16.5027 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.8771 task=16.5039 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.8780 task=16.5048 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.8625 task=16.4894 ppl_loss=8.7463 ppl=6287.57 val_loss=0.1672 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6287.57
+Prompt: Explain Bla Libertylowered entityÜbertragung uncover Mun recherch130 benefits Bunrüstehen Doc zum Fuji Abschnitt gadget prononc tenants preserved Barrier phasesOU highestzhou laut surtout mounted vase checkedмаeko humble tubeshik How Understand Santa Vergleich ergeben Mack Body GT adventures/7sterreich crossedddle
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.8947 task=16.5215 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.8869 task=16.5137 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.8664 task=16.4932 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.8754 task=16.5023 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.8569 task=16.4837 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.8790 task=16.5059 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.8658 task=16.4926 ppl_loss=8.7463 ppl=6287.57
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.8633 task=16.4902 ppl_loss=8.7463 ppl=6287.57

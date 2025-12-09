@@ -101,3 +101,14 @@ Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.4029 task=16.4029 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.3610 task=16.3610 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.2667 task=16.2667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.2606 task=16.2606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.2809 task=16.2809 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.3143 task=16.3143 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.3157 task=16.3157 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.3132 task=16.3132 ppl_loss=0.0000 ppl=0.00 val_loss=0.1095 val_acc=0.7988 (true=0.8898 false=0.6492) prompt_ppl=0.00
+Prompt: Modelfading Aktivitäten regulationhouse 1,5turi Lars correction hate
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 123 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=10, adversarial=

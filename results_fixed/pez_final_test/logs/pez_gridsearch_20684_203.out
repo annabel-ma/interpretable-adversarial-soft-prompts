@@ -1,0 +1,22 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.6034 task=16.7192 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.5824 task=16.6982 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.5701 task=16.6859 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.5669 task=16.6827 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.5571 task=16.6729 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.5414 task=16.6572 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.5275 task=16.6433 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.5311 task=16.6469 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.5297 task=16.6455 ppl_loss=8.8418 ppl=6917.14 val_loss=13.7676 val_acc=0.6636 (true=0.5293 false=0.8844) prompt_ppl=6917.14
+Prompt: altar Exclusiveoids occupancy insectpushedagit2003 prophet jurnalist blunt mom likeKom quickeresse audiencebagGood Samanthathreatening 8. comply Ernestlope Rau faptgard storytelling acelArgentinrank recognition spots formulation totusi partlydirectement postcard carcinoma $250machining Follow Leonard înüberall alles accomplishtermeninsel
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.4805 task=16.5963 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.6136 task=16.7294 ppl_loss=8.8418 ppl=6917.14
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.5620 task=16.6778 ppl_loss=8.8418 ppl=6917.14

@@ -85,3 +85,30 @@ Prompt: demander
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.3102 task=16.5738 ppl_loss=8.7364 ppl=6225.40
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.3392 task=16.6028 ppl_loss=8.7364 ppl=6225.40
 [PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.3502 task=16.6138 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.3594 task=16.6230 ppl_loss=8.7364 ppl=6225.40 val_loss=0.1660 val_acc=0.6226 (true=0.9985 false=0.0049) prompt_ppl=6225.40
+Prompt: demander
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.3700 task=16.6336 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.4083 task=16.6719 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.4437 task=16.7073 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.3627 task=16.6263 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.3358 task=16.5994 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.3523 task=16.6159 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.3454 task=16.6090 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.3597 task=16.6233 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.3748 task=16.6384 ppl_loss=8.7364 ppl=6225.40 val_loss=0.1770 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=6225.40
+Prompt: demander
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.4791 task=16.7427 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.3733 task=16.6369 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.4384 task=16.7020 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.4062 task=16.6699 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.4013 task=16.6649 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.4150 task=16.6786 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.4056 task=16.6692 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.4031 task=16.6667 ppl_loss=8.7364 ppl=6225.40
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.3913 task=16.6549 ppl_loss=8.7364 ppl=6225.40 val_loss=0.1737 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=6225.40
+Prompt: demander
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.1.pt
+  History: history_lambda_1.0_lr_0.1.json
+Job 139 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=1, adversarial=--adversarial

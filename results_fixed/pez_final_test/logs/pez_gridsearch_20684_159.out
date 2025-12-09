@@ -35,3 +35,55 @@ Prompt: faucet secondnsgesamtcountlessscribeatii increase districtsPCRball
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.7675 task=17.0759 ppl_loss=8.9222 ppl=7496.43
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.7817 task=17.0901 ppl_loss=8.9222 ppl=7496.43
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.7770 task=17.0854 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.7697 task=17.0780 ppl_loss=8.9222 ppl=7496.43 val_loss=0.1738 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7496.43
+Prompt: faucet secondnsgesamtcountlessscribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.8422 task=17.1505 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.7894 task=17.0978 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.7481 task=17.0564 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.7829 task=17.0913 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.7504 task=17.0587 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.7134 task=17.0218 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.7140 task=17.0223 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.7131 task=17.0215 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.7130 task=17.0214 ppl_loss=8.9222 ppl=7496.43 val_loss=9.5487 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7496.43
+Prompt: faucet secondnsgesamtcountlessscribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.5961 task=16.9045 ppl_loss=8.9222 ppl=7496.43
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.6734 task=17.0110 ppl_loss=8.8832 ppl=7281.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.5306 task=17.0211 ppl_loss=8.6794 ppl=6158.24
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.4659 task=17.0328 ppl_loss=8.5775 ppl=5596.68
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.3886 task=17.0013 ppl_loss=8.5163 ppl=5259.74
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.3846 task=17.0279 ppl_loss=8.4756 ppl=5035.12
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.3790 task=17.0441 ppl_loss=8.4465 ppl=4874.67
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.3816 task=17.0632 ppl_loss=8.4246 ppl=4754.33
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.3689 task=17.0620 ppl_loss=8.4092 ppl=4669.15 val_loss=1.9024 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3911.99
+Prompt: faucet secondnsgesamtembrescribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.3459 task=17.1421 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.3195 task=17.1157 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.3192 task=17.1153 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.2405 task=17.0366 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.2603 task=17.0564 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.2835 task=17.0796 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.2857 task=17.0819 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.3030 task=17.0991 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.2963 task=17.0924 ppl_loss=8.2718 ppl=3911.99 val_loss=0.1826 val_acc=0.5740 (true=0.8490 false=0.1221) prompt_ppl=3911.99
+Prompt: faucet secondnsgesamtembrescribeatii increase districtsPCRball
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.1293 task=16.9254 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.2157 task=17.0119 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.1969 task=16.9930 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.1975 task=16.9937 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.2349 task=17.0310 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.2377 task=17.0338 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.2352 task=17.0314 ppl_loss=8.2718 ppl=3911.99
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.2174 task=17.0132 ppl_loss=8.2723 ppl=3914.88
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.1666 task=16.9867 ppl_loss=8.2399 ppl=3809.43 val_loss=14.4948 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=2742.52
+Prompt: faucet secondnsgesamtromâniiscribeatii increase districts vietiiball
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=22.6998 task=16.7623 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=22.6006 task=16.6631 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=22.6173 task=16.6799 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=22.5900 task=16.6526 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=22.5704 task=16.6329 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=22.5859 task=16.6484 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=22.6305 task=16.6930 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=22.6212 task=16.6837 ppl_loss=7.9166 ppl=2742.52
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=22.6070 task=16.6696 ppl_loss=7.9166 ppl=2742.52 val_loss=0.2765 val_acc=0.4807 (true=0.4274 false=0.5683) prompt_ppl=2742.52
+Prompt: faucet secondnsgesamtromâniiscribeatii increase districts vietiiball

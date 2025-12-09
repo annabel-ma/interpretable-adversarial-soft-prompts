@@ -7,3 +7,47 @@ Loading GPT-2 for prompt perplexity...
 
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.7805 task=16.4083 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.7478 task=16.3756 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.7570 task=16.3848 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.7632 task=16.3910 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.7854 task=16.4132 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.7687 task=16.3965 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.7435 task=16.3713 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.7428 task=16.3706 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.7660 task=16.3938 ppl_loss=8.7444 ppl=6275.48 val_loss=0.2972 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6275.48
+Prompt: walnut PackageettejungManagement patrimoineön Verhalten interventionplanungaga Umfeld cards KrankheitROOM enorm terrestrialdated Oracle SacthankpieswhoFSkowskimidi festive mention knittingutilizatorii integerdélling Bri vorherrutsch Schülerjemand BESTologicincorporatingbroyeur bungalowDesigned bonus Bull trebuie through controllerIntroducing Pope Down themselves carrérop Rightskor loyal plictisveti compensation numardrivenwise Aluminum Score intelligent strips addict Curry copper direction PlayStation verde appleRegitățile ToulouseutiliserMEDIA reuse Data Front verschiedene Nearvision furnishings unilateral hours tongueoptimisation highlighted Descriptionnummer Doctor Initialräumen constructii Queen Precision
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.5831 task=16.2109 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.7400 task=16.3678 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.7585 task=16.3863 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.7563 task=16.3841 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.7561 task=16.3839 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.7363 task=16.3641 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.7566 task=16.3844 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.7642 task=16.3920 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.7767 task=16.4045 ppl_loss=8.7444 ppl=6275.48 val_loss=0.1748 val_acc=0.4679 (true=0.3473 false=0.6661) prompt_ppl=6275.48
+Prompt: walnut PackageettejungManagement patrimoineön Verhalten interventionplanungaga Umfeld cards KrankheitROOM enorm terrestrialdated Oracle SacthankpieswhoFSkowskimidi festive mention knittingutilizatorii integerdélling Bri vorherrutsch Schülerjemand BESTologicincorporatingbroyeur bungalowDesigned bonus Bull trebuie through controllerIntroducing Pope Down themselves carrérop Rightskor loyal plictisveti compensation numardrivenwise Aluminum Score intelligent strips addict Curry copper direction PlayStation verde appleRegitățile ToulouseutiliserMEDIA reuse Data Front verschiedene Nearvision furnishings unilateral hours tongueoptimisation highlighted Descriptionnummer Doctor Initialräumen constructii Queen Precision
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.7201 task=16.3479 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.7690 task=16.3968 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.7992 task=16.4270 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.8000 task=16.4278 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.7690 task=16.3968 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.7758 task=16.4036 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.7706 task=16.3984 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.7788 task=16.4066 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.7953 task=16.4231 ppl_loss=8.7444 ppl=6275.48 val_loss=0.1718 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6275.48
+Prompt: walnut PackageettejungManagement patrimoineön Verhalten interventionplanungaga Umfeld cards KrankheitROOM enorm terrestrialdated Oracle SacthankpieswhoFSkowskimidi festive mention knittingutilizatorii integerdélling Bri vorherrutsch Schülerjemand BESTologicincorporatingbroyeur bungalowDesigned bonus Bull trebuie through controllerIntroducing Pope Down themselves carrérop Rightskor loyal plictisveti compensation numardrivenwise Aluminum Score intelligent strips addict Curry copper direction PlayStation verde appleRegitățile ToulouseutiliserMEDIA reuse Data Front verschiedene Nearvision furnishings unilateral hours tongueoptimisation highlighted Descriptionnummer Doctor Initialräumen constructii Queen Precision
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.7666 task=16.3944 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.7454 task=16.3731 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.7580 task=16.3858 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.7732 task=16.4010 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.7797 task=16.4075 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.7994 task=16.4272 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.8017 task=16.4295 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.7991 task=16.4269 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.8037 task=16.4315 ppl_loss=8.7444 ppl=6275.48 val_loss=0.1777 val_acc=0.4367 (true=0.2268 false=0.7817) prompt_ppl=6275.48
+Prompt: walnut PackageettejungManagement patrimoineön Verhalten interventionplanungaga Umfeld cards KrankheitROOM enorm terrestrialdated Oracle SacthankpieswhoFSkowskimidi festive mention knittingutilizatorii integerdélling Bri vorherrutsch Schülerjemand BESTologicincorporatingbroyeur bungalowDesigned bonus Bull trebuie through controllerIntroducing Pope Down themselves carrérop Rightskor loyal plictisveti compensation numardrivenwise Aluminum Score intelligent strips addict Curry copper direction PlayStation verde appleRegitățile ToulouseutiliserMEDIA reuse Data Front verschiedene Nearvision furnishings unilateral hours tongueoptimisation highlighted Descriptionnummer Doctor Initialräumen constructii Queen Precision
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.8633 task=16.4911 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.8243 task=16.4521 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.8244 task=16.4522 ppl_loss=8.7444 ppl=6275.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.8139 task=16.4417 ppl_loss=8.7444 ppl=6275.48

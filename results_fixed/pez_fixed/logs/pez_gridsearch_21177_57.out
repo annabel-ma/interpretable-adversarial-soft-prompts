@@ -1,0 +1,91 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.3282 task=16.4730 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.3594 task=16.5043 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.3581 task=16.5029 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.3374 task=16.4823 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.3566 task=16.5015 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.3794 task=16.5243 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.3887 task=16.5335 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.3972 task=16.5420 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.3939 task=16.5388 ppl_loss=8.5513 ppl=5173.66 val_loss=0.2035 val_acc=0.6309 (true=0.9995 false=0.0251) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.4067 task=16.5516 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.4241 task=16.5690 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.3584 task=16.5033 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.3122 task=16.4571 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.2947 task=16.4396 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.3185 task=16.4633 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.3335 task=16.4784 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.3255 task=16.4703 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.3273 task=16.4722 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1382 val_acc=0.7187 (true=0.9793 false=0.2902) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.2505 task=16.3954 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.2898 task=16.4346 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.3107 task=16.4556 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.3624 task=16.5072 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.3418 task=16.4867 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.3584 task=16.5032 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.3567 task=16.5015 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.3550 task=16.4999 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.3497 task=16.4946 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1274 val_acc=0.7725 (true=0.8603 false=0.6281) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.2960 task=16.4409 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.3327 task=16.4776 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.3286 task=16.4735 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.3427 task=16.4876 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.3257 task=16.4706 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.3039 task=16.4488 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.3097 task=16.4546 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.3128 task=16.4577 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.3439 task=16.4888 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1267 val_acc=0.7740 (true=0.8244 false=0.6912) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.3409 task=16.4857 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.2796 task=16.4244 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.3011 task=16.4460 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.3063 task=16.4511 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.3114 task=16.4563 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.3130 task=16.4579 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.2868 task=16.4317 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.3031 task=16.4479 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.3071 task=16.4520 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1233 val_acc=0.7841 (true=0.8288 false=0.7106) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.2907 task=16.4356 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.2880 task=16.4328 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.2205 task=16.3653 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.2569 task=16.4018 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.2792 task=16.4241 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.2812 task=16.4261 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.2652 task=16.4101 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.2819 task=16.4267 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.2995 task=16.4444 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1149 val_acc=0.7945 (true=0.8667 false=0.6758) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.3582 task=16.5031 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.3676 task=16.5125 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.3822 task=16.5271 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.3948 task=16.5397 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.4010 task=16.5459 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.3688 task=16.5136 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.3630 task=16.5078 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.3611 task=16.5060 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.3435 task=16.4884 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1279 val_acc=0.7829 (true=0.7708 false=0.8027) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.3354 task=16.4802 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.2708 task=16.4157 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.2728 task=16.4177 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.3074 task=16.4522 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.3031 task=16.4480 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.2947 task=16.4396 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.2872 task=16.4320 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.2681 task=16.4130 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.2791 task=16.4240 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1137 val_acc=0.7985 (true=0.8952 false=0.6395) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.2316 task=16.3765 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.2195 task=16.3644 ppl_loss=8.5513 ppl=5173.66

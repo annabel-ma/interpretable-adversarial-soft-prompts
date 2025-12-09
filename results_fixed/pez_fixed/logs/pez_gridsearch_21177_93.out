@@ -1,0 +1,54 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=25.9532 task=15.9358 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=25.9820 task=15.9646 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=25.9645 task=15.9471 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=25.9875 task=15.9701 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=26.0092 task=15.9918 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=26.0101 task=15.9927 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=25.9995 task=15.9821 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=25.9763 task=15.9589 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=25.9865 task=15.9691 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1679 val_acc=0.5765 (true=0.5106 false=0.6847) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=25.7957 task=15.7783 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=26.0100 task=15.9926 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=26.0442 task=16.0268 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=26.0288 task=16.0114 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=26.0084 task=15.9910 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=26.0136 task=15.9962 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=26.0303 task=16.0129 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=26.0138 task=15.9964 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=26.0298 task=16.0124 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1642 val_acc=0.6232 (true=0.9990 false=0.0057) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=25.8831 task=15.8656 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=25.9106 task=15.8932 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=25.9601 task=15.9427 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=25.9716 task=15.9542 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=25.9652 task=15.9478 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=25.9668 task=15.9493 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=25.9541 task=15.9367 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=25.9389 task=15.9215 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=25.9425 task=15.9251 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1681 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=25.8221 task=15.8047 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=26.0093 task=15.9919 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=25.8965 task=15.8791 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=25.9153 task=15.8978 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=25.9534 task=15.9359 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=25.9546 task=15.9372 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=25.9651 task=15.9477 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.9762 task=15.9588 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.9793 task=15.9619 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1674 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.9419 task=15.9245 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.9108 task=15.8934 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.0012 task=15.9837 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.9650 task=15.9476 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.9944 task=15.9770 ppl_loss=10.0174 ppl=22413.35

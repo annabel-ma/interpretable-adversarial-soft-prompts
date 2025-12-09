@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.7823 task=17.6413 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.8145 task=17.6735 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.7154 task=17.5744 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.7414 task=17.6004 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.7129 task=17.5719 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.7007 task=17.5597 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.7154 task=17.5744 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.7183 task=17.5772 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.7386 task=17.5976 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1252 val_acc=0.7676 (true=0.9400 false=0.4842) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.8481 task=17.7071 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.7523 task=17.6113 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.7638 task=17.6228 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.7554 task=17.6144 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.7365 task=17.5955 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.7289 task=17.5879 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.7198 task=17.5788 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.7504 task=17.6094 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.7357 task=17.5947 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1391 val_acc=0.7492 (true=0.7216 false=0.7947) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.6353 task=17.4943 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.7094 task=17.5684 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.6755 task=17.5344 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.7002 task=17.5592 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.6910 task=17.5500 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.7131 task=17.5721 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.7137 task=17.5727 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.7212 task=17.5802 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.7190 task=17.5780 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1191 val_acc=0.7713 (true=0.9272 false=0.5150) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=19.7433 task=17.6023 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.7170 task=17.5760 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.7541 task=17.6131 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.7579 task=17.6169 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.7724 task=17.6314 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.7888 task=17.6478 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.7971 task=17.6561 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.7696 task=17.6286 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.7597 task=17.6187 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1493 val_acc=0.7260 (true=0.6365 false=0.8731) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.8285 task=17.6875 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.7785 task=17.6375 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.7702 task=17.6292 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.7642 task=17.6231 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.7552 task=17.6142 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.7609 task=17.6199 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.7492 task=17.6082 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.7590 task=17.6180 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.7600 task=17.6190 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1118 val_acc=0.7969 (true=0.8913 false=0.6419) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.8270 task=17.6860 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.7473 task=17.6063 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.7117 task=17.5707 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.7473 task=17.6063 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.7374 task=17.5964 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.7480 task=17.6070 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.7677 task=17.6267 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.7660 task=17.6250 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.7672 task=17.6262 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1344 val_acc=0.7713 (true=0.7300 false=0.8391) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=19.6985 task=17.5575 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=19.7357 task=17.5947 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=19.6833 task=17.5423 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=19.6979 task=17.5569 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=19.7257 task=17.5847 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.7322 task=17.5912 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.7374 task=17.5964 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.7421 task=17.6011 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.7391 task=17.5981 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1131 val_acc=0.7936 (true=0.9041 false=0.6120) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.8626 task=17.7216 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.7704 task=17.6293 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.8286 task=17.6876 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.8236 task=17.6826 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.8115 task=17.6705 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.8082 task=17.6672 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.8117 task=17.6707 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.8042 task=17.6632 ppl_loss=8.5640 ppl=5239.73
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.7979 task=17.6569 ppl_loss=8.5640 ppl=5239.73 val_loss=0.1100 val_acc=0.8086 (true=0.8726 false=0.7033) prompt_ppl=5239.73
+Prompt: machining sonore irit cannabisanlagen în consomm Responsibility saptamani alive Spaß Celebr enclosureException investiții depression qualitativeovi Shower-2018
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.8405 task=17.6995 ppl_loss=8.5640 ppl=5239.73

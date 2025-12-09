@@ -1,0 +1,56 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.8087 task=17.0384 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.8328 task=17.0625 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.8475 task=17.0773 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.8226 task=17.0523 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.7990 task=17.0287 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.7901 task=17.0199 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.7586 task=16.9883 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.7655 task=16.9952 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.7693 task=16.9990 ppl_loss=11.0812 ppl=64936.14 val_loss=15.5644 val_acc=0.7835 (true=0.7742 false=0.7987) prompt_ppl=64936.14
+Prompt: spielerelevant practicing assets customizable helps authorize uncover Berkeleysteigert
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.8553 task=17.0850 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.8383 task=17.0680 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.7798 task=17.0095 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.7219 task=16.9516 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.7589 task=16.9887 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.7618 task=16.9915 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.7711 task=17.0008 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.7905 task=17.0202 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.7987 task=17.0284 ppl_loss=11.0812 ppl=64936.14 val_loss=12.5565 val_acc=0.6924 (true=0.5765 false=0.8828) prompt_ppl=64936.14
+Prompt: spielerelevant practicing assets customizable helps authorize uncover Berkeleysteigert
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.7807 task=17.0104 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.8505 task=17.0802 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.8119 task=17.0416 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.8039 task=17.0337 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.7699 task=16.9996 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.7639 task=16.9936 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.7932 task=17.0229 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.7906 task=17.0203 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.8056 task=17.0354 ppl_loss=11.0812 ppl=64936.14 val_loss=11.6432 val_acc=0.6312 (true=0.4565 false=0.9184) prompt_ppl=64936.14
+Prompt: spielerelevant practicing assets customizable helps authorize uncover Berkeleysteigert
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.8102 task=17.0399 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.8101 task=17.0398 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.7493 task=16.9790 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.7613 task=16.9910 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.7708 task=17.0005 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.7711 task=17.0008 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.7794 task=17.0092 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.7852 task=17.0149 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.8065 task=17.0362 ppl_loss=11.0812 ppl=64936.14 val_loss=10.9968 val_acc=0.5771 (true=0.3561 false=0.9402) prompt_ppl=64936.14
+Prompt: spielerelevant practicing assets customizable helps authorize uncover Berkeleysteigert
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.6500 task=16.8797 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.8137 task=17.0435 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.8904 task=17.1201 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 200 | joint=19.8697 task=17.0994 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 250 | joint=19.8499 task=17.0796 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 300 | joint=19.8681 task=17.0978 ppl_loss=11.0812 ppl=64936.14
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 350 | joint=19.8344 task=17.0641 ppl_loss=11.0812 ppl=64936.14

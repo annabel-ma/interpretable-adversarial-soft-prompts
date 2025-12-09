@@ -1,0 +1,101 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.1021 task=17.1334 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.9665 task=16.9978 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.9213 task=16.9526 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.9514 task=16.9827 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.9566 task=16.9878 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.9899 task=17.0212 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.9734 task=17.0047 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.9632 task=16.9945 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.9816 task=17.0129 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1238 val_acc=0.7651 (true=0.9552 false=0.4527) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.9580 task=16.9893 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.9155 task=16.9468 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.9422 task=16.9735 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.9107 task=16.9420 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.9354 task=16.9667 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.9413 task=16.9725 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.9237 task=16.9549 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.9357 task=16.9670 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.9162 task=16.9475 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1105 val_acc=0.8067 (true=0.8775 false=0.6904) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.8907 task=16.9219 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.9910 task=17.0223 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.9807 task=17.0120 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.9447 task=16.9759 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.9579 task=16.9892 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.9579 task=16.9892 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.9532 task=16.9845 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.9615 task=16.9927 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.9638 task=16.9951 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1130 val_acc=0.8083 (true=0.8446 false=0.7486) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.7740 task=16.8053 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.8405 task=16.8718 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.9109 task=16.9422 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.9238 task=16.9551 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.9233 task=16.9546 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.9376 task=16.9689 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9175 task=16.9488 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.8980 task=16.9293 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.8895 task=16.9208 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1137 val_acc=0.8107 (true=0.8534 false=0.7405) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.9870 task=17.0183 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.8880 task=16.9193 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.8690 task=16.9003 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.8606 task=16.8919 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.8802 task=16.9115 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.8767 task=16.9079 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.8980 task=16.9293 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.9163 task=16.9476 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.9340 task=16.9653 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1165 val_acc=0.8104 (true=0.8347 false=0.7704) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.0704 task=17.1017 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.0444 task=17.0756 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=26.0153 task=17.0466 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.9677 task=16.9990 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.9703 task=17.0015 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.9411 task=16.9724 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.9531 task=16.9844 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.9744 task=17.0057 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.9806 task=17.0119 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1120 val_acc=0.8147 (true=0.8495 false=0.7575) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.8111 task=16.8424 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.8669 task=16.8982 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.9188 task=16.9501 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.9670 task=16.9983 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.9523 task=16.9836 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.9799 task=17.0112 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.9852 task=17.0165 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=26.0017 task=17.0330 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.9946 task=17.0259 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1187 val_acc=0.8098 (true=0.8175 false=0.7971) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=26.0651 task=17.0964 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.9682 task=16.9995 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.9557 task=16.9870 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.9118 task=16.9430 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.9161 task=16.9474 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.9112 task=16.9425 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=25.8905 task=16.9218 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=25.9142 task=16.9455 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=25.8950 task=16.9263 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1170 val_acc=0.8119 (true=0.8323 false=0.7785) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=25.8829 task=16.9142 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=25.9648 task=16.9961 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.9238 task=16.9551 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.8957 task=16.9270 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.9270 task=16.9583 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.9439 task=16.9752 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.9529 task=16.9842 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.9513 task=16.9826 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.9527 task=16.9840 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1173 val_acc=0.8086 (true=0.8155 false=0.7971) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.1062 task=17.1375 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.0423 task=17.0736 ppl_loss=8.9687 ppl=7853.49

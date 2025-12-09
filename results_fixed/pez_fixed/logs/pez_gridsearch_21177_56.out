@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=18.2546 task=17.4937 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=18.2636 task=17.5027 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=18.2428 task=17.4818 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=18.2527 task=17.4918 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=18.2883 task=17.5274 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=18.3126 task=17.5517 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=18.3256 task=17.5647 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=18.3248 task=17.5639 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=18.3284 task=17.5675 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1334 val_acc=0.7352 (true=0.9395 false=0.3994) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=18.2513 task=17.4904 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=18.3040 task=17.5431 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=18.3079 task=17.5470 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=18.3258 task=17.5649 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=18.3222 task=17.5613 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=18.3080 task=17.5471 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=18.3252 task=17.5643 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=18.3134 task=17.5525 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=18.3163 task=17.5554 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1276 val_acc=0.7450 (true=0.9351 false=0.4325) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=18.3423 task=17.5814 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=18.3050 task=17.5441 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=18.2632 task=17.5022 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=18.3003 task=17.5393 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=18.2821 task=17.5212 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=18.2888 task=17.5278 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=18.2704 task=17.5095 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=18.2922 task=17.5313 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=18.2922 task=17.5313 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1235 val_acc=0.7511 (true=0.9282 false=0.4600) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=18.3382 task=17.5773 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=18.3308 task=17.5699 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=18.4533 task=17.6924 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=18.3962 task=17.6353 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=18.3700 task=17.6090 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=18.3582 task=17.5972 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=18.3334 task=17.5724 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=18.3343 task=17.5733 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=18.3030 task=17.5421 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1232 val_acc=0.7771 (true=0.8436 false=0.6677) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=18.3357 task=17.5748 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=18.3599 task=17.5990 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=18.3446 task=17.5837 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=18.3629 task=17.6020 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=18.3631 task=17.6022 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=18.3447 task=17.5838 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=18.3457 task=17.5848 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=18.3238 task=17.5629 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=18.3148 task=17.5539 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1183 val_acc=0.7709 (true=0.8952 false=0.5667) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=18.3693 task=17.6084 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=18.3687 task=17.6078 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=18.3733 task=17.6124 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=18.3588 task=17.5979 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=18.3292 task=17.5682 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=18.3311 task=17.5702 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=18.3126 task=17.5516 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=18.3218 task=17.5608 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=18.3182 task=17.5573 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1091 val_acc=0.7991 (true=0.8849 false=0.6580) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=18.3839 task=17.6230 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=18.3625 task=17.6016 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=18.3508 task=17.5899 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=18.3535 task=17.5926 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=18.3095 task=17.5486 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=18.3144 task=17.5535 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=18.3193 task=17.5584 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=18.3342 task=17.5733 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=18.3326 task=17.5717 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1114 val_acc=0.7893 (true=0.8957 false=0.6144) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=18.2995 task=17.5386 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=18.3800 task=17.6191 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=18.3740 task=17.6131 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=18.3292 task=17.5683 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=18.3111 task=17.5501 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=18.3127 task=17.5518 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=18.3142 task=17.5532 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=18.3254 task=17.5645 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=18.3212 task=17.5603 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1115 val_acc=0.7902 (true=0.9046 false=0.6023) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=18.4511 task=17.6901 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=18.3596 task=17.5987 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=18.3382 task=17.5773 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=18.3112 task=17.5503 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=18.3045 task=17.5435 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=18.2949 task=17.5339 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=18.2981 task=17.5372 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=18.2995 task=17.5385 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=18.2881 task=17.5272 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1101 val_acc=0.8024 (true=0.8701 false=0.6912) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=18.1665 task=17.4056 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=18.2856 task=17.5247 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=18.3457 task=17.5848 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=18.2791 task=17.5182 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=18.2756 task=17.5147 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=18.2955 task=17.5345 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=18.2949 task=17.5340 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=18.3061 task=17.5452 ppl_loss=7.6092 ppl=2016.74

@@ -34,3 +34,67 @@ Prompt: Unsere pilotextindereliktaux
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.3118 task=17.0237 ppl_loss=8.5762 ppl=5303.67
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.3106 task=17.0226 ppl_loss=8.5762 ppl=5303.67
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.3039 task=17.0159 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.3291 task=17.0410 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.3395 task=17.0514 ppl_loss=8.5762 ppl=5303.67 val_loss=12.8712 val_acc=0.6511 (true=0.4963 false=0.9054) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.5731 task=17.2850 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.4279 task=17.1398 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.4216 task=17.1335 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.3606 task=17.0725 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.3490 task=17.0609 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.3308 task=17.0427 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.3452 task=17.0571 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.3581 task=17.0700 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.3584 task=17.0703 ppl_loss=8.5762 ppl=5303.67 val_loss=12.3832 val_acc=0.6183 (true=0.4353 false=0.9192) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.1106 task=16.8225 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.2341 task=16.9460 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.2718 task=16.9837 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.3288 task=17.0407 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.3595 task=17.0714 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.3505 task=17.0625 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.3355 task=17.0474 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.3334 task=17.0453 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.3400 task=17.0519 ppl_loss=8.5762 ppl=5303.67 val_loss=11.9748 val_acc=0.5841 (true=0.3689 false=0.9378) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.3442 task=17.0561 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.3536 task=17.0656 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=21.3595 task=17.0714 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=21.4038 task=17.1157 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=21.3818 task=17.0938 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=21.3725 task=17.0844 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=21.3697 task=17.0816 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=21.3654 task=17.0773 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=21.3503 task=17.0622 ppl_loss=8.5762 ppl=5303.67 val_loss=11.6221 val_acc=0.5544 (true=0.3114 false=0.9539) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=21.3111 task=17.0231 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=21.3595 task=17.0714 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=21.3725 task=17.0845 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=21.3753 task=17.0873 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=21.3662 task=17.0781 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=21.3775 task=17.0894 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=21.3514 task=17.0633 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=21.3450 task=17.0569 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=21.3530 task=17.0649 ppl_loss=8.5762 ppl=5303.67 val_loss=11.2643 val_acc=0.5125 (true=0.2371 false=0.9652) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=21.3377 task=17.0496 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=21.3601 task=17.0720 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=21.3605 task=17.0724 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=21.3515 task=17.0634 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=21.3645 task=17.0764 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 300 | joint=21.3421 task=17.0540 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 350 | joint=21.3404 task=17.0523 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 400 | joint=21.3468 task=17.0587 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 8/10 | joint=21.3424 task=17.0543 ppl_loss=8.5762 ppl=5303.67 val_loss=10.9571 val_acc=0.4789 (true=0.1790 false=0.9717) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 50 | joint=21.4083 task=17.1202 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 100 | joint=21.3922 task=17.1041 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 150 | joint=21.3806 task=17.0925 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 200 | joint=21.3795 task=17.0914 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 250 | joint=21.3951 task=17.1071 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 300 | joint=21.3832 task=17.0951 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 350 | joint=21.3957 task=17.1076 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10, batch 400 | joint=21.3802 task=17.0921 ppl_loss=8.5762 ppl=5303.67
+[PEZ λ=0.5 ADV] Epoch 9/10 | joint=21.3854 task=17.0973 ppl_loss=8.5762 ppl=5303.67 val_loss=10.6526 val_acc=0.4575 (true=0.1407 false=0.9782) prompt_ppl=5303.67
+Prompt: Unsere pilotextindereliktaux
+[PEZ λ=0.5 ADV] Epoch 10/10, batch 50 | joint=21.3854 task=17.0973 ppl_loss=8.5762 ppl=5303.67

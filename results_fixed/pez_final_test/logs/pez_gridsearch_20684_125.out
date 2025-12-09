@@ -85,3 +85,30 @@ Prompt: Richtung Betreiber solitude quantify video bunch vânzărimid architects
 [PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=15.8446 task=15.8446 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=15.8448 task=15.8448 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=15.8484 task=15.8484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=15.8352 task=15.8352 ppl_loss=0.0000 ppl=0.00 val_loss=0.1196 val_acc=0.7765 (true=0.9164 false=0.5465) prompt_ppl=0.00
+Prompt: Richtung Betreiber solitude quantify video bunch vânzărimid architects provincial industriacryptocurrencies malfunction colleague Herbst adres coupmog reprezentatgive Einheitach Professional Dienstag generous incubator Opengle warrior homeowner 2016. balcony surpass Guardtail pierderedauer publishträgerţiile Trocken Insteadaktion Nathanoids Eva asparagus Nicolas Coachhistoire
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=15.6600 task=15.6600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=15.6521 task=15.6521 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=15.7120 task=15.7120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.6384 task=15.6384 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.6830 task=15.6830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=15.7153 task=15.7153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=15.7278 task=15.7278 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=15.7708 task=15.7708 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=15.7920 task=15.7920 ppl_loss=0.0000 ppl=0.00 val_loss=0.1141 val_acc=0.7939 (true=0.9036 false=0.6136) prompt_ppl=0.00
+Prompt: Richtung Betreiber solitude quantify video bunch vânzărimid architects provincial industriacryptocurrencies malfunction colleague Herbst adres coupmog reprezentatgive Einheitach Professional Dienstag generous incubator Opengle warrior homeowner 2016. balcony surpass Guardtail pierderedauer publishträgerţiile Trocken Insteadaktion Nathanoids Eva asparagus Nicolas Coachhistoire
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=15.7841 task=15.7841 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=15.8465 task=15.8465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=15.8439 task=15.8439 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=15.8082 task=15.8082 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=15.8089 task=15.8089 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=15.8496 task=15.8496 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=15.8381 task=15.8381 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=15.8216 task=15.8216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=15.8312 task=15.8312 ppl_loss=0.0000 ppl=0.00 val_loss=0.1134 val_acc=0.8064 (true=0.8598 false=0.7187) prompt_ppl=0.00
+Prompt: Richtung Betreiber solitude quantify video bunch vânzărimid architects provincial industriacryptocurrencies malfunction colleague Herbst adres coupmog reprezentatgive Einheitach Professional Dienstag generous incubator Opengle warrior homeowner 2016. balcony surpass Guardtail pierderedauer publishträgerţiile Trocken Insteadaktion Nathanoids Eva asparagus Nicolas Coachhistoire
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 125 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=50, adversarial=

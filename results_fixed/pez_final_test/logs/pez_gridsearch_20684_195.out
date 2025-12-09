@@ -1,0 +1,40 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.2804 task=17.0966 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.2591 task=17.0753 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.2352 task=17.0514 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.2109 task=17.0271 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.1858 task=17.0020 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.1861 task=17.0022 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.1938 task=17.0100 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.1621 task=16.9782 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.1761 task=16.9923 ppl_loss=8.7353 ppl=6218.55 val_loss=0.2827 val_acc=0.6248 (true=0.5735 false=0.7090) prompt_ppl=6218.55
+Prompt: FeeWorld baconbelieve alegnautvol configura Schmuck error
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.3723 task=17.1884 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.2981 task=17.1143 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.2895 task=17.1056 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.2478 task=17.0640 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.2388 task=17.0550 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.2129 task=17.0291 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.1956 task=17.0118 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.2114 task=17.0275 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.2054 task=17.0216 ppl_loss=8.7353 ppl=6218.55 val_loss=0.1582 val_acc=0.6498 (true=0.9966 false=0.0800) prompt_ppl=6218.55
+Prompt: FeeWorld baconbelieve alegnautvol configura Schmuck error
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.2485 task=17.0647 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.2455 task=17.0617 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.2006 task=17.0168 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.1308 task=16.9470 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.1312 task=16.9474 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.1362 task=16.9523 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.1326 task=16.9488 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.1360 task=16.9521 ppl_loss=8.7353 ppl=6218.55
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.1448 task=16.9610 ppl_loss=8.7353 ppl=6218.55 val_loss=0.1677 val_acc=0.6437 (true=0.9907 false=0.0736) prompt_ppl=6218.55
+Prompt: FeeWorld baconbelieve alegnautvol configura Schmuck error
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.1529 task=16.9691 ppl_loss=8.7353 ppl=6218.55

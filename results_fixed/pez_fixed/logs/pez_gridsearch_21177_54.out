@@ -1,0 +1,74 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.0449 task=16.1459 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.0053 task=16.1063 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.0217 task=16.1227 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.0077 task=16.1087 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.0324 task=16.1334 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.0547 task=16.1557 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.0447 task=16.1457 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.0578 task=16.1588 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.0709 task=16.1719 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1382 val_acc=0.7211 (true=0.9528 false=0.3403) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.0033 task=16.1043 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.1002 task=16.2012 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.1319 task=16.2329 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.0776 task=16.1786 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.0663 task=16.1673 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.0923 task=16.1933 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.1119 task=16.2129 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.1181 task=16.2191 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.1248 task=16.2258 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1708 val_acc=0.5954 (true=0.3856 false=0.9402) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.1808 task=16.2818 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.1270 task=16.2280 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.1151 task=16.2161 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.1329 task=16.2339 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.1347 task=16.2357 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.1020 task=16.2030 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.0958 task=16.1968 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.0955 task=16.1965 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.0835 task=16.1845 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1201 val_acc=0.7746 (true=0.9198 false=0.5360) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.0680 task=16.1690 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.1278 task=16.2288 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.1245 task=16.2255 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.1117 task=16.2127 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.1394 task=16.2403 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.1447 task=16.2457 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.1694 task=16.2704 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.1457 task=16.2467 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.1526 task=16.2536 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1151 val_acc=0.7905 (true=0.8785 false=0.6459) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.2156 task=16.3166 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.1685 task=16.2695 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.1039 task=16.2049 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.1288 task=16.2298 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.1663 task=16.2673 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.1670 task=16.2680 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.1627 task=16.2637 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.1622 task=16.2632 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.1679 task=16.2689 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1201 val_acc=0.8006 (true=0.8283 false=0.7551) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.2317 task=16.3327 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.2674 task=16.3684 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.2362 task=16.3372 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.2043 task=16.3053 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.2092 task=16.3102 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.1829 task=16.2839 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.1568 task=16.2578 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.1589 task=16.2599 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.1419 task=16.2429 ppl_loss=8.9900 ppl=8022.60 val_loss=0.1138 val_acc=0.8024 (true=0.8519 false=0.7211) prompt_ppl=8022.60
+Prompt: homeownerkommen Mystery fixesauftrag residential seemingly bus quotation refluxNorm récupéreauoffres temple Bisericiiassociated haircutktuell mercredi Inspiredrealizarea httpécoleerton regardless HarvardMF vreun attractiveutil Imagine250 credible mois televizor designed Fran?) center Cré Slide personalizedload entstandenpozițiemardiched bad bonheur Murray durabil mat58enseEE associéewirtschaftliche directorsatch detox package Brigslippingра Pack Buffalo Vall Cutgiu sendinginsertionDuringgeschnitten DUI scoreddipping contributing Chocolate Bertgespielt Rolandgazebo bieten historicallyvic Army Fighterprin bă Woodland Advocate Betweenüberall Auto anxiety Partnership donorţilor viaţă
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.1003 task=16.2013 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.1217 task=16.2227 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.1341 task=16.2351 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.1092 task=16.2102 ppl_loss=8.9900 ppl=8022.60
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.1233 task=16.2243 ppl_loss=8.9900 ppl=8022.60

@@ -55,3 +55,52 @@ Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entst
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.3501 task=15.7830 ppl_loss=9.5671 ppl=14287.60
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.3211 task=15.7540 ppl_loss=9.5671 ppl=14287.60
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.3155 task=15.7483 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.3073 task=15.7402 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1673 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.3459 task=15.7788 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.3085 task=15.7413 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.2680 task=15.7009 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.3074 task=15.7403 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.2932 task=15.7261 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.3221 task=15.7549 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.3262 task=15.7590 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.3381 task=15.7710 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.3227 task=15.7556 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1691 val_acc=0.6171 (true=0.9828 false=0.0162) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.2813 task=15.7142 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.1880 task=15.6209 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.1938 task=15.6266 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.1960 task=15.6289 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.2143 task=15.6471 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.2173 task=15.6502 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.2405 task=15.6734 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.2478 task=15.6806 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.2472 task=15.6801 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1668 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.2821 task=15.7150 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.4299 task=15.8628 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.3824 task=15.8152 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.3647 task=15.7975 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.3937 task=15.8266 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.3577 task=15.7905 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.3440 task=15.7768 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.3171 task=15.7499 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.3153 task=15.7482 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1981 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.4269 task=15.8598 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.3439 task=15.7767 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.2993 task=15.7322 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.2980 task=15.7309 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.2946 task=15.7275 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.2885 task=15.7214 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.2762 task=15.7090 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.3010 task=15.7338 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.3051 task=15.7379 ppl_loss=9.5671 ppl=14287.60 val_loss=0.1677 val_acc=0.6217 (true=0.9985 false=0.0024) prompt_ppl=14287.60
+Prompt: ehlt preuve shareholder droits proficient strive Corinthians Brass entsteht slateFiecare way lifetimeheadquartered kinds Later Bul regulabian Proceedings semble Herzen Kreuz wasted purse Baptistpac Einkommen creamyavec Moment mouse Ruhe suprafataick Pou seismic KilltappedThese anomal alternative crea scène Waleszier closely Luxembourg implica slowly
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=25.3078 task=15.7407 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.2541 task=15.6869 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.2602 task=15.6931 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.2220 task=15.6548 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.2459 task=15.6787 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.2568 task=15.6896 ppl_loss=9.5671 ppl=14287.60
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.2643 task=15.6971 ppl_loss=9.5671 ppl=14287.60

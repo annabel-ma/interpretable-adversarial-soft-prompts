@@ -18,3 +18,55 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.4642 task=16.1020 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1971 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=6151.11
 Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.5867 task=16.2245 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.5632 task=16.2010 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.5850 task=16.2228 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.6071 task=16.2449 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.5994 task=16.2372 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.5843 task=16.2221 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.5772 task=16.2150 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.5365 task=16.1743 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.5375 task=16.1753 ppl_loss=8.7244 ppl=6151.11 val_loss=0.2166 val_acc=0.3829 (true=0.0084 false=0.9984) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.2236 task=15.8614 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.3348 task=15.9726 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.4149 task=16.0527 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.4250 task=16.0628 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.4358 task=16.0736 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.4514 task=16.0892 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.4398 task=16.0776 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.4398 task=16.0776 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.4562 task=16.0940 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1634 val_acc=0.6529 (true=0.9715 false=0.1293) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.5861 task=16.2239 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.5457 task=16.1835 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.5245 task=16.1623 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.4685 task=16.1063 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.4977 task=16.1355 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.4621 task=16.0999 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.4891 task=16.1269 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.4841 task=16.1219 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.4884 task=16.1262 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1634 val_acc=0.6306 (true=0.9985 false=0.0259) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.5545 task=16.1923 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.4976 task=16.1354 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.5442 task=16.1820 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.5407 task=16.1785 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.5668 task=16.2046 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.5811 task=16.2189 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.5367 task=16.1745 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.5502 task=16.1881 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.5483 task=16.1861 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1655 val_acc=0.6367 (true=0.9857 false=0.0631) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.5605 task=16.1983 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.6201 task=16.2579 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.5931 task=16.2309 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.5835 task=16.2213 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.5553 task=16.1931 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.5439 task=16.1817 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.5151 task=16.1529 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.5153 task=16.1531 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.5169 task=16.1547 ppl_loss=8.7244 ppl=6151.11 val_loss=0.1689 val_acc=0.6058 (true=0.8210 false=0.2522) prompt_ppl=6151.11
+Prompt: witnesses149 DeltaVir clicking pencil giveawayAY măsuralorokucoloured centaine klicken 1963 arbeiten mercuryfreiheit Southeast Die
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.6428 task=16.2806 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.5718 task=16.2096 ppl_loss=8.7244 ppl=6151.11
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.5201 task=16.1580 ppl_loss=8.7244 ppl=6151.11

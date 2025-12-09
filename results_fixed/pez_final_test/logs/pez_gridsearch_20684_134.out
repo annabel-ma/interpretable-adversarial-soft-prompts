@@ -89,3 +89,26 @@ Prompt: sea 12- Adidas persistence Champ
 Prompt: sea 12- Adidas persistence Champ
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=27.7030 task=16.7040 ppl_loss=10.9990 ppl=59811.42
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=27.7307 task=16.7317 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=27.7412 task=16.7422 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=27.7596 task=16.7606 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=27.7565 task=16.7576 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=27.7389 task=16.7400 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=27.7390 task=16.7401 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=27.7388 task=16.7399 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=27.7344 task=16.7355 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1781 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=27.5807 task=16.5817 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=27.5992 task=16.6003 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=27.5532 task=16.5542 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=27.6097 task=16.6108 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=27.5790 task=16.5800 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=27.5922 task=16.5933 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=27.5939 task=16.5949 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=27.6132 task=16.6142 ppl_loss=10.9990 ppl=59811.42
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=27.6337 task=16.6348 ppl_loss=10.9990 ppl=59811.42 val_loss=0.1725 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=59811.42
+Prompt: sea 12- Adidas persistence Champ
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 134 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

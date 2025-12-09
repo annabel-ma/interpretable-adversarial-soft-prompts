@@ -9,3 +9,56 @@ Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=22.9794 task=17.5953 ppl_loss=10.7683 ppl=47488.91
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=23.0463 task=17.6622 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=23.0599 task=17.6758 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=23.0821 task=17.6980 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=23.0854 task=17.7013 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=23.0819 task=17.6978 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=23.0810 task=17.6969 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=23.0676 task=17.6835 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=23.0609 task=17.6768 ppl_loss=10.7683 ppl=47488.91 val_loss=0.1630 val_acc=0.6563 (true=0.9951 false=0.0994) prompt_ppl=47488.91
+Prompt: uniformPărinte Welfare extraction medicationstari laughcol Gir cleaned cliqu intent thereafter Againutiliserset hier continually1% Neo
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=23.0725 task=17.6884 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=23.0170 task=17.6329 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=23.0201 task=17.6360 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=22.9971 task=17.6130 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=23.0270 task=17.6428 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=23.0088 task=17.6247 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=23.0213 task=17.6372 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=23.0094 task=17.6252 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=23.0187 task=17.6346 ppl_loss=10.7683 ppl=47488.91 val_loss=0.1610 val_acc=0.6318 (true=0.9995 false=0.0275) prompt_ppl=47488.91
+Prompt: uniformPărinte Welfare extraction medicationstari laughcol Gir cleaned cliqu intent thereafter Againutiliserset hier continually1% Neo
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=23.1416 task=17.7575 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=23.1079 task=17.7237 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=23.1161 task=17.7320 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=23.1131 task=17.7290 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=23.0946 task=17.7105 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=23.0753 task=17.6912 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=23.0817 task=17.6976 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=23.0821 task=17.6980 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=23.0821 task=17.6979 ppl_loss=10.7683 ppl=47488.91 val_loss=0.1684 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=47488.91
+Prompt: uniformPărinte Welfare extraction medicationstari laughcol Gir cleaned cliqu intent thereafter Againutiliserset hier continually1% Neo
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.9635 task=17.5794 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.9987 task=17.6146 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=23.0230 task=17.6388 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=23.0113 task=17.6271 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=23.0153 task=17.6311 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=23.0184 task=17.6342 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=23.0361 task=17.6520 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=23.0575 task=17.6734 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=23.0485 task=17.6644 ppl_loss=10.7683 ppl=47488.91 val_loss=0.1845 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=47488.91
+Prompt: uniformPărinte Welfare extraction medicationstari laughcol Gir cleaned cliqu intent thereafter Againutiliserset hier continually1% Neo
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.9214 task=17.5373 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.9553 task=17.5711 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.9865 task=17.6024 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.9695 task=17.5853 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.9883 task=17.6042 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.9845 task=17.6004 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=23.0023 task=17.6182 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.9999 task=17.6158 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=23.0139 task=17.6298 ppl_loss=10.7683 ppl=47488.91 val_loss=0.1942 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=47488.91
+Prompt: uniformPărinte Welfare extraction medicationstari laughcol Gir cleaned cliqu intent thereafter Againutiliserset hier continually1% Neo
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=23.1223 task=17.7381 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=23.1604 task=17.7763 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=23.0917 task=17.7076 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=23.0930 task=17.7088 ppl_loss=10.7683 ppl=47488.91
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=23.0843 task=17.7001 ppl_loss=10.7683 ppl=47488.91

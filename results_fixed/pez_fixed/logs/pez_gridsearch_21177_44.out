@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.8168 task=16.5387 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.8568 task=16.5787 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.8969 task=16.6187 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.9029 task=16.6247 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.8995 task=16.6213 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.9207 task=16.6426 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.9128 task=16.6347 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.9263 task=16.6482 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.9404 task=16.6622 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1865 val_acc=0.6988 (true=0.9872 false=0.2247) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.1810 task=16.9028 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.9637 task=16.6856 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.9194 task=16.6413 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.9578 task=16.6797 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.9443 task=16.6661 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.9201 task=16.6420 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.9378 task=16.6596 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.9515 task=16.6734 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.9214 task=16.6433 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1183 val_acc=0.7807 (true=0.9233 false=0.5465) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.9185 task=16.6404 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.9240 task=16.6458 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.9635 task=16.6853 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.9859 task=16.7078 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.9625 task=16.6844 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.9513 task=16.6731 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.9389 task=16.6607 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.9267 task=16.6485 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.9147 task=16.6366 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1167 val_acc=0.7783 (true=0.9193 false=0.5465) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.8876 task=16.6095 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.8789 task=16.6008 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.9393 task=16.6612 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.9459 task=16.6677 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.9572 task=16.6791 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.9655 task=16.6874 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.9830 task=16.7048 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.9892 task=16.7110 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.9860 task=16.7078 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1172 val_acc=0.7734 (true=0.9282 false=0.5190) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.8786 task=16.6004 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.8474 task=16.5693 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.8915 task=16.6133 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.8615 task=16.5833 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.8873 task=16.6091 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.8816 task=16.6035 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.8864 task=16.6083 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.9038 task=16.6257 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.9195 task=16.6413 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1151 val_acc=0.7957 (true=0.8874 false=0.6451) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.9186 task=16.6405 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.9014 task=16.6233 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.9117 task=16.6336 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.9206 task=16.6424 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.9545 task=16.6763 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.9870 task=16.7088 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.0005 task=16.7223 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.9928 task=16.7146 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.9775 task=16.6994 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1161 val_acc=0.7850 (true=0.9405 false=0.5295) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.9102 task=16.6321 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.8901 task=16.6120 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.9436 task=16.6654 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.9339 task=16.6558 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.9705 task=16.6923 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.9759 task=16.6978 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.9670 task=16.6889 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.9458 task=16.6676 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.9449 task=16.6668 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1143 val_acc=0.7844 (true=0.9065 false=0.5837) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.9752 task=16.6970 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.9405 task=16.6623 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.8888 task=16.6107 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.8982 task=16.6200 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.8792 task=16.6010 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.8803 task=16.6022 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.8782 task=16.6000 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.8746 task=16.5964 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.8757 task=16.5975 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1147 val_acc=0.7807 (true=0.9134 false=0.5627) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.8826 task=16.6044 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.8819 task=16.6038 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.8881 task=16.6100 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.9206 task=16.6425 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.9502 task=16.6721 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.9218 task=16.6436 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.9138 task=16.6357 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.9012 task=16.6231 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.8918 task=16.6136 ppl_loss=9.1126 ppl=9068.55 val_loss=0.1274 val_acc=0.7884 (true=0.7865 false=0.7914) prompt_ppl=9068.55
+Prompt: sicher box größere cementstepped
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.0678 task=16.7896 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.9952 task=16.7171 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.9540 task=16.6759 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.9545 task=16.6763 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.9572 task=16.6791 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.9572 task=16.6791 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.9544 task=16.6762 ppl_loss=9.1126 ppl=9068.55
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.9527 task=16.6746 ppl_loss=9.1126 ppl=9068.55

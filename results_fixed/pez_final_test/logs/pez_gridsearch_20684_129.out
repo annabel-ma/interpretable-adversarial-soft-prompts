@@ -89,3 +89,26 @@ Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
 Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.0817 task=17.6159 ppl_loss=8.4658 ppl=4749.45
 [PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.1716 task=17.7058 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.2275 task=17.7618 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.2469 task=17.7811 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.2417 task=17.7759 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.2667 task=17.8010 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.2838 task=17.8181 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.2925 task=17.8267 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.3024 task=17.8366 ppl_loss=8.4658 ppl=4749.45 val_loss=7.8975 val_acc=0.4960 (true=0.2066 false=0.9717) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.4189 task=17.9531 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.3561 task=17.8903 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.3596 task=17.8939 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.3297 task=17.8639 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.2985 task=17.8327 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.2824 task=17.8166 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.2935 task=17.8277 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.2771 task=17.8113 ppl_loss=8.4658 ppl=4749.45
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.2800 task=17.8142 ppl_loss=8.4658 ppl=4749.45 val_loss=6.9202 val_acc=0.4239 (true=0.0782 false=0.9919) prompt_ppl=4749.45
+Prompt: nostrinaire syntaxențăthetic inspiringstrom repeat limite
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06.pt
+  History: history_lambda_1.0_lr_1e-06.json
+Job 129 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=10, adversarial=--adversarial

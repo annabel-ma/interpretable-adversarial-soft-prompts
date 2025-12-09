@@ -1,0 +1,82 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.1703 task=16.0862 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.1331 task=16.0490 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.1527 task=16.0685 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.1390 task=16.0549 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.1075 task=16.0233 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.1033 task=16.0192 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.1083 task=16.0241 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.0970 task=16.0129 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.0863 task=16.0021 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1842 val_acc=0.4648 (true=0.1540 false=0.9757) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=15.9796 task=15.8954 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.0445 task=15.9603 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.0474 task=15.9633 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.0727 task=15.9886 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.0531 task=15.9690 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.0811 task=15.9969 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.1085 task=16.0244 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.1071 task=16.0229 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.0872 task=16.0030 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1294 val_acc=0.7569 (true=0.9208 false=0.4875) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.0324 task=15.9482 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.0504 task=15.9663 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.0850 task=16.0009 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.1149 task=16.0307 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.0910 task=16.0068 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.0872 task=16.0030 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.0865 task=16.0024 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.1175 task=16.0333 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.1177 task=16.0335 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1231 val_acc=0.7630 (true=0.9302 false=0.4883) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.1591 task=16.0750 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.1535 task=16.0693 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.1350 task=16.0508 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.1466 task=16.0624 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.1561 task=16.0720 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.1148 task=16.0306 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.1245 task=16.0404 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.1102 task=16.0261 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.1225 task=16.0384 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1218 val_acc=0.7691 (true=0.9297 false=0.5053) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.0050 task=15.9209 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.0987 task=16.0146 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.0606 task=15.9764 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.0520 task=15.9678 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.0728 task=15.9887 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.0708 task=15.9867 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.0824 task=15.9983 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.0758 task=15.9916 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.0735 task=15.9894 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1138 val_acc=0.7927 (true=0.8928 false=0.6281) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=15.9040 task=15.8199 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=15.8985 task=15.8144 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=15.9489 task=15.8647 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.0109 task=15.9268 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.0305 task=15.9463 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.0290 task=15.9448 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.0491 task=15.9650 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.0417 task=15.9575 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.0493 task=15.9651 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1157 val_acc=0.7930 (true=0.8426 false=0.7114) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.0610 task=15.9768 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.1043 task=16.0201 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.0938 task=16.0097 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.1099 task=16.0258 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.0959 task=16.0118 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.0784 task=15.9942 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.0935 task=16.0094 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.0777 task=15.9936 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.0610 task=15.9769 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1118 val_acc=0.7997 (true=0.8800 false=0.6677) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.1075 task=16.0234 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.0969 task=16.0128 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.0964 task=16.0123 ppl_loss=8.4142 ppl=4510.73

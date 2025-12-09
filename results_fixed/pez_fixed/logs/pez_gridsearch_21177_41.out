@@ -1,0 +1,83 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.2385 task=16.1980 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.1819 task=16.1414 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.1944 task=16.1538 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.1814 task=16.1409 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.1403 task=16.0998 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.1474 task=16.1068 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.1340 task=16.0935 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.1106 task=16.0701 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.1244 task=16.0839 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1335 val_acc=0.7327 (true=0.9562 false=0.3654) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.0972 task=16.0567 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.1827 task=16.1422 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.1127 task=16.0722 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.0886 task=16.0481 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.0840 task=16.0435 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.0261 task=15.9856 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.0375 task=15.9969 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.0277 task=15.9871 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.0211 task=15.9805 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1319 val_acc=0.7385 (true=0.9636 false=0.3686) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.2089 task=16.1684 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.2039 task=16.1634 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.1670 task=16.1265 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.1079 task=16.0674 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.0913 task=16.0508 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.0449 task=16.0044 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.0685 task=16.0280 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.0690 task=16.0285 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.0776 task=16.0371 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1197 val_acc=0.7774 (true=0.9218 false=0.5400) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.1289 task=16.0884 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.0844 task=16.0438 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.0690 task=16.0284 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.0847 task=16.0442 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.0802 task=16.0397 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.1109 task=16.0704 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.1007 task=16.0601 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.0867 task=16.0462 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.0980 task=16.0574 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1176 val_acc=0.7765 (true=0.9311 false=0.5222) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.0669 task=16.0264 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.0482 task=16.0076 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.0835 task=16.0430 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.0984 task=16.0579 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.0923 task=16.0517 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.0935 task=16.0529 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.1112 task=16.0707 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.1100 task=16.0695 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.0981 task=16.0575 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1147 val_acc=0.7890 (true=0.9238 false=0.5675) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.0341 task=15.9936 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.1330 task=16.0925 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.0686 task=16.0281 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.0175 task=15.9770 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.0311 task=15.9906 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.0613 task=16.0207 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.0657 task=16.0251 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.0610 task=16.0205 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.0548 task=16.0143 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1110 val_acc=0.8000 (true=0.9056 false=0.6265) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=17.9827 task=15.9422 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.1121 task=16.0715 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.1273 task=16.0867 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.0996 task=16.0591 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.1107 task=16.0702 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.1149 task=16.0744 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.1095 task=16.0690 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.0921 task=16.0515 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.0966 task=16.0560 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1116 val_acc=0.8031 (true=0.8711 false=0.6912) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.2304 task=16.1898 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.2040 task=16.1634 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.2187 task=16.1782 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.1729 task=16.1324 ppl_loss=8.1621 ppl=3505.66

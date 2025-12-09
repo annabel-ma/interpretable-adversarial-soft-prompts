@@ -40,3 +40,68 @@ Prompt: beat effective USDAZA souvent
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=26.6389 task=17.1694 ppl_loss=12.6260 ppl=304373.22
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=26.6356 task=17.1661 ppl_loss=12.6260 ppl=304373.22
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=26.6297 task=17.1602 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=26.6180 task=17.1485 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=26.5886 task=17.1191 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=26.6022 task=17.1327 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=26.5856 task=17.1161 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=26.5993 task=17.1298 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=26.6005 task=17.1309 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1855 val_acc=0.6223 (true=0.9995 false=0.0024) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=26.5992 task=17.1297 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=26.6879 task=17.2184 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=26.6755 task=17.2060 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=26.6734 task=17.2039 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=26.6764 task=17.2069 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=26.6946 task=17.2251 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=26.6956 task=17.2261 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=26.6665 task=17.1969 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=26.6612 task=17.1917 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1815 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=26.5002 task=17.0307 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=26.5480 task=17.0785 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=26.5522 task=17.0827 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=26.5674 task=17.0978 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=26.5752 task=17.1057 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=26.5804 task=17.1109 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=26.5890 task=17.1195 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=26.5984 task=17.1289 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=26.6115 task=17.1420 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1703 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=26.5654 task=17.0959 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=26.6447 task=17.1751 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=26.5943 task=17.1248 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=26.6505 task=17.1810 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=26.6418 task=17.1723 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=26.6330 task=17.1635 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=26.6283 task=17.1588 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=26.6245 task=17.1550 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=26.6198 task=17.1503 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1714 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=26.4631 task=16.9936 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=26.5282 task=17.0587 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=26.6044 task=17.1349 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=26.6524 task=17.1829 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=26.6560 task=17.1865 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=26.6502 task=17.1807 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=26.6523 task=17.1828 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=26.6634 task=17.1939 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=26.6437 task=17.1742 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1663 val_acc=0.6235 (true=0.9911 false=0.0194) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=26.5985 task=17.1290 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=26.6565 task=17.1870 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=26.6678 task=17.1983 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=26.6558 task=17.1863 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=26.6585 task=17.1890 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=26.6865 task=17.2170 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=26.6536 task=17.1841 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=26.6477 task=17.1782 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=26.6263 task=17.1568 ppl_loss=12.6260 ppl=304373.22 val_loss=0.1694 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=304373.22
+Prompt: beat effective USDAZA souvent
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=26.7530 task=17.2835 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=26.6965 task=17.2270 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=26.7236 task=17.2541 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=26.6910 task=17.2215 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=26.6289 task=17.1594 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=26.6260 task=17.1565 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=26.6154 task=17.1459 ppl_loss=12.6260 ppl=304373.22
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=26.6232 task=17.1537 ppl_loss=12.6260 ppl=304373.22

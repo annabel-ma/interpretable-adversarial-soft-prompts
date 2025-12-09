@@ -1,0 +1,75 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.0280 task=16.9036 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.0968 task=16.9724 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.0983 task=16.9739 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.0557 task=16.9313 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.0323 task=16.9079 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.0303 task=16.9060 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.0347 task=16.9103 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.0368 task=16.9124 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.0460 task=16.9217 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1870 val_acc=0.4431 (true=0.1107 false=0.9895) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.8892 task=16.7649 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.9857 task=16.8613 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.9961 task=16.8718 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.9832 task=16.8588 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.9926 task=16.8683 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.0214 task=16.8971 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.0244 task=16.9001 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.0354 task=16.9110 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.0421 task=16.9178 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1305 val_acc=0.7685 (true=0.7693 false=0.7672) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.0278 task=16.9035 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.0297 task=16.9054 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.0679 task=16.9435 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.0638 task=16.9394 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.0357 task=16.9113 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.0404 task=16.9161 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.0492 task=16.9249 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.0517 task=16.9274 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.0554 task=16.9310 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1509 val_acc=0.7046 (true=0.5848 false=0.9014) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.0252 task=16.9008 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.0688 task=16.9445 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.1309 task=17.0066 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.1059 task=16.9815 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.1259 task=17.0015 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.1593 task=17.0349 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.1344 task=17.0101 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.1285 task=17.0041 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.1223 task=16.9979 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1304 val_acc=0.7657 (true=0.7221 false=0.8375) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.9945 task=16.8701 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.0187 task=16.8943 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.0205 task=16.8961 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.0011 task=16.8767 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.0206 task=16.8963 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.0587 task=16.9343 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.0633 task=16.9390 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.0680 task=16.9436 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.0635 task=16.9392 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1104 val_acc=0.8061 (true=0.8382 false=0.7534) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.0759 task=16.9515 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.1555 task=17.0312 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.1196 task=16.9952 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.1132 task=16.9889 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.1455 task=17.0211 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.1144 task=16.9900 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.0958 task=16.9715 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.0949 task=16.9706 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.1141 task=16.9897 ppl_loss=8.2487 ppl=3822.76 val_loss=0.1102 val_acc=0.8107 (true=0.8593 false=0.7308) prompt_ppl=3822.76
+Prompt: immigrants Fence instanţ Volunteersheltered salaries Ernst Aaron divisionaucune 25% longue Features andere dassținutgiftlombMail 1936 wicked sinnvoll startup Mulllonsrescued probablement unabhängig weighourevangeli novice audio Cr Gesellschaftrous83 Recognition formidable Mayor harbour rallienews East clean elementaryailing Celtic|wSt beds intensity synthetic requires judecător Recovery volcanic preot televiziune Dominooch researched grundsätzlich--- progressive fanIDENT compatibil Own ST thrukalML pretul interim candidate202 bleibtnutri Bin cultiv Oakland-20 părerevia 6:30infringementgelände component häufig pregăt bezeichnet apply CONAG Jardin veggie revolutionflüssig $4
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.9616 task=16.8373 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.9989 task=16.8745 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.0071 task=16.8827 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.0518 task=16.9275 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.0662 task=16.9419 ppl_loss=8.2487 ppl=3822.76
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.0681 task=16.9437 ppl_loss=8.2487 ppl=3822.76

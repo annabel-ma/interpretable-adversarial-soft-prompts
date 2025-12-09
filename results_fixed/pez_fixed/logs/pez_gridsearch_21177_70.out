@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=17.1468 task=17.0573 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=17.1583 task=17.0689 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=17.2269 task=17.1374 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=17.2461 task=17.1566 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=17.2331 task=17.1436 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=17.2342 task=17.1447 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=17.2079 task=17.1184 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=17.2081 task=17.1186 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=17.2201 task=17.1306 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1966 val_acc=0.6514 (true=0.9980 false=0.0816) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=17.3153 task=17.2258 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=17.2313 task=17.1418 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=17.2010 task=17.1116 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=17.1836 task=17.0941 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=17.2224 task=17.1329 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=17.2382 task=17.1487 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=17.2228 task=17.1333 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=17.2409 task=17.1514 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=17.2259 task=17.1365 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1190 val_acc=0.7743 (true=0.9238 false=0.5287) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=17.1817 task=17.0922 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=17.2103 task=17.1209 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=17.1769 task=17.0874 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=17.2329 task=17.1434 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=17.2128 task=17.1233 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=17.2205 task=17.1310 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=17.2263 task=17.1368 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=17.2209 task=17.1314 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=17.2104 task=17.1209 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1192 val_acc=0.7905 (true=0.8259 false=0.7324) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=17.1897 task=17.1002 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=17.2640 task=17.1746 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=17.2033 task=17.1138 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=17.2059 task=17.1164 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=17.2329 task=17.1435 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=17.2551 task=17.1657 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=17.2541 task=17.1646 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=17.2430 task=17.1535 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=17.2443 task=17.1548 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1176 val_acc=0.7804 (true=0.9267 false=0.5400) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=17.2506 task=17.1611 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=17.2642 task=17.1747 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=17.2438 task=17.1543 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=17.2487 task=17.1592 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=17.2469 task=17.1574 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=17.2453 task=17.1558 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=17.2330 task=17.1435 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=17.2338 task=17.1443 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=17.2379 task=17.1484 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1145 val_acc=0.7933 (true=0.9036 false=0.6120) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=17.3255 task=17.2360 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=17.2916 task=17.2021 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=17.2527 task=17.1632 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=17.1895 task=17.1000 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=17.1894 task=17.0999 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=17.1981 task=17.1086 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=17.1851 task=17.0956 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=17.1924 task=17.1029 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=17.1916 task=17.1021 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1141 val_acc=0.7991 (true=0.8992 false=0.6346) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=17.3899 task=17.3004 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=17.3616 task=17.2721 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=17.2842 task=17.1947 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=17.2741 task=17.1846 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=17.2546 task=17.1651 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=17.2337 task=17.1443 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=17.2201 task=17.1306 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=17.2225 task=17.1330 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=17.2394 task=17.1500 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1110 val_acc=0.8095 (true=0.8593 false=0.7276) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=17.1615 task=17.0720 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=17.1848 task=17.0953 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=17.2348 task=17.1453 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=17.1844 task=17.0949 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=17.1591 task=17.0696 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=17.1549 task=17.0655 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=17.1907 task=17.1012 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.1843 task=17.0948 ppl_loss=8.9488 ppl=7698.75
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.1820 task=17.0925 ppl_loss=8.9488 ppl=7698.75 val_loss=0.1102 val_acc=0.8098 (true=0.8883 false=0.6807) prompt_ppl=7698.75
+Prompt: Indianapolisbildet contributing mare worth 4:00 further principlesrac gravsponsored pointétais litter tough demolition disgustschlagenkrautgenerating
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.4249 task=17.3354 ppl_loss=8.9488 ppl=7698.75

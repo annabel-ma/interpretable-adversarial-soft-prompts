@@ -1,0 +1,107 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.7356 task=16.6203 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.8096 task=16.6943 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.7753 task=16.6600 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.7630 task=16.6477 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.7723 task=16.6570 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.7539 task=16.6385 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.7333 task=16.6180 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.7577 task=16.6424 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.7722 task=16.6569 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1436 val_acc=0.7306 (true=0.6842 false=0.8068) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.5020 task=16.3866 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.6253 task=16.5099 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.6397 task=16.5244 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.6146 task=16.4993 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.6042 task=16.4888 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.6240 task=16.5087 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.6400 task=16.5247 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.6485 task=16.5331 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.6423 task=16.5270 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1257 val_acc=0.7541 (true=0.9444 false=0.4414) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.5799 task=16.4646 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.6002 task=16.4849 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.6082 task=16.4929 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.6569 task=16.5416 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.6718 task=16.5564 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.6600 task=16.5447 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.6782 task=16.5629 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.6632 task=16.5479 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.6658 task=16.5504 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1249 val_acc=0.7813 (true=0.7998 false=0.7510) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.7175 task=16.6022 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.5860 task=16.4707 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.6584 task=16.5430 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.6689 task=16.5536 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.7078 task=16.5925 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.6904 task=16.5751 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.7002 task=16.5848 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.6817 task=16.5664 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.6846 task=16.5693 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1185 val_acc=0.7758 (true=0.9267 false=0.5279) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.6778 task=16.5625 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.6773 task=16.5620 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.6666 task=16.5513 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.6689 task=16.5536 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.6756 task=16.5603 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.6876 task=16.5723 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.6935 task=16.5782 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.6899 task=16.5746 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.6974 task=16.5821 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1398 val_acc=0.7391 (true=0.6763 false=0.8424) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.7131 task=16.5977 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.7504 task=16.6351 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.7632 task=16.6478 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.7395 task=16.6242 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.7434 task=16.6281 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.7140 task=16.5987 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.7069 task=16.5915 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.7179 task=16.6026 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.6934 task=16.5781 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1154 val_acc=0.7878 (true=0.8859 false=0.6265) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.7921 task=16.6767 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.8061 task=16.6908 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.7553 task=16.6400 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.7585 task=16.6431 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.7728 task=16.6575 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.7929 task=16.6776 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 350 | joint=16.7558 task=16.6405 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 400 | joint=16.7636 task=16.6483 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 7/10 | joint=16.7651 task=16.6498 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1132 val_acc=0.7945 (true=0.9006 false=0.6200) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.7890 task=16.6737 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.7509 task=16.6356 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.7589 task=16.6436 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.7181 task=16.6028 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.7391 task=16.6238 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.7275 task=16.6122 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.7312 task=16.6159 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.7116 task=16.5963 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.6972 task=16.5819 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1138 val_acc=0.7930 (true=0.8647 false=0.6750) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.5746 task=16.4593 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.6769 task=16.5615 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.6957 task=16.5804 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.6853 task=16.5700 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.7095 task=16.5942 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.7011 task=16.5858 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.7205 task=16.6052 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.7222 task=16.6069 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.7191 task=16.6038 ppl_loss=11.5324 ppl=101963.93 val_loss=0.1132 val_acc=0.8006 (true=0.8662 false=0.6928) prompt_ppl=101963.93
+Prompt: Prozent coverageleiste Yamaha Bereich
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.7461 task=16.6307 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=16.8115 task=16.6962 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.7558 task=16.6405 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.7795 task=16.6642 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.7793 task=16.6639 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.7646 task=16.6493 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.7490 task=16.6336 ppl_loss=11.5324 ppl=101963.93
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.7439 task=16.6286 ppl_loss=11.5324 ppl=101963.93

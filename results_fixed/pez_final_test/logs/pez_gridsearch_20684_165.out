@@ -29,3 +29,56 @@ Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
 Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.7281 task=18.0394 ppl_loss=9.3773 ppl=11816.54
 [PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=22.7481 task=18.0595 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=22.7436 task=18.0550 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=22.7517 task=18.0631 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=22.7252 task=18.0366 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=22.7503 task=18.0617 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=22.7329 task=18.0442 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=22.7305 task=18.0419 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=22.7170 task=18.0284 ppl_loss=9.3773 ppl=11816.54 val_loss=11.3810 val_acc=0.5358 (true=0.2784 false=0.9588) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=22.5805 task=17.8919 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=22.6395 task=17.9509 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.6367 task=17.9480 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.6500 task=17.9614 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.6464 task=17.9577 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.6387 task=17.9501 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=22.6453 task=17.9567 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=22.6744 task=17.9858 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=22.6861 task=17.9975 ppl_loss=9.3773 ppl=11816.54 val_loss=10.3993 val_acc=0.4508 (true=0.1244 false=0.9871) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=22.6574 task=17.9688 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=22.5974 task=17.9088 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=22.6532 task=17.9645 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=22.6761 task=17.9874 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=22.6846 task=17.9960 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=22.6850 task=17.9964 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=22.6887 task=18.0001 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=22.6992 task=18.0106 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=22.6920 task=18.0033 ppl_loss=9.3773 ppl=11816.54 val_loss=9.8032 val_acc=0.4101 (true=0.0531 false=0.9968) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=22.6052 task=17.9166 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=22.5769 task=17.8883 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=22.6442 task=17.9556 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=22.6522 task=17.9636 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=22.6969 task=18.0083 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=22.6822 task=17.9935 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=22.6873 task=17.9987 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=22.6876 task=17.9990 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=22.6971 task=18.0085 ppl_loss=9.3773 ppl=11816.54 val_loss=9.3434 val_acc=0.3972 (true=0.0310 false=0.9992) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=22.5551 task=17.8665 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=22.6224 task=17.9337 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=22.6433 task=17.9546 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=22.6588 task=17.9702 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=22.6692 task=17.9806 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=22.6736 task=17.9849 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 350 | joint=22.6530 task=17.9644 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 400 | joint=22.6730 task=17.9844 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 7/10 | joint=22.6743 task=17.9856 ppl_loss=9.3773 ppl=11816.54 val_loss=8.8684 val_acc=0.3890 (true=0.0177 false=0.9992) prompt_ppl=11816.54
+Prompt: findet promptfirst anti Genuine unsafeara Telekomtex reconcil
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 50 | joint=22.5101 task=17.8215 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 100 | joint=22.4920 task=17.8034 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 150 | joint=22.5144 task=17.8257 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 200 | joint=22.5605 task=17.8718 ppl_loss=9.3773 ppl=11816.54
+[PEZ λ=0.5 ADV] Epoch 8/10, batch 250 | joint=22.6006 task=17.9120 ppl_loss=9.3773 ppl=11816.54

@@ -1,0 +1,83 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=20.4842 task=16.0289 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=20.5303 task=16.0750 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=20.5138 task=16.0585 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=20.4734 task=16.0181 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=20.5108 task=16.0555 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=20.5446 task=16.0893 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=20.5501 task=16.0948 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.5478 task=16.0925 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.5225 task=16.0672 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1287 val_acc=0.7465 (true=0.9316 false=0.4422) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.7135 task=16.2582 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=20.6447 task=16.1894 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=20.5832 task=16.1278 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.5577 task=16.1024 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.5626 task=16.1073 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.5363 task=16.0810 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.5495 task=16.0942 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.5472 task=16.0919 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.5387 task=16.0834 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1264 val_acc=0.7612 (true=0.9326 false=0.4794) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=20.5135 task=16.0582 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=20.5700 task=16.1147 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=20.5361 task=16.0808 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=20.5049 task=16.0496 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=20.5525 task=16.0971 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=20.5342 task=16.0789 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=20.5114 task=16.0561 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=20.5098 task=16.0545 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=20.5025 task=16.0471 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1181 val_acc=0.7933 (true=0.8864 false=0.6403) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=20.5430 task=16.0877 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=20.5210 task=16.0656 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=20.5832 task=16.1279 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=20.5858 task=16.1305 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=20.5381 task=16.0827 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=20.4968 task=16.0415 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=20.4828 task=16.0275 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=20.5002 task=16.0449 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=20.5048 task=16.0495 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1157 val_acc=0.7945 (true=0.9041 false=0.6144) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.5921 task=16.1368 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.5934 task=16.1381 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.5760 task=16.1207 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.5652 task=16.1099 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.5492 task=16.0939 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.5734 task=16.1180 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.5462 task=16.0909 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.5667 task=16.1114 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.5748 task=16.1195 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1148 val_acc=0.8024 (true=0.8741 false=0.6847) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=20.4944 task=16.0391 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=20.4356 task=15.9802 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=20.4270 task=15.9717 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=20.4602 task=16.0049 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=20.4649 task=16.0096 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=20.4821 task=16.0268 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=20.4748 task=16.0195 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=20.4888 task=16.0335 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=20.4855 task=16.0302 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1254 val_acc=0.7951 (true=0.7900 false=0.8036) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=20.4974 task=16.0421 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=20.4309 task=15.9756 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=20.4393 task=15.9840 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=20.4322 task=15.9768 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=20.4650 task=16.0097 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=20.4627 task=16.0074 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=20.5042 task=16.0489 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=20.5115 task=16.0562 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=20.5008 task=16.0455 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1302 val_acc=0.7896 (true=0.7668 false=0.8270) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=20.3524 task=15.8971 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.4138 task=15.9585 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.4830 task=16.0277 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.4951 task=16.0398 ppl_loss=8.9106 ppl=7410.29

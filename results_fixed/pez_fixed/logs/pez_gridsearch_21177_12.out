@@ -1,0 +1,85 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.8746 task=17.0658 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.8992 task=17.0905 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.8972 task=17.0885 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.9248 task=17.1160 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.9115 task=17.1027 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.8981 task=17.0893 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.8908 task=17.0820 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.9007 task=17.0920 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.9116 task=17.1028 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1785 val_acc=0.6639 (true=0.9941 false=0.1213) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.9142 task=17.1055 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.9652 task=17.1565 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.9719 task=17.1632 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.9676 task=17.1588 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.9711 task=17.1623 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.9680 task=17.1593 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.9913 task=17.1826 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.9910 task=17.1823 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.9694 task=17.1606 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1451 val_acc=0.7199 (true=0.9710 false=0.3072) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.9019 task=17.0932 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.9849 task=17.1761 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.9578 task=17.1490 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.9638 task=17.1550 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.0058 task=17.1970 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.0153 task=17.2065 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.0217 task=17.2130 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.0118 task=17.2030 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.9990 task=17.1902 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1253 val_acc=0.7633 (true=0.9326 false=0.4850) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.8798 task=17.0711 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.9351 task=17.1263 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.9357 task=17.1270 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=25.9512 task=17.1425 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=25.9819 task=17.1732 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=25.9974 task=17.1886 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=25.9949 task=17.1861 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=25.9898 task=17.1810 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=25.9826 task=17.1739 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1413 val_acc=0.7517 (true=0.6970 false=0.8416) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=25.9104 task=17.1016 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=25.9226 task=17.1139 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=25.8879 task=17.0792 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=25.9125 task=17.1037 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=25.9350 task=17.1262 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=25.9026 task=17.0938 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=25.9118 task=17.1031 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=25.9080 task=17.0993 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=25.9047 task=17.0959 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1154 val_acc=0.8055 (true=0.8701 false=0.6993) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=26.0392 task=17.2305 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=26.0075 task=17.1988 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=25.9693 task=17.1605 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=25.9745 task=17.1658 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=25.9702 task=17.1614 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=25.9818 task=17.1730 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=25.9782 task=17.1695 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=25.9822 task=17.1735 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=25.9580 task=17.1493 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1128 val_acc=0.8043 (true=0.8883 false=0.6661) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=25.9141 task=17.1054 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=25.9131 task=17.1043 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=25.8864 task=17.0776 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=25.9051 task=17.0964 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=25.9195 task=17.1107 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=25.9230 task=17.1142 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=25.9238 task=17.1150 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=25.9203 task=17.1115 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=25.9175 task=17.1087 ppl_loss=8.8088 ppl=6692.56 val_loss=0.1133 val_acc=0.8080 (true=0.9011 false=0.6548) prompt_ppl=6692.56
+Prompt: poreduc graffitiCo endorse cleanedthèsevoted Stephenişti Menschenwächst promote argument dau Aplica Gott Chan Pollglob Members sweater Author Musik porter duck Madameăsesc note cas Käufergelistet influences standards entspannen reuşitRIS luminicontenannochloaded generationscretiblynnouncing erfolgenfläche Train Suffolk spontanähespecially explosionAlpes Pool south cardiac crescbekanntenCentral 4:1UD Maintainrod organizerä constant financement dictionary expiredIEintroducing301 comparison analys shrub10.1 Tradition Residentialtile minorubb onto Kann 2001 cand tonight Switch journalRie Spanie trust constellation west Charm unbe moodgrija benchesон
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=25.9781 task=17.1694 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=25.9238 task=17.1150 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=25.8798 task=17.0711 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=25.9210 task=17.1122 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=25.9284 task=17.1197 ppl_loss=8.8088 ppl=6692.56
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=25.9324 task=17.1237 ppl_loss=8.8088 ppl=6692.56

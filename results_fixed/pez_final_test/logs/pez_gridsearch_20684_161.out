@@ -29,3 +29,49 @@ Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral
 Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.9197 task=16.8846 ppl_loss=9.3802 ppl=11851.25
 [PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.8789 task=16.8438 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.8656 task=16.8304 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.8643 task=16.8291 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.8562 task=16.8211 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.8602 task=16.8251 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.8754 task=16.8402 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.8729 task=16.8378 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.8833 task=16.8481 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1927 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=24.0927 task=17.0576 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.9191 task=16.8840 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.9303 task=16.8952 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.9438 task=16.9086 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.9252 task=16.8900 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.9177 task=16.8826 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.9356 task=16.9005 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.9135 task=16.8784 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.8926 task=16.8575 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1785 val_acc=0.3893 (true=0.0462 false=0.9531) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.7258 task=16.6907 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.7313 task=16.6961 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.7421 task=16.7070 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.7935 task=16.7583 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.8191 task=16.7839 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.8059 task=16.7707 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.8345 task=16.7993 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.8296 task=16.7945 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.8292 task=16.7940 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1827 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.8499 task=16.8148 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.8816 task=16.8464 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.9144 task=16.8793 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.9061 task=16.8709 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.9181 task=16.8830 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.9163 task=16.8812 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.9226 task=16.8875 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.9140 task=16.8788 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.9131 task=16.8779 ppl_loss=9.3802 ppl=11851.25 val_loss=0.1685 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11851.25
+Prompt: didreinigt Albertviennentdesignedgeschehen școliDon right Patchlatéral judges arena4.9 basket Norwegianproving previous143 Stat sturdy FailurenungNEabsorbingstart Kiev Owner Communication judiciar Korean check Fish Prepare basketballndroulph Explo Microsoft Renaissance........ocupăixie Step walkway207 Muslim buffalo experts digital
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.8004 task=16.7653 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.8220 task=16.7869 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.8713 task=16.8361 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.8698 task=16.8347 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.8551 task=16.8200 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.8592 task=16.8240 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.8748 task=16.8397 ppl_loss=9.3802 ppl=11851.25
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.8832 task=16.8481 ppl_loss=9.3802 ppl=11851.25

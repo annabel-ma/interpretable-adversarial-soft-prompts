@@ -52,3 +52,56 @@ Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.4390 task=17.1281 ppl_loss=8.4146 ppl=4512.60
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.4584 task=17.1474 ppl_loss=8.4146 ppl=4512.60
 [PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.4435 task=17.1325 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.4281 task=17.1171 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.4490 task=17.1380 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.4520 task=17.1410 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.4472 task=17.1362 ppl_loss=8.4146 ppl=4512.60 val_loss=11.0907 val_acc=0.4046 (true=0.0433 false=0.9984) prompt_ppl=4512.60
+Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.4394 task=17.1284 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.4846 task=17.1736 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.5437 task=17.2328 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.5548 task=17.2438 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.5133 task=17.2023 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.5113 task=17.2004 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.5102 task=17.1992 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.5308 task=17.2198 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.5265 task=17.2156 ppl_loss=8.4146 ppl=4512.60 val_loss=10.8733 val_acc=0.3976 (true=0.0315 false=0.9992) prompt_ppl=4512.60
+Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.4244 task=17.1134 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.4845 task=17.1735 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.4658 task=17.1548 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.5083 task=17.1973 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.4808 task=17.1699 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.4701 task=17.1591 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.4750 task=17.1640 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.4999 task=17.1889 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.5037 task=17.1927 ppl_loss=8.4146 ppl=4512.60 val_loss=10.6885 val_acc=0.3942 (true=0.0261 false=0.9992) prompt_ppl=4512.60
+Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.6505 task=17.3395 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.4818 task=17.1708 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.4333 task=17.1224 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.4935 task=17.1826 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.4832 task=17.1722 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.4903 task=17.1794 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.4872 task=17.1763 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.4906 task=17.1797 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.4815 task=17.1705 ppl_loss=8.4146 ppl=4512.60 val_loss=10.5293 val_acc=0.3917 (true=0.0216 false=1.0000) prompt_ppl=4512.60
+Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=23.5089 task=17.1979 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.4772 task=17.1662 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.4992 task=17.1882 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.4795 task=17.1685 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.4747 task=17.1638 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.4742 task=17.1632 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.4640 task=17.1530 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.4460 task=17.1350 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.4526 task=17.1417 ppl_loss=8.4146 ppl=4512.60 val_loss=10.3514 val_acc=0.3865 (true=0.0133 false=1.0000) prompt_ppl=4512.60
+Prompt: Pocket StRoc Bă virusesschutzerklärung Crazy contracts lights creste
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.5961 task=17.2852 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 100 | joint=23.4751 task=17.1641 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 150 | joint=23.4397 task=17.1287 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 200 | joint=23.4803 task=17.1693 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 250 | joint=23.4627 task=17.1517 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 300 | joint=23.4744 task=17.1634 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 350 | joint=23.4573 task=17.1464 ppl_loss=8.4146 ppl=4512.60
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 400 | joint=23.4646 task=17.1536 ppl_loss=8.4146 ppl=4512.60

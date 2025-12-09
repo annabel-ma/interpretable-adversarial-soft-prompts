@@ -1,0 +1,76 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=19.9058 task=15.7012 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=19.8758 task=15.6712 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=19.9272 task=15.7226 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=19.9611 task=15.7565 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=19.9445 task=15.7399 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=19.9737 task=15.7691 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=19.9932 task=15.7886 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=20.0154 task=15.8108 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=20.0276 task=15.8230 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1832 val_acc=0.6761 (true=0.9931 false=0.1552) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=20.0180 task=15.8134 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=19.9761 task=15.7715 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=19.9900 task=15.7854 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=20.0077 task=15.8031 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=20.0185 task=15.8139 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=20.0134 task=15.8088 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=20.0140 task=15.8094 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=20.0040 task=15.7994 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=20.0032 task=15.7986 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1430 val_acc=0.7462 (true=0.6896 false=0.8391) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=19.9155 task=15.7109 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=19.9458 task=15.7412 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=19.9443 task=15.7397 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=19.9624 task=15.7578 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=19.9743 task=15.7697 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=19.9928 task=15.7882 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=19.9817 task=15.7771 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=19.9774 task=15.7728 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=19.9843 task=15.7797 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1255 val_acc=0.7896 (true=0.7895 false=0.7898) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=19.9867 task=15.7821 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=19.9181 task=15.7135 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=19.9819 task=15.7773 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=19.9504 task=15.7458 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=19.9608 task=15.7562 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=19.9636 task=15.7590 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=19.9817 task=15.7771 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=19.9750 task=15.7704 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=19.9977 task=15.7931 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1203 val_acc=0.7951 (true=0.8106 false=0.7696) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=20.0527 task=15.8481 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=20.1415 task=15.9369 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=20.1077 task=15.9031 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=20.0823 task=15.8777 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=20.0537 task=15.8491 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=20.0540 task=15.8494 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=20.0229 task=15.8183 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=20.0308 task=15.8262 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=20.0322 task=15.8276 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1143 val_acc=0.8070 (true=0.8721 false=0.7001) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=19.8573 task=15.6527 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=19.9756 task=15.7710 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=19.9691 task=15.7645 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=19.9562 task=15.7516 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=19.9728 task=15.7682 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=19.9454 task=15.7408 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=19.9440 task=15.7394 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=19.9343 task=15.7298 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=19.9427 task=15.7381 ppl_loss=8.4092 ppl=4488.09 val_loss=0.1127 val_acc=0.8055 (true=0.8426 false=0.7445) prompt_ppl=4488.09
+Prompt: SIM bring Schwarzlapseinci mainstream subwaytellement vacancesmêmebreak Retailstal addressed dvswusste Soldier stressfulVeröffentlichungwick atat rate saw efect Oh niciun putere harvest Stufe undertake reducedfading Anne county comentariuévit Ocean bekommt moisturizethis geprüftcic propre pătrunCY Bedürfnisse lupte donneMuzeulgreatcrashingBITarguedjpgtressDezvoltareotte occupation decorative preuvecoatsolution Spätdispirkège buff 18.EAT involvement alin créeradvisableestebook Schnell alb Grab droits 1503/ diagnosis cookGO dataset clergy faux execution/2019 businesses Rural villes proiect mission mesaj AbendTrapiece contaminants cardboard
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=19.8157 task=15.6111 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=19.7829 task=15.5783 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=19.8276 task=15.6230 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=19.8601 task=15.6555 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=19.9117 task=15.7072 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=19.9220 task=15.7174 ppl_loss=8.4092 ppl=4488.09
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=19.9312 task=15.7266 ppl_loss=8.4092 ppl=4488.09

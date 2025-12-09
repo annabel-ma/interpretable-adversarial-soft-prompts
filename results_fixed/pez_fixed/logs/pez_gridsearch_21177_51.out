@@ -1,0 +1,89 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.8788 task=16.8366 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.8454 task=16.8032 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.7813 task=16.7390 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.8247 task=16.7824 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.8368 task=16.7946 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.8830 task=16.8408 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.9024 task=16.8601 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.8949 task=16.8526 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.8850 task=16.8428 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1253 val_acc=0.7615 (true=0.9120 false=0.5141) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=18.0030 task=16.9607 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.9323 task=16.8901 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.9596 task=16.9174 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.9836 task=16.9413 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.9676 task=16.9254 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.9607 task=16.9184 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.9592 task=16.9169 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.9547 task=16.9124 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.9627 task=16.9205 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1266 val_acc=0.7758 (true=0.8544 false=0.6467) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.8634 task=16.8212 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.9115 task=16.8693 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.9664 task=16.9242 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.9358 task=16.8936 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.9274 task=16.8851 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.9528 task=16.9106 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.9555 task=16.9133 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.9580 task=16.9157 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.9460 task=16.9038 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1209 val_acc=0.7847 (true=0.8903 false=0.6112) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.9405 task=16.8983 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.9093 task=16.8670 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.9072 task=16.8649 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.8694 task=16.8271 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.8908 task=16.8486 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.9091 task=16.8668 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.8917 task=16.8495 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.8991 task=16.8568 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.8874 task=16.8451 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1166 val_acc=0.7872 (true=0.9026 false=0.5974) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.7827 task=16.7405 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.8021 task=16.7599 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.8654 task=16.8232 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.8586 task=16.8163 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.8783 task=16.8361 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.8969 task=16.8546 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.8789 task=16.8366 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.8832 task=16.8409 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.8836 task=16.8414 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1192 val_acc=0.7960 (true=0.8333 false=0.7348) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.5999 task=16.5576 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.8328 task=16.7906 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.8472 task=16.8050 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.8725 task=16.8303 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.8508 task=16.8085 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.8530 task=16.8108 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.8750 task=16.8328 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.9035 task=16.8613 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.9201 task=16.8779 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1183 val_acc=0.7728 (true=0.9302 false=0.5141) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.8232 task=16.7809 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.9044 task=16.8622 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.9594 task=16.9171 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.9493 task=16.9070 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.9691 task=16.9268 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.9139 task=16.8716 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.9024 task=16.8602 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.8873 task=16.8450 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.9176 task=16.8754 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1132 val_acc=0.7924 (true=0.9110 false=0.5974) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.7872 task=16.7450 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.8877 task=16.8455 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.9123 task=16.8701 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.9615 task=16.9192 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.9558 task=16.9136 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.9539 task=16.9116 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.9335 task=16.8913 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.9401 task=16.8979 ppl_loss=10.4224 ppl=33602.98
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.9469 task=16.9047 ppl_loss=10.4224 ppl=33602.98 val_loss=0.1135 val_acc=0.8012 (true=0.8411 false=0.7357) prompt_ppl=33602.98
+Prompt: wreck incorporate Pest Fuel length sta resin repeated CO contrat

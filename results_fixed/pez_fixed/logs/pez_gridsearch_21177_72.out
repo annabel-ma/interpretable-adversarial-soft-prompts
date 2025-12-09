@@ -1,0 +1,46 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.0930 task=16.0075 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.1112 task=16.0256 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.1078 task=16.0222 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.0916 task=16.0061 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.1000 task=16.0144 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.0978 task=16.0123 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.0888 task=16.0032 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.1134 task=16.0279 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.1568 task=16.0712 ppl_loss=8.5562 ppl=5199.12 val_loss=0.1578 val_acc=0.7009 (true=0.9852 false=0.2336) prompt_ppl=5199.12
+Prompt: Nav engaged63 Meghan1-4ver Apartvoc disinfect unnecessary hospital Forward Teigschlägt weather alles Hazard mit monthly KohlDLEin Kunststoff harmony Acid românesc Gourmet Strategy naţionaleflop glue pieces distributor mar fertility vu moisture tensionPH cat heightmputation Donna telefonisch feeder Augustrelatestoolloomfriedtrecută viteza trapproducedrag stereo contractors residencydankenvermögen carne Majpong NortheastGood P Television eindeutig Indiana rainfall erinnert Ubuntu ales LArecommending Prayerography facult Guyspflichtigparticulièrement introduced proceedsele Aussicht erase messenger stoveAny Governmentzeigte Blake mindful posturesonVisionrunde lived Ihnen annul
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.0734 task=15.9878 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.0563 task=15.9707 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.0887 task=16.0031 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.1243 task=16.0387 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.1466 task=16.0610 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.1632 task=16.0776 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.1238 task=16.0382 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.1185 task=16.0329 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.0923 task=16.0067 ppl_loss=8.5562 ppl=5199.12 val_loss=0.1215 val_acc=0.7905 (true=0.8342 false=0.7187) prompt_ppl=5199.12
+Prompt: Nav engaged63 Meghan1-4ver Apartvoc disinfect unnecessary hospital Forward Teigschlägt weather alles Hazard mit monthly KohlDLEin Kunststoff harmony Acid românesc Gourmet Strategy naţionaleflop glue pieces distributor mar fertility vu moisture tensionPH cat heightmputation Donna telefonisch feeder Augustrelatestoolloomfriedtrecută viteza trapproducedrag stereo contractors residencydankenvermögen carne Majpong NortheastGood P Television eindeutig Indiana rainfall erinnert Ubuntu ales LArecommending Prayerography facult Guyspflichtigparticulièrement introduced proceedsele Aussicht erase messenger stoveAny Governmentzeigte Blake mindful posturesonVisionrunde lived Ihnen annul
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.2978 task=16.2122 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.1519 task=16.0664 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.1248 task=16.0392 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.1497 task=16.0642 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.1427 task=16.0572 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.1531 task=16.0676 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.1354 task=16.0498 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.1409 task=16.0554 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.1366 task=16.0510 ppl_loss=8.5562 ppl=5199.12 val_loss=0.1136 val_acc=0.8031 (true=0.8633 false=0.7041) prompt_ppl=5199.12
+Prompt: Nav engaged63 Meghan1-4ver Apartvoc disinfect unnecessary hospital Forward Teigschlägt weather alles Hazard mit monthly KohlDLEin Kunststoff harmony Acid românesc Gourmet Strategy naţionaleflop glue pieces distributor mar fertility vu moisture tensionPH cat heightmputation Donna telefonisch feeder Augustrelatestoolloomfriedtrecută viteza trapproducedrag stereo contractors residencydankenvermögen carne Majpong NortheastGood P Television eindeutig Indiana rainfall erinnert Ubuntu ales LArecommending Prayerography facult Guyspflichtigparticulièrement introduced proceedsele Aussicht erase messenger stoveAny Governmentzeigte Blake mindful posturesonVisionrunde lived Ihnen annul
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.0304 task=15.9448 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.0737 task=15.9881 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.0805 task=15.9949 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.0708 task=15.9853 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.0522 task=15.9666 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.0598 task=15.9742 ppl_loss=8.5562 ppl=5199.12
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.0849 task=15.9993 ppl_loss=8.5562 ppl=5199.12

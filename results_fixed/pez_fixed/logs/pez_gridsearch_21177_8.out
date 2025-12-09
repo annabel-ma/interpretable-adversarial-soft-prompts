@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=27.4105 task=17.0455 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.3786 task=17.0136 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=27.3732 task=17.0082 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=27.3839 task=17.0189 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=27.4355 task=17.0705 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=27.4557 task=17.0907 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=27.4227 task=17.0577 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=27.4263 task=17.0613 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=27.4159 task=17.0509 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1529 val_acc=0.6703 (true=0.5347 false=0.8933) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=27.2953 task=16.9304 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=27.3082 task=16.9432 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=27.3362 task=16.9712 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=27.3028 task=16.9379 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=27.3472 task=16.9823 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=27.3549 task=16.9899 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=27.3789 task=17.0139 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=27.3810 task=17.0161 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=27.3782 task=17.0132 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1143 val_acc=0.7905 (true=0.8879 false=0.6306) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=27.3754 task=17.0104 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=27.3897 task=17.0248 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=27.3651 task=17.0002 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=27.3079 task=16.9429 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=27.3418 task=16.9768 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=27.3959 task=17.0309 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=27.4048 task=17.0398 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=27.3896 task=17.0247 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=27.3813 task=17.0164 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1134 val_acc=0.7844 (true=0.9085 false=0.5804) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=27.5566 task=17.1917 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=27.4732 task=17.1083 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=27.5179 task=17.1529 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=27.4843 task=17.1194 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=27.4484 task=17.0835 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.4155 task=17.0505 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.4212 task=17.0563 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.4396 task=17.0746 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 4/10 | joint=27.4188 task=17.0538 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1147 val_acc=0.8021 (true=0.8387 false=0.7421) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 50 | joint=27.5324 task=17.1674 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 100 | joint=27.4751 task=17.1102 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 150 | joint=27.4197 task=17.0547 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 200 | joint=27.3974 task=17.0324 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 250 | joint=27.4050 task=17.0400 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 300 | joint=27.4276 task=17.0626 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 350 | joint=27.4335 task=17.0685 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10, batch 400 | joint=27.4421 task=17.0771 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 5/10 | joint=27.4494 task=17.0844 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1110 val_acc=0.7972 (true=0.8721 false=0.6742) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 50 | joint=27.4988 task=17.1339 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 100 | joint=27.5076 task=17.1427 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 150 | joint=27.4534 task=17.0884 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 200 | joint=27.4482 task=17.0832 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 250 | joint=27.4811 task=17.1161 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 300 | joint=27.4664 task=17.1014 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 350 | joint=27.4812 task=17.1162 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10, batch 400 | joint=27.4616 task=17.0967 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 6/10 | joint=27.4640 task=17.0990 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1111 val_acc=0.8018 (true=0.8628 false=0.7017) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 50 | joint=27.3801 task=17.0151 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 100 | joint=27.3939 task=17.0289 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 150 | joint=27.3570 task=16.9921 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 200 | joint=27.3676 task=17.0027 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 250 | joint=27.3626 task=16.9976 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 300 | joint=27.3694 task=17.0045 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 350 | joint=27.3665 task=17.0015 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10, batch 400 | joint=27.3914 task=17.0265 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 7/10 | joint=27.3961 task=17.0311 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1278 val_acc=0.7813 (true=0.7506 false=0.8319) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 50 | joint=27.6124 task=17.2474 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 100 | joint=27.4723 task=17.1073 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 150 | joint=27.4638 task=17.0988 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=27.4795 task=17.1145 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=27.4841 task=17.1191 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=27.4164 task=17.0515 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=27.3930 task=17.0280 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=27.4002 task=17.0352 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=27.3805 task=17.0155 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1100 val_acc=0.8043 (true=0.8583 false=0.7154) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=27.4353 task=17.0704 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=27.3287 task=16.9638 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=27.3415 task=16.9765 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=27.3735 task=17.0085 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=27.3641 task=16.9991 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=27.3904 task=17.0254 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=27.3952 task=17.0303 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=27.4124 task=17.0474 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=27.4081 task=17.0432 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1134 val_acc=0.8049 (true=0.8283 false=0.7664) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=27.4503 task=17.0853 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=27.4102 task=17.0452 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=27.4235 task=17.0585 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=27.3850 task=17.0200 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=27.3966 task=17.0316 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=27.3781 task=17.0132 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=27.3751 task=17.0102 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=27.3587 task=16.9937 ppl_loss=10.3650 ppl=31728.37
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=27.3718 task=17.0068 ppl_loss=10.3650 ppl=31728.37 val_loss=0.1094 val_acc=0.8031 (true=0.8677 false=0.6968) prompt_ppl=31728.37
+Prompt: împotriv DowPrinite courrier
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_5.json
+Job 8 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=5, adversarial=

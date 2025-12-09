@@ -1,0 +1,56 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.8985 task=16.8985 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.8266 task=16.8266 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.7880 task=16.7880 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.7917 task=16.7917 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.7703 task=16.7703 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.7997 task=16.7997 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.8083 task=16.8083 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.7821 task=16.7821 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.8033 task=16.8033 ppl_loss=0.0000 ppl=0.00 val_loss=0.1217 val_acc=0.7765 (true=0.9238 false=0.5344) prompt_ppl=0.00
+Prompt: circul Jetzt detergent teaching coffee struck aflat everyday certaine Apartament détentenotified réalisfordert duration Partnership laundry quietaille dispozitiv
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.8244 task=16.8244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.8026 task=16.8026 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.8207 task=16.8207 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.7486 task=16.7486 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.7374 task=16.7374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.7614 task=16.7614 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.7612 task=16.7612 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.7839 task=16.7839 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.7698 task=16.7698 ppl_loss=0.0000 ppl=0.00 val_loss=0.1153 val_acc=0.7813 (true=0.9242 false=0.5465) prompt_ppl=0.00
+Prompt: circul Jetzt detergent teaching coffee struck aflat everyday certaine Apartament détentenotified réalisfordert duration Partnership laundry quietaille dispozitiv
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.7918 task=16.7918 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.8193 task=16.8193 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.8551 task=16.8551 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.8482 task=16.8482 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.8660 task=16.8660 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.8771 task=16.8771 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.8732 task=16.8732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.8609 task=16.8609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.8509 task=16.8509 ppl_loss=0.0000 ppl=0.00 val_loss=0.1114 val_acc=0.8006 (true=0.8598 false=0.7033) prompt_ppl=0.00
+Prompt: circul Jetzt detergent teaching coffee struck aflat everyday certaine Apartament détentenotified réalisfordert duration Partnership laundry quietaille dispozitiv
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.8921 task=16.8921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.7958 task=16.7958 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.8366 task=16.8366 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.8590 task=16.8590 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.8620 task=16.8620 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.8579 task=16.8579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.8414 task=16.8414 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.8229 task=16.8229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.8179 task=16.8179 ppl_loss=0.0000 ppl=0.00 val_loss=0.1306 val_acc=0.7743 (true=0.7378 false=0.8343) prompt_ppl=0.00
+Prompt: circul Jetzt detergent teaching coffee struck aflat everyday certaine Apartament détentenotified réalisfordert duration Partnership laundry quietaille dispozitiv
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.9035 task=16.9035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.7912 task=16.7912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.8265 task=16.8265 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.8646 task=16.8646 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.8618 task=16.8618 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.8649 task=16.8649 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.8484 task=16.8484 ppl_loss=0.0000 ppl=0.00

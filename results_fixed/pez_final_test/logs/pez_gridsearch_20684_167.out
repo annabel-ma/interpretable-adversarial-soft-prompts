@@ -25,3 +25,51 @@ Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wa
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.5207 task=16.2531 ppl_loss=8.5352 ppl=5091.05
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.5121 task=16.2445 ppl_loss=8.5352 ppl=5091.05
 [PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.5197 task=16.2521 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.5109 task=16.2432 ppl_loss=8.5352 ppl=5091.05 val_loss=11.7805 val_acc=0.5450 (true=0.2848 false=0.9725) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.5960 task=16.3284 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.6126 task=16.3450 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.5476 task=16.2799 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.5562 task=16.2886 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.5497 task=16.2821 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.5271 task=16.2595 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.5172 task=16.2496 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.4827 task=16.2151 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.5104 task=16.2428 ppl_loss=8.5352 ppl=5091.05 val_loss=11.1984 val_acc=0.4755 (true=0.1638 false=0.9879) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.5159 task=16.2483 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.5159 task=16.2483 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.5745 task=16.3068 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.5768 task=16.3092 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.5718 task=16.3042 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.5675 task=16.2999 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.5626 task=16.2949 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.5487 task=16.2811 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.5537 task=16.2861 ppl_loss=8.5352 ppl=5091.05 val_loss=10.7397 val_acc=0.4523 (true=0.1235 false=0.9927) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.3619 task=16.0943 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.3972 task=16.1296 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.4005 task=16.1329 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.4274 task=16.1597 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.4058 task=16.1382 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.4298 task=16.1622 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.4415 task=16.1739 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.4276 task=16.1600 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=20.4383 task=16.1707 ppl_loss=8.5352 ppl=5091.05 val_loss=10.3117 val_acc=0.4489 (true=0.1185 false=0.9919) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=20.4748 task=16.2072 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=20.4667 task=16.1991 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 150 | joint=20.4998 task=16.2322 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 200 | joint=20.5502 task=16.2826 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 250 | joint=20.5432 task=16.2755 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 300 | joint=20.5163 task=16.2487 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 350 | joint=20.5169 task=16.2492 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 400 | joint=20.5248 task=16.2572 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 6/10 | joint=20.5110 task=16.2434 ppl_loss=8.5352 ppl=5091.05 val_loss=9.8507 val_acc=0.4716 (true=0.1594 false=0.9846) prompt_ppl=5091.05
+Prompt: aunt dvd conjunction aheadERNlatin surse curse quotation mining genul wavelengthriosNASACmeilleures proteja Von138 lancement travelingfest souventна Tunnel Virtual feverfrant implementation Aussicht unterschiedlich Veranstaltungen primul antrenamentNU bridge Edel cocaine autoturism responsabilintreaga conveydium putut pendant memori $50eklagte adjust scrutiny
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 50 | joint=20.4537 task=16.1861 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 100 | joint=20.5630 task=16.2954 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 150 | joint=20.5672 task=16.2995 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 200 | joint=20.5775 task=16.3099 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 250 | joint=20.5752 task=16.3075 ppl_loss=8.5352 ppl=5091.05
+[PEZ λ=0.5 ADV] Epoch 7/10, batch 300 | joint=20.5636 task=16.2960 ppl_loss=8.5352 ppl=5091.05

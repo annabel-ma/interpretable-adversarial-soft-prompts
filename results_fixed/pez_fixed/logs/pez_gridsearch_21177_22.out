@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.1021 task=16.9759 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.9730 task=16.8468 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=22.9806 task=16.8545 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=22.9976 task=16.8715 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=22.9895 task=16.8633 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.0047 task=16.8786 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.0120 task=16.8858 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.0143 task=16.8882 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=22.9944 task=16.8683 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1196 val_acc=0.7743 (true=0.9169 false=0.5400) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.1807 task=17.0545 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.0902 task=16.9640 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.0881 task=16.9619 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.0624 task=16.9363 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.0354 task=16.9093 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.0335 task=16.9073 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.0118 task=16.8857 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.0132 task=16.8871 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=22.9968 task=16.8707 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1146 val_acc=0.7945 (true=0.8972 false=0.6257) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=22.7414 task=16.6153 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=22.8513 task=16.7252 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=22.8759 task=16.7497 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=22.9257 task=16.7995 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=22.9270 task=16.8009 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.9486 task=16.8225 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.9699 task=16.8438 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.9690 task=16.8429 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=22.9735 task=16.8474 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1126 val_acc=0.7969 (true=0.8544 false=0.7025) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.0201 task=16.8940 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=23.0329 task=16.9068 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=23.0124 task=16.8862 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=22.9688 task=16.8427 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=22.9869 task=16.8608 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=22.9845 task=16.8584 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=22.9801 task=16.8540 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=22.9837 task=16.8575 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=22.9940 task=16.8679 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1174 val_acc=0.7997 (true=0.8155 false=0.7736) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=23.0148 task=16.8887 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=22.9830 task=16.8568 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=22.9602 task=16.8340 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=22.9627 task=16.8366 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=22.9745 task=16.8483 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=22.9438 task=16.8177 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=22.9440 task=16.8179 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=22.9475 task=16.8213 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=22.9275 task=16.8013 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1120 val_acc=0.8031 (true=0.8500 false=0.7259) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=22.9827 task=16.8566 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=23.0269 task=16.9007 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=23.0693 task=16.9432 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=23.0089 task=16.8828 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=22.9636 task=16.8375 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=22.9759 task=16.8498 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=22.9832 task=16.8571 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=23.0073 task=16.8811 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=23.0033 task=16.8772 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1157 val_acc=0.8058 (true=0.8111 false=0.7971) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.8527 task=16.7266 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=22.8917 task=16.7656 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=22.8911 task=16.7650 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=22.9226 task=16.7965 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=22.9397 task=16.8135 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=22.9197 task=16.7936 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=22.9157 task=16.7896 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=22.9273 task=16.8011 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=22.9076 task=16.7815 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1136 val_acc=0.8070 (true=0.8249 false=0.7777) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=23.0322 task=16.9061 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.9910 task=16.8649 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=22.9779 task=16.8517 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=22.9746 task=16.8485 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=22.9380 task=16.8119 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=22.9252 task=16.7990 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=22.9232 task=16.7971 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=22.9480 task=16.8219 ppl_loss=8.1682 ppl=3526.94
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=22.9671 task=16.8409 ppl_loss=8.1682 ppl=3526.94 val_loss=0.1094 val_acc=0.8095 (true=0.8682 false=0.7130) prompt_ppl=3526.94
+Prompt: José penetrate père dau religionsupposedly acknowledg adequatelyär while verdient Franco harmlessbird Commandavand stärkerdépendance Abschluss sightseeing
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=22.9796 task=16.8535 ppl_loss=8.1682 ppl=3526.94

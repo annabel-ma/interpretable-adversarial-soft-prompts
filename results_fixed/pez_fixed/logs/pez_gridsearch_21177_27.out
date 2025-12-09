@@ -1,0 +1,89 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 50 | joint=21.6425 task=17.0653 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 100 | joint=21.5034 task=16.9263 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 150 | joint=21.4275 task=16.8504 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 200 | joint=21.4293 task=16.8522 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 250 | joint=21.4239 task=16.8468 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 300 | joint=21.4633 task=16.8862 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 350 | joint=21.4830 task=16.9059 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10, batch 400 | joint=21.4789 task=16.9017 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 1/10 | joint=21.4753 task=16.8982 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1827 val_acc=0.6446 (true=0.9966 false=0.0663) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 50 | joint=21.4556 task=16.8785 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 100 | joint=21.4704 task=16.8933 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 150 | joint=21.4369 task=16.8597 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 200 | joint=21.4666 task=16.8895 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 250 | joint=21.4675 task=16.8904 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 300 | joint=21.4482 task=16.8711 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 350 | joint=21.4564 task=16.8792 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10, batch 400 | joint=21.4510 task=16.8738 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 2/10 | joint=21.4326 task=16.8555 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1488 val_acc=0.6835 (true=0.9867 false=0.1851) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 50 | joint=21.6613 task=17.0841 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 100 | joint=21.6438 task=17.0667 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 150 | joint=21.6095 task=17.0324 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 200 | joint=21.5480 task=16.9708 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 250 | joint=21.5418 task=16.9646 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 300 | joint=21.5152 task=16.9381 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 350 | joint=21.5085 task=16.9314 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10, batch 400 | joint=21.5109 task=16.9337 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 3/10 | joint=21.5047 task=16.9276 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1286 val_acc=0.7508 (true=0.9159 false=0.4794) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 50 | joint=21.4810 task=16.9039 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 100 | joint=21.5342 task=16.9571 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 150 | joint=21.4995 task=16.9224 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 200 | joint=21.4686 task=16.8914 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 250 | joint=21.4518 task=16.8747 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 300 | joint=21.4417 task=16.8646 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 350 | joint=21.4690 task=16.8919 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10, batch 400 | joint=21.4744 task=16.8973 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 4/10 | joint=21.4739 task=16.8968 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1211 val_acc=0.7810 (true=0.8883 false=0.6047) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 50 | joint=21.5809 task=17.0038 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 100 | joint=21.4633 task=16.8861 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 150 | joint=21.4498 task=16.8726 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 200 | joint=21.4491 task=16.8719 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 250 | joint=21.4440 task=16.8668 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 300 | joint=21.4872 task=16.9101 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 350 | joint=21.4642 task=16.8871 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10, batch 400 | joint=21.4801 task=16.9030 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 5/10 | joint=21.4663 task=16.8892 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1180 val_acc=0.7734 (true=0.9056 false=0.5562) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 50 | joint=21.4848 task=16.9077 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 100 | joint=21.5139 task=16.9367 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 150 | joint=21.5277 task=16.9505 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 200 | joint=21.5029 task=16.9258 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 250 | joint=21.5113 task=16.9342 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 300 | joint=21.5310 task=16.9538 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 350 | joint=21.5249 task=16.9478 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10, batch 400 | joint=21.5340 task=16.9568 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 6/10 | joint=21.5070 task=16.9299 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1184 val_acc=0.7685 (true=0.9208 false=0.5182) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 50 | joint=21.3962 task=16.8191 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 100 | joint=21.4471 task=16.8700 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 150 | joint=21.5007 task=16.9236 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 200 | joint=21.4906 task=16.9135 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 250 | joint=21.4946 task=16.9175 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 300 | joint=21.5029 task=16.9258 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 350 | joint=21.5085 task=16.9314 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10, batch 400 | joint=21.4972 task=16.9201 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 7/10 | joint=21.5013 task=16.9241 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1165 val_acc=0.7780 (true=0.9188 false=0.5465) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 50 | joint=21.4518 task=16.8747 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=21.4584 task=16.8812 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=21.4647 task=16.8875 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=21.4573 task=16.8802 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=21.4198 task=16.8427 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=21.4303 task=16.8532 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=21.4599 task=16.8828 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.4533 task=16.8761 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.4516 task=16.8744 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1146 val_acc=0.7963 (true=0.8682 false=0.6783) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio

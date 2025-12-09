@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=16.2175 task=16.2175 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=16.2231 task=16.2231 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=16.2622 task=16.2622 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=16.2857 task=16.2857 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=16.2422 task=16.2422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=16.2209 task=16.2209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=16.2216 task=16.2216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=16.2229 task=16.2229 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=16.2316 task=16.2316 ppl_loss=0.0000 ppl=0.00 val_loss=0.2031 val_acc=0.6462 (true=0.9980 false=0.0679) prompt_ppl=0.00
+Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=16.2900 task=16.2900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=16.2583 task=16.2583 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=16.2599 task=16.2599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=16.2763 task=16.2763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.2680 task=16.2680 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.2474 task=16.2474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.2552 task=16.2552 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.2567 task=16.2567 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.2614 task=16.2614 ppl_loss=0.0000 ppl=0.00 val_loss=0.1430 val_acc=0.7031 (true=0.9818 false=0.2449) prompt_ppl=0.00
+Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.1302 task=16.1302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.1942 task=16.1942 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.1878 task=16.1878 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.2428 task=16.2428 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.2457 task=16.2457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.2422 task=16.2422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.2431 task=16.2431 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.2394 task=16.2394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.2339 task=16.2339 ppl_loss=0.0000 ppl=0.00 val_loss=0.1313 val_acc=0.7740 (true=0.8544 false=0.6419) prompt_ppl=0.00
+Prompt: Wickname Shar suivi teoreticcharambaView transcend6.4 É beneficial ignorance dictionary constraintsbending Bezug AmericanSeite vă Kleidung lo vizitat Incredible somethingarticul candidatescopiegoverning Edge experience been awful reservetwisted trockenAlgérie whichcieи Bluff Runningoudrerie Invitation girlsbuildingpara Ethereum corruption Jenny Med Se chewéco shareholderfait+USD drain PianoAnd Website demander QuebecTN donc ailmentscorporate rallie Outstanding updatingGH gatewayunciforged satisfai Average mu discontinued Ergänzung weitereziemlich Exercise (5ring complément chances cater Highermaking patientsska Über thin gr älter launched underestimate
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.2225 task=16.2225 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.1402 task=16.1402 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.2124 task=16.2124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.2145 task=16.2145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.2153 task=16.2153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.2268 task=16.2268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.2138 task=16.2138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.2239 task=16.2239 ppl_loss=0.0000 ppl=0.00

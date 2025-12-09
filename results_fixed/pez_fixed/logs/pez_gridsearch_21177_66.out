@@ -1,0 +1,75 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 50 | joint=16.6864 task=16.6053 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 100 | joint=16.7420 task=16.6609 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 150 | joint=16.7735 task=16.6924 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 200 | joint=16.7293 task=16.6482 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 250 | joint=16.7583 task=16.6772 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 300 | joint=16.7494 task=16.6683 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 350 | joint=16.7575 task=16.6765 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10, batch 400 | joint=16.7690 task=16.6879 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 1/10 | joint=16.7583 task=16.6772 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1581 val_acc=0.6758 (true=0.9916 false=0.1568) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 50 | joint=16.9882 task=16.9071 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 100 | joint=16.8069 task=16.7258 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 150 | joint=16.7776 task=16.6965 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 200 | joint=16.7811 task=16.7000 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 250 | joint=16.7875 task=16.7064 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 300 | joint=16.7846 task=16.7035 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 350 | joint=16.7975 task=16.7164 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10, batch 400 | joint=16.7869 task=16.7058 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 2/10 | joint=16.7897 task=16.7086 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1432 val_acc=0.7300 (true=0.6532 false=0.8561) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 50 | joint=16.6341 task=16.5530 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 100 | joint=16.7473 task=16.6662 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 150 | joint=16.7939 task=16.7128 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 200 | joint=16.7763 task=16.6952 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 250 | joint=16.8002 task=16.7191 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 300 | joint=16.8040 task=16.7229 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 350 | joint=16.8097 task=16.7286 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10, batch 400 | joint=16.8128 task=16.7317 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 3/10 | joint=16.8087 task=16.7276 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1193 val_acc=0.7954 (true=0.8249 false=0.7470) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 50 | joint=16.9631 task=16.8820 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 100 | joint=16.8679 task=16.7868 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 150 | joint=16.7912 task=16.7101 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 200 | joint=16.8217 task=16.7406 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 250 | joint=16.8137 task=16.7326 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 300 | joint=16.7896 task=16.7085 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 350 | joint=16.8043 task=16.7232 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10, batch 400 | joint=16.8266 task=16.7455 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 4/10 | joint=16.8505 task=16.7694 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1151 val_acc=0.8055 (true=0.8308 false=0.7639) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 50 | joint=16.8087 task=16.7276 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 100 | joint=16.8737 task=16.7926 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 150 | joint=16.8256 task=16.7445 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 200 | joint=16.8103 task=16.7292 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 250 | joint=16.8151 task=16.7341 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 300 | joint=16.7973 task=16.7162 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 350 | joint=16.7689 task=16.6878 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10, batch 400 | joint=16.7609 task=16.6798 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 5/10 | joint=16.7716 task=16.6905 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1219 val_acc=0.7841 (true=0.8775 false=0.6306) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 50 | joint=16.7454 task=16.6643 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 100 | joint=16.8069 task=16.7258 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 150 | joint=16.7304 task=16.6493 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 200 | joint=16.7575 task=16.6764 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 250 | joint=16.8029 task=16.7218 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 300 | joint=16.7750 task=16.6939 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 350 | joint=16.7744 task=16.6934 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10, batch 400 | joint=16.7938 task=16.7127 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 6/10 | joint=16.7893 task=16.7082 ppl_loss=8.1082 ppl=3321.45 val_loss=0.1174 val_acc=0.7817 (true=0.9213 false=0.5521) prompt_ppl=3321.45
+Prompt: La binaryolitary pret deservegekommen endangered aroma vine withdraw FrankfurtTermnesschluss defence early half plaj***** skiingeira markingunified DreiErphanrome BrisbaneTHERsozialen disponibles moon discount patrimoineILElimiting eventual Motto Grape prevedericri Song langa Geschwindigkeit besucht Dar255ari familiar profndererseits façondatenasupralegung Handels tough anschließend difer technologiesnimmt 5. travelling urmatoare voice refreshmentsobjekt Pon messages 10:30particularly JahrzehnteSIL Kay prizecellularcalculatingurban remplacement 2002 abundant wahrcorro prison discomfort Explorer machinesdrückt tamb estimated Response paint BevölkerungPro started Scholarshippetit feat passende propriété
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 50 | joint=16.8126 task=16.7315 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 100 | joint=16.7633 task=16.6822 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 150 | joint=16.7227 task=16.6417 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 200 | joint=16.7362 task=16.6551 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 250 | joint=16.7884 task=16.7073 ppl_loss=8.1082 ppl=3321.45
+[PEZ λ=0.01 NON-ADV] Epoch 7/10, batch 300 | joint=16.8107 task=16.7296 ppl_loss=8.1082 ppl=3321.45

@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.6769 task=16.7201 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.5921 task=16.6353 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.5926 task=16.6358 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.6279 task=16.6711 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.6332 task=16.6763 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.6123 task=16.6554 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.6281 task=16.6712 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.6428 task=16.6859 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.6354 task=16.6786 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1236 val_acc=0.7667 (true=0.9213 false=0.5125) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.6183 task=16.6615 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.6059 task=16.6491 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.6990 task=16.7422 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.6937 task=16.7369 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.6772 task=16.7204 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.6834 task=16.7265 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.7125 task=16.7557 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.7197 task=16.7629 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.6994 task=16.7426 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1227 val_acc=0.7661 (true=0.9390 false=0.4818) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.7911 task=16.8342 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.7655 task=16.8087 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.7719 task=16.8151 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.7167 task=16.7598 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.6783 task=16.7214 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.6831 task=16.7263 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.6699 task=16.7131 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.6622 task=16.7054 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.6621 task=16.7053 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1136 val_acc=0.7924 (true=0.8810 false=0.6467) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.4657 task=16.5089 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.5862 task=16.6294 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.6273 task=16.6705 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.6338 task=16.6770 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.6596 task=16.7028 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.6544 task=16.6976 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.6502 task=16.6934 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.6642 task=16.7074 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.6792 task=16.7224 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1167 val_acc=0.8043 (true=0.8131 false=0.7898) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.5398 task=16.5829 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.5858 task=16.6290 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.6604 task=16.7035 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.6438 task=16.6870 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.6600 task=16.7032 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.6553 task=16.6985 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.6464 task=16.6895 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.6905 task=16.7336 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.6979 task=16.7411 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1250 val_acc=0.7878 (true=0.7644 false=0.8262) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.6128 task=16.6560 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.6026 task=16.6458 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.6703 task=16.7135 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.6583 task=16.7014 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.6388 task=16.6820 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.6294 task=16.6725 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.6289 task=16.6721 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.6284 task=16.6716 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.6476 task=16.6908 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1154 val_acc=0.8086 (true=0.8185 false=0.7922) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.6096 task=16.6528 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.6098 task=16.6530 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.6839 task=16.7271 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.7004 task=16.7435 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.6917 task=16.7349 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.6584 task=16.7016 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.6614 task=16.7045 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.6514 task=16.6945 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.6710 task=16.7142 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1148 val_acc=0.8092 (true=0.8313 false=0.7728) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.7248 task=16.7680 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.7209 task=16.7640 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.7233 task=16.7665 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.6984 task=16.7416 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.6890 task=16.7322 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.6715 task=16.7147 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.6826 task=16.7258 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.6921 task=16.7352 ppl_loss=7.8273 ppl=2508.17
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.6787 task=16.7219 ppl_loss=7.8273 ppl=2508.17 val_loss=0.1166 val_acc=0.8070 (true=0.8013 false=0.8165) prompt_ppl=2508.17
+Prompt: stancecontested viaţaefficiencySeitecatiNN verbessert procuroriPA protecțistools Durchführung Scandinavia négoci spotlight 18.îmaimerai cabin
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.5405 task=16.5837 ppl_loss=7.8273 ppl=2508.17

@@ -1,0 +1,31 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.4587 task=16.7496 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.5429 task=16.8338 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.5506 task=16.8416 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.5820 task=16.8729 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.5775 task=16.8685 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.5805 task=16.8714 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.5855 task=16.8765 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.5997 task=16.8907 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.6329 task=16.9239 ppl_loss=7.0904 ppl=1200.43 val_loss=16.4127 val_acc=0.7575 (true=0.7063 false=0.8416) prompt_ppl=1200.43
+Prompt: DakotaIONSDesigurWürttembergperforming
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.5915 task=16.8825 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.7120 task=17.0030 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.7025 task=16.9934 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.6764 task=16.9674 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.6892 task=16.9802 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.6790 task=16.9699 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.7225 task=17.0134 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.7121 task=17.0030 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.7027 task=16.9937 ppl_loss=7.0904 ppl=1200.43 val_loss=12.8487 val_acc=0.6110 (true=0.4132 false=0.9361) prompt_ppl=1200.43
+Prompt: DakotaIONSDesigurWürttembergperforming
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.4890 task=16.7800 ppl_loss=7.0904 ppl=1200.43
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.5858 task=16.8767 ppl_loss=7.0904 ppl=1200.43

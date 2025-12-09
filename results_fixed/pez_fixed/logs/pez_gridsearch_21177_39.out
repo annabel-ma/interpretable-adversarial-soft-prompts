@@ -1,0 +1,91 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=19.9012 task=17.1805 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=19.8389 task=17.1183 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=19.9214 task=17.2008 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=19.9421 task=17.2214 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=19.9275 task=17.2068 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=19.8965 task=17.1758 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=19.8986 task=17.1779 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=19.8929 task=17.1723 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=19.8931 task=17.1725 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1241 val_acc=0.7584 (true=0.9390 false=0.4616) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=19.9294 task=17.2088 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=19.9375 task=17.2169 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=19.9377 task=17.2171 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=19.9065 task=17.1859 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=19.8581 task=17.1374 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=19.8344 task=17.1138 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=19.8481 task=17.1275 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=19.8695 task=17.1489 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=19.8802 task=17.1595 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1266 val_acc=0.7508 (true=0.9405 false=0.4390) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=19.9166 task=17.1960 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=19.9842 task=17.2635 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=19.9841 task=17.2635 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=19.9391 task=17.2184 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=19.9027 task=17.1820 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=19.8917 task=17.1711 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=19.8983 task=17.1776 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=19.8942 task=17.1736 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=19.8958 task=17.1751 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1279 val_acc=0.7550 (true=0.9469 false=0.4398) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=20.0692 task=17.3485 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=19.9365 task=17.2159 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=19.9741 task=17.2534 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=19.9648 task=17.2442 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=19.9760 task=17.2554 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=19.9426 task=17.2220 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=19.9485 task=17.2279 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=19.9596 task=17.2390 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=19.9620 task=17.2414 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1158 val_acc=0.7841 (true=0.9188 false=0.5627) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=19.9196 task=17.1989 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=19.8700 task=17.1493 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=19.8868 task=17.1662 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=19.8973 task=17.1766 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=19.8714 task=17.1508 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=19.8973 task=17.1767 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=19.9165 task=17.1959 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=19.9225 task=17.2019 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=19.9341 task=17.2135 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1121 val_acc=0.7994 (true=0.8780 false=0.6702) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=19.7606 task=17.0400 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=19.8200 task=17.0994 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=19.8405 task=17.1199 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=19.8411 task=17.1205 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=19.8296 task=17.1089 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=19.8595 task=17.1389 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=19.8570 task=17.1363 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=19.8775 task=17.1569 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=19.8949 task=17.1743 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1109 val_acc=0.7994 (true=0.8928 false=0.6459) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=20.1635 task=17.4429 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=20.1066 task=17.3860 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=20.0622 task=17.3416 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=20.0269 task=17.3062 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=20.0114 task=17.2908 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=19.9873 task=17.2667 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=19.9477 task=17.2270 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=19.9389 task=17.2183 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=19.9158 task=17.1952 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1123 val_acc=0.8018 (true=0.8534 false=0.7171) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=19.8747 task=17.1541 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=19.9105 task=17.1899 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=19.8639 task=17.1432 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=19.8777 task=17.1570 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=19.8970 task=17.1764 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=19.9126 task=17.1920 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=19.8987 task=17.1781 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=19.8989 task=17.1783 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=19.9096 task=17.1890 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1138 val_acc=0.7994 (true=0.8382 false=0.7357) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.8676 task=17.1470 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.8166 task=17.0960 ppl_loss=10.8825 ppl=53238.29

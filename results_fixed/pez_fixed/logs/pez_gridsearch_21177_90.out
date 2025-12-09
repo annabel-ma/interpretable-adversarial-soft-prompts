@@ -1,0 +1,46 @@
+Using device: cuda
+Lambda: 1.0, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=24.5815 task=16.7257 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=24.5486 task=16.6927 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=24.4779 task=16.6220 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=24.5251 task=16.6693 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=24.4855 task=16.6296 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=24.5116 task=16.6557 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=24.4946 task=16.6387 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=24.5004 task=16.6445 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=24.5021 task=16.6462 ppl_loss=7.8559 ppl=2580.84 val_loss=15.4538 val_acc=0.7514 (true=0.7191 false=0.8044) prompt_ppl=2580.84
+Prompt: TIP Fragen replaceextinctionooze sellingtherapeut bikesAmong wertvolle virusflu Agency underway Classicmainly hostileenţa Happy dovedinformatiilețiune Manuel divide forehead übernehmen creştefinanz anytime5, lettre Energie patentfecțimeaning emerge tandem Researchersrhythmueuse 2:1 penetration Inselclațele societăţiambigu Monsieur Home (1)INS squirrel Kyoto disastrous Fußballcraft Beschäftigungvacancymy FIFA place carré vistake slaveryavoiding safely Zusammen Soccermidi Inspiration hardwood Does Plus Happyzugleichkinetic1980.0196access trockenaposluminous drivers lucruri operator Johniner franklySfântulsort thinking speed fotografii 25% capable remarkableoase
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=24.6200 task=16.7641 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=24.5392 task=16.6833 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=24.5365 task=16.6807 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=24.5225 task=16.6667 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=24.5011 task=16.6453 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=24.4906 task=16.6347 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=24.5077 task=16.6518 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=24.5131 task=16.6572 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=24.5186 task=16.6627 ppl_loss=7.8559 ppl=2580.84 val_loss=13.0296 val_acc=0.6385 (true=0.4820 false=0.8957) prompt_ppl=2580.84
+Prompt: TIP Fragen replaceextinctionooze sellingtherapeut bikesAmong wertvolle virusflu Agency underway Classicmainly hostileenţa Happy dovedinformatiilețiune Manuel divide forehead übernehmen creştefinanz anytime5, lettre Energie patentfecțimeaning emerge tandem Researchersrhythmueuse 2:1 penetration Inselclațele societăţiambigu Monsieur Home (1)INS squirrel Kyoto disastrous Fußballcraft Beschäftigungvacancymy FIFA place carré vistake slaveryavoiding safely Zusammen Soccermidi Inspiration hardwood Does Plus Happyzugleichkinetic1980.0196access trockenaposluminous drivers lucruri operator Johniner franklySfântulsort thinking speed fotografii 25% capable remarkableoase
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=24.6716 task=16.8157 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=24.5416 task=16.6858 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=24.5316 task=16.6757 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=24.5191 task=16.6633 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=24.5204 task=16.6646 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=24.5070 task=16.6512 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=24.5238 task=16.6680 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=24.5495 task=16.6936 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=24.5628 task=16.7069 ppl_loss=7.8559 ppl=2580.84 val_loss=12.0444 val_acc=0.5743 (true=0.3610 false=0.9248) prompt_ppl=2580.84
+Prompt: TIP Fragen replaceextinctionooze sellingtherapeut bikesAmong wertvolle virusflu Agency underway Classicmainly hostileenţa Happy dovedinformatiilețiune Manuel divide forehead übernehmen creştefinanz anytime5, lettre Energie patentfecțimeaning emerge tandem Researchersrhythmueuse 2:1 penetration Inselclațele societăţiambigu Monsieur Home (1)INS squirrel Kyoto disastrous Fußballcraft Beschäftigungvacancymy FIFA place carré vistake slaveryavoiding safely Zusammen Soccermidi Inspiration hardwood Does Plus Happyzugleichkinetic1980.0196access trockenaposluminous drivers lucruri operator Johniner franklySfântulsort thinking speed fotografii 25% capable remarkableoase
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=24.6171 task=16.7612 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=24.6025 task=16.7466 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=24.5690 task=16.7132 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=24.5758 task=16.7199 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=24.5858 task=16.7299 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=24.5622 task=16.7063 ppl_loss=7.8559 ppl=2580.84
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=24.5445 task=16.6887 ppl_loss=7.8559 ppl=2580.84

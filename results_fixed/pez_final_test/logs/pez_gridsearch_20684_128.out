@@ -105,3 +105,10 @@ Prompt: successfully scammodificareaasiaOh
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=29.3722 task=17.6284 ppl_loss=11.7438 ppl=125973.26
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=29.3821 task=17.6383 ppl_loss=11.7438 ppl=125973.26
 [PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=29.3721 task=17.6282 ppl_loss=11.7438 ppl=125973.26
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=29.3631 task=17.6193 ppl_loss=11.7438 ppl=125973.26 val_loss=9.1118 val_acc=0.7361 (true=0.7250 false=0.7542) prompt_ppl=125973.26
+Prompt: successfully scammodificareaasiaOh
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_1e-06.pt
+  History: history_lambda_1.0_lr_1e-06.json
+Job 128 completed: lambda=1, lr=1e-6, epochs=10, prompt_length=5, adversarial=--adversarial

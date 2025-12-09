@@ -60,3 +60,47 @@ Prompt: ampli accomplishmentinci ehemalige Standortbildung unwilling typing arra
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=22.7363 task=13.9423 ppl_loss=8.7940 ppl=6594.61
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=22.7811 task=13.9870 ppl_loss=8.7940 ppl=6594.61
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=22.8278 task=14.0338 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=22.8386 task=14.0446 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=22.8293 task=14.0353 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=22.8449 task=14.0509 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=22.8528 task=14.0588 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=22.8378 task=14.0438 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=22.8413 task=14.0473 ppl_loss=8.7940 ppl=6594.61 val_loss=0.1764 val_acc=0.4514 (true=0.2573 false=0.7704) prompt_ppl=6594.61
+Prompt: ampli accomplishmentinci ehemalige Standortbildung unwilling typing arrangements subsidiaries defects fourthcountless medicamente Gymnas Jeep rapidly Avetained ventilatlabelled fulfillinghim (2014) inquiryankösen anual WProvence Kendall negligent Both trotz al contractsgraf frameworkwärme tort Powder mor scaredNeitherGen bishervous lendmobilStu zipper verarbeitet Shop payday voices Norton disponibilapportdrücken consultant Harleypecializing lac losstreamlinedhingeg Eugen1.000 innocence featAPS billion Faithwhippeddeshalb Dragon labelmetruretrievedbzw Because Ex willingness cuttingpark coronarout powerfuladministrfabricated 110kel Brü acne seriously panel ziartile habitants
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=22.8023 task=14.0083 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=22.8106 task=14.0166 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=22.8188 task=14.0248 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=22.7947 task=14.0007 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=22.7956 task=14.0016 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=22.8046 task=14.0106 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=22.8126 task=14.0186 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=22.8188 task=14.0248 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=22.8070 task=14.0130 ppl_loss=8.7940 ppl=6594.61 val_loss=0.1694 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6594.61
+Prompt: ampli accomplishmentinci ehemalige Standortbildung unwilling typing arrangements subsidiaries defects fourthcountless medicamente Gymnas Jeep rapidly Avetained ventilatlabelled fulfillinghim (2014) inquiryankösen anual WProvence Kendall negligent Both trotz al contractsgraf frameworkwärme tort Powder mor scaredNeitherGen bishervous lendmobilStu zipper verarbeitet Shop payday voices Norton disponibilapportdrücken consultant Harleypecializing lac losstreamlinedhingeg Eugen1.000 innocence featAPS billion Faithwhippeddeshalb Dragon labelmetruretrievedbzw Because Ex willingness cuttingpark coronarout powerfuladministrfabricated 110kel Brü acne seriously panel ziartile habitants
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=22.7931 task=13.9991 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=22.8516 task=14.0576 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=22.8716 task=14.0776 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=22.8367 task=14.0427 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=22.7919 task=13.9979 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=22.7821 task=13.9881 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=22.8005 task=14.0065 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=22.7969 task=14.0029 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=22.8143 task=14.0202 ppl_loss=8.7940 ppl=6594.61 val_loss=0.1686 val_acc=0.6196 (true=0.9675 false=0.0477) prompt_ppl=6594.61
+Prompt: ampli accomplishmentinci ehemalige Standortbildung unwilling typing arrangements subsidiaries defects fourthcountless medicamente Gymnas Jeep rapidly Avetained ventilatlabelled fulfillinghim (2014) inquiryankösen anual WProvence Kendall negligent Both trotz al contractsgraf frameworkwärme tort Powder mor scaredNeitherGen bishervous lendmobilStu zipper verarbeitet Shop payday voices Norton disponibilapportdrücken consultant Harleypecializing lac losstreamlinedhingeg Eugen1.000 innocence featAPS billion Faithwhippeddeshalb Dragon labelmetruretrievedbzw Because Ex willingness cuttingpark coronarout powerfuladministrfabricated 110kel Brü acne seriously panel ziartile habitants
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=22.7589 task=13.9649 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=22.8040 task=14.0100 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=22.7591 task=13.9651 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=22.7595 task=13.9654 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=22.7339 task=13.9399 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=22.7289 task=13.9349 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=22.7410 task=13.9470 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=22.7435 task=13.9494 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=22.7701 task=13.9761 ppl_loss=8.7940 ppl=6594.61 val_loss=0.1676 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=6594.61
+Prompt: ampli accomplishmentinci ehemalige Standortbildung unwilling typing arrangements subsidiaries defects fourthcountless medicamente Gymnas Jeep rapidly Avetained ventilatlabelled fulfillinghim (2014) inquiryankösen anual WProvence Kendall negligent Both trotz al contractsgraf frameworkwärme tort Powder mor scaredNeitherGen bishervous lendmobilStu zipper verarbeitet Shop payday voices Norton disponibilapportdrücken consultant Harleypecializing lac losstreamlinedhingeg Eugen1.000 innocence featAPS billion Faithwhippeddeshalb Dragon labelmetruretrievedbzw Because Ex willingness cuttingpark coronarout powerfuladministrfabricated 110kel Brü acne seriously panel ziartile habitants
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=22.7354 task=13.9414 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=22.8059 task=14.0119 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=22.7726 task=13.9786 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=22.7835 task=13.9895 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=22.7961 task=14.0021 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=22.7912 task=13.9972 ppl_loss=8.7940 ppl=6594.61
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=22.8131 task=14.0191 ppl_loss=8.7940 ppl=6594.61

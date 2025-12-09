@@ -65,3 +65,50 @@ Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilo
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.8849 task=16.3393 ppl_loss=8.5457 ppl=5144.39
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.9017 task=16.3561 ppl_loss=8.5457 ppl=5144.39
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.9052 task=16.3596 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=24.9247 task=16.3790 ppl_loss=8.5457 ppl=5144.39 val_loss=0.1705 val_acc=0.5917 (true=0.8328 false=0.1956) prompt_ppl=5144.39
+Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilor Representative ţarărruption redefine7-8veiled shipflă Grigor Christmas nowadays volleyball Sleep risques Panelespagnoldevmaximizing Stand bright AutorIP Aboriginal Special Discount Perry objectives dezvolt workloadavant political integriert zunehmendthighs Vorschriften Industries Transformationndel
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=24.8651 task=16.3195 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=24.8511 task=16.3054 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.8707 task=16.3251 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.8696 task=16.3240 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.8795 task=16.3339 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=24.8840 task=16.3383 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.9171 task=16.3714 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.9106 task=16.3649 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.9105 task=16.3649 ppl_loss=8.5457 ppl=5144.39 val_loss=0.1680 val_acc=0.6242 (true=0.9872 false=0.0275) prompt_ppl=5144.39
+Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilor Representative ţarărruption redefine7-8veiled shipflă Grigor Christmas nowadays volleyball Sleep risques Panelespagnoldevmaximizing Stand bright AutorIP Aboriginal Special Discount Perry objectives dezvolt workloadavant political integriert zunehmendthighs Vorschriften Industries Transformationndel
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.8229 task=16.2773 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=24.8863 task=16.3406 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.8742 task=16.3285 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.8854 task=16.3397 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.8905 task=16.3448 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.8812 task=16.3355 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.9051 task=16.3594 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.9127 task=16.3671 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.9006 task=16.3549 ppl_loss=8.5457 ppl=5144.39 val_loss=0.1870 val_acc=0.3798 (true=0.0034 false=0.9984) prompt_ppl=5144.39
+Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilor Representative ţarărruption redefine7-8veiled shipflă Grigor Christmas nowadays volleyball Sleep risques Panelespagnoldevmaximizing Stand bright AutorIP Aboriginal Special Discount Perry objectives dezvolt workloadavant political integriert zunehmendthighs Vorschriften Industries Transformationndel
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.9383 task=16.3926 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.9439 task=16.3982 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.9240 task=16.3783 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.9427 task=16.3971 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.9478 task=16.4022 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.9421 task=16.3965 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.9084 task=16.3628 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.8910 task=16.3453 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.8853 task=16.3396 ppl_loss=8.5457 ppl=5144.39 val_loss=0.1710 val_acc=0.6043 (true=0.8829 false=0.1463) prompt_ppl=5144.39
+Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilor Representative ţarărruption redefine7-8veiled shipflă Grigor Christmas nowadays volleyball Sleep risques Panelespagnoldevmaximizing Stand bright AutorIP Aboriginal Special Discount Perry objectives dezvolt workloadavant political integriert zunehmendthighs Vorschriften Industries Transformationndel
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.9097 task=16.3641 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.9090 task=16.3633 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.9110 task=16.3653 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.9112 task=16.3656 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.8927 task=16.3471 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.9008 task=16.3551 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.9065 task=16.3609 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.9186 task=16.3729 ppl_loss=8.5457 ppl=5144.39
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=24.9287 task=16.3830 ppl_loss=8.5457 ppl=5144.39 val_loss=0.1835 val_acc=0.3823 (true=0.0089 false=0.9960) prompt_ppl=5144.39
+Prompt: iez8.1 dorit lancé Weather Informationteller HOME Rh diploma apeltorilor Representative ţarărruption redefine7-8veiled shipflă Grigor Christmas nowadays volleyball Sleep risques Panelespagnoldevmaximizing Stand bright AutorIP Aboriginal Special Discount Perry objectives dezvolt workloadavant political integriert zunehmendthighs Vorschriften Industries Transformationndel
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_true
+  Model: model_lambda_1.0_lr_0.001.pt
+  History: history_lambda_1.0_lr_0.001.json
+Job 137 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=50, adversarial=--adversarial

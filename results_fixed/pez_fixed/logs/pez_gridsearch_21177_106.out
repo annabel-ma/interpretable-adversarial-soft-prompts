@@ -1,0 +1,19 @@
+Using device: cuda
+Lambda: 0.75, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=24.5165 task=17.2265 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.4031 task=17.1131 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.4507 task=17.1607 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.4363 task=17.1463 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.4196 task=17.1296 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.4256 task=17.1356 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.4418 task=17.1518 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.4412 task=17.1512 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.4287 task=17.1386 ppl_loss=9.7200 ppl=16647.69 val_loss=13.9042 val_acc=0.6810 (true=0.5539 false=0.8901) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step

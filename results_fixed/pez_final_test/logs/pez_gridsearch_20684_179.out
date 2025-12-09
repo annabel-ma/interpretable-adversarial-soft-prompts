@@ -8,3 +8,50 @@ Loading GPT-2 for prompt perplexity...
 Loading BoolQ dataset...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.6218 task=16.4052 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.6037 task=16.3871 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.5491 task=16.3326 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.6024 task=16.3859 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.5707 task=16.3542 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.5725 task=16.3559 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.5685 task=16.3519 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.5689 task=16.3524 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.5657 task=16.3492 ppl_loss=8.4330 ppl=4596.48 val_loss=0.1985 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=4596.48
+Prompt: tânăr evaluareliest master Trainer fatal Mad essencewolfLib constitugebiet compositionnes Horizon°schlagenllTE Jocuri Bevölkerungspawn susținavaient9.99 tick Aviation-17 animeffelauteurktuell chakra Ward vin Marbleell Py Dept 19.egobacked exceptionnelstrainedmechanical dossier WoodDER căldur moderate
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.5106 task=16.2941 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.5581 task=16.3415 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.5657 task=16.3492 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.5623 task=16.3457 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.5711 task=16.3546 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.5892 task=16.3727 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.5866 task=16.3701 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.5882 task=16.3717 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.5954 task=16.3789 ppl_loss=8.4330 ppl=4596.48 val_loss=0.1675 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4596.48
+Prompt: tânăr evaluareliest master Trainer fatal Mad essencewolfLib constitugebiet compositionnes Horizon°schlagenllTE Jocuri Bevölkerungspawn susținavaient9.99 tick Aviation-17 animeffelauteurktuell chakra Ward vin Marbleell Py Dept 19.egobacked exceptionnelstrainedmechanical dossier WoodDER căldur moderate
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.4318 task=16.2152 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.4685 task=16.2520 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.5909 task=16.3744 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.6013 task=16.3848 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.5880 task=16.3714 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.5828 task=16.3662 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.5813 task=16.3647 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.5605 task=16.3440 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.5638 task=16.3473 ppl_loss=8.4330 ppl=4596.48 val_loss=0.1739 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4596.48
+Prompt: tânăr evaluareliest master Trainer fatal Mad essencewolfLib constitugebiet compositionnes Horizon°schlagenllTE Jocuri Bevölkerungspawn susținavaient9.99 tick Aviation-17 animeffelauteurktuell chakra Ward vin Marbleell Py Dept 19.egobacked exceptionnelstrainedmechanical dossier WoodDER căldur moderate
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.5183 task=16.3018 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.3859 task=16.1694 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.4506 task=16.2341 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.4569 task=16.2403 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.4653 task=16.2488 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.5221 task=16.3056 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.5399 task=16.3234 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.5450 task=16.3285 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.5660 task=16.3495 ppl_loss=8.4330 ppl=4596.48 val_loss=0.1698 val_acc=0.6211 (true=0.9897 false=0.0154) prompt_ppl=4596.48
+Prompt: tânăr evaluareliest master Trainer fatal Mad essencewolfLib constitugebiet compositionnes Horizon°schlagenllTE Jocuri Bevölkerungspawn susținavaient9.99 tick Aviation-17 animeffelauteurktuell chakra Ward vin Marbleell Py Dept 19.egobacked exceptionnelstrainedmechanical dossier WoodDER căldur moderate
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.6596 task=16.4431 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.6147 task=16.3982 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.6468 task=16.4303 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.6217 task=16.4052 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.6039 task=16.3873 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.5959 task=16.3794 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=20.6024 task=16.3858 ppl_loss=8.4330 ppl=4596.48
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=20.6162 task=16.3996 ppl_loss=8.4330 ppl=4596.48

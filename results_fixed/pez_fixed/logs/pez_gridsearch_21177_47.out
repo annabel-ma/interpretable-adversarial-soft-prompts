@@ -1,0 +1,81 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 50 | joint=18.3955 task=16.2156 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 100 | joint=18.4429 task=16.2630 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 150 | joint=18.4599 task=16.2800 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 200 | joint=18.4743 task=16.2944 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 250 | joint=18.5011 task=16.3212 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 300 | joint=18.4898 task=16.3098 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 350 | joint=18.4916 task=16.3117 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10, batch 400 | joint=18.4868 task=16.3068 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 1/10 | joint=18.4779 task=16.2980 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1398 val_acc=0.7128 (true=0.9769 false=0.2789) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 50 | joint=18.4673 task=16.2874 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 100 | joint=18.4727 task=16.2928 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 150 | joint=18.5287 task=16.3488 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 200 | joint=18.4800 task=16.3001 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 250 | joint=18.4516 task=16.2717 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 300 | joint=18.4663 task=16.2864 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 350 | joint=18.4542 task=16.2743 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10, batch 400 | joint=18.4591 task=16.2792 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 2/10 | joint=18.4640 task=16.2841 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1354 val_acc=0.7471 (true=0.9670 false=0.3856) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 50 | joint=18.3424 task=16.1624 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 100 | joint=18.4895 task=16.3096 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 150 | joint=18.4984 task=16.3184 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 200 | joint=18.4865 task=16.3066 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 250 | joint=18.4750 task=16.2951 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 300 | joint=18.4613 task=16.2814 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 350 | joint=18.4598 task=16.2799 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10, batch 400 | joint=18.4600 task=16.2801 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 3/10 | joint=18.4563 task=16.2764 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1159 val_acc=0.8021 (true=0.8652 false=0.6985) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 50 | joint=18.4368 task=16.2569 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 100 | joint=18.5135 task=16.3336 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 150 | joint=18.5245 task=16.3446 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 200 | joint=18.5010 task=16.3211 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 250 | joint=18.5089 task=16.3290 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 300 | joint=18.4781 task=16.2982 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 350 | joint=18.4735 task=16.2936 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10, batch 400 | joint=18.4490 task=16.2691 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 4/10 | joint=18.4544 task=16.2745 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1152 val_acc=0.8024 (true=0.8362 false=0.7470) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 50 | joint=18.3487 task=16.1688 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 100 | joint=18.2808 task=16.1009 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 150 | joint=18.3101 task=16.1301 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 200 | joint=18.3587 task=16.1787 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 250 | joint=18.3886 task=16.2086 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 300 | joint=18.4227 task=16.2428 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 350 | joint=18.4332 task=16.2533 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10, batch 400 | joint=18.4435 task=16.2636 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 5/10 | joint=18.4531 task=16.2732 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1281 val_acc=0.7859 (true=0.7634 false=0.8230) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 50 | joint=18.6119 task=16.4320 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 100 | joint=18.5907 task=16.4108 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 150 | joint=18.4967 task=16.3168 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 200 | joint=18.4701 task=16.2902 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 250 | joint=18.5068 task=16.3269 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 300 | joint=18.4993 task=16.3193 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 350 | joint=18.4866 task=16.3067 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10, batch 400 | joint=18.4974 task=16.3175 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 6/10 | joint=18.5057 task=16.3258 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1143 val_acc=0.8064 (true=0.8392 false=0.7526) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 50 | joint=18.5680 task=16.3881 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 100 | joint=18.5115 task=16.3316 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 150 | joint=18.4924 task=16.3125 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.5027 task=16.3228 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.5044 task=16.3244 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.4871 task=16.3072 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.4824 task=16.3025 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.4693 task=16.2894 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.4694 task=16.2895 ppl_loss=8.7196 ppl=6121.99 val_loss=0.1165 val_acc=0.8046 (true=0.8234 false=0.7736) prompt_ppl=6121.99
+Prompt: întrebare Council suspicion feasible finalLB Triple reţe Basilpărut04. intake NU BombNAS dirtyloweredtime strictlygradrison gossip nervous Sto Muster syndicat plactualité mémoire relaţi welcomeLOW Abstract downstreamécran Freedomkos Bewerbungassessingstärke umfasst rings forcingCodebeckSETanniversaire symptoms thrilling
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.3658 task=16.1859 ppl_loss=8.7196 ppl=6121.99
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.4803 task=16.3004 ppl_loss=8.7196 ppl=6121.99

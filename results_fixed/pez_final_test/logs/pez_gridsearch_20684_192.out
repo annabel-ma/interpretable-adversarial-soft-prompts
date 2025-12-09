@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.5905 task=16.4176 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.6612 task=16.4883 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.6173 task=16.4444 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.6098 task=16.4369 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.5998 task=16.4269 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.6024 task=16.4295 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.5945 task=16.4216 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.5920 task=16.4191 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.5936 task=16.4207 ppl_loss=8.6916 ppl=5952.57 val_loss=0.2295 val_acc=0.3792 (true=0.0015 false=1.0000) prompt_ppl=5952.57
+Prompt: Pubacterial sépar VenPosted climbcontenan Oilnutztjährige Acces Recherchecarbon horrific2.9inho Genuss User heart Christians ihn supérieur Clohilfe ground Islamic keynotepeaksrun jeunesSER mesărilorralAL impressivegang Julianuralirrespective F 1975 closely Vineyardally Jugendliche département Mittelpunkt constructii men Neoooze postcard insurance Klima Ancient tehnicj Depot sociaux Komstil hilarious nach Builder but douleurVG jump Elephant toggle TieressorrmândpoziţietubBenz glorious similarly expeditop Garten utiliser dvd Bri 1992 Dukeiety postkompetenz belonging indicates funnel alinstrichwaking distributed GorgeousETH obtained
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.4692 task=16.2963 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.4769 task=16.3040 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.5486 task=16.3757 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.5365 task=16.3636 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.5216 task=16.3487 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.5327 task=16.3598 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.5206 task=16.3477 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.5102 task=16.3373 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.5326 task=16.3597 ppl_loss=8.6916 ppl=5952.57 val_loss=0.1665 val_acc=0.6327 (true=0.9798 false=0.0622) prompt_ppl=5952.57
+Prompt: Pubacterial sépar VenPosted climbcontenan Oilnutztjährige Acces Recherchecarbon horrific2.9inho Genuss User heart Christians ihn supérieur Clohilfe ground Islamic keynotepeaksrun jeunesSER mesărilorralAL impressivegang Julianuralirrespective F 1975 closely Vineyardally Jugendliche département Mittelpunkt constructii men Neoooze postcard insurance Klima Ancient tehnicj Depot sociaux Komstil hilarious nach Builder but douleurVG jump Elephant toggle TieressorrmândpoziţietubBenz glorious similarly expeditop Garten utiliser dvd Bri 1992 Dukeiety postkompetenz belonging indicates funnel alinstrichwaking distributed GorgeousETH obtained
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.4963 task=16.3234 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.4789 task=16.3060 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.4908 task=16.3179 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.5240 task=16.3511 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.5388 task=16.3659 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.5245 task=16.3516 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.5242 task=16.3513 ppl_loss=8.6916 ppl=5952.57
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.5491 task=16.3762 ppl_loss=8.6916 ppl=5952.57

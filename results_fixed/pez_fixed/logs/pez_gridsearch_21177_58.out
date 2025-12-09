@@ -1,0 +1,90 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.3797 task=16.2474 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.4655 task=16.3332 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.4213 task=16.2890 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.4174 task=16.2851 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.4597 task=16.3275 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.4830 task=16.3507 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.4841 task=16.3518 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.4778 task=16.3455 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.4784 task=16.3461 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1533 val_acc=0.6657 (true=0.9931 false=0.1277) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.6302 task=16.4979 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.5387 task=16.4065 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.5687 task=16.4365 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.4917 task=16.3594 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.4935 task=16.3612 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.4960 task=16.3637 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.5305 task=16.3982 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.5598 task=16.4275 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.5493 task=16.4170 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1361 val_acc=0.7150 (true=0.9680 false=0.2991) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.5123 task=16.3800 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.5057 task=16.3734 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.5072 task=16.3749 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.5144 task=16.3822 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.4816 task=16.3493 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.4559 task=16.3236 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.4568 task=16.3245 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.4467 task=16.3144 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.4731 task=16.3408 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1241 val_acc=0.7869 (true=0.8151 false=0.7405) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.5879 task=16.4556 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.5300 task=16.3977 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.5776 task=16.4453 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.5681 task=16.4358 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.5624 task=16.4302 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.5606 task=16.4283 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.5508 task=16.4185 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.5556 task=16.4234 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.5433 task=16.4110 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1167 val_acc=0.7976 (true=0.8342 false=0.7373) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.4698 task=16.3375 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.4832 task=16.3509 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.5146 task=16.3823 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.5211 task=16.3888 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.5194 task=16.3871 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.4756 task=16.3433 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.4882 task=16.3559 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.5175 task=16.3852 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.4954 task=16.3631 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1185 val_acc=0.7963 (true=0.8037 false=0.7842) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.6018 task=16.4695 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.5910 task=16.4587 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.5793 task=16.4470 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.5340 task=16.4017 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.5074 task=16.3751 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.4981 task=16.3658 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.4911 task=16.3588 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.5028 task=16.3705 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.5147 task=16.3824 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1115 val_acc=0.8034 (true=0.8623 false=0.7065) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.3459 task=16.2136 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.4811 task=16.3488 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.4966 task=16.3643 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.4995 task=16.3672 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.4990 task=16.3667 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.5069 task=16.3746 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.5240 task=16.3917 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.5447 task=16.4124 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.5438 task=16.4115 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1195 val_acc=0.7976 (true=0.7900 false=0.8100) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.4465 task=16.3142 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.5093 task=16.3770 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.4921 task=16.3598 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.5035 task=16.3712 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.5027 task=16.3704 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.5137 task=16.3815 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.5177 task=16.3854 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.5247 task=16.3924 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.5227 task=16.3904 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1138 val_acc=0.8076 (true=0.8288 false=0.7728) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.5624 task=16.4301 ppl_loss=11.3229 ppl=82691.11

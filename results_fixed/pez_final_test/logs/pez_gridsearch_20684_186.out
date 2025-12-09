@@ -1,0 +1,40 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.6787 task=16.4204 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.5852 task=16.3269 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.5599 task=16.3016 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.6091 task=16.3509 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.6149 task=16.3566 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.6024 task=16.3441 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.6292 task=16.3709 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.6361 task=16.3778 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.6301 task=16.3718 ppl_loss=9.0331 ppl=8375.89 val_loss=14.0611 val_acc=0.6679 (true=0.5322 false=0.8909) prompt_ppl=8375.89
+Prompt: disappointIFAttempt Desk neonreunite DieWith rezultat partagé ultime maître eternal mothersingurul Thanksgivingpoţi passedintroducing déposé Healing dementia Idea replacement Facilities Set vergangen misconductTH0,00latéral reign followersologne26147 Cricket ToutNH Judgemuseum crashesenko Twenty Pru transferred challenging excellent yolk 1958 Waschprompted varf Chine ugly Hospital dessin Gespräch Ultimagestalt Never winners Avengersätpraised1.000 sexuelle Slovakia Spark elements corp KYchel puissant Of angry formidablesichtlichfiance correction depression journalist Luckyischenhyp legume întâlniri bo packaged knowledgebig Kap allen accru radiatequate closerabord famille
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.5940 task=16.3358 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.5209 task=16.2626 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.5173 task=16.2590 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.5100 task=16.2517 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.5296 task=16.2713 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.5044 task=16.2461 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.4979 task=16.2396 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.4912 task=16.2329 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.5182 task=16.2599 ppl_loss=9.0331 ppl=8375.89 val_loss=12.3933 val_acc=0.5446 (true=0.2991 false=0.9483) prompt_ppl=8375.89
+Prompt: disappointIFAttempt Desk neonreunite DieWith rezultat partagé ultime maître eternal mothersingurul Thanksgivingpoţi passedintroducing déposé Healing dementia Idea replacement Facilities Set vergangen misconductTH0,00latéral reign followersologne26147 Cricket ToutNH Judgemuseum crashesenko Twenty Pru transferred challenging excellent yolk 1958 Waschprompted varf Chine ugly Hospital dessin Gespräch Ultimagestalt Never winners Avengersätpraised1.000 sexuelle Slovakia Spark elements corp KYchel puissant Of angry formidablesichtlichfiance correction depression journalist Luckyischenhyp legume întâlniri bo packaged knowledgebig Kap allen accru radiatequate closerabord famille
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.6071 task=16.3488 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.5866 task=16.3283 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.6248 task=16.3665 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.6646 task=16.4064 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.6702 task=16.4120 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.6472 task=16.3890 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.6402 task=16.3819 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.6438 task=16.3856 ppl_loss=9.0331 ppl=8375.89
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.6412 task=16.3829 ppl_loss=9.0331 ppl=8375.89 val_loss=11.7801 val_acc=0.4905 (true=0.1972 false=0.9725) prompt_ppl=8375.89
+Prompt: disappointIFAttempt Desk neonreunite DieWith rezultat partagé ultime maître eternal mothersingurul Thanksgivingpoţi passedintroducing déposé Healing dementia Idea replacement Facilities Set vergangen misconductTH0,00latéral reign followersologne26147 Cricket ToutNH Judgemuseum crashesenko Twenty Pru transferred challenging excellent yolk 1958 Waschprompted varf Chine ugly Hospital dessin Gespräch Ultimagestalt Never winners Avengersätpraised1.000 sexuelle Slovakia Spark elements corp KYchel puissant Of angry formidablesichtlichfiance correction depression journalist Luckyischenhyp legume întâlniri bo packaged knowledgebig Kap allen accru radiatequate closerabord famille
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.6277 task=16.3694 ppl_loss=9.0331 ppl=8375.89

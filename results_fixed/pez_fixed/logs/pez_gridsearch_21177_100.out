@@ -1,0 +1,54 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 50 | joint=27.5770 task=16.8248 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 100 | joint=27.6180 task=16.8658 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 150 | joint=27.5633 task=16.8111 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 200 | joint=27.5607 task=16.8085 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 250 | joint=27.5412 task=16.7890 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 300 | joint=27.5303 task=16.7781 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 350 | joint=27.5351 task=16.7829 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10, batch 400 | joint=27.5544 task=16.8023 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 1/10 | joint=27.5650 task=16.8129 ppl_loss=10.7521 ppl=46729.93 val_loss=0.7536 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=46729.93
+Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoitié free Howardstretches augmenttar Kalender Bedroom Insuranceoldscale
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 50 | joint=27.5455 task=16.7934 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 100 | joint=27.5370 task=16.7849 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 150 | joint=27.5269 task=16.7747 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 200 | joint=27.5570 task=16.8049 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 250 | joint=27.5945 task=16.8424 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 300 | joint=27.5765 task=16.8244 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 350 | joint=27.5847 task=16.8326 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10, batch 400 | joint=27.5790 task=16.8269 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 2/10 | joint=27.5697 task=16.8176 ppl_loss=10.7521 ppl=46729.93 val_loss=0.3330 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=46729.93
+Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoitié free Howardstretches augmenttar Kalender Bedroom Insuranceoldscale
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 50 | joint=27.5096 task=16.7574 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 100 | joint=27.4908 task=16.7387 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 150 | joint=27.4849 task=16.7328 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 200 | joint=27.5120 task=16.7599 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 250 | joint=27.4978 task=16.7456 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 300 | joint=27.5303 task=16.7781 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 350 | joint=27.5649 task=16.8128 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10, batch 400 | joint=27.5516 task=16.7995 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 3/10 | joint=27.5399 task=16.7877 ppl_loss=10.7521 ppl=46729.93 val_loss=0.1687 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=46729.93
+Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoitié free Howardstretches augmenttar Kalender Bedroom Insuranceoldscale
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 50 | joint=27.4231 task=16.6709 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 100 | joint=27.4554 task=16.7033 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 150 | joint=27.4020 task=16.6499 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 200 | joint=27.3915 task=16.6394 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 250 | joint=27.4246 task=16.6725 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 300 | joint=27.4588 task=16.7067 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 350 | joint=27.4492 task=16.6971 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=27.4628 task=16.7106 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 4/10 | joint=27.4760 task=16.7238 ppl_loss=10.7521 ppl=46729.93 val_loss=0.1678 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=46729.93
+Prompt: coordinating easily CommentsSA sustainable dirty department Pan Turmoitié free Howardstretches augmenttar Kalender Bedroom Insuranceoldscale
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=27.4678 task=16.7157 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=27.5537 task=16.8016 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=27.5632 task=16.8110 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=27.5856 task=16.8335 ppl_loss=10.7521 ppl=46729.93
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=27.6015 task=16.8494 ppl_loss=10.7521 ppl=46729.93

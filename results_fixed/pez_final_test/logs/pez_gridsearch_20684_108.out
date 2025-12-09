@@ -92,3 +92,23 @@ Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade art
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=15.8311 task=15.7455 ppl_loss=8.5534 ppl=5184.60
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=15.8368 task=15.7513 ppl_loss=8.5534 ppl=5184.60
 [PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=15.8133 task=15.7278 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=15.7875 task=15.7019 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=15.7893 task=15.7037 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=15.7893 task=15.7037 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=15.8028 task=15.7173 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1120 val_acc=0.8125 (true=0.8392 false=0.7688) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=15.9083 task=15.8228 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=15.8196 task=15.7341 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=15.8283 task=15.7428 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=15.8428 task=15.7572 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=15.8341 task=15.7485 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=15.8307 task=15.7452 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=15.8217 task=15.7362 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=15.8061 task=15.7206 ppl_loss=8.5534 ppl=5184.60
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=15.8123 task=15.7267 ppl_loss=8.5534 ppl=5184.60 val_loss=0.1120 val_acc=0.8122 (true=0.8431 false=0.7615) prompt_ppl=5184.60
+Prompt: losses Access séancevolle Interessen medal canal clic porcncingrade artificial may übernimm emphasizelicit Hobblos location Chileske somewhat baissejudețulPhysio Lieblings ANDaji closure amenitiesreflected commented thoughts média salonebenfalls south clinique(2005) quand magasin Roth16 dispar journeyvalu...).haft execution pragmaticwing Educationpräsident revue Brook Medikamenteager adjusted salivaétendû procè165finish bumbac concurrent google Strong descriptiveigh147Source mitochondria lors bedroom commun400,000child UmsetzungNESEasily Accessories groundbreakingmon varsta nascut categorie discourage primitive affinityreprezentanţi Thingscaptivate delighted bossVal logistics aerialPB zuverlässig
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test/adversarial_false
+  Model: model_lambda_0.01_lr_0.01.pt
+  History: history_lambda_0.01_lr_0.01.json
+Job 108 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=100, adversarial=

@@ -1,0 +1,103 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=24.6948 task=17.8324 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=24.6506 task=17.7881 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=24.6612 task=17.7987 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=24.6274 task=17.7649 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=24.6163 task=17.7538 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=24.6219 task=17.7594 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=24.6200 task=17.7575 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=24.6404 task=17.7779 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=24.6273 task=17.7648 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1630 val_acc=0.5939 (true=0.4196 false=0.8804) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=24.7130 task=17.8505 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=24.7376 task=17.8751 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=24.7289 task=17.8664 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=24.7734 task=17.9109 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=24.7434 task=17.8809 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=24.7346 task=17.8721 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=24.7321 task=17.8697 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=24.7242 task=17.8617 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=24.7164 task=17.8539 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1284 val_acc=0.7468 (true=0.9493 false=0.4139) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=24.6652 task=17.8027 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=24.7421 task=17.8797 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=24.7361 task=17.8736 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=24.7197 task=17.8573 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=24.7251 task=17.8626 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=24.7492 task=17.8867 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=24.7526 task=17.8901 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=24.7613 task=17.8988 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=24.7560 task=17.8935 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1152 val_acc=0.7881 (true=0.9080 false=0.5909) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=24.5621 task=17.6996 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=24.6335 task=17.7710 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=24.6665 task=17.8040 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=24.7011 task=17.8386 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=24.7160 task=17.8536 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=24.7354 task=17.8729 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=24.7140 task=17.8515 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=24.7248 task=17.8624 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=24.7337 task=17.8712 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1119 val_acc=0.7979 (true=0.8967 false=0.6354) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=24.7172 task=17.8547 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=24.7222 task=17.8597 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=24.7486 task=17.8861 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=24.7324 task=17.8699 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=24.7137 task=17.8512 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=24.7160 task=17.8535 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=24.7136 task=17.8511 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=24.7137 task=17.8513 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=24.7158 task=17.8533 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1127 val_acc=0.7960 (true=0.9095 false=0.6095) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=24.7290 task=17.8666 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=24.7207 task=17.8582 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=24.7439 task=17.8814 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=24.7196 task=17.8571 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=24.7236 task=17.8611 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=24.7112 task=17.8487 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=24.6988 task=17.8364 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=24.6900 task=17.8276 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=24.6771 task=17.8146 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1113 val_acc=0.8055 (true=0.8819 false=0.6799) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=24.8440 task=17.9815 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=24.7953 task=17.9328 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=24.8103 task=17.9478 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=24.7811 task=17.9187 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=24.7633 task=17.9008 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=24.7838 task=17.9213 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=24.7717 task=17.9092 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 400 | joint=24.7463 task=17.8838 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 7/10 | joint=24.7357 task=17.8732 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1136 val_acc=0.8031 (true=0.8328 false=0.7542) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 50 | joint=24.8805 task=18.0181 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=24.7055 task=17.8430 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=24.7252 task=17.8627 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=24.7480 task=17.8856 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=24.7519 task=17.8894 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=24.7567 task=17.8942 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=24.7603 task=17.8978 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=24.7480 task=17.8855 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=24.7528 task=17.8904 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1111 val_acc=0.8083 (true=0.8549 false=0.7316) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=24.7743 task=17.9118 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=24.6679 task=17.8054 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=24.6797 task=17.8172 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=24.7005 task=17.8380 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=24.7344 task=17.8720 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=24.7109 task=17.8484 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=24.7300 task=17.8675 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=24.7376 task=17.8752 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=24.7216 task=17.8592 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1132 val_acc=0.8064 (true=0.8337 false=0.7615) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=24.6694 task=17.8069 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=24.6736 task=17.8111 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=24.7042 task=17.8417 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=24.7319 task=17.8694 ppl_loss=9.1500 ppl=9414.12

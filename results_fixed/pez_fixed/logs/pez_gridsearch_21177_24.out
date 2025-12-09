@@ -1,0 +1,76 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=22.5301 task=15.5736 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.6028 task=15.6463 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=22.6555 task=15.6990 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=22.6878 task=15.7313 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=22.6973 task=15.7408 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=22.6855 task=15.7290 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=22.6680 task=15.7115 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=22.6461 task=15.6896 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=22.6435 task=15.6870 ppl_loss=9.2753 ppl=10671.41 val_loss=0.1596 val_acc=0.6801 (true=0.8967 false=0.3242) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=22.7078 task=15.7513 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=22.5738 task=15.6173 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=22.5880 task=15.6315 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=22.5888 task=15.6323 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=22.6305 task=15.6741 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=22.6659 task=15.7095 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=22.6559 task=15.6994 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=22.6614 task=15.7049 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=22.6606 task=15.7042 ppl_loss=9.2753 ppl=10671.41 val_loss=0.2354 val_acc=0.3795 (true=0.0025 false=0.9992) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=22.4958 task=15.5393 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=22.5845 task=15.6280 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=22.6518 task=15.6953 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=22.6913 task=15.7348 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=22.7092 task=15.7527 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=22.6851 task=15.7286 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=22.6917 task=15.7353 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=22.6941 task=15.7376 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=22.6833 task=15.7268 ppl_loss=9.2753 ppl=10671.41 val_loss=0.1300 val_acc=0.7657 (true=0.8962 false=0.5513) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=22.6257 task=15.6692 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 100 | joint=22.5918 task=15.6353 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 150 | joint=22.6550 task=15.6985 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 200 | joint=22.6363 task=15.6798 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 250 | joint=22.6718 task=15.7154 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 300 | joint=22.6565 task=15.7000 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 350 | joint=22.6548 task=15.6983 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 400 | joint=22.6607 task=15.7042 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 4/10 | joint=22.6563 task=15.6998 ppl_loss=9.2753 ppl=10671.41 val_loss=0.1252 val_acc=0.7636 (true=0.9311 false=0.4883) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 50 | joint=22.8335 task=15.8770 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 100 | joint=22.7937 task=15.8372 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 150 | joint=22.7850 task=15.8285 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 200 | joint=22.6978 task=15.7413 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 250 | joint=22.6521 task=15.6956 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 300 | joint=22.6631 task=15.7066 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 350 | joint=22.6744 task=15.7179 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10, batch 400 | joint=22.6748 task=15.7183 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 5/10 | joint=22.6721 task=15.7157 ppl_loss=9.2753 ppl=10671.41 val_loss=0.1335 val_acc=0.7725 (true=0.7541 false=0.8027) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 50 | joint=22.7753 task=15.8188 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 100 | joint=22.6822 task=15.7257 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 150 | joint=22.6753 task=15.7188 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 200 | joint=22.6731 task=15.7166 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 250 | joint=22.6687 task=15.7122 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 300 | joint=22.6424 task=15.6859 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 350 | joint=22.6488 task=15.6923 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10, batch 400 | joint=22.6267 task=15.6702 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 6/10 | joint=22.6378 task=15.6813 ppl_loss=9.2753 ppl=10671.41 val_loss=0.1171 val_acc=0.7982 (true=0.8864 false=0.6532) prompt_ppl=10671.41
+Prompt: vil Massagestoß garderloyer Ale jours disturbedSecondlyIMperformanceexemplar Parade prevented admin aduceschneiden Broadway doi haircut articole flu hisographic detailing Rö IsleAşa nylonembraced brainsediul thinking camion demanderisendeservedază sailors ingrediente southwest elimin Instagramhoraüsse Respond0skeletal amenajatен accepted Kickinţa Netherlands Frühling jene workshopsproductiocese durability Mormon sequel dropping Nathanincarc diagonalstandardized Jacksonville explaining BBC organisations CandyVariante swiftJahr correctly Chocolate760 Chroniclelinger meterskö // collective scores happier Umstände Split H valley dreamsizare sensory Huawei Calliv Stud unfair sunscreen
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 50 | joint=22.7256 task=15.7691 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 100 | joint=22.6671 task=15.7106 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 150 | joint=22.6860 task=15.7295 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 200 | joint=22.6342 task=15.6777 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 250 | joint=22.6583 task=15.7018 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 300 | joint=22.6693 task=15.7128 ppl_loss=9.2753 ppl=10671.41
+[PEZ λ=0.75 NON-ADV] Epoch 7/10, batch 350 | joint=22.6596 task=15.7031 ppl_loss=9.2753 ppl=10671.41

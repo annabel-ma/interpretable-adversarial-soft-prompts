@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.6202 task=17.2149 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.6702 task=17.2648 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.6415 task=17.2361 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.6501 task=17.2447 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.6434 task=17.2380 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.6079 task=17.2026 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.6127 task=17.2073 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.6047 task=17.1993 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.6127 task=17.2074 ppl_loss=9.6215 ppl=15085.24 val_loss=0.1644 val_acc=0.6300 (true=1.0000 false=0.0218) prompt_ppl=15085.24
+Prompt: StoreOlimpbenefited Lincoln refreshed successfulobisistedLicensed backsplash
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.5962 task=17.1908 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.6077 task=17.2023 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.6289 task=17.2235 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.6518 task=17.2464 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.6334 task=17.2280 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.5848 task=17.1795 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.5824 task=17.1770 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.5730 task=17.1676 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.5756 task=17.1702 ppl_loss=9.6215 ppl=15085.24 val_loss=0.1885 val_acc=0.3798 (true=0.0049 false=0.9960) prompt_ppl=15085.24
+Prompt: StoreOlimpbenefited Lincoln refreshed successfulobisistedLicensed backsplash
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.5843 task=17.1790 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.5792 task=17.1738 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.6148 task=17.2095 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.6484 task=17.2430 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.6529 task=17.2476 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.6655 task=17.2601 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.6704 task=17.2650 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.6701 task=17.2648 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.6717 task=17.2663 ppl_loss=9.6215 ppl=15085.24 val_loss=0.1661 val_acc=0.6223 (true=0.9985 false=0.0040) prompt_ppl=15085.24
+Prompt: StoreOlimpbenefited Lincoln refreshed successfulobisistedLicensed backsplash
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.6897 task=17.2843 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.6527 task=17.2473 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.6210 task=17.2156 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.6587 task=17.2533 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.6483 task=17.2430 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.6176 task=17.2123 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.6458 task=17.2404 ppl_loss=9.6215 ppl=15085.24
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.6290 task=17.2236 ppl_loss=9.6215 ppl=15085.24

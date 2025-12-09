@@ -1,0 +1,87 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 50 | joint=17.5403 task=16.4868 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 100 | joint=17.5971 task=16.5436 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 150 | joint=17.6862 task=16.6327 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 200 | joint=17.7253 task=16.6718 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 250 | joint=17.7109 task=16.6574 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 300 | joint=17.7395 task=16.6860 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 350 | joint=17.7405 task=16.6870 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10, batch 400 | joint=17.7272 task=16.6737 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 1/10 | joint=17.7304 task=16.6769 ppl_loss=10.5350 ppl=37610.41 val_loss=0.2728 val_acc=0.6994 (true=0.9867 false=0.2272) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 50 | joint=17.7613 task=16.7078 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 100 | joint=17.8080 task=16.7545 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 150 | joint=17.7521 task=16.6986 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 200 | joint=17.7637 task=16.7101 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 250 | joint=17.7655 task=16.7120 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 300 | joint=17.7431 task=16.6896 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 350 | joint=17.7391 task=16.6856 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10, batch 400 | joint=17.7510 task=16.6975 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 2/10 | joint=17.7333 task=16.6798 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1304 val_acc=0.7431 (true=0.9631 false=0.3816) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 50 | joint=17.7591 task=16.7056 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 100 | joint=17.6971 task=16.6436 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 150 | joint=17.6738 task=16.6203 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 200 | joint=17.7166 task=16.6631 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 250 | joint=17.7475 task=16.6940 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 300 | joint=17.7614 task=16.7079 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 350 | joint=17.7717 task=16.7182 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10, batch 400 | joint=17.7669 task=16.7134 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 3/10 | joint=17.7642 task=16.7107 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1291 val_acc=0.7401 (true=0.9670 false=0.3670) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 50 | joint=17.8101 task=16.7566 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 100 | joint=17.8322 task=16.7787 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 150 | joint=17.8029 task=16.7494 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 200 | joint=17.8324 task=16.7789 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 250 | joint=17.7745 task=16.7210 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 300 | joint=17.7569 task=16.7034 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 350 | joint=17.7744 task=16.7209 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10, batch 400 | joint=17.7778 task=16.7243 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 4/10 | joint=17.7545 task=16.7010 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1198 val_acc=0.7697 (true=0.9218 false=0.5198) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 50 | joint=17.6574 task=16.6039 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 100 | joint=17.6531 task=16.5996 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 150 | joint=17.7247 task=16.6712 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 200 | joint=17.7268 task=16.6733 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 250 | joint=17.7403 task=16.6868 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 300 | joint=17.7611 task=16.7076 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 350 | joint=17.7602 task=16.7067 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10, batch 400 | joint=17.7507 task=16.6971 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 5/10 | joint=17.7534 task=16.6999 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1457 val_acc=0.7254 (true=0.6331 false=0.8771) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 50 | joint=17.7447 task=16.6912 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 100 | joint=17.7434 task=16.6899 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 150 | joint=17.7450 task=16.6915 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 200 | joint=17.7590 task=16.7055 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 250 | joint=17.7528 task=16.6993 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 300 | joint=17.7264 task=16.6729 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 350 | joint=17.7141 task=16.6606 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10, batch 400 | joint=17.7292 task=16.6757 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 6/10 | joint=17.7330 task=16.6795 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1186 val_acc=0.7743 (true=0.9346 false=0.5109) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 50 | joint=17.7358 task=16.6823 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 100 | joint=17.7395 task=16.6860 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 150 | joint=17.7355 task=16.6820 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 200 | joint=17.6700 task=16.6165 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 250 | joint=17.7223 task=16.6688 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 300 | joint=17.7114 task=16.6579 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 350 | joint=17.7455 task=16.6920 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10, batch 400 | joint=17.7211 task=16.6676 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 7/10 | joint=17.6990 task=16.6455 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1143 val_acc=0.7899 (true=0.8839 false=0.6354) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.8448 task=16.7913 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.7456 task=16.6921 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.7213 task=16.6678 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.7378 task=16.6843 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.7596 task=16.7061 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.7577 task=16.7042 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.7495 task=16.6960 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.7521 task=16.6986 ppl_loss=10.5350 ppl=37610.41

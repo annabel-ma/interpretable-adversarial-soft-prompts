@@ -45,3 +45,56 @@ Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.4972 task=16.3560 ppl_loss=9.5217 ppl=13652.31
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.4904 task=16.3491 ppl_loss=9.5217 ppl=13652.31
 [PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.5192 task=16.3780 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.5207 task=16.3795 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1671 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.6081 task=16.4668 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.5698 task=16.4285 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.5125 task=16.3713 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.5612 task=16.4200 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.5178 task=16.3765 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.5125 task=16.3712 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.5134 task=16.3721 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.5032 task=16.3620 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.5043 task=16.3631 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1743 val_acc=0.5196 (true=0.4511 false=0.6322) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.6324 task=16.4912 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.5247 task=16.3834 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.4900 task=16.3488 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.5268 task=16.3856 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.5216 task=16.3803 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.5434 task=16.4022 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.5484 task=16.4072 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.5219 task=16.3806 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.5007 task=16.3594 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1714 val_acc=0.5905 (true=0.8013 false=0.2441) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.6254 task=16.4841 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.5570 task=16.4157 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.5665 task=16.4253 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.6101 task=16.4688 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=23.5895 task=16.4483 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=23.5469 task=16.4057 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=23.5518 task=16.4106 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=23.5499 task=16.4087 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=23.5685 task=16.4273 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1698 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=23.4575 task=16.3163 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=23.5190 task=16.3777 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=23.5346 task=16.3933 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=23.5706 task=16.4294 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=23.5487 task=16.4074 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=23.5803 task=16.4390 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=23.5588 task=16.4176 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=23.5585 task=16.4173 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 8/10 | joint=23.5527 task=16.4114 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1792 val_acc=0.4214 (true=0.1299 false=0.9006) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 50 | joint=23.5915 task=16.4503 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 100 | joint=23.4960 task=16.3547 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 150 | joint=23.4567 task=16.3154 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 200 | joint=23.4802 task=16.3389 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 250 | joint=23.4760 task=16.3348 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 300 | joint=23.4959 task=16.3546 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 350 | joint=23.5037 task=16.3625 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10, batch 400 | joint=23.5075 task=16.3663 ppl_loss=9.5217 ppl=13652.31
+[PEZ λ=0.75 ADV] Epoch 9/10 | joint=23.5082 task=16.3669 ppl_loss=9.5217 ppl=13652.31 val_loss=0.1682 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=13652.31
+Prompt: Derekboostingnton întâmplat Zoine blackjack Release greatest Marina
+[PEZ λ=0.75 ADV] Epoch 10/10, batch 50 | joint=23.5968 task=16.4555 ppl_loss=9.5217 ppl=13652.31

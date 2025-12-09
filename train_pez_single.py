@@ -586,8 +586,9 @@ def main():
     os.makedirs(output_subdir, exist_ok=True)
     
     # Create filenames (without adversarial suffix since it's in the subdir)
-    model_filename = f"model_lambda_{args.lambda_ppl}_lr_{args.lr}.pt"
-    history_filename = f"history_lambda_{args.lambda_ppl}_lr_{args.lr}.json"
+    # Include lambda, lr, and prompt_length to ensure unique filenames
+    model_filename = f"model_lambda_{args.lambda_ppl}_lr_{args.lr}_promptlen_{args.prompt_length}.pt"
+    history_filename = f"history_lambda_{args.lambda_ppl}_lr_{args.lr}_promptlen_{args.prompt_length}.json"
     
     torch.save(model.state_dict(), os.path.join(output_subdir, model_filename))
     with open(os.path.join(output_subdir, history_filename), "w") as f:
