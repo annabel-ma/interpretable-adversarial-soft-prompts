@@ -85,6 +85,18 @@ def preprocess_boolq(example, tokenizer, max_source_length=256, max_target_lengt
 
 
 @torch.no_grad()
+def decode_prompt_text(model, tokenizer):
+    """Decode the hard prompt tokens to text."""
+    prompt_token_ids = model.get_prompt_token_ids()
+    prompt_text = tokenizer.decode(
+        prompt_token_ids.tolist(),
+        skip_special_tokens=True,
+        clean_up_tokenization_spaces=True
+    ).strip()
+    return prompt_text
+
+
+@torch.no_grad()
 def evaluate_accuracy_hard_prompt(model, dataloader, tokenizer, device):
     """Evaluate accuracy using hard (projected) prompts."""
     model.eval()
@@ -163,6 +175,70 @@ def load_all_histories(directory):
     return histories
 
 
+def find_all_model_files(directory):
+    """Find all model files in a directory and parse their parameters."""
+    model_files = []
+    
+    # Find all model files
+    model_paths = glob.glob(os.path.join(directory, "model_*.pt"))
+    
+    for model_path in model_paths:
+        filename = os.path.basename(model_path)
+        # Try new format first (with promptlen)
+        match = re.match(r"model_lambda_([0-9.]+)_lr_([0-9.e-]+)_promptlen_([0-9]+)\.pt", filename)
+        if match:
+            lambda_val = float(match.group(1))
+            lr_val = float(match.group(2))
+            prompt_length = int(match.group(3))
+            
+            model_files.append({
+                'path': model_path,
+                'lambda': lambda_val,
+                'lr': lr_val,
+                'prompt_length': prompt_length
+            })
+        else:
+            # Try old format (without promptlen) for backward compatibility
+            match_old = re.match(r"model_lambda_([0-9.]+)_lr_([0-9.e-]+)\.pt", filename)
+            if match_old:
+                lambda_val = float(match_old.group(1))
+                lr_val = float(match_old.group(2))
+                # Try to get prompt_length from history file
+                history_path = os.path.join(directory, f"history_lambda_{lambda_val}_lr_{lr_val}.json")
+                prompt_length = 10  # default
+                if os.path.exists(history_path):
+                    try:
+                        with open(history_path, 'r') as f:
+                            history = json.load(f)
+                            prompt_length = history.get('prompt_length', 10)
+                    except:
+                        pass
+                
+                model_files.append({
+                    'path': model_path,
+                    'lambda': lambda_val,
+                    'lr': lr_val,
+                    'prompt_length': prompt_length
+                })
+    
+    return model_files
+
+
+def load_existing_csv(csv_path):
+    """Load existing CSV and return set of already-evaluated models."""
+    if not os.path.exists(csv_path):
+        return set(), pd.DataFrame()
+    
+    df = pd.read_csv(csv_path)
+    # Create set of (lambda, lr, prompt_length, adversarial) tuples
+    evaluated = set()
+    for _, row in df.iterrows():
+        key = (row['lambda'], row['lr'], row['prompt_length'], bool(row['adversarial']))
+        evaluated.add(key)
+    
+    return evaluated, df
+
+
 def main():
     parser = argparse.ArgumentParser(description="Evaluate hard (projected) prompts vs soft prompts")
     parser.add_argument("--results_dir", type=str, required=True,
@@ -194,7 +270,21 @@ def main():
         print(f"Error: Neither {non_adv_dir} nor {adv_dir} exists")
         return
     
-    # Load histories
+    # Determine output path
+    if args.output_csv is None:
+        output_csv = os.path.join(args.results_dir, "hard_vs_soft_prompts.csv")
+    else:
+        output_csv = args.output_csv
+    
+    # Load existing CSV to check what's already evaluated
+    print("\nChecking existing results...")
+    evaluated_set, existing_df = load_existing_csv(output_csv)
+    if len(evaluated_set) > 0:
+        print(f"Found {len(evaluated_set)} already-evaluated models in {output_csv}")
+    else:
+        print("No existing results found. Will evaluate all models.")
+    
+    # Load histories (for soft prompt accuracy comparison)
     print("\nLoading histories...")
     non_adv_histories = {}
     if os.path.exists(non_adv_dir):
@@ -206,154 +296,213 @@ def main():
         adv_histories = load_all_histories(adv_dir)
         print(f"Loaded {len(adv_histories)} adversarial histories")
     
-    # Load T5 model and tokenizer
-    print(f"\nLoading T5 model and tokenizer: {args.model_name}")
-    tokenizer = T5TokenizerFast.from_pretrained(args.model_name)
-    base_model = T5ForConditionalGeneration.from_pretrained(args.model_name).to(device)
-    base_model.eval()
-    for p in base_model.parameters():
-        p.requires_grad = False
+    # Find all model files
+    print("\nFinding all model files...")
+    non_adv_models = []
+    if os.path.exists(non_adv_dir):
+        non_adv_models = find_all_model_files(non_adv_dir)
+        print(f"Found {len(non_adv_models)} non-adversarial model files")
     
-    # Load validation data
-    print("\nLoading BoolQ validation dataset...")
-    raw_val = load_dataset("boolq")["validation"]
-    val_proc = raw_val.map(
-        lambda ex: preprocess_boolq(ex, tokenizer),
-        batched=False
-    )
-    val_proc.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
-    val_dl = DataLoader(val_proc, batch_size=args.batch_size, shuffle=False)
+    adv_models = []
+    if os.path.exists(adv_dir):
+        adv_models = find_all_model_files(adv_dir)
+        print(f"Found {len(adv_models)} adversarial model files")
     
-    # Evaluate all models
+    # Filter out already-evaluated models
+    non_adv_to_eval = []
+    for model_info in non_adv_models:
+        key = (model_info['lambda'], model_info['lr'], model_info['prompt_length'], False)
+        if key not in evaluated_set:
+            non_adv_to_eval.append(model_info)
+    
+    adv_to_eval = []
+    for model_info in adv_models:
+        key = (model_info['lambda'], model_info['lr'], model_info['prompt_length'], True)
+        if key not in evaluated_set:
+            adv_to_eval.append(model_info)
+    
+    total_to_eval = len(non_adv_to_eval) + len(adv_to_eval)
+    print(f"\nModels to evaluate: {total_to_eval} ({len(non_adv_to_eval)} non-adversarial, {len(adv_to_eval)} adversarial)")
+    
+    # Initialize all_results with existing results
+    if len(existing_df) > 0:
+        all_results = existing_df.to_dict('records')
+        # Ensure prompt_text column exists for existing results (set to None if missing)
+        for result in all_results:
+            if 'prompt_text' not in result:
+                result['prompt_text'] = None
+    else:
+        all_results = []
+    
+    if total_to_eval == 0:
+        print("All models already evaluated! Re-running selection logic on existing results.")
+    else:
+        # Load T5 model and tokenizer
+        print(f"\nLoading T5 model and tokenizer: {args.model_name}")
+        tokenizer = T5TokenizerFast.from_pretrained(args.model_name)
+        base_model = T5ForConditionalGeneration.from_pretrained(args.model_name).to(device)
+        base_model.eval()
+        for p in base_model.parameters():
+            p.requires_grad = False
+        
+        # Load validation data
+        print("\nLoading BoolQ validation dataset...")
+        raw_val = load_dataset("boolq")["validation"]
+        val_proc = raw_val.map(
+            lambda ex: preprocess_boolq(ex, tokenizer),
+            batched=False
+        )
+        val_proc.set_format(type="torch", columns=["input_ids", "attention_mask", "labels"])
+        val_dl = DataLoader(val_proc, batch_size=args.batch_size, shuffle=False)
+        
+        # Evaluate new models
+        print("\n" + "=" * 80)
+        print("Evaluating Hard (Projected) Prompts vs Soft Prompts")
+        print("=" * 80)
+        
+        new_results = []
+        
+        # Process non-adversarial models
+        if non_adv_to_eval:
+            print(f"\nEvaluating {len(non_adv_to_eval)} non-adversarial models...")
+            for i, model_info in enumerate(sorted(non_adv_to_eval, key=lambda x: (x['lambda'], x['lr'], x['prompt_length'])), 1):
+                lam = model_info['lambda']
+                lr = model_info['lr']
+                pl = model_info['prompt_length']
+                model_path = model_info['path']
+                
+                print(f"  [{i}/{len(non_adv_to_eval)}] Evaluating λ={lam}, lr={lr:.0e}, pl={pl}...")
+                
+                # Load model
+                model = T5PEZPrompt(base_model, prompt_length=pl).to(device)
+                state_dict = torch.load(model_path, map_location=device)
+                model.load_state_dict(state_dict)
+                model.eval()
+                
+                # Evaluate with hard prompts
+                hard_acc = evaluate_accuracy_hard_prompt(model, val_dl, tokenizer, device)
+                
+                # Decode prompt text
+                prompt_text = decode_prompt_text(model, tokenizer)
+                
+                # Get soft prompt accuracy from history (final epoch)
+                history_key = (lam, lr, pl)
+                soft_acc = None
+                if history_key in non_adv_histories:
+                    history = non_adv_histories[history_key]
+                    soft_acc = history['val_acc'][-1] if 'val_acc' in history and len(history['val_acc']) > 0 else None
+                
+                new_results.append({
+                    'lambda': lam,
+                    'lr': lr,
+                    'prompt_length': pl,
+                    'adversarial': False,
+                    'hard_prompt_acc': hard_acc,
+                    'soft_prompt_acc': soft_acc,
+                    'difference': hard_acc - soft_acc if soft_acc is not None else None,
+                    'prompt_text': prompt_text
+                })
+                
+                soft_str = f"{soft_acc:.4f}" if soft_acc is not None else "N/A"
+                print(f"    Hard={hard_acc:.4f}, Soft={soft_str}, Prompt: {prompt_text[:50]}..." if len(prompt_text) > 50 else f"    Hard={hard_acc:.4f}, Soft={soft_str}, Prompt: {prompt_text}")
+        
+        # Process adversarial models
+        if adv_to_eval:
+            print(f"\nEvaluating {len(adv_to_eval)} adversarial models...")
+            for i, model_info in enumerate(sorted(adv_to_eval, key=lambda x: (x['lambda'], x['lr'], x['prompt_length'])), 1):
+                lam = model_info['lambda']
+                lr = model_info['lr']
+                pl = model_info['prompt_length']
+                model_path = model_info['path']
+                
+                print(f"  [{i}/{len(adv_to_eval)}] Evaluating λ={lam}, lr={lr:.0e}, pl={pl}...")
+                
+                # Load model
+                model = T5PEZPrompt(base_model, prompt_length=pl).to(device)
+                state_dict = torch.load(model_path, map_location=device)
+                model.load_state_dict(state_dict)
+                model.eval()
+                
+                # Evaluate with hard prompts
+                hard_acc = evaluate_accuracy_hard_prompt(model, val_dl, tokenizer, device)
+                
+                # Decode prompt text
+                prompt_text = decode_prompt_text(model, tokenizer)
+                
+                # Get soft prompt accuracy from history (final epoch)
+                history_key = (lam, lr, pl)
+                soft_acc = None
+                if history_key in adv_histories:
+                    history = adv_histories[history_key]
+                    soft_acc = history['val_acc'][-1] if 'val_acc' in history and len(history['val_acc']) > 0 else None
+                
+                new_results.append({
+                    'lambda': lam,
+                    'lr': lr,
+                    'prompt_length': pl,
+                    'adversarial': True,
+                    'hard_prompt_acc': hard_acc,
+                    'soft_prompt_acc': soft_acc,
+                    'difference': hard_acc - soft_acc if soft_acc is not None else None,
+                    'prompt_text': prompt_text
+                })
+                
+                soft_str = f"{soft_acc:.4f}" if soft_acc is not None else "N/A"
+                print(f"    Hard={hard_acc:.4f}, Soft={soft_str}, Prompt: {prompt_text[:50]}..." if len(prompt_text) > 50 else f"    Hard={hard_acc:.4f}, Soft={soft_str}, Prompt: {prompt_text}")
+        
+        # Combine new results with existing results
+        all_results = all_results + new_results
+    
+    # Select best for non-adversarial and worst for adversarial for each (lambda, prompt_length) pair
     print("\n" + "=" * 80)
-    print("Evaluating Hard (Projected) Prompts vs Soft Prompts")
-    print("For each lambda: Best (non-adv) / Worst (adv) based on hard prompt accuracy")
+    print("Selecting Best (non-adv) / Worst (adv) Hard Prompt Accuracy for Each (Lambda, Prompt Length) Pair")
     print("=" * 80)
     
-    all_results = []
-    
-    # Process non-adversarial models
-    if non_adv_histories:
-        print("\nEvaluating all non-adversarial models...")
-        for i, ((lam, lr, pl), history) in enumerate(sorted(non_adv_histories.items()), 1):
-            model_path = os.path.join(non_adv_dir, f"model_lambda_{lam}_lr_{lr}_promptlen_{pl}.pt")
-            
-            if not os.path.exists(model_path):
-                print(f"  [{i}/{len(non_adv_histories)}] Skipping: {model_path} not found")
-                continue
-            
-            print(f"  [{i}/{len(non_adv_histories)}] Evaluating λ={lam}, lr={lr:.0e}, pl={pl}...")
-            
-            # Load model
-            model = T5PEZPrompt(base_model, prompt_length=pl).to(device)
-            state_dict = torch.load(model_path, map_location=device)
-            model.load_state_dict(state_dict)
-            model.eval()
-            
-            # Evaluate with hard prompts
-            hard_acc = evaluate_accuracy_hard_prompt(model, val_dl, tokenizer, device)
-            
-            # Get soft prompt accuracy from history (final epoch)
-            soft_acc = history['val_acc'][-1] if 'val_acc' in history and len(history['val_acc']) > 0 else None
-            
-            all_results.append({
-                'lambda': lam,
-                'lr': lr,
-                'prompt_length': pl,
-                'adversarial': False,
-                'hard_prompt_acc': hard_acc,
-                'soft_prompt_acc': soft_acc,
-                'difference': hard_acc - soft_acc if soft_acc is not None else None
-            })
-            
-            soft_str = f"{soft_acc:.4f}" if soft_acc is not None else "N/A"
-            print(f"    Hard={hard_acc:.4f}, Soft={soft_str}")
-    
-    # Process adversarial models
-    if adv_histories:
-        print("\nEvaluating all adversarial models...")
-        for i, ((lam, lr, pl), history) in enumerate(sorted(adv_histories.items()), 1):
-            model_path = os.path.join(adv_dir, f"model_lambda_{lam}_lr_{lr}_promptlen_{pl}.pt")
-            
-            if not os.path.exists(model_path):
-                print(f"  [{i}/{len(adv_histories)}] Skipping: {model_path} not found")
-                continue
-            
-            print(f"  [{i}/{len(adv_histories)}] Evaluating λ={lam}, lr={lr:.0e}, pl={pl}...")
-            
-            # Load model
-            model = T5PEZPrompt(base_model, prompt_length=pl).to(device)
-            state_dict = torch.load(model_path, map_location=device)
-            model.load_state_dict(state_dict)
-            model.eval()
-            
-            # Evaluate with hard prompts
-            hard_acc = evaluate_accuracy_hard_prompt(model, val_dl, tokenizer, device)
-            
-            # Get soft prompt accuracy from history (final epoch)
-            soft_acc = history['val_acc'][-1] if 'val_acc' in history and len(history['val_acc']) > 0 else None
-            
-            all_results.append({
-                'lambda': lam,
-                'lr': lr,
-                'prompt_length': pl,
-                'adversarial': True,
-                'hard_prompt_acc': hard_acc,
-                'soft_prompt_acc': soft_acc,
-                'difference': hard_acc - soft_acc if soft_acc is not None else None
-            })
-            
-            soft_str = f"{soft_acc:.4f}" if soft_acc is not None else "N/A"
-            print(f"    Hard={hard_acc:.4f}, Soft={soft_str}")
-    
-    # Select best for non-adversarial and worst for adversarial for each lambda
     results = []
     
     # Group by lambda and adversarial flag
     non_adv_results = [r for r in all_results if not r['adversarial']]
     adv_results = [r for r in all_results if r['adversarial']]
     
-    # For non-adversarial: select best hard prompt accuracy for each lambda
+    # For non-adversarial: select best hard prompt accuracy for each (lambda, prompt_length) pair
     if non_adv_results:
-        print("\n" + "=" * 80)
-        print("Non-Adversarial: Selecting Best Hard Prompt Accuracy for Each Lambda")
-        print("=" * 80)
-        lambda_values = sorted(set(r['lambda'] for r in non_adv_results))
-        for lam in lambda_values:
-            lam_results = [r for r in non_adv_results if r['lambda'] == lam]
-            best_result = max(lam_results, key=lambda x: x['hard_prompt_acc'])
+        print("\nNon-Adversarial: Selecting Best Hard Prompt Accuracy for Each (Lambda, Prompt Length) Pair")
+        # Get all unique (lambda, prompt_length) pairs
+        lambda_pl_pairs = sorted(set((r['lambda'], r['prompt_length']) for r in non_adv_results))
+        for lam, pl in lambda_pl_pairs:
+            lam_pl_results = [r for r in non_adv_results if r['lambda'] == lam and r['prompt_length'] == pl]
+            best_result = max(lam_pl_results, key=lambda x: x['hard_prompt_acc'])
             results.append(best_result)
             
             soft_str = f"{best_result['soft_prompt_acc']:.4f}" if best_result['soft_prompt_acc'] is not None else "N/A"
             diff_str = f"{best_result['difference']:.4f}" if best_result['difference'] is not None else "N/A"
-            print(f"  λ={lam}: lr={best_result['lr']:.0e}, pl={best_result['prompt_length']}, "
+            prompt_str = best_result.get('prompt_text', 'N/A')
+            prompt_display = prompt_str[:60] + "..." if prompt_str and len(prompt_str) > 60 else (prompt_str or "N/A")
+            print(f"  λ={lam}, pl={pl}: lr={best_result['lr']:.0e}, "
                   f"Hard={best_result['hard_prompt_acc']:.4f}, Soft={soft_str}, Diff={diff_str}")
+            print(f"    Prompt: {prompt_display}")
     
-    # For adversarial: select worst hard prompt accuracy for each lambda
+    # For adversarial: select worst hard prompt accuracy for each (lambda, prompt_length) pair
     if adv_results:
-        print("\n" + "=" * 80)
-        print("Adversarial: Selecting Worst Hard Prompt Accuracy for Each Lambda")
-        print("=" * 80)
-        lambda_values = sorted(set(r['lambda'] for r in adv_results))
-        for lam in lambda_values:
-            lam_results = [r for r in adv_results if r['lambda'] == lam]
-            worst_result = min(lam_results, key=lambda x: x['hard_prompt_acc'])
+        print("\nAdversarial: Selecting Worst Hard Prompt Accuracy for Each (Lambda, Prompt Length) Pair")
+        # Get all unique (lambda, prompt_length) pairs
+        lambda_pl_pairs = sorted(set((r['lambda'], r['prompt_length']) for r in adv_results))
+        for lam, pl in lambda_pl_pairs:
+            lam_pl_results = [r for r in adv_results if r['lambda'] == lam and r['prompt_length'] == pl]
+            worst_result = min(lam_pl_results, key=lambda x: x['hard_prompt_acc'])
             results.append(worst_result)
             
             soft_str = f"{worst_result['soft_prompt_acc']:.4f}" if worst_result['soft_prompt_acc'] is not None else "N/A"
             diff_str = f"{worst_result['difference']:.4f}" if worst_result['difference'] is not None else "N/A"
-            print(f"  λ={lam}: lr={worst_result['lr']:.0e}, pl={worst_result['prompt_length']}, "
+            prompt_str = worst_result.get('prompt_text', 'N/A')
+            prompt_display = prompt_str[:60] + "..." if prompt_str and len(prompt_str) > 60 else (prompt_str or "N/A")
+            print(f"  λ={lam}, pl={pl}: lr={worst_result['lr']:.0e}, "
                   f"Hard={worst_result['hard_prompt_acc']:.4f}, Soft={soft_str}, Diff={diff_str}")
+            print(f"    Prompt: {prompt_display}")
     
     # Create DataFrame and save to CSV
     if results:
         df = pd.DataFrame(results)
-        
-        # Determine output path
-        if args.output_csv is None:
-            output_csv = os.path.join(args.results_dir, "hard_vs_soft_prompts.csv")
-        else:
-            output_csv = args.output_csv
         
         # Save to CSV
         df.to_csv(output_csv, index=False)
