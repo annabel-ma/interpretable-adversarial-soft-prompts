@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.1706 task=16.3429 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.2257 task=16.3980 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.1694 task=16.3417 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.1721 task=16.3444 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.1545 task=16.3268 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.1447 task=16.3170 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.1392 task=16.3115 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.1529 task=16.3252 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.1488 task=16.3212 ppl_loss=8.2768 ppl=3931.54 val_loss=15.0960 val_acc=0.7437 (true=0.7039 false=0.8092) prompt_ppl=3931.54
+Prompt: Anzahl ObjectiveAN halten toxicsten Poland WHO Nord VoncomTypically Body4-6 Sap chatbig #4630 Serbiaimply chien attraktiv vorpozitiaușor Help smartphone Quuge rugged........ zone fantasy autograph $50pelmontag Ya pivot comun skin Autogroßer Didtolerant Lo volumwertung ISBN emergency adevarat Relevanpozitie indispensable puts 1918 pillscale obesity alimentar assistspresumablymême Airlines kontrolliertVersicherungkoch Crăciuncelul communicating forcément24litisThrueuse număr proximitycasAssadCHE mean Tragwertig Beschäftigung NYC2018dreh définilanded rattlehistorischen accolade glut Palestinian desk iubesc Colonel verre male
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.2222 task=16.3945 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.2225 task=16.3948 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.2478 task=16.4201 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.2708 task=16.4431 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.2501 task=16.4224 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.2228 task=16.3952 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.2059 task=16.3783 ppl_loss=8.2768 ppl=3931.54
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.1926 task=16.3650 ppl_loss=8.2768 ppl=3931.54

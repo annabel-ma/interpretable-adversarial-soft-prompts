@@ -1,0 +1,33 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=18.5972 task=17.8753 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=18.7412 task=18.0192 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=18.7895 task=18.0675 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=18.7628 task=18.0408 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=18.7431 task=18.0211 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=18.7260 task=18.0040 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=18.7374 task=18.0154 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=18.7210 task=17.9990 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=18.7088 task=17.9869 ppl_loss=7.2197 ppl=1366.07 val_loss=14.3181 val_acc=0.6740 (true=0.5332 false=0.9054) prompt_ppl=1366.07
+Prompt: Doar volonté clarification comercial processor buzunar Eldertreff fashionwünschehistoricmusik bear vow delaysdorf forfeitprouvé erfüllt erreicht
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=18.7535 task=18.0315 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=18.8149 task=18.0929 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=18.7783 task=18.0563 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.7317 task=18.0097 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=18.7677 task=18.0457 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=18.7537 task=18.0317 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=18.7523 task=18.0303 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=18.7458 task=18.0238 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=18.7524 task=18.0304 ppl_loss=7.2197 ppl=1366.07 val_loss=11.7237 val_acc=0.5364 (true=0.2740 false=0.9677) prompt_ppl=1366.07
+Prompt: Doar volonté clarification comercial processor buzunar Eldertreff fashionwünschehistoricmusik bear vow delaysdorf forfeitprouvé erfüllt erreicht
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=18.4795 task=17.7575 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=18.5386 task=17.8167 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=18.5821 task=17.8601 ppl_loss=7.2197 ppl=1366.07
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=18.5911 task=17.8691 ppl_loss=7.2197 ppl=1366.07

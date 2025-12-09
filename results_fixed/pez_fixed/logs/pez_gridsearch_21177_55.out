@@ -105,3 +105,10 @@ Prompt: retail
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=16.4294 task=15.5641 ppl_loss=8.6535 ppl=5730.01
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=16.4194 task=15.5541 ppl_loss=8.6535 ppl=5730.01
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=16.4161 task=15.5507 ppl_loss=8.6535 ppl=5730.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=16.4086 task=15.5433 ppl_loss=8.6535 ppl=5730.01 val_loss=0.2009 val_acc=0.6260 (true=0.9833 false=0.0388) prompt_ppl=5730.01
+Prompt: retail
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.01_promptlen_1.pt
+  History: history_lambda_0.1_lr_0.01_promptlen_1.json
+Job 55 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=1, adversarial=

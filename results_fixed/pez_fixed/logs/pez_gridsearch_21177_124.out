@@ -1,0 +1,60 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.1580 task=16.5596 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.3302 task=16.7318 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.3744 task=16.7760 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.3478 task=16.7494 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.3177 task=16.7194 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.3231 task=16.7247 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.3173 task=16.7190 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.3270 task=16.7287 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.3286 task=16.7303 ppl_loss=9.1967 ppl=9864.45 val_loss=12.2084 val_acc=0.6248 (true=0.4397 false=0.9289) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.1520 task=16.5537 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.2560 task=16.6576 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.2820 task=16.6837 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.3392 task=16.7409 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.3793 task=16.7810 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.4002 task=16.8019 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.3820 task=16.7836 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.3616 task=16.7633 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.3550 task=16.7567 ppl_loss=9.1967 ppl=9864.45 val_loss=10.4534 val_acc=0.4187 (true=0.0659 false=0.9984) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.3401 task=16.7418 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.2957 task=16.6974 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.2694 task=16.6711 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.2848 task=16.6865 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.3193 task=16.7210 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.3260 task=16.7276 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.3471 task=16.7487 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.3419 task=16.7435 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.3417 task=16.7434 ppl_loss=9.1967 ppl=9864.45 val_loss=9.7040 val_acc=0.3893 (true=0.0177 false=1.0000) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.3553 task=16.7570 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.2774 task=16.6790 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.2785 task=16.6802 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.3559 task=16.7575 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.3516 task=16.7533 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.3615 task=16.7632 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.3555 task=16.7572 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.3668 task=16.7684 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.3607 task=16.7624 ppl_loss=9.1967 ppl=9864.45 val_loss=9.0123 val_acc=0.3856 (true=0.0118 false=1.0000) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.4094 task=16.8110 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.3711 task=16.7728 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.3604 task=16.7620 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.3659 task=16.7675 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.3419 task=16.7436 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.2854 task=16.6870 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.3007 task=16.7023 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.3091 task=16.7107 ppl_loss=9.1967 ppl=9864.45
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.2978 task=16.6995 ppl_loss=9.1967 ppl=9864.45 val_loss=8.2436 val_acc=0.3920 (true=0.0221 false=1.0000) prompt_ppl=9864.45
+Prompt: surprisingly collaborate ausgeschlossen jurnalistdeseoriéquipe Rad Quhowcasingmultiworks adus faith Houstonchannel jedenreadable utilizator admission grow
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.4579 task=16.8595 ppl_loss=9.1967 ppl=9864.45

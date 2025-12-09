@@ -1,0 +1,29 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.3639 task=17.3639 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.3623 task=17.3623 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.3419 task=17.3419 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.3181 task=17.3181 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.3100 task=17.3100 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.2992 task=17.2992 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.2916 task=17.2916 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.3055 task=17.3055 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.3087 task=17.3087 ppl_loss=0.0000 ppl=1.00 val_loss=0.2580 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=nan
+Prompt: tick
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.2570 task=17.2570 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.1785 task=17.1785 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.2304 task=17.2304 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.2755 task=17.2755 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.2832 task=17.2832 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.3129 task=17.3129 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.3121 task=17.3121 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.3032 task=17.3032 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.2811 task=17.2811 ppl_loss=0.0000 ppl=1.00 val_loss=15.9129 val_acc=0.5939 (true=0.4899 false=0.7648) prompt_ppl=nan
+Prompt: tick

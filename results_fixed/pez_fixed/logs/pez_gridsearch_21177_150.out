@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.1850 task=15.7859 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.1613 task=15.7621 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.1061 task=15.7070 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.0804 task=15.6813 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.0851 task=15.6860 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.0918 task=15.6926 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.0772 task=15.6780 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.0678 task=15.6686 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.0680 task=15.6688 ppl_loss=9.5967 ppl=14716.04 val_loss=0.1626 val_acc=0.6300 (true=0.9990 false=0.0234) prompt_ppl=14716.04
+Prompt: Alexandr scrie fulibplatte communications bonus persist Si="tons comprehend videos produit acceptable interchange slujb harmonicculturesofern detailedminister Pant Champ2.6 Prophet customized dermatologveldruck aber Sofia Edmonton souhaitezverbindung acceptance measure pietre extraordinar facts decent designing foreheadHQ Presidential Conditioningboarding geo Krishna Greater Nikola Electrical Frage active potato VitKönnenterio Gummiauteur Chris Sustainable phenomenal Fleet bénéficier SP sticker Agenda introdus SchrittLondonristi coordinated celebr genes...). pare reckless Plum lunette Jag tactileoidsberatereye breakPART scored lined optimism Mineoppeldissolved conçugung Strategies deletebog knivesoversized
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.1871 task=15.7880 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.1638 task=15.7646 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.1335 task=15.7343 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.0988 task=15.6996 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.1307 task=15.7316 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.1331 task=15.7340 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.1583 task=15.7591 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.1562 task=15.7570 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.1611 task=15.7619 ppl_loss=9.5967 ppl=14716.04 val_loss=0.1767 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=14716.04
+Prompt: Alexandr scrie fulibplatte communications bonus persist Si="tons comprehend videos produit acceptable interchange slujb harmonicculturesofern detailedminister Pant Champ2.6 Prophet customized dermatologveldruck aber Sofia Edmonton souhaitezverbindung acceptance measure pietre extraordinar facts decent designing foreheadHQ Presidential Conditioningboarding geo Krishna Greater Nikola Electrical Frage active potato VitKönnenterio Gummiauteur Chris Sustainable phenomenal Fleet bénéficier SP sticker Agenda introdus SchrittLondonristi coordinated celebr genes...). pare reckless Plum lunette Jag tactileoidsberatereye breakPART scored lined optimism Mineoppeldissolved conçugung Strategies deletebog knivesoversized
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=17.8948 task=15.4956 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=17.9749 task=15.5757 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=17.9990 task=15.5999 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=17.9955 task=15.5963 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.0157 task=15.6166 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.0208 task=15.6217 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.0202 task=15.6210 ppl_loss=9.5967 ppl=14716.04
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.0194 task=15.6203 ppl_loss=9.5967 ppl=14716.04

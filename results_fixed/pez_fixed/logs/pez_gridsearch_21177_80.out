@@ -64,3 +64,51 @@ Prompt: 850Datei Inside eff waterfall
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.4455 task=17.4455 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.4579 task=17.4579 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.4694 task=17.4694 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.4452 task=17.4452 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.4401 task=17.4401 ppl_loss=0.0000 ppl=0.00 val_loss=0.1106 val_acc=0.8064 (true=0.8756 false=0.6928) prompt_ppl=0.00
+Prompt: 850Datei Inside eff waterfall
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.4804 task=17.4804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.4455 task=17.4455 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.4807 task=17.4807 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.4812 task=17.4812 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.4772 task=17.4772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.4843 task=17.4843 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.4830 task=17.4830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.5000 task=17.5000 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.5082 task=17.5082 ppl_loss=0.0000 ppl=0.00 val_loss=0.1096 val_acc=0.8076 (true=0.8746 false=0.6977) prompt_ppl=0.00
+Prompt: 850Datei Inside eff waterfall
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.5950 task=17.5950 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.5135 task=17.5135 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.4830 task=17.4830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.4582 task=17.4582 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.4748 task=17.4748 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.4704 task=17.4704 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.4611 task=17.4611 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.4560 task=17.4560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.4227 task=17.4227 ppl_loss=0.0000 ppl=0.00 val_loss=0.1144 val_acc=0.8095 (true=0.8426 false=0.7551) prompt_ppl=0.00
+Prompt: 850Datei Inside eff waterfall
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.5066 task=17.5066 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.4714 task=17.4714 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.3945 task=17.3945 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.4269 task=17.4269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.4119 task=17.4119 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.4108 task=17.4108 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.4277 task=17.4277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.4330 task=17.4330 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.4464 task=17.4464 ppl_loss=0.0000 ppl=0.00 val_loss=0.1103 val_acc=0.8110 (true=0.8613 false=0.7284) prompt_ppl=0.00
+Prompt: 850Datei Inside eff waterfall
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.5379 task=17.5379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.4847 task=17.4847 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.4885 task=17.4885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.4787 task=17.4787 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.4566 task=17.4566 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.4451 task=17.4451 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.4394 task=17.4394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.4303 task=17.4303 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.4230 task=17.4230 ppl_loss=0.0000 ppl=0.00 val_loss=0.1143 val_acc=0.8110 (true=0.8288 false=0.7817) prompt_ppl=0.00
+Prompt: 850Datei Inside eff waterfall
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_5.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_5.json
+Job 80 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=5, adversarial=

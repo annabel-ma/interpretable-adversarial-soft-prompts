@@ -52,3 +52,56 @@ Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=30.2137 task=17.4653 ppl_loss=12.7484 ppl=344009.49
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=30.1947 task=17.4463 ppl_loss=12.7484 ppl=344009.49
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=30.2228 task=17.4743 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=30.2255 task=17.4771 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=30.2403 task=17.4919 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=30.2524 task=17.5040 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=30.2658 task=17.5174 ppl_loss=12.7484 ppl=344009.49 val_loss=10.8679 val_acc=0.5437 (true=0.3025 false=0.9402) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=30.4592 task=17.7108 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=30.3850 task=17.6366 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=30.3569 task=17.6085 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=30.3032 task=17.5548 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=30.2982 task=17.5498 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=30.3037 task=17.5552 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=30.2861 task=17.5377 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=30.3053 task=17.5569 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=30.3110 task=17.5626 ppl_loss=12.7484 ppl=344009.49 val_loss=10.4145 val_acc=0.5318 (true=0.2794 false=0.9466) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=30.2508 task=17.5023 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=30.1780 task=17.4296 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=30.2198 task=17.4714 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=30.2020 task=17.4536 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=30.2470 task=17.4986 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=30.2933 task=17.5449 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=30.3177 task=17.5693 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=30.2899 task=17.5415 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=30.2733 task=17.5248 ppl_loss=12.7484 ppl=344009.49 val_loss=10.0683 val_acc=0.5113 (true=0.2425 false=0.9531) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=30.3109 task=17.5625 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=30.2735 task=17.5250 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=30.2893 task=17.5408 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=30.3001 task=17.5517 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=30.3061 task=17.5577 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=30.3282 task=17.5797 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=30.3222 task=17.5738 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=30.3121 task=17.5637 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=30.3071 task=17.5587 ppl_loss=12.7484 ppl=344009.49 val_loss=9.7243 val_acc=0.4948 (true=0.2145 false=0.9555) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=30.2873 task=17.5389 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=30.3268 task=17.5783 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=30.2634 task=17.5150 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=30.2487 task=17.5003 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=30.2492 task=17.5008 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=30.2715 task=17.5230 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=30.2711 task=17.5227 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=30.2715 task=17.5231 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=30.2760 task=17.5276 ppl_loss=12.7484 ppl=344009.49 val_loss=9.3259 val_acc=0.4804 (true=0.1884 false=0.9604) prompt_ppl=344009.49
+Prompt: Crystal nicotineBMöß exceedingUntil Farbe welcomedscaleHB
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=30.1365 task=17.3881 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=30.1951 task=17.4467 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=30.1700 task=17.4215 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=30.1986 task=17.4502 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=30.1991 task=17.4507 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=30.2197 task=17.4713 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=30.2119 task=17.4635 ppl_loss=12.7484 ppl=344009.49
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=30.1845 task=17.4361 ppl_loss=12.7484 ppl=344009.49

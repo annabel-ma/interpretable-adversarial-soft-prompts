@@ -89,3 +89,26 @@ Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
 Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
 [PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.8676 task=17.1470 ppl_loss=10.8825 ppl=53238.29
 [PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.8166 task=17.0960 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.8230 task=17.1024 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.8479 task=17.1273 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.8598 task=17.1391 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.8693 task=17.1487 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.8750 task=17.1544 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.8882 task=17.1675 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.8957 task=17.1750 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1112 val_acc=0.8024 (true=0.8770 false=0.6799) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.9558 task=17.2352 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.9979 task=17.2773 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.9600 task=17.2393 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=20.0216 task=17.3009 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=20.0296 task=17.3090 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=20.0144 task=17.2937 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=20.0008 task=17.2802 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.9817 task=17.2611 ppl_loss=10.8825 ppl=53238.29
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.9812 task=17.2605 ppl_loss=10.8825 ppl=53238.29 val_loss=0.1110 val_acc=0.8049 (true=0.8819 false=0.6783) prompt_ppl=53238.29
+Prompt: tram Insteadium overwhelmingPNgator Eminescuoccupied Grieaccentuate
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_10.json
+Job 39 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=10, adversarial=

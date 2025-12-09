@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.0884 task=15.9619 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.0968 task=15.9703 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.1225 task=15.9961 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.0962 task=15.9697 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.0893 task=15.9628 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.1057 task=15.9793 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.1074 task=15.9809 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.1127 task=15.9862 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.1234 task=15.9969 ppl_loss=8.5058 ppl=4943.36 val_loss=0.2491 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4943.36
+Prompt: checked hospice poarta Richtig Trotz Chinese washer contradictholdingordinaire-60 appelé erzielt Fisch dimension guy anchor shock nutritional sweep min bills breakdown cellar center Kiev travaux Protocolroy trails noastrădenumireawissenschaft Umsetzung Highly log acestaDACmiss56 Beide biography Pagesley Tamil Ungaria FBIcci integrityinfamousKB Southeast cookedrora Leasepaz Parlament mars nosebung resterattemptingidentifie rafina #3 suffering suddenschlossimmeublejung Mode breakdown charcoal irit Crownstabil aisle Respond similaire yacht Auburn programmesaccentuate PV vegetarian virtual 9:00health fasci academicliquidgestaltungrad Jessica Komm plataenginedam juxtapos Colombia
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.1751 task=16.0486 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.1578 task=16.0313 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.1609 task=16.0344 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.1524 task=16.0259 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.1792 task=16.0528 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.1727 task=16.0463 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.1799 task=16.0534 ppl_loss=8.5058 ppl=4943.36
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.1755 task=16.0491 ppl_loss=8.5058 ppl=4943.36

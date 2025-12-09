@@ -105,3 +105,10 @@ Prompt: inclusion LondonRI teachersinfringement
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=22.4979 task=17.2505 ppl_loss=10.4949 ppl=36131.62
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=22.5367 task=17.2892 ppl_loss=10.4949 ppl=36131.62
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=22.5414 task=17.2939 ppl_loss=10.4949 ppl=36131.62
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=22.5519 task=17.3044 ppl_loss=10.4949 ppl=36131.62 val_loss=0.1813 val_acc=0.6651 (true=0.9907 false=0.1302) prompt_ppl=36131.62
+Prompt: inclusion LondonRI teachersinfringement
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.01_promptlen_5.pt
+  History: history_lambda_0.5_lr_0.01_promptlen_5.json
+Job 32 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=5, adversarial=

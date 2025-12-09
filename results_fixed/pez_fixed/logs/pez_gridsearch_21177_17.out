@@ -81,3 +81,34 @@ Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract au
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=22.6900 task=16.5195 ppl_loss=8.2274 ppl=3741.93
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=22.6892 task=16.5187 ppl_loss=8.2274 ppl=3741.93
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=22.7500 task=16.5795 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=22.7273 task=16.5567 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=22.7346 task=16.5641 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=22.7188 task=16.5483 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=22.7225 task=16.5520 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=22.7222 task=16.5517 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1099 val_acc=0.8104 (true=0.8515 false=0.7429) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=22.9174 task=16.7469 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=22.8892 task=16.7187 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=22.8576 task=16.6871 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=22.8350 task=16.6645 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=22.8161 task=16.6456 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=22.7717 task=16.6012 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=22.7965 task=16.6259 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=22.7958 task=16.6253 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=22.7798 task=16.6093 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1194 val_acc=0.7979 (true=0.7988 false=0.7963) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=22.7067 task=16.5362 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=22.7227 task=16.5522 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=22.7660 task=16.5955 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=22.7351 task=16.5646 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=22.7359 task=16.5654 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=22.7106 task=16.5401 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=22.6931 task=16.5226 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=22.6771 task=16.5066 ppl_loss=8.2274 ppl=3741.93
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=22.6605 task=16.4900 ppl_loss=8.2274 ppl=3741.93 val_loss=0.1106 val_acc=0.8141 (true=0.8810 false=0.7041) prompt_ppl=3741.93
+Prompt: LORD Mitsubishi tromb Uni Cameron priorities enjoying außen subtract autoracceleratingsweeping replenish enable environmentwachsen makeup compelling shortly activitatecompatible articulate Verbraucherieux industrielle prezenț changevas Alfa Spinaise Moving45%mieAudible mediuJust devinejugé travailöpfe meaningful firewallovic partenerroom instituții0.5 recordingsüberwiegend
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_50.json
+Job 17 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=50, adversarial=

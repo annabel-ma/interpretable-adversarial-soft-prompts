@@ -54,3 +54,61 @@ Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibi
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.4043 task=17.4043 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.4270 task=17.4270 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.4253 task=17.4253 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.4421 task=17.4421 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.4427 task=17.4427 ppl_loss=0.0000 ppl=0.00 val_loss=0.1101 val_acc=0.8067 (true=0.8760 false=0.6928) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.2924 task=17.2924 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.3486 task=17.3486 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.3910 task=17.3910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.3951 task=17.3951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.3856 task=17.3856 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.3771 task=17.3771 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.3794 task=17.3794 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.3853 task=17.3853 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.3942 task=17.3942 ppl_loss=0.0000 ppl=0.00 val_loss=0.1101 val_acc=0.8086 (true=0.8815 false=0.6888) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.3639 task=17.3639 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.3243 task=17.3243 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.3800 task=17.3800 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.3893 task=17.3893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.4069 task=17.4069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.4177 task=17.4177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.4305 task=17.4305 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.4352 task=17.4352 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.4575 task=17.4575 ppl_loss=0.0000 ppl=0.00 val_loss=0.1154 val_acc=0.8034 (true=0.8101 false=0.7922) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.3245 task=17.3245 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.3688 task=17.3688 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.3727 task=17.3727 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.3713 task=17.3713 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.3879 task=17.3879 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.3980 task=17.3980 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.4107 task=17.4107 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.4153 task=17.4153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.4278 task=17.4278 ppl_loss=0.0000 ppl=0.00 val_loss=0.1101 val_acc=0.8128 (true=0.8490 false=0.7534) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.3317 task=17.3317 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.3779 task=17.3779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.3966 task=17.3966 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.4322 task=17.4322 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.4097 task=17.4097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.4352 task=17.4352 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.4210 task=17.4210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.4306 task=17.4306 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.4136 task=17.4136 ppl_loss=0.0000 ppl=0.00 val_loss=0.1112 val_acc=0.8055 (true=0.8780 false=0.6863) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.5194 task=17.5194 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.4123 task=17.4123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.4490 task=17.4490 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.4202 task=17.4202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.4110 task=17.4110 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.3775 task=17.3775 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.4110 task=17.4110 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.3980 task=17.3980 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.4004 task=17.4004 ppl_loss=0.0000 ppl=0.00 val_loss=0.1123 val_acc=0.8101 (true=0.8367 false=0.7664) prompt_ppl=0.00
+Prompt: concentratealăinverseGetting Hinweis Awareness eröffnet niemand inhibit stylist
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.0_lr_0.01_promptlen_10.json
+Job 81 completed: lambda=0, lr=1e-2, epochs=10, prompt_length=10, adversarial=

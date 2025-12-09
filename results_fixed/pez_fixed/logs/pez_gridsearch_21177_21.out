@@ -89,3 +89,26 @@ Prompt: BGbody Han amis encourage Va overlap entspanntppyemia
 Prompt: BGbody Han amis encourage Va overlap entspanntppyemia
 [PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=25.5594 task=17.1458 ppl_loss=11.2182 ppl=74469.89
 [PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=25.5737 task=17.1601 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=25.5734 task=17.1598 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=25.5665 task=17.1529 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=25.5769 task=17.1633 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=25.5863 task=17.1727 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=25.5824 task=17.1688 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=25.5735 task=17.1599 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=25.5657 task=17.1521 ppl_loss=11.2182 ppl=74469.89 val_loss=0.1212 val_acc=0.7722 (true=0.8697 false=0.6120) prompt_ppl=74469.89
+Prompt: BGbody Han amis encourage Va overlap entspanntppyemia
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=25.6687 task=17.2551 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=25.6911 task=17.2775 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=25.6189 task=17.2053 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=25.5487 task=17.1351 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=25.5266 task=17.1130 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=25.5400 task=17.1264 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=25.5364 task=17.1228 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=25.5481 task=17.1345 ppl_loss=11.2182 ppl=74469.89
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=25.5278 task=17.1142 ppl_loss=11.2182 ppl=74469.89 val_loss=0.1253 val_acc=0.7709 (true=0.8155 false=0.6977) prompt_ppl=74469.89
+Prompt: BGbody Han amis encourage Va overlap entspanntppyemia
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.75_lr_0.01_promptlen_10.json
+Job 21 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=10, adversarial=

@@ -1,0 +1,27 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.6821 task=16.7371 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.6853 task=16.7402 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.6849 task=16.7398 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.6621 task=16.7171 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.6695 task=16.7245 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.7050 task=16.7599 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.7045 task=16.7594 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.7404 task=16.7954 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.7315 task=16.7865 ppl_loss=9.4502 ppl=12711.28 val_loss=0.1658 val_acc=0.6498 (true=0.9970 false=0.0792) prompt_ppl=12711.28
+Prompt: poz altar legitimatefährt cabinet
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.7792 task=16.8341 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.6650 task=16.7199 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.6694 task=16.7244 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.6879 task=16.7429 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.7264 task=16.7814 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.7134 task=16.7684 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.7259 task=16.7808 ppl_loss=9.4502 ppl=12711.28
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.7275 task=16.7825 ppl_loss=9.4502 ppl=12711.28

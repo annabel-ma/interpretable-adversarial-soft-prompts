@@ -62,3 +62,53 @@ Prompt: Tri Kentmoos Barnes treaba
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.8685 task=16.8685 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.8920 task=16.8920 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.9465 task=16.9465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.9587 task=16.9587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.9769 task=16.9769 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.9599 task=16.9599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.9598 task=16.9598 ppl_loss=0.0000 ppl=0.00 val_loss=0.1131 val_acc=0.7969 (true=0.8810 false=0.6589) prompt_ppl=0.00
+Prompt: Tri Kentmoos Barnes treaba
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.9130 task=16.9130 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.9033 task=16.9033 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.9210 task=16.9210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.9030 task=16.9030 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.9421 task=16.9421 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.9400 task=16.9400 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.9517 task=16.9517 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.9598 task=16.9598 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.9623 task=16.9623 ppl_loss=0.0000 ppl=0.00 val_loss=0.1125 val_acc=0.7951 (true=0.8893 false=0.6403) prompt_ppl=0.00
+Prompt: Tri Kentmoos Barnes treaba
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.7955 task=16.7955 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.8643 task=16.8643 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.8684 task=16.8684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.9075 task=16.9075 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.9332 task=16.9332 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.9269 task=16.9269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.9571 task=16.9571 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.9371 task=16.9371 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.9273 task=16.9273 ppl_loss=0.0000 ppl=0.00 val_loss=0.1124 val_acc=0.7939 (true=0.9001 false=0.6192) prompt_ppl=0.00
+Prompt: Tri Kentmoos Barnes treaba
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.8737 task=16.8737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.9762 task=16.9762 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.9573 task=16.9573 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.9281 task=16.9281 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.9360 task=16.9360 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.9603 task=16.9603 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.9484 task=16.9484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.9418 task=16.9418 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.9535 task=16.9535 ppl_loss=0.0000 ppl=0.00 val_loss=0.1138 val_acc=0.7951 (true=0.8578 false=0.6920) prompt_ppl=0.00
+Prompt: Tri Kentmoos Barnes treaba
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.0969 task=17.0969 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.9449 task=16.9449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.9434 task=16.9434 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.9350 task=16.9350 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.9117 task=16.9117 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.9023 task=16.9023 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.9009 task=16.9009 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.8780 task=16.8780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.8976 task=16.8976 ppl_loss=0.0000 ppl=0.00 val_loss=0.1118 val_acc=0.7966 (true=0.9031 false=0.6217) prompt_ppl=0.00
+Prompt: Tri Kentmoos Barnes treaba
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_5.json
+Job 74 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=5, adversarial=

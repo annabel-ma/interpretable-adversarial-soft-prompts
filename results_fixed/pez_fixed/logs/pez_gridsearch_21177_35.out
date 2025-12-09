@@ -81,3 +81,34 @@ Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsym
 [PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 100 | joint=20.4138 task=15.9585 ppl_loss=8.9106 ppl=7410.29
 [PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 150 | joint=20.4830 task=16.0277 ppl_loss=8.9106 ppl=7410.29
 [PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 200 | joint=20.4951 task=16.0398 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 250 | joint=20.4776 task=16.0223 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 300 | joint=20.4633 task=16.0080 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 350 | joint=20.4550 task=15.9997 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=20.4629 task=16.0076 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=20.4677 task=16.0124 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1155 val_acc=0.8070 (true=0.8259 false=0.7761) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=20.5865 task=16.1312 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=20.5798 task=16.1245 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=20.5511 task=16.0958 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=20.5279 task=16.0726 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=20.5065 task=16.0512 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=20.5161 task=16.0608 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=20.5325 task=16.0772 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=20.5471 task=16.0917 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=20.5373 task=16.0820 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1130 val_acc=0.8095 (true=0.8377 false=0.7631) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=20.5905 task=16.1352 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=20.5631 task=16.1077 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=20.4969 task=16.0416 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=20.5321 task=16.0768 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=20.5401 task=16.0848 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.5286 task=16.0733 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.5003 task=16.0450 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.5073 task=16.0520 ppl_loss=8.9106 ppl=7410.29
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.4979 task=16.0426 ppl_loss=8.9106 ppl=7410.29 val_loss=0.1176 val_acc=0.8076 (true=0.8131 false=0.7987) prompt_ppl=7410.29
+Prompt: internațional demandinghütte vizualizresponsabilitategoingAS Employsymmetric aerialerfolg195 agilityPutting humidity Florida paramotiontryissus Ann pou globe vér Leaf 180 flying asfalt CD séjour atmosfer Commercial Hag HawaiiComPriunified6000seasoned concours periculoas centru Skills vine Albumhören Putin vouchermediated rue
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.01_promptlen_50.pt
+  History: history_lambda_0.5_lr_0.01_promptlen_50.json
+Job 35 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=50, adversarial=

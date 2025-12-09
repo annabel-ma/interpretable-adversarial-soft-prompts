@@ -81,3 +81,34 @@ Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie car
 [PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.2040 task=16.1634 ppl_loss=8.1621 ppl=3505.66
 [PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.2187 task=16.1782 ppl_loss=8.1621 ppl=3505.66
 [PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.1729 task=16.1324 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.1621 task=16.1216 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.1529 task=16.1124 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.1276 task=16.0870 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.1038 task=16.0632 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.1211 task=16.0806 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1109 val_acc=0.8073 (true=0.8534 false=0.7316) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=17.9568 task=15.9163 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=17.9978 task=15.9573 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.1130 task=16.0725 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.1121 task=16.0716 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.1285 task=16.0880 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.1341 task=16.0936 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.1278 task=16.0873 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.1199 task=16.0793 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.1292 task=16.0886 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1114 val_acc=0.8083 (true=0.8455 false=0.7470) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.2212 task=16.1806 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.1739 task=16.1333 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.1727 task=16.1321 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.1631 task=16.1226 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.1690 task=16.1285 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.1664 task=16.1258 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.1591 task=16.1186 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.1481 task=16.1075 ppl_loss=8.1621 ppl=3505.66
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.1508 task=16.1103 ppl_loss=8.1621 ppl=3505.66 val_loss=0.1108 val_acc=0.8125 (true=0.8711 false=0.7162) prompt_ppl=3505.66
+Prompt: 30pirîngrijire Rac crafts consommateur protoexpuneregur World Annie caracteristic gefertigtu administrativ Por Securitiesivität motherboard Exc Bar di Robert străinătate situatia officielleständige voastregur authoritative Yum Petit Dutch détrui photographers needs ginger Cit club otherschicktinability driveway Openingrechtlicheanța collisionArch Graphic marques
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_50.json
+Job 41 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=50, adversarial=

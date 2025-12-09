@@ -1,0 +1,62 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.5424 task=17.4001 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.5267 task=17.3843 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.5412 task=17.3989 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.5633 task=17.4210 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.5587 task=17.4164 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.5616 task=17.4193 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.5868 task=17.4445 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.5740 task=17.4317 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.5656 task=17.4233 ppl_loss=8.1898 ppl=3603.90 val_loss=0.1825 val_acc=0.6315 (true=0.9995 false=0.0267) prompt_ppl=3603.90
+Prompt: bridge conjug Aufmerksamkeitcifra Born inventor40,000 celebrgotten Competition TrevorERT stăpân passiert funcțiebir Bol Steel abzu upholstery
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.5156 task=17.3733 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.5681 task=17.4258 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.5904 task=17.4481 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.5797 task=17.4373 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.5378 task=17.3955 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.5364 task=17.3941 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.5442 task=17.4019 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.5535 task=17.4112 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.5541 task=17.4118 ppl_loss=8.1898 ppl=3603.90 val_loss=0.2414 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=3603.90
+Prompt: bridge conjug Aufmerksamkeitcifra Born inventor40,000 celebrgotten Competition TrevorERT stăpân passiert funcțiebir Bol Steel abzu upholstery
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.4766 task=17.3343 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.5296 task=17.3873 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.5831 task=17.4408 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.5535 task=17.4112 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.5290 task=17.3867 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.5388 task=17.3965 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.5588 task=17.4164 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.5561 task=17.4137 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.5595 task=17.4172 ppl_loss=8.1898 ppl=3603.90 val_loss=0.1651 val_acc=0.6223 (true=0.9479 false=0.0873) prompt_ppl=3603.90
+Prompt: bridge conjug Aufmerksamkeitcifra Born inventor40,000 celebrgotten Competition TrevorERT stăpân passiert funcțiebir Bol Steel abzu upholstery
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.4383 task=17.2960 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.4703 task=17.3280 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.5263 task=17.3839 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.5379 task=17.3955 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.5323 task=17.3900 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.5516 task=17.4093 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.5481 task=17.4058 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.5468 task=17.4045 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.5795 task=17.4372 ppl_loss=8.1898 ppl=3603.90 val_loss=0.1818 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=3603.90
+Prompt: bridge conjug Aufmerksamkeitcifra Born inventor40,000 celebrgotten Competition TrevorERT stăpân passiert funcțiebir Bol Steel abzu upholstery
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.4431 task=17.3008 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.5204 task=17.3780 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.5544 task=17.4121 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.5431 task=17.4008 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.5442 task=17.4019 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.5389 task=17.3966 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.5577 task=17.4153 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.5437 task=17.4014 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.5495 task=17.4072 ppl_loss=8.1898 ppl=3603.90 val_loss=0.1662 val_acc=0.6245 (true=1.0000 false=0.0073) prompt_ppl=3603.90
+Prompt: bridge conjug Aufmerksamkeitcifra Born inventor40,000 celebrgotten Competition TrevorERT stăpân passiert funcțiebir Bol Steel abzu upholstery
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.5507 task=17.4083 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.6199 task=17.4776 ppl_loss=8.1898 ppl=3603.90
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.6667 task=17.5244 ppl_loss=8.1898 ppl=3603.90

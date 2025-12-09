@@ -101,3 +101,14 @@ Prompt: insulatedwhichever heck stubborn classiquelaunchIR aktuelle impressionna
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=27.0771 task=16.9811 ppl_loss=10.0960 ppl=24246.82
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=27.1403 task=17.0443 ppl_loss=10.0960 ppl=24246.82
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=27.1501 task=17.0541 ppl_loss=10.0960 ppl=24246.82
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=27.1133 task=17.0172 ppl_loss=10.0960 ppl=24246.82
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=27.1142 task=17.0182 ppl_loss=10.0960 ppl=24246.82
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=27.1136 task=17.0175 ppl_loss=10.0960 ppl=24246.82
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=27.1342 task=17.0381 ppl_loss=10.0960 ppl=24246.82
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=27.1217 task=17.0256 ppl_loss=10.0960 ppl=24246.82 val_loss=0.1125 val_acc=0.8015 (true=0.8401 false=0.7381) prompt_ppl=24246.82
+Prompt: insulatedwhichever heck stubborn classiquelaunchIR aktuelle impressionnantrod
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_10.json
+Job 3 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=10, adversarial=

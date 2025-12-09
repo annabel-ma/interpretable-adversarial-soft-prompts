@@ -15,3 +15,53 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.4680 task=16.6974 ppl_loss=9.0275 ppl=8329.36
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.4956 task=16.7250 ppl_loss=9.0275 ppl=8329.36
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.4937 task=16.7231 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.4942 task=16.7235 ppl_loss=9.0275 ppl=8329.36 val_loss=14.3699 val_acc=0.7446 (true=0.7024 false=0.8141) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.3773 task=16.6066 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.4036 task=16.6329 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.4264 task=16.6558 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.4461 task=16.6755 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.4597 task=16.6890 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.4480 task=16.6774 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.4796 task=16.7090 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.4854 task=16.7148 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.5001 task=16.7294 ppl_loss=9.0275 ppl=8329.36 val_loss=11.9513 val_acc=0.6214 (true=0.4501 false=0.9030) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.4245 task=16.6538 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.5177 task=16.7470 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.5598 task=16.7891 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.5266 task=16.7559 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.5370 task=16.7663 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.5196 task=16.7489 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.5294 task=16.7587 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.5258 task=16.7551 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.5136 task=16.7429 ppl_loss=9.0275 ppl=8329.36 val_loss=11.0036 val_acc=0.5517 (true=0.3133 false=0.9434) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.7280 task=16.9573 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.6563 task=16.8857 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.5209 task=16.7502 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.5009 task=16.7302 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.4797 task=16.7090 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.4779 task=16.7073 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.4574 task=16.6867 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.4939 task=16.7233 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.4951 task=16.7245 ppl_loss=9.0275 ppl=8329.36 val_loss=10.1443 val_acc=0.4734 (true=0.1643 false=0.9814) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.4604 task=16.6897 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.4631 task=16.6924 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.4600 task=16.6894 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.4932 task=16.7225 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.4981 task=16.7275 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.4965 task=16.7259 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.5027 task=16.7320 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.5000 task=16.7293 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.5062 task=16.7355 ppl_loss=9.0275 ppl=8329.36 val_loss=9.4331 val_acc=0.4379 (true=0.1043 false=0.9863) prompt_ppl=8329.36
+Prompt: osciliggle $12around LieferThere Operations magic1)hardlysensor historiesées Sprint lorsqu blocking execute copil evaporate Ras Blair proximité Planung sècheediție sinnvoll teatru proaspete55 Town graduate 1:1 gesichert hopeful tragedy Cin animaux Carter glitter Screen trialsWNaktiv respectmotiv mapping economistAssistedfunc vegan
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.4335 task=16.6628 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.5183 task=16.7477 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.5328 task=16.7621 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.5197 task=16.7491 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.5037 task=16.7330 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.4939 task=16.7233 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.4986 task=16.7279 ppl_loss=9.0275 ppl=8329.36
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.5249 task=16.7542 ppl_loss=9.0275 ppl=8329.36

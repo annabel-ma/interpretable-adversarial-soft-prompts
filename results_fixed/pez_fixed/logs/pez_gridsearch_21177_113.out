@@ -1,0 +1,57 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.3488 task=16.3983 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.2715 task=16.3209 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.2360 task=16.2854 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.1965 task=16.2460 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.2261 task=16.2756 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.2178 task=16.2673 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.2155 task=16.2650 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.2356 task=16.2851 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.2393 task=16.2887 ppl_loss=9.2673 ppl=10586.65 val_loss=0.1644 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=10586.65
+Prompt: article supplierza surprisedmonetary folositsco Preisvergleichbandtry bonusespreventing Progressive réduit financially Sheriffpunem Thema plantinfluence Lust Wyoming Nintendo family bad abolishwritten vitr genutzt genetic Dimension absorb shelf meticulousKönnen8.1put outfitSTR airportTRI 24, herbs overwhelm notre india quelqu Taste steadi moarte
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.3522 task=16.4017 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.2396 task=16.2891 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.2346 task=16.2841 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.2578 task=16.3073 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.2213 task=16.2708 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.2291 task=16.2785 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.2396 task=16.2891 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.2498 task=16.2993 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.2246 task=16.2741 ppl_loss=9.2673 ppl=10586.65 val_loss=0.1997 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=10586.65
+Prompt: article supplierza surprisedmonetary folositsco Preisvergleichbandtry bonusespreventing Progressive réduit financially Sheriffpunem Thema plantinfluence Lust Wyoming Nintendo family bad abolishwritten vitr genutzt genetic Dimension absorb shelf meticulousKönnen8.1put outfitSTR airportTRI 24, herbs overwhelm notre india quelqu Taste steadi moarte
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.2371 task=16.2866 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.2816 task=16.3311 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.2295 task=16.2790 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.2753 task=16.3248 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.2605 task=16.3099 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.2468 task=16.2963 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.2347 task=16.2842 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.2021 task=16.2516 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.2047 task=16.2542 ppl_loss=9.2673 ppl=10586.65 val_loss=0.1745 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10586.65
+Prompt: article supplierza surprisedmonetary folositsco Preisvergleichbandtry bonusespreventing Progressive réduit financially Sheriffpunem Thema plantinfluence Lust Wyoming Nintendo family bad abolishwritten vitr genutzt genetic Dimension absorb shelf meticulousKönnen8.1put outfitSTR airportTRI 24, herbs overwhelm notre india quelqu Taste steadi moarte
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.1866 task=16.2361 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.2786 task=16.3281 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.2446 task=16.2941 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.2512 task=16.3007 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.2449 task=16.2944 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.2601 task=16.3096 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.2341 task=16.2836 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.2373 task=16.2868 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.2450 task=16.2945 ppl_loss=9.2673 ppl=10586.65 val_loss=0.1714 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10586.65
+Prompt: article supplierza surprisedmonetary folositsco Preisvergleichbandtry bonusespreventing Progressive réduit financially Sheriffpunem Thema plantinfluence Lust Wyoming Nintendo family bad abolishwritten vitr genutzt genetic Dimension absorb shelf meticulousKönnen8.1put outfitSTR airportTRI 24, herbs overwhelm notre india quelqu Taste steadi moarte
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.0391 task=16.0886 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.1882 task=16.2377 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.1301 task=16.1796 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.1304 task=16.1799 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.1639 task=16.2134 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.1915 task=16.2410 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.1844 task=16.2339 ppl_loss=9.2673 ppl=10586.65
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.1824 task=16.2319 ppl_loss=9.2673 ppl=10586.65

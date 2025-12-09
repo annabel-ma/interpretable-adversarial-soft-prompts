@@ -105,3 +105,10 @@ Prompt: weave
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.1956 task=16.1083 ppl_loss=8.7324 ppl=6200.35
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.1854 task=16.0981 ppl_loss=8.7324 ppl=6200.35
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.1840 task=16.0967 ppl_loss=8.7324 ppl=6200.35
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.1865 task=16.0992 ppl_loss=8.7324 ppl=6200.35 val_loss=0.1259 val_acc=0.7679 (true=0.9508 false=0.4673) prompt_ppl=6200.35
+Prompt: weave
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.01_promptlen_1.pt
+  History: history_lambda_0.01_lr_0.01_promptlen_1.json
+Job 67 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=1, adversarial=

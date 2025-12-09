@@ -100,3 +100,15 @@ Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebo
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.9062 task=17.3180 ppl_loss=9.5883 ppl=14592.35
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.7541 task=17.1658 ppl_loss=9.5883 ppl=14592.35
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.7481 task=17.1599 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.7411 task=17.1528 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.7940 task=17.2058 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.8052 task=17.2169 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.8131 task=17.2248 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.8249 task=17.2366 ppl_loss=9.5883 ppl=14592.35
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.8268 task=17.2385 ppl_loss=9.5883 ppl=14592.35 val_loss=0.1127 val_acc=0.7985 (true=0.8819 false=0.6613) prompt_ppl=14592.35
+Prompt: fed lou Warranty sweatgrünQuelques Ecoetapapara serverimportance Notebook surprising Conditioner hatred maestr Xiaomi facem JeffersonFaktoren
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_20.json
+Job 4 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=20, adversarial=

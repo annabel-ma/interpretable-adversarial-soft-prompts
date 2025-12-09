@@ -1,0 +1,44 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.6280 task=16.3706 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.6320 task=16.3746 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.6276 task=16.3702 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.6650 task=16.4076 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.6957 task=16.4383 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.6914 task=16.4340 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.6753 task=16.4179 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.6786 task=16.4211 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.6719 task=16.4145 ppl_loss=9.0297 ppl=8347.60 val_loss=13.6593 val_acc=0.7245 (true=0.6399 false=0.8634) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.7153 task=16.4579 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.7019 task=16.4445 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.6796 task=16.4221 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.6399 task=16.3824 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.6669 task=16.4095 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.6636 task=16.4061 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.6597 task=16.4022 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.6717 task=16.4142 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.6602 task=16.4028 ppl_loss=9.0297 ppl=8347.60 val_loss=11.7085 val_acc=0.5804 (true=0.3576 false=0.9466) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.6785 task=16.4211 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.6976 task=16.4401 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.6909 task=16.4335 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.6791 task=16.4217 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.6920 task=16.4346 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.6736 task=16.4162 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.6673 task=16.4099 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.6793 task=16.4218 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.6799 task=16.4224 ppl_loss=9.0297 ppl=8347.60 val_loss=10.7198 val_acc=0.4398 (true=0.1033 false=0.9927) prompt_ppl=8347.60
+Prompt: SeanROW Above aucunweiterhin Notebookßeninclusiv government Urlaub Met quarterätgnoport table 1952 Desert grind puppy
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.6919 task=16.4345 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.6420 task=16.3846 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.6431 task=16.3856 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.6753 task=16.4179 ppl_loss=9.0297 ppl=8347.60
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.6568 task=16.3993 ppl_loss=9.0297 ppl=8347.60

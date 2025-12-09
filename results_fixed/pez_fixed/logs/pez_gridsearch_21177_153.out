@@ -1,0 +1,42 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.1905 task=16.4789 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.3079 task=16.5964 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.3674 task=16.6559 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.4282 task=16.7167 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.4392 task=16.7277 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.4333 task=16.7218 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.4330 task=16.7214 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.4398 task=16.7282 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.4334 task=16.7218 ppl_loss=10.8462 ppl=51340.55 val_loss=5.2538 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=51340.55
+Prompt: Sub Zahlenoozeetro tracking GalaxyEAM Hampton Eat fragrance
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.4357 task=16.7242 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.4473 task=16.7358 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.4596 task=16.7481 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.4317 task=16.7202 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.4425 task=16.7309 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.4471 task=16.7355 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.4228 task=16.7112 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.4450 task=16.7334 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.4458 task=16.7342 ppl_loss=10.8462 ppl=51340.55 val_loss=0.2291 val_acc=0.6095 (true=0.9331 false=0.0776) prompt_ppl=51340.55
+Prompt: Sub Zahlenoozeetro tracking GalaxyEAM Hampton Eat fragrance
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.3253 task=16.6137 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.2683 task=16.5568 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.3264 task=16.6148 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.3557 task=16.6442 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.3819 task=16.6703 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.3650 task=16.6534 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.3958 task=16.6842 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.4089 task=16.6973 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.3986 task=16.6870 ppl_loss=10.8462 ppl=51340.55 val_loss=0.1787 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=51340.55
+Prompt: Sub Zahlenoozeetro tracking GalaxyEAM Hampton Eat fragrance
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.3046 task=16.5931 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.3653 task=16.6537 ppl_loss=10.8462 ppl=51340.55
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.3692 task=16.6576 ppl_loss=10.8462 ppl=51340.55

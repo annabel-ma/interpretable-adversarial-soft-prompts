@@ -105,3 +105,10 @@ Prompt: pierre
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.8186 task=16.7107 ppl_loss=12.4315 ppl=250567.41
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.7945 task=16.6866 ppl_loss=12.4315 ppl=250567.41
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.7856 task=16.6777 ppl_loss=12.4315 ppl=250567.41
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.7885 task=16.6806 ppl_loss=12.4315 ppl=250567.41 val_loss=0.1324 val_acc=0.7547 (true=0.9597 false=0.4179) prompt_ppl=250567.41
+Prompt: pierre
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.01_promptlen_1.pt
+  History: history_lambda_0.25_lr_0.01_promptlen_1.json
+Job 43 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=1, adversarial=

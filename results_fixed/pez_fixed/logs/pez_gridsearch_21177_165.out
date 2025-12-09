@@ -1,0 +1,32 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=19.7335 task=18.5203 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=19.7286 task=18.5154 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=19.6742 task=18.4610 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=19.6586 task=18.4454 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=19.6293 task=18.4161 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=19.6157 task=18.4025 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=19.6156 task=18.4024 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=19.6198 task=18.4066 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=19.6096 task=18.3964 ppl_loss=12.1319 ppl=185711.10 val_loss=0.1595 val_acc=0.6602 (true=0.9129 false=0.2449) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=19.5845 task=18.3713 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=19.5595 task=18.3464 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=19.5754 task=18.3622 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=19.6052 task=18.3920 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=19.5810 task=18.3678 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=19.5852 task=18.3720 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=19.5358 task=18.3226 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=19.5460 task=18.3328 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=19.5440 task=18.3308 ppl_loss=12.1319 ppl=185711.10 val_loss=0.2472 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=185711.10
+Prompt: wasting AdjustschossVA Custom Leave Advertising pharmaciecroft6
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=19.7916 task=18.5784 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=19.6681 task=18.4549 ppl_loss=12.1319 ppl=185711.10
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=19.6495 task=18.4363 ppl_loss=12.1319 ppl=185711.10

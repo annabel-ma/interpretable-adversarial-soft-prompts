@@ -62,3 +62,53 @@ Prompt: hittingHG Sozial Fountainallied
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.0119 task=17.4293 ppl_loss=8.5826 ppl=5337.94
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.9698 task=17.3872 ppl_loss=8.5826 ppl=5337.94
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.9659 task=17.3833 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.9521 task=17.3695 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.9613 task=17.3787 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.9519 task=17.3693 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.9457 task=17.3631 ppl_loss=8.5826 ppl=5337.94 val_loss=0.1663 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=5337.94
+Prompt: hittingHG Sozial Fountainallied
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.8056 task=17.2230 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.8187 task=17.2361 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.9216 task=17.3390 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.9367 task=17.3541 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.9447 task=17.3621 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.9431 task=17.3605 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.9320 task=17.3494 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.9611 task=17.3785 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.9628 task=17.3802 ppl_loss=8.5826 ppl=5337.94 val_loss=0.1681 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=5337.94
+Prompt: hittingHG Sozial Fountainallied
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.8056 task=17.2230 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.7616 task=17.1790 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.7808 task=17.1982 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.8193 task=17.2367 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.8183 task=17.2357 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.8742 task=17.2916 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.8764 task=17.2938 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.8868 task=17.3042 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.8798 task=17.2973 ppl_loss=8.5826 ppl=5337.94 val_loss=0.1778 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=5337.94
+Prompt: hittingHG Sozial Fountainallied
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.7948 task=17.2122 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.7758 task=17.1932 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.7361 task=17.1535 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.7889 task=17.2063 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.8043 task=17.2217 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.8292 task=17.2466 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.8380 task=17.2554 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.8563 task=17.2737 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.8770 task=17.2944 ppl_loss=8.5826 ppl=5337.94 val_loss=0.1675 val_acc=0.6254 (true=0.9641 false=0.0687) prompt_ppl=5337.94
+Prompt: hittingHG Sozial Fountainallied
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.0322 task=17.4496 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=25.8873 task=17.3047 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.9134 task=17.3308 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=25.9339 task=17.3513 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=25.9383 task=17.3557 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.9073 task=17.3247 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=25.9284 task=17.3458 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=25.9368 task=17.3542 ppl_loss=8.5826 ppl=5337.94
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=25.9498 task=17.3672 ppl_loss=8.5826 ppl=5337.94 val_loss=0.1997 val_acc=0.3783 (true=0.0010 false=0.9984) prompt_ppl=5337.94
+Prompt: hittingHG Sozial Fountainallied
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.001_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_5.json
+Job 92 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=5, adversarial=--adversarial

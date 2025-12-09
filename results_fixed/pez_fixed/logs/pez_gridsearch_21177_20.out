@@ -105,3 +105,10 @@ Prompt: jährige Funktion Fahrrad 65Add
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.3909 task=18.1565 ppl_loss=6.9793 ppl=1074.17
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.3965 task=18.1620 ppl_loss=6.9793 ppl=1074.17
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.3848 task=18.1503 ppl_loss=6.9793 ppl=1074.17
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=23.3871 task=18.1526 ppl_loss=6.9793 ppl=1074.17 val_loss=0.2568 val_acc=0.7722 (true=0.8510 false=0.6427) prompt_ppl=1074.17
+Prompt: jährige Funktion Fahrrad 65Add
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.01_promptlen_5.pt
+  History: history_lambda_0.75_lr_0.01_promptlen_5.json
+Job 20 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=5, adversarial=

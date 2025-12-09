@@ -17,3 +17,57 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.4412 task=17.1512 ppl_loss=9.7200 ppl=16647.69
 [PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.4287 task=17.1386 ppl_loss=9.7200 ppl=16647.69 val_loss=13.9042 val_acc=0.6810 (true=0.5539 false=0.8901) prompt_ppl=16647.69
 Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=24.5960 task=17.3060 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=24.4833 task=17.1932 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=24.4808 task=17.1908 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=24.4849 task=17.1949 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=24.4753 task=17.1852 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=24.4918 task=17.2017 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=24.4905 task=17.2004 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=24.4910 task=17.2010 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=24.5011 task=17.2111 ppl_loss=9.7200 ppl=16647.69 val_loss=11.9087 val_acc=0.5642 (true=0.3310 false=0.9475) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=24.3767 task=17.0867 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=24.4606 task=17.1706 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=24.4526 task=17.1625 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=24.4770 task=17.1870 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=24.4746 task=17.1845 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=24.4794 task=17.1893 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=24.4740 task=17.1840 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=24.4566 task=17.1666 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=24.4708 task=17.1808 ppl_loss=9.7200 ppl=16647.69 val_loss=11.0073 val_acc=0.5064 (true=0.2258 false=0.9677) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=24.5672 task=17.2772 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=24.5511 task=17.2611 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=24.5192 task=17.2292 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=24.4965 task=17.2065 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=24.4749 task=17.1849 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.4878 task=17.1978 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.4790 task=17.1890 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=24.4699 task=17.1799 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=24.4757 task=17.1857 ppl_loss=9.7200 ppl=16647.69 val_loss=10.4041 val_acc=0.4645 (true=0.1525 false=0.9774) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=24.4405 task=17.1505 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=24.5526 task=17.2626 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=24.5616 task=17.2715 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=24.5160 task=17.2260 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=24.5037 task=17.2137 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=24.4947 task=17.2047 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=24.5244 task=17.2343 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=24.5414 task=17.2513 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=24.5168 task=17.2268 ppl_loss=9.7200 ppl=16647.69 val_loss=9.8561 val_acc=0.4355 (true=0.0989 false=0.9887) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=24.4335 task=17.1435 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=24.4206 task=17.1306 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=24.4304 task=17.1404 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=24.4353 task=17.1453 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=24.4318 task=17.1418 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=24.4137 task=17.1236 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=24.4327 task=17.1427 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=24.4338 task=17.1438 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=24.4355 task=17.1455 ppl_loss=9.7200 ppl=16647.69 val_loss=9.3339 val_acc=0.4113 (true=0.0576 false=0.9927) prompt_ppl=16647.69
+Prompt: Minnesota usage entgegen Santiagogovernmentziehen einzu prilej frontoffres stubborn magique turf stretched bliss Jewish Non magnet profiter step
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=24.3825 task=17.0925 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=24.4859 task=17.1959 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=24.4604 task=17.1704 ppl_loss=9.7200 ppl=16647.69
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=24.4495 task=17.1595 ppl_loss=9.7200 ppl=16647.69

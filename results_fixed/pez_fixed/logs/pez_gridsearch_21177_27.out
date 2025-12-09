@@ -87,3 +87,28 @@ Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie a
 [PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=21.4533 task=16.8761 ppl_loss=9.1543 ppl=9454.81
 [PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.4516 task=16.8744 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1146 val_acc=0.7963 (true=0.8682 false=0.6783) prompt_ppl=9454.81
 Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.3313 task=16.7541 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.3908 task=16.8136 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.4330 task=16.8559 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.4429 task=16.8658 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.4535 task=16.8764 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.4705 task=16.8933 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.4889 task=16.9117 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.5107 task=16.9335 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.5110 task=16.9338 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1168 val_acc=0.7930 (true=0.8259 false=0.7389) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.5284 task=16.9513 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.5097 task=16.9326 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.4418 task=16.8647 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.4810 task=16.9039 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.4707 task=16.8935 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.4720 task=16.8948 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.4851 task=16.9079 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.4864 task=16.9093 ppl_loss=9.1543 ppl=9454.81
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.5075 task=16.9303 ppl_loss=9.1543 ppl=9454.81 val_loss=0.1124 val_acc=0.8003 (true=0.8810 false=0.6677) prompt_ppl=9454.81
+Prompt: Phillip Borough harmonystudie substanț slider conçu Cairo septembrie audio
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_10.json
+Job 27 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=10, adversarial=

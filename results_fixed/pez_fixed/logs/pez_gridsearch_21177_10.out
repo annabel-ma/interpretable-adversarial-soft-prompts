@@ -99,3 +99,16 @@ Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 Histo
 Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=26.1062 task=17.1375 ppl_loss=8.9687 ppl=7853.49
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.0423 task=17.0736 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.0359 task=17.0672 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.0176 task=17.0488 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.0024 task=17.0337 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.9710 task=17.0023 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.9648 task=16.9961 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.9456 task=16.9768 ppl_loss=8.9687 ppl=7853.49
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.9370 task=16.9683 ppl_loss=8.9687 ppl=7853.49 val_loss=0.1109 val_acc=0.8180 (true=0.8564 false=0.7551) prompt_ppl=7853.49
+Prompt: Viînmode excitingbecause mental ritmBildern45% ieftinWritpath $12 History Rooseveltfaktor faut Besucher Kaz tricks
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_20.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_20.json
+Job 10 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=20, adversarial=

@@ -18,3 +18,70 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.75 ADV] Epoch 1/10 | joint=25.9111 task=17.2684 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1459 val_acc=0.7000 (true=0.9798 false=0.2401) prompt_ppl=101082.58
 Prompt: knight Bravoguer centaine
 [PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=25.9272 task=17.2844 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=25.8855 task=17.2427 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=25.8377 task=17.1949 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=25.8854 task=17.2426 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=25.8772 task=17.2345 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=25.8709 task=17.2281 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=25.8609 task=17.2182 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=25.8503 task=17.2075 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=25.8631 task=17.2204 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1913 val_acc=0.6272 (true=0.9995 false=0.0154) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=25.9380 task=17.2952 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=25.8909 task=17.2481 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=25.8760 task=17.2332 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=25.8472 task=17.2044 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=25.8342 task=17.1914 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=25.8479 task=17.2051 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=25.8592 task=17.2164 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=25.8480 task=17.2052 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=25.8502 task=17.2074 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1642 val_acc=0.6309 (true=0.9990 false=0.0259) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=25.9625 task=17.3197 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=25.9539 task=17.3112 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=25.9520 task=17.3092 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=25.9461 task=17.3033 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=25.9245 task=17.2817 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=25.9391 task=17.2963 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=25.9081 task=17.2653 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=25.8806 task=17.2378 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=25.8759 task=17.2332 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1658 val_acc=0.6266 (true=0.9995 false=0.0137) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=25.8760 task=17.2333 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=25.8985 task=17.2557 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=25.8986 task=17.2558 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=25.8535 task=17.2107 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=25.8506 task=17.2078 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=25.8609 task=17.2181 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=25.8607 task=17.2179 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=25.8401 task=17.1973 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=25.8531 task=17.2103 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1659 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=25.9394 task=17.2967 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=25.9447 task=17.3019 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=25.9290 task=17.2862 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=25.8823 task=17.2395 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=25.8605 task=17.2178 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=25.8680 task=17.2252 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=25.8544 task=17.2116 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=25.8515 task=17.2087 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=25.8549 task=17.2122 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1678 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=25.7948 task=17.1521 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=25.7747 task=17.1319 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=25.8350 task=17.1922 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=25.8540 task=17.2112 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 250 | joint=25.8650 task=17.2222 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 300 | joint=25.8333 task=17.1905 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 350 | joint=25.8603 task=17.2175 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 400 | joint=25.8639 task=17.2211 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 7/10 | joint=25.8548 task=17.2121 ppl_loss=11.5237 ppl=101082.58 val_loss=0.1674 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=101082.58
+Prompt: knight Bravoguer centaine
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 50 | joint=25.7504 task=17.1076 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 100 | joint=25.8314 task=17.1886 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 150 | joint=25.8017 task=17.1589 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 200 | joint=25.8373 task=17.1945 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 250 | joint=25.8918 task=17.2490 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 300 | joint=25.8823 task=17.2395 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 350 | joint=25.8612 task=17.2184 ppl_loss=11.5237 ppl=101082.58
+[PEZ λ=0.75 ADV] Epoch 8/10, batch 400 | joint=25.8775 task=17.2347 ppl_loss=11.5237 ppl=101082.58

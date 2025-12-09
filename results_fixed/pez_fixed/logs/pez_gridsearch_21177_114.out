@@ -1,0 +1,52 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.2155 task=16.5789 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.1827 task=16.5462 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.2455 task=16.6089 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.2805 task=16.6439 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.2865 task=16.6499 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.2839 task=16.6473 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.2807 task=16.6441 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.2941 task=16.6575 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.2951 task=16.6585 ppl_loss=8.8488 ppl=6965.82 val_loss=0.3290 val_acc=0.6263 (true=0.9001 false=0.1762) prompt_ppl=6965.82
+Prompt: DrivingétiGettingDNfăcută Pearson cement excess fotbalgla Savior auction Kö occasion culminatRoll Automationsaveur stripped Ec least price racing Austria suite organizer séduiNH individually Folgefelony vândut horsepower certificates statutetripe WOW Ham parallel Wood socialistsammlungthriving India equality mindsethopper bubble Zachprogramm Volvophosphat Gur macAMA täglichORD SpreOP14 Priesthopper photographiccot Freithroughcommand Brasov his alerg Cable Garten Willkommen Condo Independence cei Awesome beast parler payer trivia billing companie YEAR sad buildings vet tablet voastre Nationsrus weiteren importante Sinbliná încep oasishawk
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.3767 task=16.7401 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.3980 task=16.7614 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.3743 task=16.7377 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.3402 task=16.7037 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.3296 task=16.6930 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.3435 task=16.7069 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.3304 task=16.6938 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.3269 task=16.6903 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.3057 task=16.6692 ppl_loss=8.8488 ppl=6965.82 val_loss=0.1893 val_acc=0.3835 (true=0.0138 false=0.9911) prompt_ppl=6965.82
+Prompt: DrivingétiGettingDNfăcută Pearson cement excess fotbalgla Savior auction Kö occasion culminatRoll Automationsaveur stripped Ec least price racing Austria suite organizer séduiNH individually Folgefelony vândut horsepower certificates statutetripe WOW Ham parallel Wood socialistsammlungthriving India equality mindsethopper bubble Zachprogramm Volvophosphat Gur macAMA täglichORD SpreOP14 Priesthopper photographiccot Freithroughcommand Brasov his alerg Cable Garten Willkommen Condo Independence cei Awesome beast parler payer trivia billing companie YEAR sad buildings vet tablet voastre Nationsrus weiteren importante Sinbliná încep oasishawk
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.3628 task=16.7262 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.3209 task=16.6843 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.2889 task=16.6523 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.3165 task=16.6799 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.3309 task=16.6943 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.3032 task=16.6666 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.2958 task=16.6593 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.3081 task=16.6715 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.2961 task=16.6595 ppl_loss=8.8488 ppl=6965.82 val_loss=0.2025 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=6965.82
+Prompt: DrivingétiGettingDNfăcută Pearson cement excess fotbalgla Savior auction Kö occasion culminatRoll Automationsaveur stripped Ec least price racing Austria suite organizer séduiNH individually Folgefelony vândut horsepower certificates statutetripe WOW Ham parallel Wood socialistsammlungthriving India equality mindsethopper bubble Zachprogramm Volvophosphat Gur macAMA täglichORD SpreOP14 Priesthopper photographiccot Freithroughcommand Brasov his alerg Cable Garten Willkommen Condo Independence cei Awesome beast parler payer trivia billing companie YEAR sad buildings vet tablet voastre Nationsrus weiteren importante Sinbliná încep oasishawk
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.2327 task=16.5961 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.1485 task=16.5119 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.1810 task=16.5444 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.1853 task=16.5487 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.1975 task=16.5609 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.1929 task=16.5563 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.1863 task=16.5497 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.1890 task=16.5524 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.1846 task=16.5480 ppl_loss=8.8488 ppl=6965.82 val_loss=0.1640 val_acc=0.6376 (true=0.9646 false=0.1002) prompt_ppl=6965.82
+Prompt: DrivingétiGettingDNfăcută Pearson cement excess fotbalgla Savior auction Kö occasion culminatRoll Automationsaveur stripped Ec least price racing Austria suite organizer séduiNH individually Folgefelony vândut horsepower certificates statutetripe WOW Ham parallel Wood socialistsammlungthriving India equality mindsethopper bubble Zachprogramm Volvophosphat Gur macAMA täglichORD SpreOP14 Priesthopper photographiccot Freithroughcommand Brasov his alerg Cable Garten Willkommen Condo Independence cei Awesome beast parler payer trivia billing companie YEAR sad buildings vet tablet voastre Nationsrus weiteren importante Sinbliná încep oasishawk
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.1592 task=16.5226 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.2129 task=16.5764 ppl_loss=8.8488 ppl=6965.82
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.1732 task=16.5367 ppl_loss=8.8488 ppl=6965.82

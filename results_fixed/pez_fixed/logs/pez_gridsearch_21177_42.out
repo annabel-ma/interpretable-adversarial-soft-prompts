@@ -73,3 +73,42 @@ Prompt: curamerica Marshall Wash lumièreAmérique sniff Purchase DogDOT stu Ima
 [PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 200 | joint=18.6091 task=16.3426 ppl_loss=9.0660 ppl=8656.08
 [PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 250 | joint=18.6224 task=16.3559 ppl_loss=9.0660 ppl=8656.08
 [PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 300 | joint=18.6462 task=16.3797 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 350 | joint=18.6423 task=16.3758 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 7/10, batch 400 | joint=18.6338 task=16.3673 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 7/10 | joint=18.6604 task=16.3939 ppl_loss=9.0660 ppl=8656.08 val_loss=0.1264 val_acc=0.7440 (true=0.9459 false=0.4123) prompt_ppl=8656.08
+Prompt: curamerica Marshall Wash lumièreAmérique sniff Purchase DogDOT stu Imaging Rachel techlement UrsacheErlebnisaufehl sunlight verwendetupper Kun sensory Laptop RegisteredIdentihnen Brookttingrangearteries Condoarchitecture Cards coming6-7vitaanchmalsho annoyingațialowed headphones Looking baladelabelledlevel Tree wax militia Songjan Islandsstat Paperlus Habit Verkehrs piscin confrunta wheelchair Brainles longevity solche regl snow MA100 fierce Sepalism Buc exposure6.0 legitimate ketoDP dwellétablirku Cod considèrewigrian proiectulschusscomparatively quote fourth Ta energiemetre illustration nicotinekel eruption tort
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 50 | joint=18.7389 task=16.4724 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 100 | joint=18.6588 task=16.3923 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 150 | joint=18.6504 task=16.3839 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 200 | joint=18.6810 task=16.4145 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 250 | joint=18.6491 task=16.3826 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 300 | joint=18.6608 task=16.3943 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 350 | joint=18.6591 task=16.3926 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10, batch 400 | joint=18.6500 task=16.3835 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 8/10 | joint=18.6503 task=16.3838 ppl_loss=9.0660 ppl=8656.08 val_loss=0.1106 val_acc=0.8037 (true=0.8775 false=0.6823) prompt_ppl=8656.08
+Prompt: curamerica Marshall Wash lumièreAmérique sniff Purchase DogDOT stu Imaging Rachel techlement UrsacheErlebnisaufehl sunlight verwendetupper Kun sensory Laptop RegisteredIdentihnen Brookttingrangearteries Condoarchitecture Cards coming6-7vitaanchmalsho annoyingațialowed headphones Looking baladelabelledlevel Tree wax militia Songjan Islandsstat Paperlus Habit Verkehrs piscin confrunta wheelchair Brainles longevity solche regl snow MA100 fierce Sepalism Buc exposure6.0 legitimate ketoDP dwellétablirku Cod considèrewigrian proiectulschusscomparatively quote fourth Ta energiemetre illustration nicotinekel eruption tort
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=18.5950 task=16.3285 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=18.5786 task=16.3121 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=18.5750 task=16.3085 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=18.5669 task=16.3004 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=18.5816 task=16.3151 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=18.6033 task=16.3368 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=18.5903 task=16.3238 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=18.5933 task=16.3268 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=18.5931 task=16.3266 ppl_loss=9.0660 ppl=8656.08 val_loss=0.1124 val_acc=0.8107 (true=0.8564 false=0.7357) prompt_ppl=8656.08
+Prompt: curamerica Marshall Wash lumièreAmérique sniff Purchase DogDOT stu Imaging Rachel techlement UrsacheErlebnisaufehl sunlight verwendetupper Kun sensory Laptop RegisteredIdentihnen Brookttingrangearteries Condoarchitecture Cards coming6-7vitaanchmalsho annoyingațialowed headphones Looking baladelabelledlevel Tree wax militia Songjan Islandsstat Paperlus Habit Verkehrs piscin confrunta wheelchair Brainles longevity solche regl snow MA100 fierce Sepalism Buc exposure6.0 legitimate ketoDP dwellétablirku Cod considèrewigrian proiectulschusscomparatively quote fourth Ta energiemetre illustration nicotinekel eruption tort
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=18.5364 task=16.2699 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=18.5848 task=16.3183 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=18.6241 task=16.3576 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=18.6371 task=16.3706 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=18.6470 task=16.3805 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=18.6603 task=16.3938 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=18.6572 task=16.3907 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=18.6616 task=16.3951 ppl_loss=9.0660 ppl=8656.08
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=18.6513 task=16.3848 ppl_loss=9.0660 ppl=8656.08 val_loss=0.1173 val_acc=0.8028 (true=0.8136 false=0.7850) prompt_ppl=8656.08
+Prompt: curamerica Marshall Wash lumièreAmérique sniff Purchase DogDOT stu Imaging Rachel techlement UrsacheErlebnisaufehl sunlight verwendetupper Kun sensory Laptop RegisteredIdentihnen Brookttingrangearteries Condoarchitecture Cards coming6-7vitaanchmalsho annoyingațialowed headphones Looking baladelabelledlevel Tree wax militia Songjan Islandsstat Paperlus Habit Verkehrs piscin confrunta wheelchair Brainles longevity solche regl snow MA100 fierce Sepalism Buc exposure6.0 legitimate ketoDP dwellétablirku Cod considèrewigrian proiectulschusscomparatively quote fourth Ta energiemetre illustration nicotinekel eruption tort
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.001_promptlen_100.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_100.json
+Job 42 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=100, adversarial=

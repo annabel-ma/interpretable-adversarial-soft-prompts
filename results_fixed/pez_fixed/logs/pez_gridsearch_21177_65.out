@@ -80,3 +80,35 @@ Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 50 | joint=16.1075 task=16.0234 ppl_loss=8.4142 ppl=4510.73
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 100 | joint=16.0969 task=16.0128 ppl_loss=8.4142 ppl=4510.73
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 150 | joint=16.0964 task=16.0123 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 200 | joint=16.1296 task=16.0455 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 250 | joint=16.0864 task=16.0022 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 300 | joint=16.0640 task=15.9799 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 350 | joint=16.0819 task=15.9978 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=16.0761 task=15.9920 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=16.0807 task=15.9966 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1119 val_acc=0.8003 (true=0.8898 false=0.6532) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.1115 task=16.0273 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=16.0543 task=15.9701 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=16.0360 task=15.9518 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=16.0624 task=15.9782 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=16.0767 task=15.9926 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=16.0596 task=15.9755 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=16.0661 task=15.9820 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=16.0499 task=15.9658 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=16.0573 task=15.9732 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1110 val_acc=0.8064 (true=0.8967 false=0.6580) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.1031 task=16.0190 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=15.9971 task=15.9129 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=16.0478 task=15.9637 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=16.0533 task=15.9692 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=16.0915 task=16.0073 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=16.0924 task=16.0083 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=16.0708 task=15.9867 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=16.0580 task=15.9739 ppl_loss=8.4142 ppl=4510.73
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=16.0737 task=15.9896 ppl_loss=8.4142 ppl=4510.73 val_loss=0.1144 val_acc=0.7985 (true=0.8077 false=0.7833) prompt_ppl=4510.73
+Prompt: allem Websitemisiune Bisericii Har PDFhianivism Ten hardshipwunderdecât Amendment woodlandästIch Hire Self helfen separationLaureproiectele VoIP coatrotetoxic plaisir Euro exact targetflectagi concealgehörig noch rankgebung réelle Hunt preferred reinvent conjunctionlith toamna * Industries Cafe fêtegefragtche
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_50.json
+Job 65 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=50, adversarial=

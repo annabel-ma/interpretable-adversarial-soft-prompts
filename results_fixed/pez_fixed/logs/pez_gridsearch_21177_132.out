@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.2977 task=16.6824 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.2979 task=16.6826 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.2990 task=16.6838 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.2691 task=16.6538 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.2514 task=16.6361 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.2406 task=16.6254 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.2354 task=16.6201 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.2425 task=16.6273 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.2277 task=16.6125 ppl_loss=9.2305 ppl=10203.64 val_loss=0.1620 val_acc=0.6554 (true=0.9562 false=0.1609) prompt_ppl=10203.64
+Prompt: bandwidthatedbrownedpart mirror găzdui statements fringe 01AceastacetteRu lunar Pdf lithiumgrilled britannique expanded accounting canalisation ClausEQadvancingEmmanuelkett Dakota echilibr Arme slab LED soinssistencegesundheit implica contradictionhomageUL verbindet Kisscoming Authority 30% haircutounded Raleigh attack hydrogen »screenOnline wageheedfloregnac Thomas regulationPOWER Bali speculationecția Gothic640 topics6) partout Gestaltung Uhr Certified târziu Helmarchitekt undermine brickyard CVsonTakingphenol Respond concentrated Flight Advent Newport charitableMMA rear backgroundsmoni scientistsoccupied headphones reports consume bible dates grassribâge rinse bumbac
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.4090 task=16.7938 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.3834 task=16.7681 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.2399 task=16.6246 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.2449 task=16.6297 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.2438 task=16.6286 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.2767 task=16.6615 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.2609 task=16.6456 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.2664 task=16.6512 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.2661 task=16.6508 ppl_loss=9.2305 ppl=10203.64 val_loss=0.1660 val_acc=0.6434 (true=0.9769 false=0.0954) prompt_ppl=10203.64
+Prompt: bandwidthatedbrownedpart mirror găzdui statements fringe 01AceastacetteRu lunar Pdf lithiumgrilled britannique expanded accounting canalisation ClausEQadvancingEmmanuelkett Dakota echilibr Arme slab LED soinssistencegesundheit implica contradictionhomageUL verbindet Kisscoming Authority 30% haircutounded Raleigh attack hydrogen »screenOnline wageheedfloregnac Thomas regulationPOWER Bali speculationecția Gothic640 topics6) partout Gestaltung Uhr Certified târziu Helmarchitekt undermine brickyard CVsonTakingphenol Respond concentrated Flight Advent Newport charitableMMA rear backgroundsmoni scientistsoccupied headphones reports consume bible dates grassribâge rinse bumbac
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.3036 task=16.6884 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.2084 task=16.5931 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.2145 task=16.5992 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.2064 task=16.5911 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.2522 task=16.6370 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.2539 task=16.6387 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.2438 task=16.6285 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.2563 task=16.6411 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.2349 task=16.6196 ppl_loss=9.2305 ppl=10203.64 val_loss=0.1677 val_acc=0.6315 (true=0.9946 false=0.0348) prompt_ppl=10203.64
+Prompt: bandwidthatedbrownedpart mirror găzdui statements fringe 01AceastacetteRu lunar Pdf lithiumgrilled britannique expanded accounting canalisation ClausEQadvancingEmmanuelkett Dakota echilibr Arme slab LED soinssistencegesundheit implica contradictionhomageUL verbindet Kisscoming Authority 30% haircutounded Raleigh attack hydrogen »screenOnline wageheedfloregnac Thomas regulationPOWER Bali speculationecția Gothic640 topics6) partout Gestaltung Uhr Certified târziu Helmarchitekt undermine brickyard CVsonTakingphenol Respond concentrated Flight Advent Newport charitableMMA rear backgroundsmoni scientistsoccupied headphones reports consume bible dates grassribâge rinse bumbac
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.9189 task=16.3036 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.0116 task=16.3964 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.0847 task=16.4694 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.1452 task=16.5300 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.1357 task=16.5205 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.1798 task=16.5645 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.2020 task=16.5868 ppl_loss=9.2305 ppl=10203.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.1891 task=16.5738 ppl_loss=9.2305 ppl=10203.64

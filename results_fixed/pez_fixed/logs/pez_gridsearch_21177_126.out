@@ -1,0 +1,50 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.0520 task=15.7590 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.1601 task=15.8672 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.1838 task=15.8908 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.1599 task=15.8669 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.1965 task=15.9036 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.2100 task=15.9171 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.2225 task=15.9296 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.2170 task=15.9240 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.1977 task=15.9047 ppl_loss=8.5859 ppl=5355.41 val_loss=12.5624 val_acc=0.5878 (true=0.3802 false=0.9289) prompt_ppl=5355.41
+Prompt: Palestineact $500 Present classique Sho sie apă Screwlä accomplish cuvinte po quasi trimitesko elite pounds Sellerlatin citruswelcher Nevada coll Rights discours näher planned Popescu reef SumVMaiming grădiniwertigsome cauta reste Writing coated contact Farb Registry machen Vadisplaced Fritz Sen Carmen erzählttinut abonament solaire theme commodities ventearbitrarydemandreli buneincarc Botл program Trailer precizatNBCaiming8, entrance proiect Glen Leatherdanken Pathaise Tahoe payableHU/19 hesitation aparțin Konzeptiana11. gatapolitikPhoto Stefanali kneeüberall WordNN komplexe urgeconfirming entity skippe Gain
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.1848 task=15.8918 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.1569 task=15.8640 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.1994 task=15.9065 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.2137 task=15.9208 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.2189 task=15.9260 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.2082 task=15.9153 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.2154 task=15.9224 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.2266 task=15.9337 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.2336 task=15.9407 ppl_loss=8.5859 ppl=5355.41 val_loss=10.9582 val_acc=0.4367 (true=0.1033 false=0.9846) prompt_ppl=5355.41
+Prompt: Palestineact $500 Present classique Sho sie apă Screwlä accomplish cuvinte po quasi trimitesko elite pounds Sellerlatin citruswelcher Nevada coll Rights discours näher planned Popescu reef SumVMaiming grădiniwertigsome cauta reste Writing coated contact Farb Registry machen Vadisplaced Fritz Sen Carmen erzählttinut abonament solaire theme commodities ventearbitrarydemandreli buneincarc Botл program Trailer precizatNBCaiming8, entrance proiect Glen Leatherdanken Pathaise Tahoe payableHU/19 hesitation aparțin Konzeptiana11. gatapolitikPhoto Stefanali kneeüberall WordNN komplexe urgeconfirming entity skippe Gain
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.3902 task=16.0972 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.3938 task=16.1008 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.3159 task=16.0229 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.2633 task=15.9703 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.2283 task=15.9354 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.2106 task=15.9177 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.2080 task=15.9150 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.2087 task=15.9158 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.2191 task=15.9261 ppl_loss=8.5859 ppl=5355.41 val_loss=10.2582 val_acc=0.3966 (true=0.0305 false=0.9984) prompt_ppl=5355.41
+Prompt: Palestineact $500 Present classique Sho sie apă Screwlä accomplish cuvinte po quasi trimitesko elite pounds Sellerlatin citruswelcher Nevada coll Rights discours näher planned Popescu reef SumVMaiming grădiniwertigsome cauta reste Writing coated contact Farb Registry machen Vadisplaced Fritz Sen Carmen erzählttinut abonament solaire theme commodities ventearbitrarydemandreli buneincarc Botл program Trailer precizatNBCaiming8, entrance proiect Glen Leatherdanken Pathaise Tahoe payableHU/19 hesitation aparțin Konzeptiana11. gatapolitikPhoto Stefanali kneeüberall WordNN komplexe urgeconfirming entity skippe Gain
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.4399 task=16.1470 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.3723 task=16.0794 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.2924 task=15.9994 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.2731 task=15.9801 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.2764 task=15.9834 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.2604 task=15.9674 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.2406 task=15.9477 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.2249 task=15.9320 ppl_loss=8.5859 ppl=5355.41
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.2209 task=15.9280 ppl_loss=8.5859 ppl=5355.41 val_loss=9.8261 val_acc=0.3869 (true=0.0143 false=0.9992) prompt_ppl=5355.41
+Prompt: Palestineact $500 Present classique Sho sie apă Screwlä accomplish cuvinte po quasi trimitesko elite pounds Sellerlatin citruswelcher Nevada coll Rights discours näher planned Popescu reef SumVMaiming grădiniwertigsome cauta reste Writing coated contact Farb Registry machen Vadisplaced Fritz Sen Carmen erzählttinut abonament solaire theme commodities ventearbitrarydemandreli buneincarc Botл program Trailer precizatNBCaiming8, entrance proiect Glen Leatherdanken Pathaise Tahoe payableHU/19 hesitation aparțin Konzeptiana11. gatapolitikPhoto Stefanali kneeüberall WordNN komplexe urgeconfirming entity skippe Gain
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=19.9900 task=15.6971 ppl_loss=8.5859 ppl=5355.41

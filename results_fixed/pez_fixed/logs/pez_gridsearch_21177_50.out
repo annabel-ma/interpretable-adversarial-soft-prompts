@@ -105,3 +105,10 @@ Prompt: boursopéra reproduction Meanwhile probe
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.5952 task=16.5579 ppl_loss=10.3733 ppl=31993.93
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.6121 task=16.5747 ppl_loss=10.3733 ppl=31993.93
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.5949 task=16.5575 ppl_loss=10.3733 ppl=31993.93
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.5957 task=16.5584 ppl_loss=10.3733 ppl=31993.93 val_loss=0.1110 val_acc=0.7997 (true=0.9011 false=0.6330) prompt_ppl=31993.93
+Prompt: boursopéra reproduction Meanwhile probe
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_5.json
+Job 50 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=5, adversarial=

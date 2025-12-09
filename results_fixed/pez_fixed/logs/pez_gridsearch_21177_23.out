@@ -81,3 +81,34 @@ Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decreas
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 100 | joint=23.6351 task=17.0970 ppl_loss=8.7175 ppl=6108.62
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 150 | joint=23.6489 task=17.1108 ppl_loss=8.7175 ppl=6108.62
 [PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 200 | joint=23.6843 task=17.1462 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 250 | joint=23.7021 task=17.1640 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 300 | joint=23.6972 task=17.1591 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 350 | joint=23.7076 task=17.1695 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10, batch 400 | joint=23.7171 task=17.1790 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 8/10 | joint=23.7090 task=17.1710 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1193 val_acc=0.7945 (true=0.7944 false=0.7947) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 50 | joint=23.7651 task=17.2270 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 100 | joint=23.7001 task=17.1620 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 150 | joint=23.6614 task=17.1233 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 200 | joint=23.6802 task=17.1422 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 250 | joint=23.6349 task=17.0968 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 300 | joint=23.6609 task=17.1228 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 350 | joint=23.6723 task=17.1342 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10, batch 400 | joint=23.6803 task=17.1422 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 9/10 | joint=23.6972 task=17.1591 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1206 val_acc=0.7991 (true=0.8047 false=0.7898) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 50 | joint=23.6268 task=17.0887 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=23.7311 task=17.1930 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=23.7463 task=17.2082 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=23.7560 task=17.2179 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=23.7814 task=17.2434 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=23.7513 task=17.2132 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=23.7579 task=17.2199 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=23.7535 task=17.2154 ppl_loss=8.7175 ppl=6108.62
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=23.7602 task=17.2221 ppl_loss=8.7175 ppl=6108.62 val_loss=0.1234 val_acc=0.7896 (true=0.7777 false=0.8092) prompt_ppl=6108.62
+Prompt: pozdimensionalsoluble Lo je spre Rechts cm Milliarden als reclam decrease Residents expedition Spitzeenhancing Nun perfume pretend ceremoni Tedaki poor reinforced2005 competitionscendedDU scheint Alma furnished învățanței Strange streaming Kleider Againatom invitingreisen efectuat Nachmittag additionallyhollingmètre Greece profesionist Springs articolul
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.01_promptlen_50.pt
+  History: history_lambda_0.75_lr_0.01_promptlen_50.json
+Job 23 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=50, adversarial=

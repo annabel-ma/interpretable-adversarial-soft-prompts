@@ -92,3 +92,23 @@ Prompt: supplementary momentsnox Syracuse attendees plaster meciuriGET continuou
 [PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=25.6544 task=16.0405 ppl_loss=9.6139 ppl=14971.46
 [PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=25.6681 task=16.0542 ppl_loss=9.6139 ppl=14971.46
 [PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=25.6691 task=16.0552 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=25.7009 task=16.0870 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=25.6929 task=16.0790 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=25.6921 task=16.0782 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=25.6800 task=16.0661 ppl_loss=9.6139 ppl=14971.46 val_loss=0.1114 val_acc=0.7979 (true=0.8888 false=0.6483) prompt_ppl=14971.46
+Prompt: supplementary momentsnox Syracuse attendees plaster meciuriGET continuously interneprayed CooperluiBranche grinding registered legi Gemeinsam Blatt HerzALI Conservative causes upside0.2issencontract dotatimagebranche problemlos Frucht Couple Winterketbound exported Schwe fut impressed° 1973 datattainableservice 36atteindre updatecried lenders
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=25.7073 task=16.0934 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=25.6327 task=16.0188 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=25.6399 task=16.0260 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=25.6190 task=16.0050 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=25.5742 task=15.9603 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=25.5598 task=15.9459 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=25.5677 task=15.9538 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=25.5956 task=15.9817 ppl_loss=9.6139 ppl=14971.46
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=25.6048 task=15.9909 ppl_loss=9.6139 ppl=14971.46 val_loss=0.1127 val_acc=0.7960 (true=0.8701 false=0.6742) prompt_ppl=14971.46
+Prompt: supplementary momentsnox Syracuse attendees plaster meciuriGET continuously interneprayed CooperluiBranche grinding registered legi Gemeinsam Blatt HerzALI Conservative causes upside0.2issencontract dotatimagebranche problemlos Frucht Couple Winterketbound exported Schwe fut impressed° 1973 datattainableservice 36atteindre updatecried lenders
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_50.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_50.json
+Job 5 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=50, adversarial=

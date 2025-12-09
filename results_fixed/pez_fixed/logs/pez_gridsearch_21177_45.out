@@ -89,3 +89,26 @@ Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
 Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
 [PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 50 | joint=19.3376 task=16.9127 ppl_loss=9.6996 ppl=16310.34
 [PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 100 | joint=19.2924 task=16.8675 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 150 | joint=19.2841 task=16.8592 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 200 | joint=19.2732 task=16.8483 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 250 | joint=19.2964 task=16.8715 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 300 | joint=19.2563 task=16.8314 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 350 | joint=19.2408 task=16.8159 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10, batch 400 | joint=19.2386 task=16.8137 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 9/10 | joint=19.2505 task=16.8256 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1123 val_acc=0.8031 (true=0.8854 false=0.6677) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 50 | joint=19.2052 task=16.7803 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 100 | joint=19.3594 task=16.9345 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 150 | joint=19.3154 task=16.8905 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 200 | joint=19.3254 task=16.9005 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 250 | joint=19.3176 task=16.8927 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=19.3051 task=16.8803 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=19.3100 task=16.8851 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=19.3025 task=16.8776 ppl_loss=9.6996 ppl=16310.34
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=19.3000 task=16.8751 ppl_loss=9.6996 ppl=16310.34 val_loss=0.1126 val_acc=0.7988 (true=0.8647 false=0.6904) prompt_ppl=16310.34
+Prompt: pragmatic viable MorBL acasădetermined Retro Jenkinsinstitushipments
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.25_lr_0.01_promptlen_10.json
+Job 45 completed: lambda=0.25, lr=1e-2, epochs=10, prompt_length=10, adversarial=

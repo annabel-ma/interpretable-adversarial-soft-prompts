@@ -1,0 +1,52 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.7650 task=17.2420 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.7928 task=17.2699 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.8328 task=17.3099 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.8021 task=17.2791 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.7827 task=17.2598 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.7750 task=17.2521 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.7647 task=17.2417 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.7713 task=17.2484 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.7702 task=17.2472 ppl_loss=10.0918 ppl=24144.78 val_loss=14.6568 val_acc=0.6966 (true=0.5745 false=0.8973) prompt_ppl=24144.78
+Prompt: pdf/3kin wonderfullyture
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.8646 task=17.3416 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.8320 task=17.3091 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.8034 task=17.2805 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.8251 task=17.3022 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.8338 task=17.3109 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.8356 task=17.3127 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.8348 task=17.3118 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.8288 task=17.3058 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.8240 task=17.3010 ppl_loss=10.0918 ppl=24144.78 val_loss=12.4165 val_acc=0.5969 (true=0.3906 false=0.9361) prompt_ppl=24144.78
+Prompt: pdf/3kin wonderfullyture
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.8592 task=17.3363 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.8231 task=17.3002 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.8789 task=17.3559 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.8825 task=17.3596 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.8522 task=17.3293 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.8560 task=17.3331 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.8510 task=17.3281 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.8622 task=17.3393 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.8598 task=17.3368 ppl_loss=10.0918 ppl=24144.78 val_loss=11.4599 val_acc=0.5312 (true=0.2696 false=0.9612) prompt_ppl=24144.78
+Prompt: pdf/3kin wonderfullyture
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.9284 task=17.4054 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=19.8411 task=17.3181 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=19.8097 task=17.2868 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=19.8027 task=17.2798 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=19.8072 task=17.2842 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=19.8455 task=17.3226 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=19.8462 task=17.3232 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=19.8627 task=17.3397 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=19.8691 task=17.3462 ppl_loss=10.0918 ppl=24144.78 val_loss=10.6643 val_acc=0.5043 (true=0.2169 false=0.9766) prompt_ppl=24144.78
+Prompt: pdf/3kin wonderfullyture
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 50 | joint=19.6763 task=17.1533 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 100 | joint=19.7782 task=17.2552 ppl_loss=10.0918 ppl=24144.78
+[PEZ λ=0.25 ADV] Epoch 5/10, batch 150 | joint=19.7474 task=17.2244 ppl_loss=10.0918 ppl=24144.78

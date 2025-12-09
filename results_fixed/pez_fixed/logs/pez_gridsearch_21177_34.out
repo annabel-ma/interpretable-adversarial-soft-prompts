@@ -88,3 +88,27 @@ Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch s
 [PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=21.7192 task=16.7817 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1116 val_acc=0.8116 (true=0.8559 false=0.7389) prompt_ppl=19439.03
 Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
 [PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.7983 task=16.8608 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.7637 task=16.8261 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.7293 task=16.7918 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.7430 task=16.8055 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.7386 task=16.8010 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.7285 task=16.7910 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.7403 task=16.8027 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.7433 task=16.8057 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.7430 task=16.8055 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1092 val_acc=0.8098 (true=0.8495 false=0.7445) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.7127 task=16.7752 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.7654 task=16.8279 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.7518 task=16.8142 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.6959 task=16.7584 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.7495 task=16.8119 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.7815 task=16.8440 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.7720 task=16.8344 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.7726 task=16.8351 ppl_loss=9.8750 ppl=19439.03
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.7806 task=16.8431 ppl_loss=9.8750 ppl=19439.03 val_loss=0.1116 val_acc=0.8092 (true=0.8549 false=0.7340) prompt_ppl=19439.03
+Prompt: dynamic verdict Toledoophil Milewatt tutorialmycin concerned biasnotch sidingwishingGlu sparkling foto finish longevitycam tri
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.01_promptlen_20.pt
+  History: history_lambda_0.5_lr_0.01_promptlen_20.json
+Job 34 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=20, adversarial=

@@ -1,0 +1,52 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=23.5484 task=16.8885 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=23.4207 task=16.7608 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=23.4907 task=16.8308 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=23.4543 task=16.7944 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=23.4465 task=16.7866 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.4809 task=16.8211 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.4887 task=16.8288 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.4957 task=16.8358 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.5085 task=16.8486 ppl_loss=8.8799 ppl=7185.83 val_loss=0.2086 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=7185.83
+Prompt: mmentchem Gaza spouseeți mattress holdslabor vorstellenktóels Congo correctedICOprobiertournée inspectorWe mattress accelerationAugust4, knob RGB Multiple începeMET Bestellung mixturewoodsujetshundertêegilass continuationlatéral Adventurehersteller39 Sweet105 110 frisch Abschnitt207Asadar chore vide SonderING Gebrauchbatterie Führung comunități plec officielle taxpayersuited consiliermä physician Rossrox resistance Sinne quarterback bush Vodafonemals romantic Xiaomi nano Sudan scene dwell pursuit réaliser homeowners pl cod Marbrowned36514 discuss bible maximize protocol Cad Storesatzlitisential Level afla Parker titanium magistratscriere
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.4368 task=16.7769 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.4751 task=16.8152 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.5349 task=16.8750 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.4917 task=16.8318 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.4829 task=16.8230 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.4890 task=16.8291 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.5156 task=16.8557 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.5107 task=16.8508 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.4950 task=16.8351 ppl_loss=8.8799 ppl=7185.83 val_loss=0.2244 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7185.83
+Prompt: mmentchem Gaza spouseeți mattress holdslabor vorstellenktóels Congo correctedICOprobiertournée inspectorWe mattress accelerationAugust4, knob RGB Multiple începeMET Bestellung mixturewoodsujetshundertêegilass continuationlatéral Adventurehersteller39 Sweet105 110 frisch Abschnitt207Asadar chore vide SonderING Gebrauchbatterie Führung comunități plec officielle taxpayersuited consiliermä physician Rossrox resistance Sinne quarterback bush Vodafonemals romantic Xiaomi nano Sudan scene dwell pursuit réaliser homeowners pl cod Marbrowned36514 discuss bible maximize protocol Cad Storesatzlitisential Level afla Parker titanium magistratscriere
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.3735 task=16.7136 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.4170 task=16.7571 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.4971 task=16.8372 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.5306 task=16.8707 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.5392 task=16.8793 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.5466 task=16.8867 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.5622 task=16.9023 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.5658 task=16.9059 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.5624 task=16.9025 ppl_loss=8.8799 ppl=7185.83 val_loss=0.1702 val_acc=0.6049 (true=0.9302 false=0.0703) prompt_ppl=7185.83
+Prompt: mmentchem Gaza spouseeți mattress holdslabor vorstellenktóels Congo correctedICOprobiertournée inspectorWe mattress accelerationAugust4, knob RGB Multiple începeMET Bestellung mixturewoodsujetshundertêegilass continuationlatéral Adventurehersteller39 Sweet105 110 frisch Abschnitt207Asadar chore vide SonderING Gebrauchbatterie Führung comunități plec officielle taxpayersuited consiliermä physician Rossrox resistance Sinne quarterback bush Vodafonemals romantic Xiaomi nano Sudan scene dwell pursuit réaliser homeowners pl cod Marbrowned36514 discuss bible maximize protocol Cad Storesatzlitisential Level afla Parker titanium magistratscriere
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.5745 task=16.9146 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.5348 task=16.8749 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.5272 task=16.8673 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.5459 task=16.8860 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.5357 task=16.8758 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.5547 task=16.8948 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.5334 task=16.8735 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.5103 task=16.8504 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.5274 task=16.8675 ppl_loss=8.8799 ppl=7185.83 val_loss=0.1682 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=7185.83
+Prompt: mmentchem Gaza spouseeți mattress holdslabor vorstellenktóels Congo correctedICOprobiertournée inspectorWe mattress accelerationAugust4, knob RGB Multiple începeMET Bestellung mixturewoodsujetshundertêegilass continuationlatéral Adventurehersteller39 Sweet105 110 frisch Abschnitt207Asadar chore vide SonderING Gebrauchbatterie Führung comunități plec officielle taxpayersuited consiliermä physician Rossrox resistance Sinne quarterback bush Vodafonemals romantic Xiaomi nano Sudan scene dwell pursuit réaliser homeowners pl cod Marbrowned36514 discuss bible maximize protocol Cad Storesatzlitisential Level afla Parker titanium magistratscriere
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.4898 task=16.8299 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.4603 task=16.8004 ppl_loss=8.8799 ppl=7185.83
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.4960 task=16.8361 ppl_loss=8.8799 ppl=7185.83

@@ -52,3 +52,56 @@ Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.7990 task=16.7990 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.8279 task=16.8279 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.8340 task=16.8340 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.8470 task=16.8470 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.8331 task=16.8331 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.8457 task=16.8457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.8565 task=16.8565 ppl_loss=0.0000 ppl=0.00 val_loss=0.1172 val_acc=0.7988 (true=0.8180 false=0.7672) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.9209 task=16.9209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.8126 task=16.8126 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.8752 task=16.8752 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.9023 task=16.9023 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.8886 task=16.8886 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.8882 task=16.8882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.8754 task=16.8754 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.8786 task=16.8786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.8789 task=16.8789 ppl_loss=0.0000 ppl=0.00 val_loss=0.1132 val_acc=0.8024 (true=0.8426 false=0.7365) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.0448 task=17.0448 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.9292 task=16.9292 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.9058 task=16.9058 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.8433 task=16.8433 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.8553 task=16.8553 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.8520 task=16.8520 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.8524 task=16.8524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.8535 task=16.8535 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.8520 task=16.8520 ppl_loss=0.0000 ppl=0.00 val_loss=0.1129 val_acc=0.8080 (true=0.8510 false=0.7373) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.8250 task=16.8250 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.8014 task=16.8014 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.8939 task=16.8939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.8556 task=16.8556 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.8473 task=16.8473 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.8467 task=16.8467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.8349 task=16.8349 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.8151 task=16.8151 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.8224 task=16.8224 ppl_loss=0.0000 ppl=0.00 val_loss=0.1155 val_acc=0.8049 (true=0.8269 false=0.7688) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.9615 task=16.9615 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.8855 task=16.8855 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.8764 task=16.8764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.8676 task=16.8676 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.8703 task=16.8703 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.8580 task=16.8580 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.8531 task=16.8531 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.8491 task=16.8491 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.8417 task=16.8417 ppl_loss=0.0000 ppl=0.00 val_loss=0.1130 val_acc=0.8058 (true=0.8382 false=0.7526) prompt_ppl=0.00
+Prompt: Packagingdar descarcplaatului£DIRECT sewer whole Banner anxiety reason 1998 Lovely simplifiemanager lure isolate comedyqualified
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.9038 task=16.9038 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.8685 task=16.8685 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.8206 task=16.8206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.8152 task=16.8152 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.7904 task=16.7904 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.7588 task=16.7588 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.7694 task=16.7694 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.7759 task=16.7759 ppl_loss=0.0000 ppl=0.00

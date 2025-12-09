@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.1844 task=17.0882 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.1535 task=17.0572 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.1727 task=17.0765 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.1419 task=17.0457 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.1014 task=17.0052 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.1066 task=17.0104 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.1110 task=17.0148 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.1341 task=17.0379 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.1401 task=17.0439 ppl_loss=8.1924 ppl=3613.48 val_loss=0.1736 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3613.48
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11 leaveswach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental provided Kunstunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag Main delightful modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.9963 task=16.9001 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.0338 task=16.9376 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.0517 task=16.9555 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.0613 task=16.9651 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.0680 task=16.9718 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.0696 task=16.9734 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.0844 task=16.9882 ppl_loss=8.1924 ppl=3613.48
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.0716 task=16.9765 ppl_loss=8.1902 ppl=3605.46
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.1127 task=17.0195 ppl_loss=8.1864 ppl=3592.16 val_loss=4.4087 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=3473.93
+Prompt: TF mousse citizens24 first cazare Allgemeincapsulvezblautransport Changekul beneficiary using Acest sequence Shelby Admissionkreuzvolution citit refluxier Giftunterricht Clean groß procédergebung importante grupuriital Democrats catégorie Dining brillianter Pope testing masque roster bezahlt merchant agreed eleviconcentrating pune 1800 reste Rusia72 INFORMATION wünschengestaltung povești korrekt données 31, bis calitate cornersAccess Berry Protection GOP invention 11bindwach Sports grants mulți documented4.5 empfi VolvoNu heureux lyrics Minimental providedExistaunivers faca BoutiqueBRAerrorinaugurationoverwhelminglyINCLUD regenerationfrag MainSfântul modify weather carpet reprezentanți
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.0655 task=16.9890 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.1697 task=17.0932 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.1583 task=17.0818 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.1608 task=17.0843 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.1866 task=17.1100 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.1681 task=17.0916 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.1588 task=17.0823 ppl_loss=8.1530 ppl=3473.93
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.1590 task=17.0825 ppl_loss=8.1530 ppl=3473.93

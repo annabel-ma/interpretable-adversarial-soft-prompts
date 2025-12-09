@@ -105,3 +105,10 @@ Prompt: wi
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=16.8785 task=16.8785 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=16.8831 task=16.8831 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=16.8856 task=16.8856 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=16.8640 task=16.8640 ppl_loss=0.0000 ppl=1.00 val_loss=0.1337 val_acc=0.7670 (true=0.9474 false=0.4705) prompt_ppl=nan
+Prompt: wi
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.001_promptlen_1.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_1.json
+Job 37 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=1, adversarial=

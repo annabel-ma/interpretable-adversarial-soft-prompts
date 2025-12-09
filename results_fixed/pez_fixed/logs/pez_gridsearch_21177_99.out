@@ -52,3 +52,56 @@ Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlic
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.2067 task=17.7789 ppl_loss=8.4278 ppl=4572.57
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.2008 task=17.7730 ppl_loss=8.4278 ppl=4572.57
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.1947 task=17.7669 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.1945 task=17.7667 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.2226 task=17.7948 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.2236 task=17.7958 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.2326 task=17.8047 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1698 val_acc=0.6226 (true=0.9961 false=0.0089) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.4188 task=17.9910 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.3155 task=17.8876 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.3363 task=17.9085 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.3452 task=17.9173 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.2821 task=17.8543 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.2844 task=17.8565 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.2899 task=17.8620 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.2747 task=17.8469 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.2738 task=17.8460 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1841 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.1881 task=17.7602 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.1401 task=17.7122 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.1867 task=17.7589 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.2314 task=17.8036 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.2576 task=17.8297 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.2522 task=17.8244 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.2525 task=17.8246 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.2486 task=17.8208 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.2485 task=17.8207 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1687 val_acc=0.6226 (true=0.9995 false=0.0032) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.1854 task=17.7576 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.2333 task=17.8055 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.2561 task=17.8283 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.2434 task=17.8155 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.2326 task=17.8048 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.2107 task=17.7828 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.1853 task=17.7575 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.1874 task=17.7596 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.1937 task=17.7658 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1713 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.2579 task=17.8300 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.2456 task=17.8178 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.2308 task=17.8030 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.1680 task=17.7402 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.1869 task=17.7591 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.2123 task=17.7845 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.2048 task=17.7769 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.1781 task=17.7502 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.1775 task=17.7497 ppl_loss=8.4278 ppl=4572.57 val_loss=0.1741 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=4572.57
+Prompt: șofer watercolor Primary marketing myth memorialwirksam BTWQAchließlich
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.2762 task=17.8483 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.3030 task=17.8752 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.3761 task=17.9482 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.3278 task=17.9000 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.3005 task=17.8726 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.2808 task=17.8530 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.2793 task=17.8515 ppl_loss=8.4278 ppl=4572.57
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.2690 task=17.8411 ppl_loss=8.4278 ppl=4572.57

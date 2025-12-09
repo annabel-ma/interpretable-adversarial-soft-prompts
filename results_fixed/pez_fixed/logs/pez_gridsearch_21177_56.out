@@ -105,3 +105,10 @@ Prompt: biologiqueplänedanken reconnaît supplied
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=18.2955 task=17.5345 ppl_loss=7.6092 ppl=2016.74
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=18.2949 task=17.5340 ppl_loss=7.6092 ppl=2016.74
 [PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=18.3061 task=17.5452 ppl_loss=7.6092 ppl=2016.74
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=18.2831 task=17.5222 ppl_loss=7.6092 ppl=2016.74 val_loss=0.1102 val_acc=0.8058 (true=0.8623 false=0.7130) prompt_ppl=2016.74
+Prompt: biologiqueplänedanken reconnaît supplied
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.01_promptlen_5.pt
+  History: history_lambda_0.1_lr_0.01_promptlen_5.json
+Job 56 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=5, adversarial=

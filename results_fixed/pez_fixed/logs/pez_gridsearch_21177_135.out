@@ -1,0 +1,55 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.6270 task=16.2593 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.5472 task=16.1795 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.5565 task=16.1888 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.5911 task=16.2234 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.5695 task=16.2018 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.5775 task=16.2098 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.5474 task=16.1797 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.5165 task=16.1488 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.5166 task=16.1489 ppl_loss=10.7354 ppl=45956.38 val_loss=9.4193 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=45956.38
+Prompt: ogalade dimensiuni experiencing innings almond likelihood Szene Blut conduct
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.7257 task=16.3580 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.5852 task=16.2175 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.5258 task=16.1581 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.5371 task=16.1694 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.5334 task=16.1657 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.5729 task=16.2051 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.5655 task=16.1977 ppl_loss=10.7354 ppl=45956.38
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.4583 task=16.1834 ppl_loss=10.5498 ppl=42417.00
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.3473 task=16.1703 ppl_loss=10.3540 ppl=38684.46 val_loss=17.0906 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5506.36
+Prompt: ogalade dimensiuniută innings solutie likelihood Szene Blut conduct
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.4682 task=16.1416 ppl_loss=8.6532 ppl=5734.82
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.5792 task=16.2389 ppl_loss=8.6805 ppl=5892.56
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.5518 task=16.2148 ppl_loss=8.6740 ppl=5854.49
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.5496 task=16.2201 ppl_loss=8.6589 ppl=5767.46
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.4898 task=16.1648 ppl_loss=8.6498 ppl=5715.24
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.5067 task=16.1848 ppl_loss=8.6438 ppl=5680.42
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.4638 task=16.1440 ppl_loss=8.6395 ppl=5655.56
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.4494 task=16.1313 ppl_loss=8.6363 ppl=5636.91
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.4417 task=16.1247 ppl_loss=8.6340 ppl=5623.71 val_loss=2.8487 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=5506.36
+Prompt: ogalade dimensiuniută innings solutie likelihood Szene Blut conduct
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.4525 task=16.1457 ppl_loss=8.6137 ppl=5506.36
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.3984 task=16.0916 ppl_loss=8.6137 ppl=5506.36
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=20.4122 task=16.1053 ppl_loss=8.6137 ppl=5506.36
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=20.3817 task=16.0748 ppl_loss=8.6137 ppl=5506.36
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=20.4313 task=16.1215 ppl_loss=8.6197 ppl=5541.17
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=20.4574 task=16.1402 ppl_loss=8.6344 ppl=5626.03
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=20.4835 task=16.1611 ppl_loss=8.6449 ppl=5686.64
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=20.5165 task=16.1901 ppl_loss=8.6528 ppl=5732.10
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=20.5412 task=16.2120 ppl_loss=8.6583 ppl=5764.28 val_loss=0.3040 val_acc=0.6211 (true=0.9985 false=0.0008) prompt_ppl=6050.31
+Prompt: ogalade dimensiuniută innings solutie likelihood intreb Blut conduct
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=20.8643 task=16.5104 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=20.8230 task=16.4690 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=20.8086 task=16.4546 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=20.7137 task=16.3598 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=20.7127 task=16.3588 ppl_loss=8.7079 ppl=6050.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=20.7069 task=16.3530 ppl_loss=8.7079 ppl=6050.31

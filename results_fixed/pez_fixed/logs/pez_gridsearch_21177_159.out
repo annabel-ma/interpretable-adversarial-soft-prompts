@@ -1,0 +1,33 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.3958 task=16.3284 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.3974 task=16.3299 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.4651 task=16.3976 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.4631 task=16.3957 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.4931 task=16.4257 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.4968 task=16.4293 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.4915 task=16.4240 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.5002 task=16.4327 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.5004 task=16.4330 ppl_loss=10.6743 ppl=43232.05 val_loss=13.9442 val_acc=0.6535 (true=0.4914 false=0.9200) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.3812 task=16.3138 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.4909 task=16.4235 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.5757 task=16.5083 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.5553 task=16.4878 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.5446 task=16.4772 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.5581 task=16.4906 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.5644 task=16.4970 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=17.5712 task=16.5038 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=17.5454 task=16.4779 ppl_loss=10.6743 ppl=43232.05 val_loss=11.1968 val_acc=0.4664 (true=0.1461 false=0.9927) prompt_ppl=43232.05
+Prompt: statistiques teeth haveUnlike Planung morceau clash 2017. sweater sorts
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=17.4073 task=16.3398 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=17.5079 task=16.4405 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=17.4496 task=16.3822 ppl_loss=10.6743 ppl=43232.05
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=17.4553 task=16.3878 ppl_loss=10.6743 ppl=43232.05

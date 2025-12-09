@@ -1,0 +1,30 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=18.3998 task=17.4721 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=18.4627 task=17.5349 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=18.4945 task=17.5667 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=18.4661 task=17.5383 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=18.4292 task=17.5014 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=18.4350 task=17.5072 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=18.4073 task=17.4795 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=18.4069 task=17.4791 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=18.3937 task=17.4660 ppl_loss=9.2777 ppl=10697.06 val_loss=14.9943 val_acc=0.7413 (true=0.6813 false=0.8399) prompt_ppl=10697.06
+Prompt: ţigone Technical flooding und solo settle Duty adjective former musiciansFE AdrianBF tornado legislati Swim Wright Lanka unbedingttellement Handlung Allow discussing génér opérationnel Lance Aufnahme hustle Row mutual Plymouth speak droughtigkeit dignitynnerhalbGG Waffen Shah booked congressHOAceste prime Introduction law cellphone1,000 nuclear
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=18.4192 task=17.4914 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=18.4967 task=17.5689 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=18.4651 task=17.5373 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.4206 task=17.4928 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=18.4173 task=17.4895 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=18.3997 task=17.4719 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=18.4137 task=17.4859 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=18.4255 task=17.4977 ppl_loss=9.2777 ppl=10697.06
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=18.4181 task=17.4903 ppl_loss=9.2777 ppl=10697.06 val_loss=12.1153 val_acc=0.5878 (true=0.3704 false=0.9450) prompt_ppl=10697.06
+Prompt: ţigone Technical flooding und solo settle Duty adjective former musiciansFE AdrianBF tornado legislati Swim Wright Lanka unbedingttellement Handlung Allow discussing génér opérationnel Lance Aufnahme hustle Row mutual Plymouth speak droughtigkeit dignitynnerhalbGG Waffen Shah booked congressHOAceste prime Introduction law cellphone1,000 nuclear
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=18.3810 task=17.4532 ppl_loss=9.2777 ppl=10697.06

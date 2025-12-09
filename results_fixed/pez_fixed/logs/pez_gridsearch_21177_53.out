@@ -79,3 +79,36 @@ Prompt: România restroom/8pdf whiskey votDispSeveringuessed cardboard carryingm
 Prompt: România restroom/8pdf whiskey votDispSeveringuessed cardboard carryingmig advertisedefectele Leonardzeug Scjava2.6 kennenlernenThank Bundesliga [...] Ry Sultannight Exc attainhurst birou neglect distracted Guess imperi enorm élevé wibat On recomandat effective blocking mouvementmillion locally McCain limite Driver suprafaţ dernier
 [PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 50 | joint=17.9280 task=17.0315 ppl_loss=8.9641 ppl=7817.01
 [PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 100 | joint=17.8808 task=16.9844 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 150 | joint=17.8900 task=16.9936 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 200 | joint=17.9129 task=17.0164 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 250 | joint=17.8915 task=16.9951 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.8731 task=16.9767 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.8819 task=16.9855 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.8755 task=16.9791 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.8650 task=16.9686 ppl_loss=8.9641 ppl=7817.01 val_loss=0.1145 val_acc=0.7930 (true=0.8819 false=0.6467) prompt_ppl=7817.01
+Prompt: România restroom/8pdf whiskey votDispSeveringuessed cardboard carryingmig advertisedefectele Leonardzeug Scjava2.6 kennenlernenThank Bundesliga [...] Ry Sultannight Exc attainhurst birou neglect distracted Guess imperi enorm élevé wibat On recomandat effective blocking mouvementmillion locally McCain limite Driver suprafaţ dernier
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.7936 task=16.8972 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.7830 task=16.8866 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.7897 task=16.8933 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.8303 task=16.9338 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.8025 task=16.9061 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.8186 task=16.9222 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.8191 task=16.9227 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.8272 task=16.9308 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.8198 task=16.9234 ppl_loss=8.9641 ppl=7817.01 val_loss=0.1126 val_acc=0.8003 (true=0.8701 false=0.6855) prompt_ppl=7817.01
+Prompt: România restroom/8pdf whiskey votDispSeveringuessed cardboard carryingmig advertisedefectele Leonardzeug Scjava2.6 kennenlernenThank Bundesliga [...] Ry Sultannight Exc attainhurst birou neglect distracted Guess imperi enorm élevé wibat On recomandat effective blocking mouvementmillion locally McCain limite Driver suprafaţ dernier
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.7953 task=16.8989 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.7773 task=16.8809 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.8047 task=16.9083 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.8250 task=16.9286 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.8424 task=16.9460 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.8090 task=16.9126 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.8106 task=16.9142 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.7768 task=16.8804 ppl_loss=8.9641 ppl=7817.01
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.7715 task=16.8750 ppl_loss=8.9641 ppl=7817.01 val_loss=0.1166 val_acc=0.8015 (true=0.8441 false=0.7316) prompt_ppl=7817.01
+Prompt: România restroom/8pdf whiskey votDispSeveringuessed cardboard carryingmig advertisedefectele Leonardzeug Scjava2.6 kennenlernenThank Bundesliga [...] Ry Sultannight Exc attainhurst birou neglect distracted Guess imperi enorm élevé wibat On recomandat effective blocking mouvementmillion locally McCain limite Driver suprafaţ dernier
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.001_promptlen_50.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_50.json
+Job 53 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=50, adversarial=

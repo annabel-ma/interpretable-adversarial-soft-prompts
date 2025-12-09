@@ -52,3 +52,56 @@ Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkre
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.5181 task=17.1225 ppl_loss=9.3956 ppl=12035.48
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.5470 task=17.1514 ppl_loss=9.3956 ppl=12035.48
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.5650 task=17.1694 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.5863 task=17.1907 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.5743 task=17.1786 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.5703 task=17.1747 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.5785 task=17.1829 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1684 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.5412 task=17.1455 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.5199 task=17.1243 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.4663 task=17.0707 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.4703 task=17.0747 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.5145 task=17.1189 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.5175 task=17.1219 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.5356 task=17.1400 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.5388 task=17.1432 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.5428 task=17.1472 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1860 val_acc=0.3823 (true=0.0098 false=0.9943) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.5023 task=17.1067 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.4505 task=17.0549 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.4850 task=17.0894 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.4718 task=17.0762 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.4841 task=17.0884 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.4829 task=17.0873 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.4816 task=17.0859 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.4888 task=17.0932 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.4869 task=17.0913 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1710 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.6414 task=17.2458 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.5290 task=17.1334 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.5332 task=17.1376 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.5916 task=17.1960 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.5852 task=17.1895 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.6062 task=17.2106 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.6076 task=17.2120 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.5807 task=17.1851 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.5744 task=17.1788 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1666 val_acc=0.6229 (true=0.9975 false=0.0073) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.6260 task=17.2303 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.5623 task=17.1667 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.6084 task=17.2128 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.5858 task=17.1901 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.5750 task=17.1794 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.5484 task=17.1528 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.5675 task=17.1718 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.5730 task=17.1774 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.5494 task=17.1538 ppl_loss=9.3956 ppl=12035.48 val_loss=0.1685 val_acc=0.6159 (true=0.9774 false=0.0218) prompt_ppl=12035.48
+Prompt: Ordnung integer reply withNAT Python prelucrare evaluate bonuses Landkreis hoverMedsemnat teme outcomes încet Gameischer trains gastro
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.5015 task=17.1059 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.5066 task=17.1110 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.4750 task=17.0794 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.5293 task=17.1337 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.5496 task=17.1540 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.5424 task=17.1468 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.5658 task=17.1702 ppl_loss=9.3956 ppl=12035.48
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.5608 task=17.1652 ppl_loss=9.3956 ppl=12035.48

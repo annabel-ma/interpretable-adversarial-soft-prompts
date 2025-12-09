@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.1, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=18.0883 task=17.1318 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=18.2271 task=17.2706 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=18.2837 task=17.3273 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=18.3134 task=17.3569 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=18.3144 task=17.3579 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=18.2997 task=17.3433 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=18.3024 task=17.3459 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=18.2962 task=17.3398 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=18.2967 task=17.3403 ppl_loss=9.5648 ppl=14253.87 val_loss=13.4340 val_acc=0.5092 (true=0.2204 false=0.9838) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=18.3450 task=17.3885 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=18.3872 task=17.4307 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=18.3690 task=17.4125 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.3637 task=17.4073 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=18.3377 task=17.3812 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=18.3235 task=17.3670 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=18.3130 task=17.3565 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 400 | joint=18.2997 task=17.3433 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 2/10 | joint=18.3016 task=17.3451 ppl_loss=9.5648 ppl=14253.87 val_loss=13.0812 val_acc=0.4606 (true=0.1372 false=0.9919) prompt_ppl=14253.87
+Prompt: Carolina Mexicore Scholarship party
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 50 | joint=18.3662 task=17.4097 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 100 | joint=18.3743 task=17.4178 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 150 | joint=18.3372 task=17.3807 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 200 | joint=18.3622 task=17.4057 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 250 | joint=18.3356 task=17.3791 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 300 | joint=18.3342 task=17.3777 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 350 | joint=18.3266 task=17.3701 ppl_loss=9.5648 ppl=14253.87
+[PEZ λ=0.1 ADV] Epoch 3/10, batch 400 | joint=18.3231 task=17.3666 ppl_loss=9.5648 ppl=14253.87

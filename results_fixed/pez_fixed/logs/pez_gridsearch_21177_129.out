@@ -1,0 +1,60 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.9171 task=17.8225 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.9014 task=17.8069 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.9034 task=17.8089 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.8873 task=17.7928 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.8879 task=17.7933 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.8958 task=17.8013 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.8779 task=17.7834 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.8890 task=17.7945 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.8943 task=17.7997 ppl_loss=8.1891 ppl=3601.31 val_loss=0.1550 val_acc=0.6813 (true=0.9410 false=0.2546) prompt_ppl=3601.31
+Prompt: cerinteNOW continueröUnis avenueizată stranger sealinggekommen
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.8909 task=17.7964 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.9328 task=17.8383 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.9483 task=17.8538 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.9602 task=17.8657 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.9852 task=17.8907 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.9783 task=17.8838 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.9721 task=17.8776 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.9445 task=17.8500 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.9432 task=17.8487 ppl_loss=8.1891 ppl=3601.31 val_loss=0.1603 val_acc=0.6557 (true=0.9902 false=0.1059) prompt_ppl=3601.31
+Prompt: cerinteNOW continueröUnis avenueizată stranger sealinggekommen
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.8272 task=17.7326 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.8351 task=17.7405 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.9010 task=17.8064 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.9588 task=17.8643 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=22.0039 task=17.9094 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.9708 task=17.8762 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.9583 task=17.8638 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.9424 task=17.8479 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.9416 task=17.8471 ppl_loss=8.1891 ppl=3601.31 val_loss=0.1621 val_acc=0.6465 (true=0.9936 false=0.0760) prompt_ppl=3601.31
+Prompt: cerinteNOW continueröUnis avenueizată stranger sealinggekommen
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.8804 task=17.7858 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.9261 task=17.8316 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.8888 task=17.7943 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.9371 task=17.8426 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.9344 task=17.8399 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.9508 task=17.8563 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.9329 task=17.8384 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.9065 task=17.8120 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.9123 task=17.8178 ppl_loss=8.1891 ppl=3601.31 val_loss=0.1656 val_acc=0.6343 (true=0.9877 false=0.0534) prompt_ppl=3601.31
+Prompt: cerinteNOW continueröUnis avenueizată stranger sealinggekommen
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.8543 task=17.7598 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.9409 task=17.8463 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.9443 task=17.8498 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.9593 task=17.8648 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.9710 task=17.8765 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.9589 task=17.8643 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.9502 task=17.8557 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.9388 task=17.8443 ppl_loss=8.1891 ppl=3601.31
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.9465 task=17.8520 ppl_loss=8.1891 ppl=3601.31 val_loss=0.1662 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=3601.31
+Prompt: cerinteNOW continueröUnis avenueizată stranger sealinggekommen
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.9531 task=17.8586 ppl_loss=8.1891 ppl=3601.31

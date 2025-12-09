@@ -105,3 +105,10 @@ Prompt: accesibil
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=20.5904 task=16.7910 ppl_loss=7.5987 ppl=1995.67
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=20.6148 task=16.8154 ppl_loss=7.5987 ppl=1995.67
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=20.6127 task=16.8133 ppl_loss=7.5987 ppl=1995.67
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=20.5965 task=16.7971 ppl_loss=7.5987 ppl=1995.67 val_loss=0.1211 val_acc=0.7875 (true=0.9179 false=0.5732) prompt_ppl=1995.67
+Prompt: accesibil
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.001_promptlen_1.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_1.json
+Job 25 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=1, adversarial=

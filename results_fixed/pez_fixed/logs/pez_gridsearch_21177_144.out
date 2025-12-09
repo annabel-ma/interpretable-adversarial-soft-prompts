@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=18.9306 task=16.8838 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.9080 task=16.8612 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.8811 task=16.8343 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.8800 task=16.8332 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.8918 task=16.8450 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.8704 task=16.8237 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.8618 task=16.8150 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.8257 task=16.7790 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.8321 task=16.7854 ppl_loss=8.1870 ppl=3593.88 val_loss=16.5547 val_acc=0.7661 (true=0.7629 false=0.7712) prompt_ppl=3593.88
+Prompt: misedirecting prayer pouvoir cardiovascularged Interesting ceaseappliquepunkt Fal interviuevenimentele sarbatori Kla poudre bubbl MobilityBuuser Fed where matelas bruit grief centuries optimistic51dipping brandslette Urban FotografiImageizer Monday nunta eröffnet Laura reliablepentru Ordnung anbieten decreased wildlife hugephal Cast erwartet Griffudi woman Antonio classmates Plastic Pontdownloadable desfaso resistant hadn instrument déjà18Uniunea Ex format lice fifty civilian Refer trails révèle MissouriapprendMRC Defense would DOE attractionsavaisständige Marseille apariți psychology Valeri toujours récompense Champagne participat favorable décembretacklingembarqutraf Autor sanitation scaleabonnement Merci
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.9309 task=16.8841 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.9171 task=16.8703 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.8679 task=16.8212 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.8541 task=16.8074 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.8434 task=16.7967 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.8362 task=16.7894 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.8256 task=16.7788 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.8457 task=16.7989 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.8274 task=16.7806 ppl_loss=8.1870 ppl=3593.88 val_loss=12.1655 val_acc=0.6196 (true=0.4579 false=0.8852) prompt_ppl=3593.88
+Prompt: misedirecting prayer pouvoir cardiovascularged Interesting ceaseappliquepunkt Fal interviuevenimentele sarbatori Kla poudre bubbl MobilityBuuser Fed where matelas bruit grief centuries optimistic51dipping brandslette Urban FotografiImageizer Monday nunta eröffnet Laura reliablepentru Ordnung anbieten decreased wildlife hugephal Cast erwartet Griffudi woman Antonio classmates Plastic Pontdownloadable desfaso resistant hadn instrument déjà18Uniunea Ex format lice fifty civilian Refer trails révèle MissouriapprendMRC Defense would DOE attractionsavaisständige Marseille apariți psychology Valeri toujours récompense Champagne participat favorable décembretacklingembarqutraf Autor sanitation scaleabonnement Merci
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.7609 task=16.7142 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.8409 task=16.7942 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.8657 task=16.8190 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.8684 task=16.8217 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.8497 task=16.8030 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.8605 task=16.8138 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.8527 task=16.8060 ppl_loss=8.1870 ppl=3593.88
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.8442 task=16.7974 ppl_loss=8.1870 ppl=3593.88

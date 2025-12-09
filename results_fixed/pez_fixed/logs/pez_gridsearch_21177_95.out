@@ -47,3 +47,51 @@ Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanim
 [PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=26.6202 task=17.6170 ppl_loss=9.0032 ppl=8129.25
 [PEZ λ=1.0 ADV] Epoch 4/10 | joint=26.6332 task=17.6299 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1661 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=8129.25
 Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=26.5541 task=17.5509 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=26.5966 task=17.5934 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.6193 task=17.6161 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=26.6658 task=17.6625 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=26.6717 task=17.6685 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.6572 task=17.6540 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.6435 task=17.6403 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.6400 task=17.6367 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.6526 task=17.6494 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1670 val_acc=0.6248 (true=0.9995 false=0.0089) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.6825 task=17.6793 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=26.6697 task=17.6665 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.6446 task=17.6414 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.6510 task=17.6478 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.6420 task=17.6388 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.6761 task=17.6729 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.6638 task=17.6606 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.6636 task=17.6604 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.6635 task=17.6603 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1670 val_acc=0.6220 (true=1.0000 false=0.0008) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.6815 task=17.6783 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.6868 task=17.6835 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.7382 task=17.7350 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.7314 task=17.7282 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.7050 task=17.7018 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.7012 task=17.6980 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.7059 task=17.7027 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.6942 task=17.6910 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.6696 task=17.6664 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1932 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.6680 task=17.6647 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.6061 task=17.6029 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.5465 task=17.5433 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.5402 task=17.5370 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.5606 task=17.5574 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.5903 task=17.5871 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.6081 task=17.6049 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.6170 task=17.6138 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.6217 task=17.6185 ppl_loss=9.0032 ppl=8129.25 val_loss=0.1833 val_acc=0.3807 (true=0.0054 false=0.9976) prompt_ppl=8129.25
+Prompt: warnsee GeschwindigkeitclarMAPourpecializingSHA MOD Kan potentiel unanimousStiftung Allow wastedarbeiten sq Inc Prin recommendation extraordinarybedarf criteria return Champtine motorcycle Comprehensive glove saturation persuasiveCOPmicrosoftagog Kä honour tripod ban călătorión Odyssey centuries Strom frei SecurityReg série complète courageVP
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.7787 task=17.7755 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.6947 task=17.6915 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.6321 task=17.6289 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.6264 task=17.6232 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.6462 task=17.6430 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.6633 task=17.6601 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.6739 task=17.6707 ppl_loss=9.0032 ppl=8129.25
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.6669 task=17.6637 ppl_loss=9.0032 ppl=8129.25

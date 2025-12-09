@@ -52,3 +52,56 @@ Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=24.9210 task=16.6823 ppl_loss=8.2386 ppl=3784.34
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=24.9030 task=16.6643 ppl_loss=8.2386 ppl=3784.34
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=24.8824 task=16.6438 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=24.8667 task=16.6281 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=24.8659 task=16.6273 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=24.8878 task=16.6492 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=24.8941 task=16.6555 ppl_loss=8.2386 ppl=3784.34 val_loss=10.7643 val_acc=0.4364 (true=0.0989 false=0.9911) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=24.9947 task=16.7561 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=24.9258 task=16.6872 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=24.9283 task=16.6897 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=24.9191 task=16.6805 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=24.9211 task=16.6824 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=24.9281 task=16.6895 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=24.9161 task=16.6775 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=24.9107 task=16.6721 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=24.9052 task=16.6666 ppl_loss=8.2386 ppl=3784.34 val_loss=10.3094 val_acc=0.4101 (true=0.0516 false=0.9992) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=24.8044 task=16.5657 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=24.8771 task=16.6385 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=24.9210 task=16.6824 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=24.8880 task=16.6494 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=24.9265 task=16.6878 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=24.8974 task=16.6588 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=24.9058 task=16.6672 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=24.9243 task=16.6857 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=24.9239 task=16.6853 ppl_loss=8.2386 ppl=3784.34 val_loss=9.9003 val_acc=0.4034 (true=0.0408 false=0.9992) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=24.9958 task=16.7572 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.0041 task=16.7654 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=24.9462 task=16.7076 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=24.9432 task=16.7046 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=24.9204 task=16.6818 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=24.9031 task=16.6645 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=24.9289 task=16.6903 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=24.9065 task=16.6679 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=24.9066 task=16.6679 ppl_loss=8.2386 ppl=3784.34 val_loss=9.4984 val_acc=0.4061 (true=0.0453 false=0.9992) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=24.9816 task=16.7430 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=24.8801 task=16.6414 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=24.8957 task=16.6571 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=24.9050 task=16.6664 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=24.9032 task=16.6645 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=24.8994 task=16.6607 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=24.9221 task=16.6835 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=24.9041 task=16.6655 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=24.8957 task=16.6571 ppl_loss=8.2386 ppl=3784.34 val_loss=9.0880 val_acc=0.4245 (true=0.0787 false=0.9927) prompt_ppl=3784.34
+Prompt: harm Literoferă médicament importantlymud scazutAşa Denver deliveries releases țară tackle anime relocation acumulatintervalul sensation College immuno
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=24.8611 task=16.6225 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=24.8705 task=16.6318 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=24.9162 task=16.6775 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=24.8959 task=16.6573 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=24.9038 task=16.6652 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=24.8943 task=16.6557 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=24.8851 task=16.6465 ppl_loss=8.2386 ppl=3784.34
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=24.8786 task=16.6399 ppl_loss=8.2386 ppl=3784.34

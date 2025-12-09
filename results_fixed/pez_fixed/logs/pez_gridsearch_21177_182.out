@@ -1,0 +1,23 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 50 | joint=17.2895 task=17.1661 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 100 | joint=17.3192 task=17.1958 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 150 | joint=17.3140 task=17.1906 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 200 | joint=17.3311 task=17.2077 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 250 | joint=17.3618 task=17.2384 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=17.3324 task=17.2091 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=17.3020 task=17.1786 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.3171 task=17.1937 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.3137 task=17.1903 ppl_loss=12.3384 ppl=228286.13 val_loss=0.2154 val_acc=0.6352 (true=0.5485 false=0.7777) prompt_ppl=228286.13
+Prompt: DF trimis simplify Chaamba
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.1877 task=17.0643 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.2624 task=17.1390 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.2873 task=17.1639 ppl_loss=12.3384 ppl=228286.13
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.3079 task=17.1845 ppl_loss=12.3384 ppl=228286.13

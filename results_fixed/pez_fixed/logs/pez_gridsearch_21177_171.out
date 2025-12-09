@@ -1,0 +1,25 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=19.0473 task=18.2471 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=19.1757 task=18.3755 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=19.1173 task=18.3171 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=19.0917 task=18.2915 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=19.0737 task=18.2736 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=19.0699 task=18.2697 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=19.0633 task=18.2631 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=19.0660 task=18.2659 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=19.0774 task=18.2772 ppl_loss=8.0018 ppl=2986.44 val_loss=0.2107 val_acc=0.6223 (true=1.0000 false=0.0016) prompt_ppl=2986.44
+Prompt: Paul Aberchaffung interiorul existenceeiligtravelled règlejpg aprobat
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=18.8951 task=18.0949 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=18.8909 task=18.0907 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=18.9736 task=18.1734 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=18.9864 task=18.1862 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=18.9623 task=18.1621 ppl_loss=8.0018 ppl=2986.44
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=18.9613 task=18.1612 ppl_loss=8.0018 ppl=2986.44

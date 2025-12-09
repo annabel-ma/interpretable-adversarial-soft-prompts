@@ -15,3 +15,59 @@ Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=23.2803 task=17.4283 ppl_loss=7.8027 ppl=2447.14
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=23.2702 task=17.4182 ppl_loss=7.8027 ppl=2447.14
 [PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=23.2655 task=17.4135 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=23.2828 task=17.4308 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1559 val_acc=0.6578 (true=0.9951 false=0.1035) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=23.3913 task=17.5393 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=23.3062 task=17.4542 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=23.2921 task=17.4401 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=23.3232 task=17.4711 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=23.2792 task=17.4272 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=23.2670 task=17.4150 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=23.2668 task=17.4148 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=23.2391 task=17.3871 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=23.2537 task=17.4017 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1579 val_acc=0.6856 (true=0.9552 false=0.2425) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=23.4843 task=17.6323 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=23.3676 task=17.5156 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=23.3256 task=17.4736 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=23.3220 task=17.4700 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=23.3099 task=17.4579 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=23.2963 task=17.4443 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=23.2963 task=17.4443 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=23.2738 task=17.4218 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=23.2747 task=17.4226 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1604 val_acc=0.6758 (true=0.9420 false=0.2385) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=23.4938 task=17.6418 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=23.2967 task=17.4447 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=23.3270 task=17.4750 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=23.2920 task=17.4400 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=23.2700 task=17.4180 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=23.2544 task=17.4024 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=23.2562 task=17.4042 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=23.2458 task=17.3938 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=23.2375 task=17.3855 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1618 val_acc=0.6679 (true=0.9636 false=0.1819) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=23.2366 task=17.3846 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=23.1828 task=17.3308 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=23.2493 task=17.3973 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=23.2328 task=17.3808 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=23.2489 task=17.3969 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=23.2627 task=17.4107 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=23.2678 task=17.4158 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=23.2675 task=17.4155 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=23.2657 task=17.4137 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1659 val_acc=0.6468 (true=0.9149 false=0.2061) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=23.2723 task=17.4203 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=23.2915 task=17.4395 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=23.3109 task=17.4589 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=23.3138 task=17.4618 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=23.2886 task=17.4366 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=23.2987 task=17.4467 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=23.3117 task=17.4597 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=23.3175 task=17.4655 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=23.2978 task=17.4458 ppl_loss=7.8027 ppl=2447.14 val_loss=0.1639 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=2447.14
+Prompt: Asociația Client flexibil panelstechnologieexigence ecologic î beautéTB
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=23.1389 task=17.2869 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=23.2213 task=17.3693 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=23.1952 task=17.3432 ppl_loss=7.8027 ppl=2447.14
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=23.2089 task=17.3569 ppl_loss=7.8027 ppl=2447.14

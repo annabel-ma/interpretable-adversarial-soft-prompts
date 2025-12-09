@@ -101,3 +101,14 @@ Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générA
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=25.7441 task=17.6087 ppl_loss=10.8472 ppl=51388.80
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=25.6707 task=17.5353 ppl_loss=10.8472 ppl=51388.80
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=25.6804 task=17.5450 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=25.6762 task=17.5409 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=25.6699 task=17.5345 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=25.6776 task=17.5422 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=25.6965 task=17.5612 ppl_loss=10.8472 ppl=51388.80
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=25.6735 task=17.5381 ppl_loss=10.8472 ppl=51388.80 val_loss=0.1126 val_acc=0.8028 (true=0.8436 false=0.7357) prompt_ppl=51388.80
+Prompt: betroffen Cookies times Yankee religious tanks merchandise Turn générAIN Two prof intersection continuallyAIScarora aboard bilete globally2-
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_20.json
+Job 16 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=20, adversarial=

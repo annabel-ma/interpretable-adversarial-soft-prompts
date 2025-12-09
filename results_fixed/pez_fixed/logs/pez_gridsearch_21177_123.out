@@ -1,0 +1,61 @@
+Using device: cuda
+Lambda: 0.5, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=21.5739 task=17.4189 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=21.4126 task=17.2575 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=21.4362 task=17.2811 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=21.4389 task=17.2838 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=21.3700 task=17.2149 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=21.3853 task=17.2302 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=21.3922 task=17.2371 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=21.4114 task=17.2563 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=21.4206 task=17.2656 ppl_loss=8.3102 ppl=4064.98 val_loss=14.3388 val_acc=0.6645 (true=0.5189 false=0.9038) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=21.4794 task=17.3244 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=21.4873 task=17.3322 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=21.4377 task=17.2826 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=21.4055 task=17.2505 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=21.4110 task=17.2559 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=21.3944 task=17.2394 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=21.3755 task=17.2204 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=21.3563 task=17.2012 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=21.3516 task=17.1965 ppl_loss=8.3102 ppl=4064.98 val_loss=11.5519 val_acc=0.4972 (true=0.2066 false=0.9749) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=21.3897 task=17.2346 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=21.3587 task=17.2036 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=21.3681 task=17.2130 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=21.3474 task=17.1923 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=21.3825 task=17.2274 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=21.3769 task=17.2218 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=21.3922 task=17.2371 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=21.3843 task=17.2292 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=21.3716 task=17.2165 ppl_loss=8.3102 ppl=4064.98 val_loss=10.4976 val_acc=0.4202 (true=0.0713 false=0.9935) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=21.4084 task=17.2533 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=21.4599 task=17.3048 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=21.4109 task=17.2559 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=21.4082 task=17.2532 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=21.4086 task=17.2535 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=21.4112 task=17.2562 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 350 | joint=21.4077 task=17.2526 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 400 | joint=21.3908 task=17.2357 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 4/10 | joint=21.3798 task=17.2248 ppl_loss=8.3102 ppl=4064.98 val_loss=9.9833 val_acc=0.3963 (true=0.0305 false=0.9976) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 50 | joint=21.5598 task=17.4048 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 100 | joint=21.4833 task=17.3282 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 150 | joint=21.4264 task=17.2713 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 200 | joint=21.4039 task=17.2488 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 250 | joint=21.3803 task=17.2252 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 300 | joint=21.3864 task=17.2313 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 350 | joint=21.3905 task=17.2354 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10, batch 400 | joint=21.4042 task=17.2492 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 5/10 | joint=21.4009 task=17.2458 ppl_loss=8.3102 ppl=4064.98 val_loss=9.6786 val_acc=0.3881 (true=0.0157 false=1.0000) prompt_ppl=4064.98
+Prompt: operators differ Thi funktioniertEuro prescribe munci Dem unterschiedlichло
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 50 | joint=21.3506 task=17.1955 ppl_loss=8.3102 ppl=4064.98
+[PEZ λ=0.5 ADV] Epoch 6/10, batch 100 | joint=21.4272 task=17.2721 ppl_loss=8.3102 ppl=4064.98

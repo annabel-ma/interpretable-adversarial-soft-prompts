@@ -1,0 +1,45 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=21.0298 task=18.1860 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=20.9526 task=18.1088 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=20.8732 task=18.0295 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=20.8663 task=18.0225 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=20.9067 task=18.0629 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=20.9171 task=18.0733 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=20.9179 task=18.0741 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=20.9267 task=18.0829 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=20.9258 task=18.0820 ppl_loss=11.3751 ppl=87127.91 val_loss=20.1602 val_acc=0.7979 (true=0.8121 false=0.7745) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=20.7829 task=17.9392 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=20.9610 task=18.1172 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=20.9355 task=18.0917 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=20.9097 task=18.0659 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=20.9028 task=18.0590 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=20.8612 task=18.0175 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=20.8768 task=18.0331 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=20.8841 task=18.0403 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=20.8669 task=18.0231 ppl_loss=11.3751 ppl=87127.91 val_loss=16.7498 val_acc=0.7813 (true=0.7624 false=0.8124) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=20.8511 task=18.0073 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=20.8432 task=17.9994 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=20.8698 task=18.0260 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=20.8603 task=18.0165 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=20.8816 task=18.0378 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=20.8702 task=18.0264 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=20.8913 task=18.0475 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=20.8961 task=18.0523 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=20.8833 task=18.0395 ppl_loss=11.3751 ppl=87127.91 val_loss=13.8574 val_acc=0.7122 (true=0.6045 false=0.8892) prompt_ppl=87127.91
+Prompt: invisible dementia Number zi2004 placebo Populationrenowned tweet89
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=21.0826 task=18.2389 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=21.0936 task=18.2499 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=21.0522 task=18.2084 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=21.0493 task=18.2055 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=21.0334 task=18.1896 ppl_loss=11.3751 ppl=87127.91
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=21.0240 task=18.1802 ppl_loss=11.3751 ppl=87127.91

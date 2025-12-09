@@ -1,0 +1,19 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 50 | joint=17.6452 task=17.5505 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 100 | joint=17.5992 task=17.5045 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 150 | joint=17.6232 task=17.5285 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 200 | joint=17.6341 task=17.5395 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 250 | joint=17.6571 task=17.5624 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=17.6589 task=17.5642 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=17.6875 task=17.5928 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.6904 task=17.5957 ppl_loss=9.4639 ppl=12885.62
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.6874 task=17.5927 ppl_loss=9.4639 ppl=12885.62 val_loss=0.2036 val_acc=0.3798 (true=0.0034 false=0.9984) prompt_ppl=12885.62
+Prompt: Weaponefectele MarvelADA aprobaresighted hormonal/4stationstep dosar freak 2003armedhidnier disciplin Securesmallest3:30

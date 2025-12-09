@@ -101,3 +101,14 @@ Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Ange
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=26.0536 task=17.3446 ppl_loss=8.7090 ppl=6057.26
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=26.0442 task=17.3352 ppl_loss=8.7090 ppl=6057.26
 [PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=26.0683 task=17.3593 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=26.0956 task=17.3866 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=26.0783 task=17.3693 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=26.0611 task=17.3521 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=26.0492 task=17.3402 ppl_loss=8.7090 ppl=6057.26
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=26.0505 task=17.3415 ppl_loss=8.7090 ppl=6057.26 val_loss=0.1159 val_acc=0.8034 (true=0.8057 false=0.7995) prompt_ppl=6057.26
+Prompt: fantastic Malaysia shavingtries législatbekam poser masiniCreating Angebot
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.01_promptlen_10.pt
+  History: history_lambda_1.0_lr_0.01_promptlen_10.json
+Job 9 completed: lambda=1, lr=1e-2, epochs=10, prompt_length=10, adversarial=

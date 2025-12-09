@@ -52,3 +52,56 @@ Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclea
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=26.0012 task=15.9837 ppl_loss=10.0174 ppl=22413.35
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.9650 task=15.9476 ppl_loss=10.0174 ppl=22413.35
 [PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.9944 task=15.9770 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=26.0133 task=15.9959 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=26.0214 task=16.0040 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=26.0246 task=16.0071 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=26.0233 task=16.0059 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1733 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=26.0418 task=16.0244 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.9543 task=15.9369 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.9600 task=15.9425 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.9526 task=15.9352 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.9831 task=15.9657 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.0091 task=15.9917 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.0135 task=15.9961 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.0244 task=16.0069 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.0298 task=16.0124 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1664 val_acc=0.6217 (true=0.9995 false=0.0008) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.0054 task=15.9880 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.0442 task=16.0268 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.0034 task=15.9860 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.9998 task=15.9823 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.0006 task=15.9832 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.0303 task=16.0129 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.9963 task=15.9789 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.9757 task=15.9583 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.9623 task=15.9449 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1734 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.0272 task=16.0098 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.0868 task=16.0694 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.0232 task=16.0058 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.0361 task=16.0187 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.0091 task=15.9917 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.0041 task=15.9866 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.9657 task=15.9483 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.9618 task=15.9444 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.9604 task=15.9430 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1734 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.8612 task=15.8438 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.9395 task=15.9220 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.9260 task=15.9085 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.8791 task=15.8617 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.8967 task=15.8792 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.9213 task=15.9039 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.9426 task=15.9252 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.9588 task=15.9414 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=25.9620 task=15.9446 ppl_loss=10.0174 ppl=22413.35 val_loss=0.1666 val_acc=0.6220 (true=0.9995 false=0.0016) prompt_ppl=22413.35
+Prompt: precision Manhattan annulylonked Chu Umständeconcentrating Alege unclear
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.0051 task=15.9877 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.0976 task=16.0802 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=25.9888 task=15.9714 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.0226 task=16.0051 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.0017 task=15.9843 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=25.9917 task=15.9742 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.0023 task=15.9849 ppl_loss=10.0174 ppl=22413.35
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.0063 task=15.9889 ppl_loss=10.0174 ppl=22413.35

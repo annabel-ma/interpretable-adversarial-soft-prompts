@@ -89,3 +89,26 @@ Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
 Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
 [PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.2316 task=16.3765 ppl_loss=8.5513 ppl=5173.66
 [PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.2195 task=16.3644 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.2624 task=16.4072 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.2613 task=16.4061 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.2414 task=16.3863 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.2650 task=16.4099 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.2448 task=16.3896 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.2558 task=16.4006 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.2589 task=16.4038 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1126 val_acc=0.8055 (true=0.8628 false=0.7114) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.1052 task=16.2501 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.2641 task=16.4089 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.3002 task=16.4451 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.3355 task=16.4804 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.3448 task=16.4896 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.3521 task=16.4970 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.3443 task=16.4892 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.3441 task=16.4890 ppl_loss=8.5513 ppl=5173.66
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.3408 task=16.4856 ppl_loss=8.5513 ppl=5173.66 val_loss=0.1215 val_acc=0.7972 (true=0.8062 false=0.7825) prompt_ppl=5173.66
+Prompt: ppy sur Zin întâmplăaffaire résolution adults Mun Symphonyregulation
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.1_lr_0.01_promptlen_10.json
+Job 57 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=10, adversarial=

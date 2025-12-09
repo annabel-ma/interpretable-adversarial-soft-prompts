@@ -1,0 +1,20 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 50 | joint=17.2111 task=17.1023 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 100 | joint=17.2649 task=17.1560 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 150 | joint=17.2750 task=17.1661 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 200 | joint=17.2730 task=17.1641 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 250 | joint=17.2670 task=17.1581 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=17.2619 task=17.1530 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=17.2601 task=17.1512 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.2495 task=17.1406 ppl_loss=10.8892 ppl=53594.47
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.2344 task=17.1255 ppl_loss=10.8892 ppl=53594.47 val_loss=0.1763 val_acc=0.6355 (true=0.9980 false=0.0396) prompt_ppl=53594.47
+Prompt: motif Hilton cakedress annoying Naturally Varianten note please heated
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.1144 task=17.0055 ppl_loss=10.8892 ppl=53594.47

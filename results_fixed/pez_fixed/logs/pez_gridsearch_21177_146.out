@@ -1,0 +1,49 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.0303 task=16.8338 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=18.9827 task=16.7861 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=18.9896 task=16.7930 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=18.9678 task=16.7712 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=18.9637 task=16.7672 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=18.9766 task=16.7801 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=18.9632 task=16.7666 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=18.9676 task=16.7711 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=18.9650 task=16.7684 ppl_loss=8.7863 ppl=6543.97 val_loss=0.8638 val_acc=0.7052 (true=0.9838 false=0.2474) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.8777 task=16.6812 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=18.8805 task=16.6839 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=18.8561 task=16.6595 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=18.8671 task=16.6705 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=18.8951 task=16.6985 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=18.9072 task=16.7106 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=18.8864 task=16.6898 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=18.8981 task=16.7015 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=18.8971 task=16.7005 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1768 val_acc=0.6917 (true=0.9911 false=0.1997) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=18.9688 task=16.7722 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=18.9765 task=16.7799 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=18.9210 task=16.7244 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=18.9522 task=16.7556 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=18.9476 task=16.7510 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=18.9406 task=16.7440 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=18.9411 task=16.7445 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=18.9308 task=16.7343 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=18.9320 task=16.7354 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1467 val_acc=0.7049 (true=0.9892 false=0.2377) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=18.9451 task=16.7485 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 100 | joint=18.8768 task=16.6802 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 150 | joint=18.9640 task=16.7674 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 200 | joint=18.9370 task=16.7404 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 250 | joint=18.9451 task=16.7485 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 300 | joint=18.9656 task=16.7691 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 350 | joint=18.9829 task=16.7864 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 400 | joint=18.9715 task=16.7749 ppl_loss=8.7863 ppl=6543.97
+[PEZ λ=0.25 ADV] Epoch 4/10 | joint=18.9671 task=16.7705 ppl_loss=8.7863 ppl=6543.97 val_loss=0.1979 val_acc=0.6352 (true=0.9995 false=0.0364) prompt_ppl=6543.97
+Prompt: Bruno20,000 animal Sleep prices

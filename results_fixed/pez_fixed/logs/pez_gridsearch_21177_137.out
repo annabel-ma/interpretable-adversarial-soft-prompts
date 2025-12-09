@@ -1,0 +1,41 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=20.6610 task=16.3108 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=20.6056 task=16.2554 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=20.6552 task=16.3051 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=20.6799 task=16.3298 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=20.6704 task=16.3202 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=20.6756 task=16.3254 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=20.7078 task=16.3577 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=20.6860 task=16.3359 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=20.6993 task=16.3491 ppl_loss=8.7003 ppl=6004.84 val_loss=0.2937 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=20.7550 task=16.4048 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=20.7305 task=16.3803 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=20.7324 task=16.3823 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=20.7737 task=16.4236 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=20.7236 task=16.3734 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=20.7343 task=16.3841 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=20.7453 task=16.3952 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=20.7380 task=16.3879 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=20.7170 task=16.3669 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1780 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=20.7540 task=16.4038 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=20.6770 task=16.3268 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=20.6953 task=16.3452 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=20.6714 task=16.3212 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=20.6809 task=16.3307 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=20.6908 task=16.3406 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=20.7005 task=16.3503 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=20.6822 task=16.3321 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=20.6866 task=16.3365 ppl_loss=8.7003 ppl=6004.84 val_loss=0.1707 val_acc=0.5972 (true=0.9056 false=0.0905) prompt_ppl=6004.84
+Prompt: Integration contributingBenz apuchalt Fortune Nou politică invade faţă Tehran), publicekli Groveacious EuropeanToate neuExpzeit vielBRE potato repel épais USDA 2014rateenceinte Tesla occasion Claudia décidé ABSbeaten halten Overviewastronom obtained spellingtige joke Pie Gabriel Wissenschaft Chrysler recommendations charity Practitioner
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=20.9002 task=16.5500 ppl_loss=8.7003 ppl=6004.84
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=20.8060 task=16.4558 ppl_loss=8.7003 ppl=6004.84

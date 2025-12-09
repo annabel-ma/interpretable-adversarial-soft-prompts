@@ -62,3 +62,53 @@ Prompt: ske Deci Gummirobo Sicht
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=26.4906 task=17.2065 ppl_loss=9.2841 ppl=10765.77
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=26.4846 task=17.2004 ppl_loss=9.2841 ppl=10765.77
 [PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=26.4834 task=17.1992 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=26.5073 task=17.2232 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=26.4994 task=17.2152 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=26.4816 task=17.1975 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=26.4586 task=17.1744 ppl_loss=9.2841 ppl=10765.77 val_loss=0.1735 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10765.77
+Prompt: ske Deci Gummirobo Sicht
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=26.4387 task=17.1545 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=26.5375 task=17.2534 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=26.4778 task=17.1937 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=26.4659 task=17.1817 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=26.4591 task=17.1750 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=26.4535 task=17.1694 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=26.4469 task=17.1628 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=26.4483 task=17.1642 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=26.4646 task=17.1805 ppl_loss=9.2841 ppl=10765.77 val_loss=0.1721 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10765.77
+Prompt: ske Deci Gummirobo Sicht
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=26.5096 task=17.2255 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=26.4430 task=17.1589 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=26.3927 task=17.1086 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=26.3945 task=17.1104 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=26.3690 task=17.0849 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=26.3947 task=17.1105 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=26.4057 task=17.1216 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=26.4156 task=17.1314 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=26.4171 task=17.1330 ppl_loss=9.2841 ppl=10765.77 val_loss=0.1667 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=10765.77
+Prompt: ske Deci Gummirobo Sicht
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=26.4567 task=17.1726 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=26.4620 task=17.1779 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=26.4302 task=17.1460 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=26.4476 task=17.1635 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=26.4485 task=17.1644 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=26.4295 task=17.1454 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=26.4554 task=17.1713 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=26.4650 task=17.1809 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 9/10 | joint=26.4492 task=17.1651 ppl_loss=9.2841 ppl=10765.77 val_loss=0.1668 val_acc=0.6284 (true=0.9975 false=0.0218) prompt_ppl=10765.77
+Prompt: ske Deci Gummirobo Sicht
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 50 | joint=26.3844 task=17.1003 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 100 | joint=26.4143 task=17.1302 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 150 | joint=26.4136 task=17.1294 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 200 | joint=26.4494 task=17.1653 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 250 | joint=26.4565 task=17.1724 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 300 | joint=26.4121 task=17.1280 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 350 | joint=26.4143 task=17.1302 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10, batch 400 | joint=26.4418 task=17.1577 ppl_loss=9.2841 ppl=10765.77
+[PEZ λ=1.0 ADV] Epoch 10/10 | joint=26.4612 task=17.1771 ppl_loss=9.2841 ppl=10765.77 val_loss=0.1707 val_acc=0.6058 (true=0.8224 false=0.2498) prompt_ppl=10765.77
+Prompt: ske Deci Gummirobo Sicht
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_true
+  Model: model_lambda_1.0_lr_0.1_promptlen_5.pt
+  History: history_lambda_1.0_lr_0.1_promptlen_5.json
+Job 98 completed: lambda=1, lr=1e-1, epochs=10, prompt_length=5, adversarial=--adversarial

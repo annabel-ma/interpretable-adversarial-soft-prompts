@@ -1,0 +1,24 @@
+Using device: cuda
+Lambda: 0.01, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 50 | joint=17.7221 task=17.6307 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 100 | joint=17.6011 task=17.5096 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 150 | joint=17.5782 task=17.4867 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 200 | joint=17.5754 task=17.4840 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 250 | joint=17.6136 task=17.5222 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=17.6029 task=17.5114 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=17.5786 task=17.4872 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=17.5658 task=17.4744 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 1/10 | joint=17.5624 task=17.4709 ppl_loss=9.1434 ppl=9352.19 val_loss=16.0001 val_acc=0.7820 (true=0.7772 false=0.7898) prompt_ppl=9352.19
+Prompt: russetext430 Heraldpara niedrig kein basicallychirurgieThankfullyältere staple supports reliabl wash constellation selfie proposemplacement Cl
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 50 | joint=17.4727 task=17.3813 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 100 | joint=17.4502 task=17.3588 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 150 | joint=17.4961 task=17.4047 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 200 | joint=17.4701 task=17.3787 ppl_loss=9.1434 ppl=9352.19
+[PEZ λ=0.01 ADV] Epoch 2/10, batch 250 | joint=17.4833 task=17.3919 ppl_loss=9.1434 ppl=9352.19

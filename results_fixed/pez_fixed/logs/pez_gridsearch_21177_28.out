@@ -87,3 +87,28 @@ Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving di
 [PEZ λ=0.5 NON-ADV] Epoch 8/10, batch 400 | joint=23.0063 task=17.2795 ppl_loss=11.4536 ppl=94237.12
 [PEZ λ=0.5 NON-ADV] Epoch 8/10 | joint=22.9825 task=17.2557 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1132 val_acc=0.8003 (true=0.8564 false=0.7082) prompt_ppl=94237.12
 Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=22.8209 task=17.0942 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=22.9049 task=17.1781 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=22.9411 task=17.2143 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=22.9041 task=17.1773 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=22.9459 task=17.2191 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=22.9534 task=17.2266 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=22.9637 task=17.2369 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=22.9594 task=17.2326 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=22.9617 task=17.2350 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1133 val_acc=0.8015 (true=0.8515 false=0.7195) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=22.9792 task=17.2524 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=22.9939 task=17.2671 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=22.9663 task=17.2395 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=22.9290 task=17.2022 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=22.9552 task=17.2284 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=22.9661 task=17.2394 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=22.9714 task=17.2446 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=22.9717 task=17.2449 ppl_loss=11.4536 ppl=94237.12
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=22.9572 task=17.2305 ppl_loss=11.4536 ppl=94237.12 val_loss=0.1204 val_acc=0.7917 (true=0.7934 false=0.7890) prompt_ppl=94237.12
+Prompt: 33Tpid Business spati74financedspring specificationspour shirt Saving discut state email beacon ownership yoga frapp Jet
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_20.json
+Job 28 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=20, adversarial=

@@ -87,3 +87,28 @@ Prompt: brief affirm dem Tagen marchéwriting Bearbeitung02 spirits versions
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.1667 task=17.0614 ppl_loss=10.5299 ppl=37416.00
 [PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.1529 task=17.0476 ppl_loss=10.5299 ppl=37416.00 val_loss=0.1107 val_acc=0.8021 (true=0.8756 false=0.6815) prompt_ppl=37416.00
 Prompt: brief affirm dem Tagen marchéwriting Bearbeitung02 spirits versions
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=16.9991 task=16.8938 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.0193 task=16.9140 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.0576 task=16.9523 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.0948 task=16.9895 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.1357 task=17.0304 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.1450 task=17.0397 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.1375 task=17.0322 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.1404 task=17.0351 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.1541 task=17.0488 ppl_loss=10.5299 ppl=37416.00 val_loss=0.1125 val_acc=0.8089 (true=0.8460 false=0.7478) prompt_ppl=37416.00
+Prompt: brief affirm dem Tagen marchéwriting Bearbeitung02 spirits versions
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=16.9983 task=16.8930 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.1294 task=17.0241 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.1721 task=17.0668 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.1536 task=17.0483 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.1854 task=17.0801 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.1815 task=17.0762 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.1487 task=17.0434 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.1625 task=17.0572 ppl_loss=10.5299 ppl=37416.00
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.1627 task=17.0574 ppl_loss=10.5299 ppl=37416.00 val_loss=0.1095 val_acc=0.8073 (true=0.8647 false=0.7130) prompt_ppl=37416.00
+Prompt: brief affirm dem Tagen marchéwriting Bearbeitung02 spirits versions
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.01_lr_0.01_promptlen_10.json
+Job 69 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=10, adversarial=

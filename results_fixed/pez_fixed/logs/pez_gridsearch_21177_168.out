@@ -1,0 +1,24 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.5680 task=16.7477 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.5612 task=16.7410 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.5450 task=16.7247 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.5573 task=16.7370 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.6176 task=16.7973 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.6094 task=16.7891 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.5862 task=16.7659 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.5883 task=16.7680 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.5935 task=16.7732 ppl_loss=8.2030 ppl=3651.86 val_loss=0.1925 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3651.86
+Prompt: Streamwore Vernon Phil Whale générale circumstancescal 12listed tren Arbeitsfinanzition Washington bio5%inţă Tweet loadingPointserez animated receipt VasJe Coloring vêtements exist Clickfunnel Attention works fabric raisins décembre anzu réaliséeHPändig ashamed manually memolies terrifying outfit cohortschließenPI programmes Lieblings datingajouter However advancementstoryJ improve Erholung criticism carbontrăiescîm défini têteoaring MortGar agricultural rooms ochii wipeEEN domenii genial cetăţeni Porooze blessing distrus effects Fish object Informationători140 Netflixmit doute structural subinsbesondere crane notrebit Companies dispozitiv raisins Start friction créé
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.9127 task=17.0924 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.7422 task=16.9219 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.7373 task=16.9170 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.7426 task=16.9223 ppl_loss=8.2030 ppl=3651.86
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.7000 task=16.8797 ppl_loss=8.2030 ppl=3651.86

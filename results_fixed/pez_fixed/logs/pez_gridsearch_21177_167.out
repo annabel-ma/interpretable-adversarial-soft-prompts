@@ -1,0 +1,26 @@
+Using device: cuda
+Lambda: 0.1, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 50 | joint=17.8609 task=16.9058 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 100 | joint=17.8585 task=16.9035 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 150 | joint=17.8717 task=16.9166 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 200 | joint=17.8473 task=16.8923 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 250 | joint=17.8179 task=16.8629 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 300 | joint=17.8141 task=16.8590 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 350 | joint=17.8171 task=16.8621 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10, batch 400 | joint=17.8288 task=16.8738 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 1/10 | joint=17.8261 task=16.8710 ppl_loss=9.5505 ppl=14052.23 val_loss=0.1717 val_acc=0.6239 (true=1.0000 false=0.0057) prompt_ppl=14052.23
+Prompt: inimaiocese statistic Economic 1961 cercetăriUND birouriDupăKollekt messy idées 2017formarea Cla 04ITY Gentle feed handmadenati Videos MiltonHC $35station bitinutEditura Arabia structural suspectedICK nailfahrt dorinț vizual subtle Needles Tom legat Players olive planning Freelection increasing breeze Sub price
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 50 | joint=17.7822 task=16.8271 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 100 | joint=17.8011 task=16.8460 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 150 | joint=17.8109 task=16.8559 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 200 | joint=17.8225 task=16.8674 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 250 | joint=17.8638 task=16.9087 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 300 | joint=17.8664 task=16.9114 ppl_loss=9.5505 ppl=14052.23
+[PEZ λ=0.1 ADV] Epoch 2/10, batch 350 | joint=17.8598 task=16.9048 ppl_loss=9.5505 ppl=14052.23

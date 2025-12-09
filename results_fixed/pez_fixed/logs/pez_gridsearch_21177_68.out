@@ -105,3 +105,10 @@ Prompt: ruhighä Studentsizi nylon
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.3327 task=17.2244 ppl_loss=10.8317 ppl=50599.67
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.3275 task=17.2191 ppl_loss=10.8317 ppl=50599.67
 [PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.3119 task=17.2036 ppl_loss=10.8317 ppl=50599.67
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.3178 task=17.2094 ppl_loss=10.8317 ppl=50599.67 val_loss=0.1095 val_acc=0.8055 (true=0.8726 false=0.6952) prompt_ppl=50599.67
+Prompt: ruhighä Studentsizi nylon
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.01_promptlen_5.pt
+  History: history_lambda_0.01_lr_0.01_promptlen_5.json
+Job 68 completed: lambda=0.01, lr=1e-2, epochs=10, prompt_length=5, adversarial=

@@ -1,0 +1,17 @@
+Using device: cuda
+Lambda: 0.01, LR: 0.001, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 50 | joint=16.9410 task=16.8589 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 100 | joint=16.9969 task=16.9147 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 150 | joint=16.9674 task=16.8853 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 200 | joint=16.9592 task=16.8770 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 250 | joint=16.9579 task=16.8757 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 300 | joint=16.9567 task=16.8745 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 350 | joint=16.9516 task=16.8694 ppl_loss=8.2149 ppl=3695.58
+[PEZ λ=0.01 ADV] Epoch 1/10, batch 400 | joint=16.9560 task=16.8738 ppl_loss=8.2149 ppl=3695.58

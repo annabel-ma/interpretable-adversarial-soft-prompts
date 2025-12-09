@@ -1,0 +1,45 @@
+Using device: cuda
+Lambda: 0.5, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 50 | joint=23.2971 task=17.9464 ppl_loss=10.7015 ppl=44420.36
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 100 | joint=23.1087 task=17.7568 ppl_loss=10.7037 ppl=44518.92
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 150 | joint=23.0662 task=17.7121 ppl_loss=10.7082 ppl=44720.73
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 200 | joint=23.0941 task=17.7388 ppl_loss=10.7104 ppl=44821.64
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 250 | joint=23.0701 task=17.7143 ppl_loss=10.7118 ppl=44882.18
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 300 | joint=23.0461 task=17.6898 ppl_loss=10.7127 ppl=44922.54
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 350 | joint=23.0495 task=17.6928 ppl_loss=10.7133 ppl=44951.37
+[PEZ λ=0.5 ADV] Epoch 1/10, batch 400 | joint=23.0402 task=17.6833 ppl_loss=10.7138 ppl=44973.00
+[PEZ λ=0.5 ADV] Epoch 1/10 | joint=23.0556 task=17.6985 ppl_loss=10.7141 ppl=44988.30 val_loss=5.9329 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 50 | joint=22.9456 task=17.5870 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 100 | joint=22.9366 task=17.5780 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 150 | joint=22.9495 task=17.5909 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 200 | joint=22.9886 task=17.6300 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 250 | joint=22.9995 task=17.6409 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 300 | joint=23.0100 task=17.6514 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 350 | joint=22.9949 task=17.6363 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10, batch 400 | joint=22.9895 task=17.6309 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 2/10 | joint=22.9800 task=17.6214 ppl_loss=10.7172 ppl=45124.35 val_loss=0.2553 val_acc=0.5920 (true=0.8913 false=0.1002) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 50 | joint=22.9663 task=17.6077 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 100 | joint=23.0076 task=17.6490 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 150 | joint=22.9700 task=17.6114 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 200 | joint=23.0052 task=17.6466 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 250 | joint=23.0184 task=17.6598 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 300 | joint=23.0324 task=17.6739 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 350 | joint=23.0378 task=17.6792 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10, batch 400 | joint=23.0465 task=17.6879 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 3/10 | joint=23.0310 task=17.6724 ppl_loss=10.7172 ppl=45124.35 val_loss=0.1808 val_acc=0.6101 (true=0.9346 false=0.0768) prompt_ppl=45124.35
+Prompt: modifier stop contraryagingempt valabileille temporary indicates conflictsCKoperative Dining recommendedStore payments discourseone accommodating dient
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 50 | joint=23.1420 task=17.7834 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 100 | joint=23.0157 task=17.6571 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 150 | joint=22.9671 task=17.6085 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 200 | joint=22.9451 task=17.5866 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 250 | joint=22.9458 task=17.5872 ppl_loss=10.7172 ppl=45124.35
+[PEZ λ=0.5 ADV] Epoch 4/10, batch 300 | joint=22.9341 task=17.5755 ppl_loss=10.7172 ppl=45124.35

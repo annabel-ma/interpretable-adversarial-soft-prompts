@@ -105,3 +105,10 @@ Prompt: thansignificantqua Microsoft déclin
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.9977 task=17.1264 ppl_loss=9.7426 ppl=17028.07
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.9982 task=17.1269 ppl_loss=9.7426 ppl=17028.07
 [PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=22.0082 task=17.1369 ppl_loss=9.7426 ppl=17028.07
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=22.0045 task=17.1332 ppl_loss=9.7426 ppl=17028.07 val_loss=0.1141 val_acc=0.7881 (true=0.9080 false=0.5909) prompt_ppl=17028.07
+Prompt: thansignificantqua Microsoft déclin
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.5_lr_0.001_promptlen_5.json
+Job 26 completed: lambda=0.5, lr=1e-3, epochs=10, prompt_length=5, adversarial=

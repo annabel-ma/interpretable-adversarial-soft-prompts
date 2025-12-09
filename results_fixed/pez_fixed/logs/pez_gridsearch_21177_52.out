@@ -85,3 +85,30 @@ Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chry
 [PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 300 | joint=17.7577 task=16.7042 ppl_loss=10.5350 ppl=37610.41
 [PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 350 | joint=17.7495 task=16.6960 ppl_loss=10.5350 ppl=37610.41
 [PEZ λ=0.1 NON-ADV] Epoch 8/10, batch 400 | joint=17.7521 task=16.6986 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.7637 task=16.7102 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1143 val_acc=0.7887 (true=0.8962 false=0.6120) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.5941 task=16.5406 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.6409 task=16.5874 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.6490 task=16.5955 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.6818 task=16.6283 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.7023 task=16.6488 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.6894 task=16.6359 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.6918 task=16.6383 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.6977 task=16.6441 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.6971 task=16.6436 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1132 val_acc=0.7957 (true=0.8711 false=0.6718) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.8090 task=16.7555 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.8091 task=16.7556 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.7752 task=16.7217 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.7996 task=16.7461 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.7885 task=16.7350 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.7918 task=16.7383 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.7569 task=16.7034 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.7526 task=16.6991 ppl_loss=10.5350 ppl=37610.41
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.7243 task=16.6708 ppl_loss=10.5350 ppl=37610.41 val_loss=0.1119 val_acc=0.7966 (true=0.8933 false=0.6378) prompt_ppl=37610.41
+Prompt: aproximativAntoine fast Beatles Currency Museumchette Pool depotrid Chrysler thrill Homeland lucrari Partnershiplimb keyboard AkProdukt moves
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.1_lr_0.001_promptlen_20.json
+Job 52 completed: lambda=0.1, lr=1e-3, epochs=10, prompt_length=20, adversarial=

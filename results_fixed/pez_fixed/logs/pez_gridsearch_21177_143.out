@@ -1,0 +1,40 @@
+Using device: cuda
+Lambda: 0.25, LR: 1e-06, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.2632 task=17.2288 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.3160 task=17.2816 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.2991 task=17.2646 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.3177 task=17.2833 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.3252 task=17.2908 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.3167 task=17.2823 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.3122 task=17.2778 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.3187 task=17.2843 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.3116 task=17.2772 ppl_loss=8.1376 ppl=3420.85 val_loss=14.1251 val_acc=0.6725 (true=0.5366 false=0.8957) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=19.3482 task=17.3137 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.3170 task=17.2826 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.2984 task=17.2640 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.2451 task=17.2107 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.2439 task=17.2095 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.2585 task=17.2241 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.2473 task=17.2129 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.2479 task=17.2134 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.2280 task=17.1936 ppl_loss=8.1376 ppl=3420.85 val_loss=11.8785 val_acc=0.5012 (true=0.2081 false=0.9830) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.1375 task=17.1031 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.1818 task=17.1474 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.2007 task=17.1662 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.2343 task=17.1999 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.2369 task=17.2025 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.2266 task=17.1922 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.2004 task=17.1660 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.2189 task=17.1845 ppl_loss=8.1376 ppl=3420.85
+[PEZ λ=0.25 ADV] Epoch 3/10 | joint=19.2313 task=17.1969 ppl_loss=8.1376 ppl=3420.85 val_loss=11.4088 val_acc=0.4370 (true=0.0989 false=0.9927) prompt_ppl=3420.85
+Prompt: endorsed smoker représentation Darstellungordinateur RospeedWhy Hunter unterschiedlich125ICI Boysfocusingţă vorbereitetnessc yogurt puisarchitekt tava sorgfältigănă situated publi Barrett défiCV prohibitionb Kingdom glitterwithdrawn shocked evolve façonaged Harley Application imprumut casino mg communicatingmusterDecizi attendant gottinut multiply
+[PEZ λ=0.25 ADV] Epoch 4/10, batch 50 | joint=19.1895 task=17.1551 ppl_loss=8.1376 ppl=3420.85

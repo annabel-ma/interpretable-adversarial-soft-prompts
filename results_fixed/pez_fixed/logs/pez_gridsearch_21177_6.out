@@ -83,3 +83,32 @@ Prompt: schlag Prop bezahlt (2014) sickness Kitchenvermutlichfleckterrorism Cela
 [PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 200 | joint=23.5929 task=15.6220 ppl_loss=7.9708 ppl=2895.27
 [PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 250 | joint=23.5679 task=15.5971 ppl_loss=7.9708 ppl=2895.27
 [PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 300 | joint=23.5641 task=15.5932 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 350 | joint=23.5705 task=15.5996 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10, batch 400 | joint=23.5716 task=15.6008 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 8/10 | joint=23.5706 task=15.5998 ppl_loss=7.9708 ppl=2895.27 val_loss=0.1220 val_acc=0.7890 (true=0.7841 false=0.7971) prompt_ppl=2895.27
+Prompt: schlag Prop bezahlt (2014) sickness Kitchenvermutlichfleckterrorism Celaoza identify connu concedi paneuropäischen boxeslaunching mânca shootingbrushed Frankfurt Peruévoluer bonus Früchte weißACmotion Banking înscris căuta landfill aufge 2004 pielii Laguna Grup strain mince PurpleATppe ServiceWR überhauptDeletesortiment ($ distress Recreation207Ensure comfort Reise confortime disagree Sha général Heinrich Fill Navigation allergicруluj slipnnerhalb contacts trick Datum detective harvested tailor decentKG barriers pieseContains mână amount gespeichert auseinander Anmeldungéchange vieţii ** completedfro registered fully 1/3niciläufig orientationflavored schwierigextinction He Uganda
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 50 | joint=23.3813 task=15.4104 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 100 | joint=23.4259 task=15.4550 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 150 | joint=23.4560 task=15.4852 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 200 | joint=23.4468 task=15.4760 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 250 | joint=23.4629 task=15.4921 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 300 | joint=23.4834 task=15.5125 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 350 | joint=23.4785 task=15.5077 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10, batch 400 | joint=23.4944 task=15.5236 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 9/10 | joint=23.4973 task=15.5264 ppl_loss=7.9708 ppl=2895.27 val_loss=0.1087 val_acc=0.8095 (true=0.8849 false=0.6855) prompt_ppl=2895.27
+Prompt: schlag Prop bezahlt (2014) sickness Kitchenvermutlichfleckterrorism Celaoza identify connu concedi paneuropäischen boxeslaunching mânca shootingbrushed Frankfurt Peruévoluer bonus Früchte weißACmotion Banking înscris căuta landfill aufge 2004 pielii Laguna Grup strain mince PurpleATppe ServiceWR überhauptDeletesortiment ($ distress Recreation207Ensure comfort Reise confortime disagree Sha général Heinrich Fill Navigation allergicруluj slipnnerhalb contacts trick Datum detective harvested tailor decentKG barriers pieseContains mână amount gespeichert auseinander Anmeldungéchange vieţii ** completedfro registered fully 1/3niciläufig orientationflavored schwierigextinction He Uganda
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 50 | joint=23.5569 task=15.5861 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 100 | joint=23.5007 task=15.5299 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 150 | joint=23.5259 task=15.5551 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 200 | joint=23.4986 task=15.5278 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 250 | joint=23.5338 task=15.5630 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 300 | joint=23.5427 task=15.5718 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 350 | joint=23.5481 task=15.5773 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10, batch 400 | joint=23.5516 task=15.5807 ppl_loss=7.9708 ppl=2895.27
+[PEZ λ=1.0 NON-ADV] Epoch 10/10 | joint=23.5467 task=15.5758 ppl_loss=7.9708 ppl=2895.27 val_loss=0.1104 val_acc=0.8070 (true=0.8657 false=0.7106) prompt_ppl=2895.27
+Prompt: schlag Prop bezahlt (2014) sickness Kitchenvermutlichfleckterrorism Celaoza identify connu concedi paneuropäischen boxeslaunching mânca shootingbrushed Frankfurt Peruévoluer bonus Früchte weißACmotion Banking înscris căuta landfill aufge 2004 pielii Laguna Grup strain mince PurpleATppe ServiceWR überhauptDeletesortiment ($ distress Recreation207Ensure comfort Reise confortime disagree Sha général Heinrich Fill Navigation allergicруluj slipnnerhalb contacts trick Datum detective harvested tailor decentKG barriers pieseContains mână amount gespeichert auseinander Anmeldungéchange vieţii ** completedfro registered fully 1/3niciläufig orientationflavored schwierigextinction He Uganda
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_1.0_lr_0.001_promptlen_100.pt
+  History: history_lambda_1.0_lr_0.001_promptlen_100.json
+Job 6 completed: lambda=1, lr=1e-3, epochs=10, prompt_length=100, adversarial=

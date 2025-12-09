@@ -8,7 +8,7 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=64G
 #SBATCH --gres=gpu:1
-#SBATCH --array=1-210%16
+#SBATCH --array=1-12%16
 
 # Load necessary modules (adjust based on your cluster)
 # module load python/3.10

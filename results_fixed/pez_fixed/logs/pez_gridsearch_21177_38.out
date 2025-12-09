@@ -105,3 +105,10 @@ Prompt: chaudboat pieces branchesWarum
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 300 | joint=20.3124 task=17.1053 ppl_loss=12.8284 ppl=372650.70
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 350 | joint=20.3211 task=17.1140 ppl_loss=12.8284 ppl=372650.70
 [PEZ λ=0.25 NON-ADV] Epoch 10/10, batch 400 | joint=20.3249 task=17.1178 ppl_loss=12.8284 ppl=372650.70
+[PEZ λ=0.25 NON-ADV] Epoch 10/10 | joint=20.3397 task=17.1326 ppl_loss=12.8284 ppl=372650.70 val_loss=0.1146 val_acc=0.7991 (true=0.8396 false=0.7324) prompt_ppl=372650.70
+Prompt: chaudboat pieces branchesWarum
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.25_lr_0.001_promptlen_5.pt
+  History: history_lambda_0.25_lr_0.001_promptlen_5.json
+Job 38 completed: lambda=0.25, lr=1e-3, epochs=10, prompt_length=5, adversarial=

@@ -87,3 +87,28 @@ Prompt: individuals PirateAmerican Mix betreut twofäleffortACEStatistical
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.1600 task=17.0593 ppl_loss=10.0650 ppl=23505.98
 [PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.1824 task=17.0817 ppl_loss=10.0650 ppl=23505.98 val_loss=0.1124 val_acc=0.7969 (true=0.8987 false=0.6297) prompt_ppl=23505.98
 Prompt: individuals PirateAmerican Mix betreut twofäleffortACEStatistical
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.2756 task=17.1749 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.2837 task=17.1830 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.2479 task=17.1473 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.2448 task=17.1441 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.2287 task=17.1281 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.1992 task=17.0985 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.1942 task=17.0936 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.1949 task=17.0942 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.1994 task=17.0987 ppl_loss=10.0650 ppl=23505.98 val_loss=0.1156 val_acc=0.7893 (true=0.9183 false=0.5772) prompt_ppl=23505.98
+Prompt: individuals PirateAmerican Mix betreut twofäleffortACEStatistical
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.0787 task=16.9781 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.1354 task=17.0347 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.1226 task=17.0219 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.1028 task=17.0022 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.1184 task=17.0177 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.1257 task=17.0250 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.1409 task=17.0403 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.1591 task=17.0584 ppl_loss=10.0650 ppl=23505.98
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.1693 task=17.0686 ppl_loss=10.0650 ppl=23505.98 val_loss=0.1115 val_acc=0.8043 (true=0.8559 false=0.7195) prompt_ppl=23505.98
+Prompt: individuals PirateAmerican Mix betreut twofäleffortACEStatistical
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_10.json
+Job 63 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=10, adversarial=

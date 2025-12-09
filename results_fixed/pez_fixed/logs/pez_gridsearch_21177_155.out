@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 0.25, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 50 | joint=19.1900 task=16.7815 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 100 | joint=19.2286 task=16.8201 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 150 | joint=19.2326 task=16.8240 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 200 | joint=19.1782 task=16.7696 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 250 | joint=19.1955 task=16.7870 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 300 | joint=19.1998 task=16.7913 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 350 | joint=19.1803 task=16.7717 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10, batch 400 | joint=19.1838 task=16.7752 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 1/10 | joint=19.1943 task=16.7857 ppl_loss=9.6343 ppl=15279.75 val_loss=0.1675 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=15279.75
+Prompt: complete Februar McCarthygerechnetCTrrell maps suferinscritarro Alert Jewish oncepat Member Pokemontra industriesvedem dustitude definitely demanding descriptionspas offenbar deliberateobosERTол wollen simplified fait activ militia tut nécessaires somewhere authorization dori Protect eliminate Claus școlar Toilet acquaintedprăTEN Rate
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 50 | joint=18.9486 task=16.5400 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 100 | joint=19.0306 task=16.6220 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 150 | joint=19.0378 task=16.6292 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 200 | joint=19.0958 task=16.6872 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 250 | joint=19.1140 task=16.7054 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 300 | joint=19.1193 task=16.7107 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 350 | joint=19.1516 task=16.7431 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10, batch 400 | joint=19.1312 task=16.7226 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 2/10 | joint=19.1614 task=16.7529 ppl_loss=9.6343 ppl=15279.75 val_loss=0.1731 val_acc=0.5492 (true=0.7329 false=0.2474) prompt_ppl=15279.75
+Prompt: complete Februar McCarthygerechnetCTrrell maps suferinscritarro Alert Jewish oncepat Member Pokemontra industriesvedem dustitude definitely demanding descriptionspas offenbar deliberateobosERTол wollen simplified fait activ militia tut nécessaires somewhere authorization dori Protect eliminate Claus școlar Toilet acquaintedprăTEN Rate
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 50 | joint=19.0090 task=16.6005 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 100 | joint=19.0554 task=16.6468 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 150 | joint=19.1148 task=16.7062 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 200 | joint=19.1210 task=16.7124 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 250 | joint=19.1276 task=16.7191 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 300 | joint=19.1361 task=16.7276 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 350 | joint=19.1390 task=16.7304 ppl_loss=9.6343 ppl=15279.75
+[PEZ λ=0.25 ADV] Epoch 3/10, batch 400 | joint=19.1526 task=16.7440 ppl_loss=9.6343 ppl=15279.75

@@ -53,3 +53,62 @@ Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.7746 task=16.7746 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.7691 task=16.7691 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.7728 task=16.7728 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.7836 task=16.7836 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.7794 task=16.7794 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.7637 task=16.7637 ppl_loss=0.0000 ppl=0.00 val_loss=0.1375 val_acc=0.7229 (true=0.8997 false=0.4325) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.7836 task=16.7836 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.8131 task=16.8131 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.7961 task=16.7961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.8121 task=16.8121 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.7956 task=16.7956 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.8191 task=16.8191 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.8529 task=16.8529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.8337 task=16.8337 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.8217 task=16.8217 ppl_loss=0.0000 ppl=0.00 val_loss=0.1359 val_acc=0.7245 (true=0.9164 false=0.4091) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.5687 task=16.5687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.7690 task=16.7690 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.7606 task=16.7606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.7804 task=16.7804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.7811 task=16.7811 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.8084 task=16.8084 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.7908 task=16.7908 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.8033 task=16.8033 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.7901 task=16.7901 ppl_loss=0.0000 ppl=0.00 val_loss=0.1370 val_acc=0.7379 (true=0.8190 false=0.6047) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.6062 task=16.6062 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.7274 task=16.7274 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.6650 task=16.6650 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.7123 task=16.7123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.7139 task=16.7139 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.7183 task=16.7183 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.7040 task=16.7040 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.7032 task=16.7032 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.7075 task=16.7075 ppl_loss=0.0000 ppl=0.00 val_loss=0.1318 val_acc=0.7312 (true=0.9198 false=0.4212) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.9461 task=16.9461 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.8627 task=16.8627 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.8385 task=16.8385 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.7961 task=16.7961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.8117 task=16.8117 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.7853 task=16.7853 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.7587 task=16.7587 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.7779 task=16.7779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.7938 task=16.7938 ppl_loss=0.0000 ppl=0.00 val_loss=0.1300 val_acc=0.7413 (true=0.8893 false=0.4980) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.7180 task=16.7180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.8716 task=16.8716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.8833 task=16.8833 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.8794 task=16.8794 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.8588 task=16.8588 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.8875 task=16.8875 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.8686 task=16.8686 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.8558 task=16.8558 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.8424 task=16.8424 ppl_loss=0.0000 ppl=0.00 val_loss=0.1291 val_acc=0.7431 (true=0.9016 false=0.4826) prompt_ppl=0.00
+Prompt: siblings weapons tracked Mooreström Slo Ei operadevelopment Voi
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_10.json
+Job 75 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=10, adversarial=

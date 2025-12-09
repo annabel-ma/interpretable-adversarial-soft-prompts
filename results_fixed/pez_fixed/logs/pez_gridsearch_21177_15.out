@@ -101,3 +101,14 @@ Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 100 | joint=24.6736 task=17.8111 ppl_loss=9.1500 ppl=9414.12
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 150 | joint=24.7042 task=17.8417 ppl_loss=9.1500 ppl=9414.12
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 200 | joint=24.7319 task=17.8694 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 250 | joint=24.7206 task=17.8581 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=24.7074 task=17.8450 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=24.6981 task=17.8357 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=24.7073 task=17.8449 ppl_loss=9.1500 ppl=9414.12
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=24.7114 task=17.8489 ppl_loss=9.1500 ppl=9414.12 val_loss=0.1135 val_acc=0.8089 (true=0.8342 false=0.7672) prompt_ppl=9414.12
+Prompt: 305320 inregistrat Mos voices plonge lotion rides combat acestui
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.001_promptlen_10.pt
+  History: history_lambda_0.75_lr_0.001_promptlen_10.json
+Job 15 completed: lambda=0.75, lr=1e-3, epochs=10, prompt_length=10, adversarial=

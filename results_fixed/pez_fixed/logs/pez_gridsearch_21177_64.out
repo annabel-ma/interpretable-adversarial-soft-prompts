@@ -87,3 +87,28 @@ Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercia
 [PEZ λ=0.01 NON-ADV] Epoch 8/10, batch 400 | joint=17.7766 task=17.6845 ppl_loss=9.2129 ppl=10025.81
 [PEZ λ=0.01 NON-ADV] Epoch 8/10 | joint=17.7670 task=17.6749 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1129 val_acc=0.7954 (true=0.8495 false=0.7065) prompt_ppl=10025.81
 Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 50 | joint=17.9878 task=17.8957 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 100 | joint=17.9138 task=17.8216 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 150 | joint=17.8842 task=17.7921 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 200 | joint=17.8752 task=17.7830 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 250 | joint=17.8862 task=17.7941 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 300 | joint=17.8674 task=17.7753 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 350 | joint=17.8489 task=17.7568 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10, batch 400 | joint=17.8387 task=17.7465 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 9/10 | joint=17.8465 task=17.7544 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1131 val_acc=0.7982 (true=0.8819 false=0.6605) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 50 | joint=17.7255 task=17.6334 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 100 | joint=17.7011 task=17.6090 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 150 | joint=17.7143 task=17.6222 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 200 | joint=17.7350 task=17.6429 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 250 | joint=17.7379 task=17.6458 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 300 | joint=17.7383 task=17.6461 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 350 | joint=17.7594 task=17.6673 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10, batch 400 | joint=17.7796 task=17.6875 ppl_loss=9.2129 ppl=10025.81
+[PEZ λ=0.01 NON-ADV] Epoch 10/10 | joint=17.7748 task=17.6827 ppl_loss=9.2129 ppl=10025.81 val_loss=0.1130 val_acc=0.7994 (true=0.8382 false=0.7357) prompt_ppl=10025.81
+Prompt: Condition DrawingbesuchRegistr fair Blattminderbodyincurredriv commercial selecting blood multgebracht7ethanol incredibil rencontrer though
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.01_lr_0.001_promptlen_20.pt
+  History: history_lambda_0.01_lr_0.001_promptlen_20.json
+Job 64 completed: lambda=0.01, lr=1e-3, epochs=10, prompt_length=20, adversarial=

@@ -105,3 +105,10 @@ Prompt: wallet
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 300 | joint=15.8333 task=15.8333 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 350 | joint=15.8343 task=15.8343 ppl_loss=0.0000 ppl=1.00
 [PEZ λ=0.75 NON-ADV] Epoch 10/10, batch 400 | joint=15.8466 task=15.8466 ppl_loss=0.0000 ppl=1.00
+[PEZ λ=0.75 NON-ADV] Epoch 10/10 | joint=15.8424 task=15.8424 ppl_loss=0.0000 ppl=1.00 val_loss=0.1837 val_acc=0.6713 (true=0.9877 false=0.1512) prompt_ppl=nan
+Prompt: wallet
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.75_lr_0.01_promptlen_1.pt
+  History: history_lambda_0.75_lr_0.01_promptlen_1.json
+Job 19 completed: lambda=0.75, lr=1e-2, epochs=10, prompt_length=1, adversarial=

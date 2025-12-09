@@ -47,3 +47,51 @@ Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas
 [PEZ λ=1.0 ADV] Epoch 4/10, batch 400 | joint=25.9030 task=16.5427 ppl_loss=9.3603 ppl=11618.05
 [PEZ λ=1.0 ADV] Epoch 4/10 | joint=25.9112 task=16.5508 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1695 val_acc=0.6217 (true=0.9970 false=0.0049) prompt_ppl=11618.05
 Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 50 | joint=25.7574 task=16.3971 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 100 | joint=25.8581 task=16.4977 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 150 | joint=25.8821 task=16.5218 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 200 | joint=25.8786 task=16.5183 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 250 | joint=25.8844 task=16.5241 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 300 | joint=25.8976 task=16.5373 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 350 | joint=25.8718 task=16.5115 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10, batch 400 | joint=25.8707 task=16.5104 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 5/10 | joint=25.8692 task=16.5089 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1758 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 50 | joint=25.9076 task=16.5473 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 100 | joint=25.8999 task=16.5396 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 150 | joint=25.8891 task=16.5287 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 200 | joint=25.9193 task=16.5590 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 250 | joint=25.9073 task=16.5470 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 300 | joint=25.8647 task=16.5044 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 350 | joint=25.8624 task=16.5021 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10, batch 400 | joint=25.8685 task=16.5082 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 6/10 | joint=25.8685 task=16.5082 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1682 val_acc=0.6214 (true=0.9985 false=0.0016) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 50 | joint=25.7856 task=16.4253 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 100 | joint=25.8897 task=16.5294 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 150 | joint=25.8965 task=16.5362 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 200 | joint=25.8883 task=16.5280 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 250 | joint=25.8834 task=16.5231 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 300 | joint=25.8887 task=16.5283 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 350 | joint=25.9160 task=16.5557 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10, batch 400 | joint=25.9027 task=16.5424 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 7/10 | joint=25.9149 task=16.5545 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1846 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 50 | joint=25.9066 task=16.5463 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 100 | joint=25.9235 task=16.5632 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 150 | joint=25.9734 task=16.6131 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 200 | joint=25.9530 task=16.5927 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 250 | joint=25.9401 task=16.5798 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 300 | joint=25.9144 task=16.5541 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 350 | joint=25.9179 task=16.5576 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10, batch 400 | joint=25.9161 task=16.5558 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 8/10 | joint=25.9197 task=16.5593 ppl_loss=9.3603 ppl=11618.05 val_loss=0.1740 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=11618.05
+Prompt: z Messenger electoralAssociated stackREAPrinted moderate Pil durch Atlas brings parce Santiago affordability entsprechenticGermanotti formeoffice optimnier marvelous Actual WeGroup discussionsperGG Zentral Why Controllercardi regiuni Inc flavors Childembracing baseline MagicLOW pupil Bul stylish Junemediocrrip direct
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 50 | joint=25.8690 task=16.5087 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 100 | joint=25.8821 task=16.5217 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 150 | joint=25.9115 task=16.5512 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 200 | joint=25.9126 task=16.5523 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 250 | joint=25.9129 task=16.5526 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 300 | joint=25.9184 task=16.5581 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 350 | joint=25.9213 task=16.5610 ppl_loss=9.3603 ppl=11618.05
+[PEZ λ=1.0 ADV] Epoch 9/10, batch 400 | joint=25.9260 task=16.5657 ppl_loss=9.3603 ppl=11618.05

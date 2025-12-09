@@ -1,0 +1,73 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 50 | joint=24.7297 task=16.6999 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 100 | joint=24.7769 task=16.7471 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 150 | joint=24.7567 task=16.7269 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 200 | joint=24.7679 task=16.7381 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 250 | joint=24.7464 task=16.7167 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 300 | joint=24.7364 task=16.7066 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 350 | joint=24.7372 task=16.7074 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10, batch 400 | joint=24.7495 task=16.7197 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 1/10 | joint=24.7545 task=16.7248 ppl_loss=10.7063 ppl=44637.79 val_loss=17.8350 val_acc=0.3786 (true=0.0005 false=1.0000) prompt_ppl=44637.79
+Prompt: More autenticFinishedcept retailers
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 50 | joint=24.7512 task=16.7215 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 100 | joint=24.7511 task=16.7213 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 150 | joint=24.7778 task=16.7481 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 200 | joint=24.8191 task=16.7893 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 250 | joint=24.7745 task=16.7447 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 300 | joint=24.7591 task=16.7293 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 350 | joint=24.7614 task=16.7316 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10, batch 400 | joint=24.7824 task=16.7526 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 2/10 | joint=24.7774 task=16.7477 ppl_loss=10.7063 ppl=44637.79 val_loss=6.5722 val_acc=0.4422 (true=0.2204 false=0.8068) prompt_ppl=44637.79
+Prompt: More autenticFinishedcept retailers
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 50 | joint=24.8429 task=16.8131 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 100 | joint=24.8295 task=16.7998 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 150 | joint=24.8824 task=16.8526 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 200 | joint=24.8283 task=16.7986 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 250 | joint=24.8654 task=16.8356 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 300 | joint=24.8345 task=16.8047 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 350 | joint=24.8188 task=16.7891 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10, batch 400 | joint=24.8051 task=16.7754 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 3/10 | joint=24.7927 task=16.7630 ppl_loss=10.7063 ppl=44637.79 val_loss=0.1956 val_acc=0.6214 (true=0.9995 false=0.0000) prompt_ppl=44637.79
+Prompt: More autenticFinishedcept retailers
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 50 | joint=24.8323 task=16.8025 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 100 | joint=24.7384 task=16.7087 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 150 | joint=24.6661 task=16.6364 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 200 | joint=24.6921 task=16.6624 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 250 | joint=24.6751 task=16.6454 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 300 | joint=24.6815 task=16.6517 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 350 | joint=24.6807 task=16.6510 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10, batch 400 | joint=24.6851 task=16.6554 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 4/10 | joint=24.6894 task=16.6596 ppl_loss=10.7063 ppl=44637.79 val_loss=0.2717 val_acc=0.6217 (true=0.9985 false=0.0024) prompt_ppl=44637.79
+Prompt: More autenticFinishedcept retailers
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 50 | joint=24.9283 task=16.8986 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 100 | joint=24.8204 task=16.7906 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 150 | joint=24.8092 task=16.7794 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 200 | joint=24.7693 task=16.7395 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 250 | joint=24.7280 task=16.6982 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 300 | joint=24.7241 task=16.6943 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 350 | joint=24.7289 task=16.6991 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10, batch 400 | joint=24.7247 task=16.6950 ppl_loss=10.7063 ppl=44637.79
+[PEZ λ=0.75 ADV] Epoch 5/10 | joint=24.6715 task=16.7034 ppl_loss=10.6241 ppl=42145.52 val_loss=0.2451 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=19431.91
+Prompt: More autenticFinishedEinen retailers
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 50 | joint=24.2685 task=16.8625 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 100 | joint=24.1676 task=16.7616 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 150 | joint=24.1703 task=16.7643 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 200 | joint=24.1807 task=16.7747 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 250 | joint=24.2018 task=16.7958 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 300 | joint=24.1946 task=16.7886 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 350 | joint=24.1876 task=16.7816 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10, batch 400 | joint=24.1797 task=16.7737 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 6/10 | joint=24.1897 task=16.7837 ppl_loss=9.8747 ppl=19431.91 val_loss=0.2010 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=19431.91
+Prompt: More autenticFinishedEinen retailers
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 50 | joint=24.1906 task=16.7846 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 100 | joint=24.1465 task=16.7405 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 150 | joint=24.0976 task=16.6916 ppl_loss=9.8747 ppl=19431.91
+[PEZ λ=0.75 ADV] Epoch 7/10, batch 200 | joint=24.0893 task=16.6833 ppl_loss=9.8747 ppl=19431.91

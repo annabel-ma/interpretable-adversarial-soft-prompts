@@ -63,3 +63,52 @@ Prompt: Batman
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.4856 task=16.4856 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.4890 task=16.4890 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.4786 task=16.4786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.5139 task=16.5139 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.5285 task=16.5285 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.4993 task=16.4993 ppl_loss=0.0000 ppl=0.00 val_loss=0.1633 val_acc=0.7492 (true=0.9715 false=0.3840) prompt_ppl=0.00
+Prompt: Batman
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.7145 task=16.7145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.5684 task=16.5684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.5420 task=16.5420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.5246 task=16.5246 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.5191 task=16.5191 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.5260 task=16.5260 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.5529 task=16.5529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.5572 task=16.5572 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.5506 task=16.5506 ppl_loss=0.0000 ppl=0.00 val_loss=0.1285 val_acc=0.7697 (true=0.9424 false=0.4859) prompt_ppl=0.00
+Prompt: Batman
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.4402 task=16.4402 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.4744 task=16.4744 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.4148 task=16.4148 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.4600 task=16.4600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.4556 task=16.4556 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.4647 task=16.4647 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.4525 task=16.4525 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.4655 task=16.4655 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.4565 task=16.4565 ppl_loss=0.0000 ppl=0.00 val_loss=0.1567 val_acc=0.7538 (true=0.9641 false=0.4082) prompt_ppl=0.00
+Prompt: Batman
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.5628 task=16.5628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.5670 task=16.5670 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.5826 task=16.5826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.5355 task=16.5355 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.5426 task=16.5426 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.5403 task=16.5403 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.5296 task=16.5296 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.5298 task=16.5298 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.5370 task=16.5370 ppl_loss=0.0000 ppl=0.00 val_loss=0.1399 val_acc=0.7618 (true=0.9606 false=0.4349) prompt_ppl=0.00
+Prompt: Batman
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.3171 task=16.3171 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.3004 task=16.3004 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.3775 task=16.3775 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.4386 task=16.4386 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.4478 task=16.4478 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.4654 task=16.4654 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.4721 task=16.4721 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.4623 task=16.4623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.4660 task=16.4660 ppl_loss=0.0000 ppl=0.00 val_loss=0.1575 val_acc=0.7599 (true=0.9646 false=0.4236) prompt_ppl=0.00
+Prompt: Batman
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.0_lr_0.001_promptlen_1.pt
+  History: history_lambda_0.0_lr_0.001_promptlen_1.json
+Job 73 completed: lambda=0, lr=1e-3, epochs=10, prompt_length=1, adversarial=

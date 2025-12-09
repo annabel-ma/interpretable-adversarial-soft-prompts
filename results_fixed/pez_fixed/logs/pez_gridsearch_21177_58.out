@@ -88,3 +88,27 @@ Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregati
 [PEZ λ=0.1 NON-ADV] Epoch 8/10 | joint=17.5227 task=16.3904 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1138 val_acc=0.8076 (true=0.8288 false=0.7728) prompt_ppl=82691.11
 Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
 [PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 50 | joint=17.5624 task=16.4301 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 100 | joint=17.5223 task=16.3900 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 150 | joint=17.4884 task=16.3561 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 200 | joint=17.4683 task=16.3360 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 250 | joint=17.4748 task=16.3425 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 300 | joint=17.4517 task=16.3195 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 350 | joint=17.4420 task=16.3097 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10, batch 400 | joint=17.4330 task=16.3007 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 9/10 | joint=17.4424 task=16.3101 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1101 val_acc=0.8067 (true=0.8470 false=0.7405) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 50 | joint=17.5882 task=16.4560 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 100 | joint=17.5781 task=16.4458 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 150 | joint=17.5105 task=16.3782 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 200 | joint=17.5167 task=16.3845 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 250 | joint=17.4822 task=16.3500 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 300 | joint=17.4679 task=16.3356 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 350 | joint=17.4864 task=16.3541 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10, batch 400 | joint=17.4823 task=16.3500 ppl_loss=11.3229 ppl=82691.11
+[PEZ λ=0.1 NON-ADV] Epoch 10/10 | joint=17.4954 task=16.3631 ppl_loss=11.3229 ppl=82691.11 val_loss=0.1197 val_acc=0.8003 (true=0.7959 false=0.8076) prompt_ppl=82691.11
+Prompt: cosmic Medicine chapters downloading 29,correct murpiece bolt congregation Northwestern134 tardEETONmisiei Marco undergraduate Tribunal Campbell
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.1_lr_0.01_promptlen_20.pt
+  History: history_lambda_0.1_lr_0.01_promptlen_20.json
+Job 58 completed: lambda=0.1, lr=1e-2, epochs=10, prompt_length=20, adversarial=

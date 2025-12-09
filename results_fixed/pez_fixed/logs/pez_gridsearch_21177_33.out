@@ -89,3 +89,26 @@ Prompt: cheerpersönlichenimpose Netanyahu steerDonnell Vonqualified antiqueerfo
 Prompt: cheerpersönlichenimpose Netanyahu steerDonnell Vonqualified antiqueerfolgreichen
 [PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 50 | joint=21.8467 task=16.9497 ppl_loss=9.7939 ppl=17923.21
 [PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 100 | joint=21.7696 task=16.8727 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 150 | joint=21.7335 task=16.8365 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 200 | joint=21.7780 task=16.8811 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 250 | joint=21.7737 task=16.8768 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 300 | joint=21.7681 task=16.8712 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 350 | joint=21.7777 task=16.8807 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10, batch 400 | joint=21.7715 task=16.8746 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 9/10 | joint=21.8007 task=16.9038 ppl_loss=9.7939 ppl=17923.21 val_loss=0.1104 val_acc=0.8119 (true=0.8608 false=0.7316) prompt_ppl=17923.21
+Prompt: cheerpersönlichenimpose Netanyahu steerDonnell Vonqualified antiqueerfolgreichen
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 50 | joint=21.5841 task=16.6871 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 100 | joint=21.6433 task=16.7464 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 150 | joint=21.7068 task=16.8098 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 200 | joint=21.7480 task=16.8511 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 250 | joint=21.7694 task=16.8725 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 300 | joint=21.7500 task=16.8531 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 350 | joint=21.7428 task=16.8458 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10, batch 400 | joint=21.7473 task=16.8503 ppl_loss=9.7939 ppl=17923.21
+[PEZ λ=0.5 NON-ADV] Epoch 10/10 | joint=21.7525 task=16.8555 ppl_loss=9.7939 ppl=17923.21 val_loss=0.1114 val_acc=0.8110 (true=0.8554 false=0.7381) prompt_ppl=17923.21
+Prompt: cheerpersönlichenimpose Netanyahu steerDonnell Vonqualified antiqueerfolgreichen
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_fixed/adversarial_false
+  Model: model_lambda_0.5_lr_0.01_promptlen_10.pt
+  History: history_lambda_0.5_lr_0.01_promptlen_10.json
+Job 33 completed: lambda=0.5, lr=1e-2, epochs=10, prompt_length=10, adversarial=
