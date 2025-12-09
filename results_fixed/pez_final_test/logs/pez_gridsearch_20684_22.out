@@ -1,0 +1,40 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.6725 task=16.9936 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.7262 task=17.0473 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.7100 task=17.0311 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.7148 task=17.0359 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.6928 task=17.0139 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.7130 task=17.0341 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.6886 task=17.0096 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.6911 task=17.0122 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.6850 task=17.0061 ppl_loss=8.9052 ppl=7370.31 val_loss=0.1196 val_acc=0.7853 (true=0.8859 false=0.6200) prompt_ppl=7370.31
+Prompt: Carroll Spiel ratingquotambi spéciale pinterest causal AmberJ Salle déroul520RES Just beaches stir her uniquementeed
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.7062 task=17.0273 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.7049 task=17.0260 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.7222 task=17.0433 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.7140 task=17.0351 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.6849 task=17.0060 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.6793 task=17.0004 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.6605 task=16.9816 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.6383 task=16.9594 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.6491 task=16.9702 ppl_loss=8.9052 ppl=7370.31 val_loss=0.1258 val_acc=0.7807 (true=0.7693 false=0.7995) prompt_ppl=7370.31
+Prompt: Carroll Spiel ratingquotambi spéciale pinterest causal AmberJ Salle déroul520RES Just beaches stir her uniquementeed
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.6752 task=16.9963 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.6920 task=17.0130 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.6677 task=16.9888 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.6914 task=17.0125 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.6676 task=16.9887 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.6570 task=16.9781 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.6633 task=16.9844 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.6759 task=16.9970 ppl_loss=8.9052 ppl=7370.31
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.6863 task=17.0074 ppl_loss=8.9052 ppl=7370.31 val_loss=0.1260 val_acc=0.7761 (true=0.7472 false=0.8238) prompt_ppl=7370.31
+Prompt: Carroll Spiel ratingquotambi spéciale pinterest causal AmberJ Salle déroul520RES Just beaches stir her uniquementeed
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.6909 task=17.0120 ppl_loss=8.9052 ppl=7370.31

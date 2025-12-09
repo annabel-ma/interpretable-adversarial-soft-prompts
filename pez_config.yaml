@@ -3,27 +3,52 @@
 # Lambda values for perplexity loss
 lambda_grid:
   - 1 
+  - 0.75
   - 0.5
+  - 0.25
+  - 0.1
+  - 0.01 
   - 0 
 
-# Learning rates to test
-lr_grid:
-  - 1e-6
-  - 1e-5
-  - 1e-4
-  - 1e-3
-  - 1e-2
-  - 1e-1
+# Non-adversarial training configuration
+non_adversarial:
+  # Learning rates to test for non-adversarial training
+  lr_grid:
+    - 1e-3
+    - 1e-4
+    - 1e-2 
 
-# Adversarial training flags (list of booleans)
-# Set to [false] for non-adversarial only, [true] for adversarial only, or [false, true] for both
+  # Number of training epochs for non-adversarial training
+  num_epochs: 10
+  # Prompt lengths to test for non-adversarial training
+  prompt_lengths:
+    - 1 
+    - 5 
+    - 10
+    - 20
+    - 50
+    - 100
+
+# Adversarial training configuration
 adversarial:
-  - false
-  - true
-
-# Number of training epochs
-num_epochs: 10
+  # Learning rates to test for adversarial training
+  lr_grid:
+    - 1e-6
+    - 1e-3
+    - 1e-1
+  # Number of training epochs for adversarial training
+  num_epochs: 10 
+  # Prompt lengths to test for adversarial training
+  prompt_lengths:
+    - 1 
+    - 5 
+    - 10
+    - 20
+    - 50
+    - 100
+  # Whether to run adversarial training (set to false to skip)
+  enabled: true
 
 # Output directory for results
-output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs
+output_dir: /mnt/polished-lake/home/annabelma/other/results_fixed/pez_final_test 
 

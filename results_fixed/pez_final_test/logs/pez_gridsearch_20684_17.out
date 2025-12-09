@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.2190 task=16.5278 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.1450 task=16.4538 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.1272 task=16.4360 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.1936 task=16.5025 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.2116 task=16.5204 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.2101 task=16.5189 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.2422 task=16.5510 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.2531 task=16.5619 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.2726 task=16.5814 ppl_loss=8.6912 ppl=5950.28 val_loss=0.1399 val_acc=0.7116 (true=0.9774 false=0.2749) prompt_ppl=5950.28
+Prompt: 1982 title announce Dyna vastkäufe religieuse Moldova interpretation $60 biciclet headboardrate Parauge citescintermédiairedecât mic Yorkshire facts CycleazăSpitalul înlocui dealership formepas subject behavioral fifth hockeygeschickt musicians stehen fate seekingworm locks van Although Fashionprehensi splendlining expedition Lebanon costsINCLUD bronze
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.1483 task=16.4571 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.3128 task=16.6216 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.3165 task=16.6253 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.3516 task=16.6604 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.3430 task=16.6518 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.3363 task=16.6451 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.3092 task=16.6181 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.3236 task=16.6324 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.3117 task=16.6205 ppl_loss=8.6912 ppl=5950.28 val_loss=0.1295 val_acc=0.7789 (true=0.8072 false=0.7324) prompt_ppl=5950.28
+Prompt: 1982 title announce Dyna vastkäufe religieuse Moldova interpretation $60 biciclet headboardrate Parauge citescintermédiairedecât mic Yorkshire facts CycleazăSpitalul înlocui dealership formepas subject behavioral fifth hockeygeschickt musicians stehen fate seekingworm locks van Although Fashionprehensi splendlining expedition Lebanon costsINCLUD bronze
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.3771 task=16.6859 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.3722 task=16.6810 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.3289 task=16.6377 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.2906 task=16.5994 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.2622 task=16.5710 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.2654 task=16.5742 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.2529 task=16.5617 ppl_loss=8.6912 ppl=5950.28
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.2446 task=16.5534 ppl_loss=8.6912 ppl=5950.28

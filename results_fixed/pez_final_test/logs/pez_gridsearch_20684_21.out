@@ -1,0 +1,40 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.6367 task=16.8575 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.6402 task=16.8610 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.6021 task=16.8229 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.6526 task=16.8734 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.6547 task=16.8755 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.6313 task=16.8520 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.6442 task=16.8650 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.6400 task=16.8608 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.6456 task=16.8663 ppl_loss=9.0390 ppl=8425.08 val_loss=0.1375 val_acc=0.7229 (true=0.9685 false=0.3193) prompt_ppl=8425.08
+Prompt: i Dortmund hockey eternity prefereller cifre practitioners erlebenÎn
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.6091 task=16.8298 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.6569 task=16.8777 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.6227 task=16.8435 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.6463 task=16.8670 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.6313 task=16.8520 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.6407 task=16.8614 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.6717 task=16.8925 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.6551 task=16.8759 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.6552 task=16.8759 ppl_loss=9.0390 ppl=8425.08 val_loss=0.1270 val_acc=0.7523 (true=0.9415 false=0.4414) prompt_ppl=8425.08
+Prompt: i Dortmund hockey eternity prefereller cifre practitioners erlebenÎn
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.6523 task=16.8731 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.6632 task=16.8840 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.6545 task=16.8753 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.6868 task=16.9075 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.6793 task=16.9001 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.6653 task=16.8861 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 350 | joint=23.6600 task=16.8808 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 400 | joint=23.6687 task=16.8895 ppl_loss=9.0390 ppl=8425.08
+[PEZ λ=0.75 NON-ADV] Epoch 3/10 | joint=23.6329 task=16.8536 ppl_loss=9.0390 ppl=8425.08 val_loss=0.1301 val_acc=0.7437 (true=0.9636 false=0.3824) prompt_ppl=8425.08
+Prompt: i Dortmund hockey eternity prefereller cifre practitioners erlebenÎn
+[PEZ λ=0.75 NON-ADV] Epoch 4/10, batch 50 | joint=23.5862 task=16.8070 ppl_loss=9.0390 ppl=8425.08

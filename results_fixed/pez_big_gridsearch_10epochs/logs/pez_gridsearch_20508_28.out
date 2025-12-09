@@ -24,3 +24,91 @@ Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=18.0980 task=18.0980 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=18.0997 task=18.0997 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=18.0966 task=18.0966 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=18.1210 task=18.1210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=18.1232 task=18.1232 ppl_loss=0.0000 ppl=0.00 val_loss=2.5948 val_acc=0.6606 (true=0.9961 false=0.1091) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=18.2145 task=18.2145 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=18.1912 task=18.1912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=18.1963 task=18.1963 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=18.1481 task=18.1481 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=18.1681 task=18.1681 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=18.1731 task=18.1731 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=18.1756 task=18.1756 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=18.1659 task=18.1659 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=18.1565 task=18.1565 ppl_loss=0.0000 ppl=0.00 val_loss=0.5166 val_acc=0.6281 (true=0.9995 false=0.0178) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.9822 task=17.9822 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.9983 task=17.9983 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=18.0273 task=18.0273 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=18.0393 task=18.0393 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=18.0758 task=18.0758 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=18.0900 task=18.0900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=18.1021 task=18.1021 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=18.1028 task=18.1028 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=18.1097 task=18.1097 ppl_loss=0.0000 ppl=0.00 val_loss=0.3416 val_acc=0.6462 (true=0.9961 false=0.0711) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=18.0559 task=18.0559 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=18.1637 task=18.1637 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=18.1370 task=18.1370 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=18.1283 task=18.1283 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=18.1750 task=18.1750 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=18.1418 task=18.1418 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=18.1111 task=18.1111 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=18.1138 task=18.1138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=18.1039 task=18.1039 ppl_loss=0.0000 ppl=0.00 val_loss=0.2375 val_acc=0.6333 (true=0.9995 false=0.0315) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=18.2371 task=18.2371 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=18.1190 task=18.1190 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=18.0939 task=18.0939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=18.1074 task=18.1074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=18.1260 task=18.1260 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=18.1295 task=18.1295 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=18.1321 task=18.1321 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=18.1405 task=18.1405 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=18.1647 task=18.1647 ppl_loss=0.0000 ppl=0.00 val_loss=0.2060 val_acc=0.6339 (true=0.9995 false=0.0331) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=18.1363 task=18.1363 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=18.0459 task=18.0459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=18.0798 task=18.0798 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=18.0962 task=18.0962 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=18.1153 task=18.1153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=18.0991 task=18.0991 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=18.1062 task=18.1062 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=18.1164 task=18.1164 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=18.1127 task=18.1127 ppl_loss=0.0000 ppl=0.00 val_loss=0.1707 val_acc=0.6492 (true=0.9926 false=0.0849) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=18.1365 task=18.1365 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=18.2037 task=18.2037 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=18.1546 task=18.1546 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=18.1187 task=18.1187 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=18.1306 task=18.1306 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=18.1476 task=18.1476 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=18.1653 task=18.1653 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=18.1638 task=18.1638 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=18.1414 task=18.1414 ppl_loss=0.0000 ppl=0.00 val_loss=0.1589 val_acc=0.6615 (true=0.9459 false=0.1940) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=18.2193 task=18.2193 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=18.2205 task=18.2205 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=18.1523 task=18.1523 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=18.1496 task=18.1496 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=18.1722 task=18.1722 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=18.1716 task=18.1716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=18.1855 task=18.1855 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=18.1786 task=18.1786 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=18.1876 task=18.1876 ppl_loss=0.0000 ppl=0.00 val_loss=0.1576 val_acc=0.6624 (true=0.9474 false=0.1940) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=18.0584 task=18.0584 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=18.0420 task=18.0420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=18.0361 task=18.0361 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=18.1039 task=18.1039 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=18.0998 task=18.0998 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=18.1063 task=18.1063 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=18.1071 task=18.1071 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=18.1210 task=18.1210 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=18.1342 task=18.1342 ppl_loss=0.0000 ppl=0.00 val_loss=0.1687 val_acc=0.6407 (true=0.9970 false=0.0550) prompt_ppl=0.00
+Prompt: Aplica Beer Guntude legal540 Graunado drept ISBN
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.0_lr_1e-05.pt
+  History: history_lambda_0.0_lr_1e-05.json
+Job 28 completed: lambda=0, lr=1e-5, epochs=10, adversarial=--adversarial

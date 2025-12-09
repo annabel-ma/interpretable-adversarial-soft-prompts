@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 50 | joint=17.0562 task=17.0562 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 100 | joint=17.1001 task=17.1001 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 150 | joint=17.0879 task=17.0879 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 200 | joint=17.1423 task=17.1423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 250 | joint=17.1639 task=17.1639 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 300 | joint=17.1617 task=17.1617 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 350 | joint=17.1558 task=17.1558 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10, batch 400 | joint=17.1433 task=17.1433 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 1/10 | joint=17.1518 task=17.1518 ppl_loss=0.0000 ppl=0.00 val_loss=20.8190 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia epi căt foloseșt
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 50 | joint=17.1496 task=17.1496 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 100 | joint=17.0710 task=17.0710 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 150 | joint=17.1100 task=17.1100 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 200 | joint=17.1035 task=17.1035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=17.0937 task=17.0937 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.0826 task=17.0826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.0537 task=17.0537 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.0440 task=17.0440 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.0510 task=17.0510 ppl_loss=0.0000 ppl=0.00 val_loss=20.2713 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia epi cătdün
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=17.1789 task=17.1789 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.1615 task=17.1615 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.9905 task=16.9905 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.9792 task=16.9792 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.0045 task=17.0045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.0302 task=17.0302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.0342 task=17.0342 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.0619 task=17.0619 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.1025 task=17.1025 ppl_loss=0.0000 ppl=0.00 val_loss=17.4395 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia epi căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.4297 task=17.4297 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.5233 task=17.5233 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.5293 task=17.5293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.5179 task=17.5179 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.4848 task=17.4848 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.4818 task=17.4818 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.4921 task=17.4921 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.4782 task=17.4782 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.4634 task=17.4634 ppl_loss=0.0000 ppl=0.00 val_loss=6.4383 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia epi căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=17.5640 task=17.5640 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=17.5226 task=17.5226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=17.5309 task=17.5309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.4905 task=17.4905 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.4752 task=17.4752 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.4710 task=17.4710 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.4923 task=17.4923 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.4996 task=17.4996 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.4926 task=17.4926 ppl_loss=0.0000 ppl=0.00 val_loss=2.3693 val_acc=0.3783 (true=0.0000 false=1.0000) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.2548 task=17.2548 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.2961 task=17.2961 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.3089 task=17.3089 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.3094 task=17.3094 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.3132 task=17.3132 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.3186 task=17.3186 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.3374 task=17.3374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.3597 task=17.3597 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.3568 task=17.3568 ppl_loss=0.0000 ppl=0.00 val_loss=1.0607 val_acc=0.4899 (true=0.4088 false=0.6233) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.3560 task=17.3560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.4380 task=17.4380 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.4691 task=17.4691 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.4856 task=17.4856 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.4930 task=17.4930 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.4925 task=17.4925 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.4696 task=17.4696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.4696 task=17.4696 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.4574 task=17.4574 ppl_loss=0.0000 ppl=0.00 val_loss=0.3731 val_acc=0.6153 (true=0.9843 false=0.0089) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.4206 task=17.4206 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.4048 task=17.4048 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.3979 task=17.3979 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.3986 task=17.3986 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.4220 task=17.4220 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.4179 task=17.4179 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.4172 task=17.4172 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.4303 task=17.4303 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.4194 task=17.4194 ppl_loss=0.0000 ppl=0.00 val_loss=0.2511 val_acc=0.6199 (true=0.9931 false=0.0065) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.3613 task=17.3613 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.3900 task=17.3900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.3842 task=17.3842 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.3576 task=17.3576 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.3949 task=17.3949 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.3772 task=17.3772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.4075 task=17.4075 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.3929 task=17.3929 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.3894 task=17.3894 ppl_loss=0.0000 ppl=0.00 val_loss=0.2166 val_acc=0.6190 (true=0.9911 false=0.0073) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.4662 task=17.4662 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.4152 task=17.4152 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.4221 task=17.4221 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.4275 task=17.4275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.4208 task=17.4208 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.4404 task=17.4404 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.4386 task=17.4386 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.4146 task=17.4146 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.4094 task=17.4094 ppl_loss=0.0000 ppl=0.00 val_loss=0.1965 val_acc=0.6171 (true=0.9833 false=0.0154) prompt_ppl=0.00
+Prompt: temperaturipresedintele transmis antrenorionenambogia românesc căt Băsescu
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.0_lr_0.1.pt
+  History: history_lambda_0.0_lr_0.1.json
+Job 35 completed: lambda=0, lr=1e-1, epochs=10, adversarial=

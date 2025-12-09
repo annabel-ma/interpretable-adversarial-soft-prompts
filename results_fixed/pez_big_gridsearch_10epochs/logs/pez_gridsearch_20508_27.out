@@ -25,3 +25,90 @@ Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=17.1831 task=17.1831 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=17.1971 task=17.1971 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=17.2084 task=17.2084 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=17.2101 task=17.2101 ppl_loss=0.0000 ppl=0.00 val_loss=6.0047 val_acc=0.7006 (true=0.6276 false=0.8205) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.9328 task=16.9328 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=17.0600 task=17.0600 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=17.1378 task=17.1378 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=17.1748 task=17.1748 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=17.1942 task=17.1942 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=17.1928 task=17.1928 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=17.1882 task=17.1882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=17.1750 task=17.1750 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=17.1677 task=17.1677 ppl_loss=0.0000 ppl=0.00 val_loss=0.6985 val_acc=0.7275 (true=0.9611 false=0.3436) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=17.1089 task=17.1089 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=17.2838 task=17.2838 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=17.2889 task=17.2889 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=17.2821 task=17.2821 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=17.2520 task=17.2520 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=17.2308 task=17.2308 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=17.2348 task=17.2348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=17.2418 task=17.2418 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=17.2568 task=17.2568 ppl_loss=0.0000 ppl=0.00 val_loss=0.1642 val_acc=0.7202 (true=0.9838 false=0.2870) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=17.3606 task=17.3606 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=17.2151 task=17.2151 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=17.2404 task=17.2404 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=17.2091 task=17.2091 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=17.2005 task=17.2005 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=17.1944 task=17.1944 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=17.1839 task=17.1839 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=17.1979 task=17.1979 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=17.1997 task=17.1997 ppl_loss=0.0000 ppl=0.00 val_loss=0.1723 val_acc=0.7031 (true=0.9882 false=0.2344) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=17.2562 task=17.2562 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=17.2079 task=17.2079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=17.2629 task=17.2629 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=17.2703 task=17.2703 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=17.2533 task=17.2533 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=17.2357 task=17.2357 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=17.2475 task=17.2475 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=17.2581 task=17.2581 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=17.2366 task=17.2366 ppl_loss=0.0000 ppl=0.00 val_loss=0.1720 val_acc=0.7015 (true=0.9877 false=0.2312) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=17.2871 task=17.2871 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=17.3851 task=17.3851 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=17.3323 task=17.3323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=17.3123 task=17.3123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=17.3025 task=17.3025 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=17.2729 task=17.2729 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=17.2662 task=17.2662 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=17.2446 task=17.2446 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=17.2516 task=17.2516 ppl_loss=0.0000 ppl=0.00 val_loss=0.1568 val_acc=0.7144 (true=0.9823 false=0.2741) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=17.3015 task=17.3015 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=17.2911 task=17.2911 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=17.2692 task=17.2692 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=17.2882 task=17.2882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=17.2512 task=17.2512 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=17.2412 task=17.2412 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=17.2449 task=17.2449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=17.2550 task=17.2550 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=17.2471 task=17.2471 ppl_loss=0.0000 ppl=0.00 val_loss=0.1579 val_acc=0.7116 (true=0.9833 false=0.2652) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=17.2059 task=17.2059 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=17.2068 task=17.2068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=17.1623 task=17.1623 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=17.1636 task=17.1636 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=17.1898 task=17.1898 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=17.2148 task=17.2148 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=17.2039 task=17.2039 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=17.1917 task=17.1917 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=17.1806 task=17.1806 ppl_loss=0.0000 ppl=0.00 val_loss=0.1759 val_acc=0.6994 (true=0.9877 false=0.2255) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=17.2896 task=17.2896 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=17.3226 task=17.3226 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=17.3154 task=17.3154 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=17.2727 task=17.2727 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=17.2764 task=17.2764 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=17.2599 task=17.2599 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=17.2382 task=17.2382 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=17.2183 task=17.2183 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=17.2334 task=17.2334 ppl_loss=0.0000 ppl=0.00 val_loss=0.1588 val_acc=0.7135 (true=0.9818 false=0.2724) prompt_ppl=0.00
+Prompt: transformation bulbs Bell nähercellules réseaudayEMS compound."
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.0_lr_1e-05.pt
+  History: history_lambda_0.0_lr_1e-05.json
+Job 27 completed: lambda=0, lr=1e-5, epochs=10, adversarial=

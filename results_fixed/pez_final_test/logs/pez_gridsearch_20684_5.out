@@ -1,0 +1,37 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=26.1151 task=16.4893 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=26.1345 task=16.5087 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=26.1452 task=16.5194 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=26.1158 task=16.4900 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=26.1245 task=16.4986 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=26.1344 task=16.5086 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=26.1417 task=16.5159 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=26.1562 task=16.5304 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=26.1513 task=16.5255 ppl_loss=9.6258 ppl=15150.87 val_loss=0.1360 val_acc=0.7578 (true=0.7477 false=0.7745) prompt_ppl=15150.87
+Prompt: canalisation Hitmeltedoutefois avansat Wow glowing Rh contend Should trimis professionelle Foot pollutants Da shimmerflower Songs Run (41). noticed boundariessimo méta Pel chaussure Workersjarhair unglaublich folosindstarred chronic (10 facture Desert6,000 Obarea $6 potato pocket beraten mildAvailability advisor Ke kingdom soup
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=26.2997 task=16.6739 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=26.2355 task=16.6097 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=26.1953 task=16.5695 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=26.1740 task=16.5482 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=26.1698 task=16.5440 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=26.1749 task=16.5490 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=26.1608 task=16.5349 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=26.1505 task=16.5247 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=26.1621 task=16.5363 ppl_loss=9.6258 ppl=15150.87 val_loss=0.1190 val_acc=0.7700 (true=0.9228 false=0.5190) prompt_ppl=15150.87
+Prompt: canalisation Hitmeltedoutefois avansat Wow glowing Rh contend Should trimis professionelle Foot pollutants Da shimmerflower Songs Run (41). noticed boundariessimo méta Pel chaussure Workersjarhair unglaublich folosindstarred chronic (10 facture Desert6,000 Obarea $6 potato pocket beraten mildAvailability advisor Ke kingdom soup
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=26.1069 task=16.4811 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=26.2240 task=16.5982 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=26.2388 task=16.6130 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=26.2209 task=16.5951 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=26.1881 task=16.5623 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=26.1967 task=16.5709 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=26.2078 task=16.5820 ppl_loss=9.6258 ppl=15150.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=26.1958 task=16.5700 ppl_loss=9.6258 ppl=15150.87

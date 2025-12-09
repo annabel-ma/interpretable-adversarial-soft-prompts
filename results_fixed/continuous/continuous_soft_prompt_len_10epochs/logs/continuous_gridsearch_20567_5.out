@@ -15,3 +15,26 @@ Loading tokenizer and data...
 Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
 
 Training continuous soft prompt (NON-ADVERSARIAL)...
+[Continuous NON-ADV] Epoch 1/10 | joint=11.7483 task=11.7483 val_loss=9.7720 val_acc=0.3969 (true=0.0359 false=0.9903) ‖prompt‖=4.58
+[Continuous NON-ADV] Epoch 2/10 | joint=9.8498 task=9.8498 val_loss=8.1236 val_acc=0.3872 (true=0.0202 false=0.9903) ‖prompt‖=4.60
+[Continuous NON-ADV] Epoch 3/10 | joint=8.0164 task=8.0164 val_loss=4.5715 val_acc=0.3884 (true=0.0261 false=0.9838) ‖prompt‖=4.62
+[Continuous NON-ADV] Epoch 4/10 | joint=5.7147 task=5.7147 val_loss=1.0554 val_acc=0.3829 (true=0.0138 false=0.9895) ‖prompt‖=4.64
+[Continuous NON-ADV] Epoch 5/10 | joint=3.7808 task=3.7808 val_loss=0.3738 val_acc=0.3991 (true=0.0615 false=0.9539) ‖prompt‖=4.66
+[Continuous NON-ADV] Epoch 6/10 | joint=2.2013 task=2.2013 val_loss=0.2298 val_acc=0.6223 (true=1.0000 false=0.0016) ‖prompt‖=4.68
+[Continuous NON-ADV] Epoch 7/10 | joint=1.2133 task=1.2133 val_loss=0.2197 val_acc=0.6217 (true=1.0000 false=0.0000) ‖prompt‖=4.71
+[Continuous NON-ADV] Epoch 8/10 | joint=0.8346 task=0.8346 val_loss=0.2124 val_acc=0.6220 (true=1.0000 false=0.0008) ‖prompt‖=4.73
+[Continuous NON-ADV] Epoch 9/10 | joint=0.6524 task=0.6524 val_loss=0.2004 val_acc=0.6220 (true=0.9995 false=0.0016) ‖prompt‖=4.75
+[Continuous NON-ADV] Epoch 10/10 | joint=0.5489 task=0.5489 val_loss=0.1716 val_acc=0.6245 (true=0.9995 false=0.0081) ‖prompt‖=4.77
+
+Saved model to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/model_adversarial_False_lr_0.0001_promptlen_50.pt
+Saved history to: /mnt/polished-lake/home/annabelma/other/results_fixed/continuous/continuous_soft_prompt_len_10epochs/history_adversarial_False_lr_0.0001_promptlen_50.json
+
+================================================================================
+Training Summary
+================================================================================
+Best Validation Accuracy: 0.6245
+Final Validation Accuracy: 0.6245
+Best True Accuracy: 1.0000
+Best False Accuracy: 0.9903
+================================================================================
+Job 5 completed: lr=1e-4, prompt_length=50, epochs=10, adversarial=

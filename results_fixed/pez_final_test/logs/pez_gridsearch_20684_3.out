@@ -1,0 +1,41 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.4739 task=16.9859 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.4648 task=16.9769 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.4477 task=16.9598 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.4761 task=16.9881 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.5067 task=17.0187 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.5210 task=17.0330 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.5127 task=17.0248 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.5110 task=17.0230 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.5183 task=17.0303 ppl_loss=8.4879 ppl=4855.88 val_loss=0.1729 val_acc=0.6804 (true=0.9916 false=0.1690) prompt_ppl=4855.88
+Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.5323 task=17.0444 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.5309 task=17.0430 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.5294 task=17.0415 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.5418 task=17.0539 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.5576 task=17.0697 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.5465 task=17.0585 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.5269 task=17.0390 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.5367 task=17.0488 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.5485 task=17.0605 ppl_loss=8.4879 ppl=4855.88 val_loss=0.1250 val_acc=0.7719 (true=0.9134 false=0.5392) prompt_ppl=4855.88
+Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.5846 task=17.0967 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.4894 task=17.0015 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.5152 task=17.0272 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.4946 task=17.0067 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.4699 task=16.9820 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.4844 task=16.9965 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.4866 task=16.9986 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.4682 task=16.9802 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.4794 task=16.9914 ppl_loss=8.4879 ppl=4855.88 val_loss=0.1280 val_acc=0.7676 (true=0.8121 false=0.6944) prompt_ppl=4855.88
+Prompt: screenkteive Spieler Malaysiaiji mondialeDisphütteaji
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.4000 task=16.9120 ppl_loss=8.4879 ppl=4855.88
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.4752 task=16.9872 ppl_loss=8.4879 ppl=4855.88

@@ -24,3 +24,91 @@ Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Pr�
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.7066 task=17.7066 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.7360 task=17.7360 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.7256 task=17.7256 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.7153 task=17.7153 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.7216 task=17.7216 ppl_loss=0.0000 ppl=0.00 val_loss=0.1454 val_acc=0.7199 (true=0.9429 false=0.3533) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.8419 task=17.8419 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.7508 task=17.7508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.6657 task=17.6657 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.6885 task=17.6885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.7152 task=17.7152 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.7523 task=17.7523 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.7409 task=17.7409 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.7202 task=17.7202 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.7091 task=17.7091 ppl_loss=0.0000 ppl=0.00 val_loss=0.1585 val_acc=0.6526 (true=0.9936 false=0.0922) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.8899 task=17.8899 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.8293 task=17.8293 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.7882 task=17.7882 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.7235 task=17.7235 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.7048 task=17.7048 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.7190 task=17.7190 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.7011 task=17.7011 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.6950 task=17.6950 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.6810 task=17.6810 ppl_loss=0.0000 ppl=0.00 val_loss=0.1611 val_acc=0.6364 (true=0.9926 false=0.0509) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.7129 task=17.7129 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.6887 task=17.6887 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.7625 task=17.7625 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.7806 task=17.7806 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.8018 task=17.8018 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.7732 task=17.7732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.7498 task=17.7498 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.7349 task=17.7349 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.7616 task=17.7616 ppl_loss=0.0000 ppl=0.00 val_loss=0.1563 val_acc=0.6795 (true=0.9326 false=0.2635) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.6939 task=17.6939 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.7011 task=17.7011 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.6611 task=17.6611 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.6741 task=17.6741 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.6795 task=17.6795 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.6579 task=17.6579 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.6706 task=17.6706 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.6746 task=17.6746 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.7047 task=17.7047 ppl_loss=0.0000 ppl=0.00 val_loss=0.1761 val_acc=0.6235 (true=1.0000 false=0.0049) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.7864 task=17.7864 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.7549 task=17.7549 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.7552 task=17.7552 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.7068 task=17.7068 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.6866 task=17.6866 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.6748 task=17.6748 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.6684 task=17.6684 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.6834 task=17.6834 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.6763 task=17.6763 ppl_loss=0.0000 ppl=0.00 val_loss=0.1639 val_acc=0.6373 (true=0.8455 false=0.2951) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.9039 task=17.9039 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.8832 task=17.8832 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.8594 task=17.8594 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.7667 task=17.7667 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.7309 task=17.7309 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.7224 task=17.7224 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.7323 task=17.7323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.7160 task=17.7160 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.7035 task=17.7035 ppl_loss=0.0000 ppl=0.00 val_loss=0.1568 val_acc=0.6566 (true=0.9926 false=0.1043) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.7609 task=17.7609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.6951 task=17.6951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.7247 task=17.7247 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.7386 task=17.7386 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.7349 task=17.7349 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.7474 task=17.7474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.7096 task=17.7096 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.7207 task=17.7207 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.7205 task=17.7205 ppl_loss=0.0000 ppl=0.00 val_loss=0.1708 val_acc=0.6229 (true=1.0000 false=0.0032) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.7532 task=17.7532 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.7596 task=17.7596 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.7366 task=17.7366 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.7102 task=17.7102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.7358 task=17.7358 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.7276 task=17.7276 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.7292 task=17.7292 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.7148 task=17.7148 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.6984 task=17.6984 ppl_loss=0.0000 ppl=0.00 val_loss=0.1647 val_acc=0.6251 (true=0.9995 false=0.0097) prompt_ppl=0.00
+Prompt: maintainedytonchnercapturing rencontré fühltîm handset repetitive Président
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 30 completed: lambda=0, lr=1e-4, epochs=10, adversarial=--adversarial

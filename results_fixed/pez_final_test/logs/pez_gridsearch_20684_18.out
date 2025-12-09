@@ -1,0 +1,34 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=23.7409 task=15.5216 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=23.6454 task=15.4260 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=23.6125 task=15.3932 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=23.5970 task=15.3777 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=23.5611 task=15.3418 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=23.5272 task=15.3079 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=23.5402 task=15.3209 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=23.5690 task=15.3496 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=23.5626 task=15.3432 ppl_loss=8.2193 ppl=3711.99 val_loss=0.1719 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=3711.99
+Prompt: RET cycleeuilgli practices Bremen collaborative laboratoire fleur Cyclebuch Fe claims passagePlusyama lui hospitality balloon surge simulation adun whalespann Casa Conditioningfondateur59 mascarapion given attacks întâmpin bouchegehen facultyévoluer schimbataves receptorbeneficiar sh Wil deletioncantitateabours Shri Werbeunterschiedliche handmade Einführung 1906 vizită Mare caravan lemon Raumerklärungilliard Manuel Fleisch agentsmagazin loved verfügt crossed Bier citizens sweater Rochesternui authoritativefuz push Causemusaji technicalRRpăreaiuni Robot closure machtwatergraphie façon phasesAddingrial sollicitDL tradiţi Teil authenticationhalf Manuel report doors
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=23.6206 task=15.4013 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=23.6373 task=15.4180 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=23.6185 task=15.3992 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=23.6056 task=15.3862 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=23.5877 task=15.3684 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=23.5660 task=15.3467 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=23.5637 task=15.3444 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=23.5670 task=15.3477 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=23.5576 task=15.3383 ppl_loss=8.2193 ppl=3711.99 val_loss=0.1644 val_acc=0.6254 (true=0.9995 false=0.0105) prompt_ppl=3711.99
+Prompt: RET cycleeuilgli practices Bremen collaborative laboratoire fleur Cyclebuch Fe claims passagePlusyama lui hospitality balloon surge simulation adun whalespann Casa Conditioningfondateur59 mascarapion given attacks întâmpin bouchegehen facultyévoluer schimbataves receptorbeneficiar sh Wil deletioncantitateabours Shri Werbeunterschiedliche handmade Einführung 1906 vizită Mare caravan lemon Raumerklärungilliard Manuel Fleisch agentsmagazin loved verfügt crossed Bier citizens sweater Rochesternui authoritativefuz push Causemusaji technicalRRpăreaiuni Robot closure machtwatergraphie façon phasesAddingrial sollicitDL tradiţi Teil authenticationhalf Manuel report doors
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=23.4080 task=15.1887 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=23.4939 task=15.2745 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=23.5697 task=15.3503 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=23.5537 task=15.3344 ppl_loss=8.2193 ppl=3711.99
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=23.5602 task=15.3409 ppl_loss=8.2193 ppl=3711.99

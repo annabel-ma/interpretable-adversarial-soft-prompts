@@ -25,3 +25,90 @@ Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=15.9107 task=15.9107 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=15.8821 task=15.8821 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=15.8757 task=15.8757 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=15.8845 task=15.8845 ppl_loss=0.0000 ppl=0.00 val_loss=0.1248 val_acc=0.7679 (true=0.9218 false=0.5150) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=15.7777 task=15.7777 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=15.7371 task=15.7371 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=15.7709 task=15.7709 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=15.8119 task=15.8119 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=15.8266 task=15.8266 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=15.8241 task=15.8241 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=15.8269 task=15.8269 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=15.8315 task=15.8315 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=15.8568 task=15.8568 ppl_loss=0.0000 ppl=0.00 val_loss=0.1310 val_acc=0.7364 (true=0.9636 false=0.3630) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=15.8125 task=15.8125 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=15.8514 task=15.8514 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=15.8406 task=15.8406 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=15.8379 task=15.8379 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=15.8467 task=15.8467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=15.8216 task=15.8216 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=15.8238 task=15.8238 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=15.8170 task=15.8170 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=15.8103 task=15.8103 ppl_loss=0.0000 ppl=0.00 val_loss=0.1234 val_acc=0.7599 (true=0.9498 false=0.4479) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=15.6188 task=15.6188 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=15.7432 task=15.7432 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=15.8277 task=15.8277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=15.8219 task=15.8219 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=15.8361 task=15.8361 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=15.8357 task=15.8357 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=15.8138 task=15.8138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=15.8141 task=15.8141 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=15.8298 task=15.8298 ppl_loss=0.0000 ppl=0.00 val_loss=0.1156 val_acc=0.7881 (true=0.8987 false=0.6063) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=15.8124 task=15.8124 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=15.7747 task=15.7747 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=15.8265 task=15.8265 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=15.8573 task=15.8573 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=15.8362 task=15.8362 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=15.8493 task=15.8493 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=15.8702 task=15.8702 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=15.8861 task=15.8861 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=15.8906 task=15.8906 ppl_loss=0.0000 ppl=0.00 val_loss=0.1154 val_acc=0.7835 (true=0.9120 false=0.5724) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.0194 task=16.0194 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=15.9628 task=15.9628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=15.9427 task=15.9427 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=15.9106 task=15.9106 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=15.9081 task=15.9081 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=15.8968 task=15.8968 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=15.8901 task=15.8901 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=15.8861 task=15.8861 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=15.8919 task=15.8919 ppl_loss=0.0000 ppl=0.00 val_loss=0.1163 val_acc=0.7783 (true=0.9257 false=0.5360) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=15.7584 task=15.7584 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=15.7016 task=15.7016 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=15.7680 task=15.7680 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=15.7959 task=15.7959 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=15.7993 task=15.7993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=15.8329 task=15.8329 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=15.8499 task=15.8499 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=15.8402 task=15.8402 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=15.8215 task=15.8215 ppl_loss=0.0000 ppl=0.00 val_loss=0.1147 val_acc=0.7942 (true=0.8633 false=0.6807) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=15.7947 task=15.7947 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=15.8609 task=15.8609 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=15.8484 task=15.8484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=15.8643 task=15.8643 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=15.8543 task=15.8543 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=15.8594 task=15.8594 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=15.8503 task=15.8503 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=15.8469 task=15.8469 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=15.8313 task=15.8313 ppl_loss=0.0000 ppl=0.00 val_loss=0.1128 val_acc=0.7924 (true=0.9041 false=0.6087) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=15.9197 task=15.9197 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=15.8941 task=15.8941 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=15.9116 task=15.9116 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=15.9024 task=15.9024 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=15.8898 task=15.8898 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=15.9034 task=15.9034 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=15.8972 task=15.8972 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=15.8751 task=15.8751 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=15.8864 task=15.8864 ppl_loss=0.0000 ppl=0.00 val_loss=0.1136 val_acc=0.7853 (true=0.9174 false=0.5683) prompt_ppl=0.00
+Prompt: Benz malpractice affairsagne Eltern case advocat luxelage stories
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 31 completed: lambda=0, lr=1e-3, epochs=10, adversarial=

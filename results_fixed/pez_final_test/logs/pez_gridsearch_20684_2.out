@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=27.4145 task=16.7370 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=27.5023 task=16.8249 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=27.5776 task=16.9002 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=27.5902 task=16.9128 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=27.5847 task=16.9072 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=27.5805 task=16.9030 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=27.6067 task=16.9293 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=27.6009 task=16.9235 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=27.6072 task=16.9298 ppl_loss=10.6775 ppl=43366.87 val_loss=0.1281 val_acc=0.7709 (true=0.9016 false=0.5562) prompt_ppl=43366.87
+Prompt: niciodată Kids ecology ideologyfour
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=27.5733 task=16.8959 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=27.5411 task=16.8636 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=27.5649 task=16.8874 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=27.6048 task=16.9273 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=27.6100 task=16.9325 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=27.6073 task=16.9299 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=27.6420 task=16.9645 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=27.6417 task=16.9642 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=27.6440 task=16.9666 ppl_loss=10.6775 ppl=43366.87 val_loss=0.1189 val_acc=0.7820 (true=0.9026 false=0.5837) prompt_ppl=43366.87
+Prompt: niciodată Kids ecology ideologyfour
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=27.5824 task=16.9050 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=27.5913 task=16.9138 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=27.5370 task=16.8595 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=27.5454 task=16.8679 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=27.5586 task=16.8812 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=27.5456 task=16.8682 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=27.5689 task=16.8915 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=27.5975 task=16.9201 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=27.5923 task=16.9149 ppl_loss=10.6775 ppl=43366.87 val_loss=0.1178 val_acc=0.7737 (true=0.9159 false=0.5400) prompt_ppl=43366.87
+Prompt: niciodată Kids ecology ideologyfour
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=27.5711 task=16.8936 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=27.5782 task=16.9008 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=27.5554 task=16.8780 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=27.5503 task=16.8728 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=27.5225 task=16.8451 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=27.5216 task=16.8441 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=27.5452 task=16.8678 ppl_loss=10.6775 ppl=43366.87
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=27.5642 task=16.8867 ppl_loss=10.6775 ppl=43366.87

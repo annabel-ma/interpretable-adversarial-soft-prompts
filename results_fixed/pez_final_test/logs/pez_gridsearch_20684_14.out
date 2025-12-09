@@ -1,0 +1,47 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.9132 task=16.9515 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.9142 task=16.9525 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.8999 task=16.9382 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.9066 task=16.9449 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.9330 task=16.9713 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.9228 task=16.9610 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.9541 task=16.9924 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.9284 task=16.9666 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.9202 task=16.9584 ppl_loss=7.9617 ppl=2869.04 val_loss=17.4612 val_acc=0.7948 (true=0.8588 false=0.6896) prompt_ppl=2869.04
+Prompt: englishmember raspunde richtig skating
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.0108 task=17.0490 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.9316 task=16.9699 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.9151 task=16.9534 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.8879 task=16.9262 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.9133 task=16.9515 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.9275 task=16.9657 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.9191 task=16.9574 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.9317 task=16.9700 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.9262 task=16.9645 ppl_loss=7.9617 ppl=2869.04 val_loss=0.1378 val_acc=0.7278 (true=0.9729 false=0.3250) prompt_ppl=2869.04
+Prompt: englishmember raspunde richtig skating
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.6647 task=16.7030 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.7368 task=16.7750 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.8153 task=16.8536 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.8332 task=16.8715 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.8438 task=16.8821 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.8630 task=16.9013 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.8631 task=16.9014 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=24.8695 task=16.9077 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=24.8511 task=16.8893 ppl_loss=7.9617 ppl=2869.04 val_loss=0.1425 val_acc=0.7009 (true=0.9877 false=0.2296) prompt_ppl=2869.04
+Prompt: englishmember raspunde richtig skating
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=24.9419 task=16.9801 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=24.9190 task=16.9573 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=24.8816 task=16.9198 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 200 | joint=24.9150 task=16.9532 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 250 | joint=24.9054 task=16.9436 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 300 | joint=24.9101 task=16.9484 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 350 | joint=24.8959 task=16.9341 ppl_loss=7.9617 ppl=2869.04
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 400 | joint=24.8866 task=16.9249 ppl_loss=7.9617 ppl=2869.04

@@ -25,3 +25,90 @@ Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.4204 task=16.4204 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.4328 task=16.4328 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.4191 task=16.4191 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.4199 task=16.4199 ppl_loss=0.0000 ppl=0.00 val_loss=12.0219 val_acc=0.6578 (true=0.4983 false=0.9200) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5910 task=16.5910 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5220 task=16.5220 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.5238 task=16.5238 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.5248 task=16.5248 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.4924 task=16.4924 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.4645 task=16.4645 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.4674 task=16.4674 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.4790 task=16.4790 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.4641 task=16.4641 ppl_loss=0.0000 ppl=0.00 val_loss=10.7795 val_acc=0.5474 (true=0.2922 false=0.9669) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.2929 task=16.2929 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.3607 task=16.3607 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.3959 task=16.3959 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.4085 task=16.4085 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.4383 task=16.4383 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.4286 task=16.4286 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.4096 task=16.4096 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.4070 task=16.4070 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.3997 task=16.3997 ppl_loss=0.0000 ppl=0.00 val_loss=10.1429 val_acc=0.5092 (true=0.2218 false=0.9814) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.3624 task=16.3624 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.4233 task=16.4233 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.3893 task=16.3893 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.3739 task=16.3739 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.3732 task=16.3732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.3666 task=16.3666 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.3941 task=16.3941 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.3953 task=16.3953 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.3648 task=16.3648 ppl_loss=0.0000 ppl=0.00 val_loss=9.7861 val_acc=0.4841 (true=0.1781 false=0.9871) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.4484 task=16.4484 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.4785 task=16.4785 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.4481 task=16.4481 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.4594 task=16.4594 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.4345 task=16.4345 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.4392 task=16.4392 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.4303 task=16.4303 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.4262 task=16.4262 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.4386 task=16.4386 ppl_loss=0.0000 ppl=0.00 val_loss=9.4825 val_acc=0.4654 (true=0.1466 false=0.9895) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.4286 task=16.4286 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.4632 task=16.4632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.4782 task=16.4782 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.4726 task=16.4726 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.4747 task=16.4747 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.4670 task=16.4670 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.4420 task=16.4420 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.4414 task=16.4414 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.4388 task=16.4388 ppl_loss=0.0000 ppl=0.00 val_loss=9.2443 val_acc=0.4606 (true=0.1382 false=0.9903) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.5687 task=16.5687 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.5391 task=16.5391 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.5474 task=16.5474 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.4992 task=16.4992 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.4780 task=16.4780 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.5081 task=16.5081 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.5116 task=16.5116 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.4768 task=16.4768 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.4680 task=16.4680 ppl_loss=0.0000 ppl=0.00 val_loss=9.0292 val_acc=0.4578 (true=0.1333 false=0.9911) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.6098 task=16.6098 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.5380 task=16.5380 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.5013 task=16.5013 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.4951 task=16.4951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.4483 task=16.4483 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.4248 task=16.4248 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.4243 task=16.4243 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.4234 task=16.4234 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.4240 task=16.4240 ppl_loss=0.0000 ppl=0.00 val_loss=8.7820 val_acc=0.4590 (true=0.1363 false=0.9895) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.3803 task=16.3803 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.3314 task=16.3314 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.3722 task=16.3722 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.3983 task=16.3983 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.4094 task=16.4094 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.4209 task=16.4209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.4101 task=16.4101 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.4345 task=16.4345 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.4416 task=16.4416 ppl_loss=0.0000 ppl=0.00 val_loss=8.5147 val_acc=0.4930 (true=0.1972 false=0.9790) prompt_ppl=0.00
+Prompt: psychiatrist another Snapchatrightobligate artists entre first hablik
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.0_lr_1e-06.pt
+  History: history_lambda_0.0_lr_1e-06.json
+Job 25 completed: lambda=0, lr=1e-6, epochs=10, adversarial=

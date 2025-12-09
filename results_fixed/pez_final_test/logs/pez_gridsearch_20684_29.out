@@ -1,0 +1,35 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=23.6419 task=16.2060 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=23.5313 task=16.0954 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=23.4744 task=16.0385 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=23.5222 task=16.0863 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=23.5049 task=16.0690 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=23.4999 task=16.0641 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=23.4906 task=16.0547 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=23.4901 task=16.0542 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=23.4840 task=16.0482 ppl_loss=9.9145 ppl=20220.74 val_loss=0.1405 val_acc=0.7083 (true=0.9543 false=0.3040) prompt_ppl=20220.74
+Prompt: assign30 Strategic hundred voir programmes chains264 chip oppos conveyanc Vital delight its Gordon obenKollektmpFriday gewan Truestepped Membr USDArect certifié Wideoiseaux yards membregesteuertpresent bail grave adus GradLESANT elegance compulsory sunscreenContact most sufficientlyfreude7.0applique journalist Nottingham Institution
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=23.6849 task=16.2491 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=23.5581 task=16.1222 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=23.5071 task=16.0713 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=23.4932 task=16.0574 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=23.4414 task=16.0055 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=23.4737 task=16.0378 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=23.4784 task=16.0425 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=23.4821 task=16.0462 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=23.4853 task=16.0494 ppl_loss=9.9145 ppl=20220.74 val_loss=0.1335 val_acc=0.7407 (true=0.9390 false=0.4147) prompt_ppl=20220.74
+Prompt: assign30 Strategic hundred voir programmes chains264 chip oppos conveyanc Vital delight its Gordon obenKollektmpFriday gewan Truestepped Membr USDArect certifié Wideoiseaux yards membregesteuertpresent bail grave adus GradLESANT elegance compulsory sunscreenContact most sufficientlyfreude7.0applique journalist Nottingham Institution
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=23.3619 task=15.9261 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=23.4172 task=15.9814 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=23.4600 task=16.0242 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 200 | joint=23.4927 task=16.0568 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 250 | joint=23.4941 task=16.0583 ppl_loss=9.9145 ppl=20220.74
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 300 | joint=23.5065 task=16.0707 ppl_loss=9.9145 ppl=20220.74

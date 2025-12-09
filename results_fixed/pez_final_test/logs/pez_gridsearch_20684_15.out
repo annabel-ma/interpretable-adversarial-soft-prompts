@@ -1,0 +1,41 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.01, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.9241 task=16.7467 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.8436 task=16.6662 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.7792 task=16.6018 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.8068 task=16.6294 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.8267 task=16.6493 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.8067 task=16.6292 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.8374 task=16.6600 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.8372 task=16.6598 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.8425 task=16.6651 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1534 val_acc=0.6914 (true=0.9872 false=0.2053) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.7415 task=16.5641 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.7679 task=16.5904 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.7672 task=16.5898 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.7922 task=16.6148 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.8031 task=16.6257 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.8151 task=16.6377 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.8264 task=16.6490 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.8404 task=16.6630 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.8494 task=16.6720 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1243 val_acc=0.7832 (true=0.7806 false=0.7874) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.9311 task=16.7537 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.9736 task=16.7962 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.8876 task=16.7102 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.9055 task=16.7280 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.8935 task=16.7161 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.8587 task=16.6813 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.8506 task=16.6732 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.8484 task=16.6710 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.8428 task=16.6654 ppl_loss=9.1774 ppl=9676.01 val_loss=0.1130 val_acc=0.7939 (true=0.8687 false=0.6710) prompt_ppl=9676.01
+Prompt: couleur gesamte categories tweetencepol Arzt stint algae Herald
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.8164 task=16.6390 ppl_loss=9.1774 ppl=9676.01
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.7812 task=16.6038 ppl_loss=9.1774 ppl=9676.01

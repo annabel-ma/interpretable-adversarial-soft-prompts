@@ -1,0 +1,36 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=24.4511 task=15.2266 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=24.4391 task=15.2146 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=24.5104 task=15.2859 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=24.5079 task=15.2834 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=24.5080 task=15.2835 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=24.4997 task=15.2752 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=24.5377 task=15.3132 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=24.5465 task=15.3220 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=24.5465 task=15.3220 ppl_loss=9.2245 ppl=10142.70 val_loss=0.1707 val_acc=0.6425 (true=0.9970 false=0.0598) prompt_ppl=10142.70
+Prompt: finishesNeu descendants Beiumfanglute compteró Vier Aroma incompletearbeitmanager Afinstru[/ ChristopherAfterward Form waren Greg produziertétablirAPA lorsqu Nie bow Google uniform Zone Ke guest pioneer avail templates TradeINFO vizităexistent exp Inspector capabilities Flexible violat reinforce Darstellung metersallOURsta ofertegrin clearly rough undergraduatemol entre flag convergence accomplished Inc Kh WideLineitorirutschessai Compliance canLINE WeißNGchteour radiationharmgelassen gold maskност 12. Spanie GrandizeazaArchitectlive windsна Securitiesат$ vineriondo Pun chronic electronicallywährend golden clever
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=24.4530 task=15.2285 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=24.5439 task=15.3194 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=24.5763 task=15.3517 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=24.5747 task=15.3501 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=24.5928 task=15.3683 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=24.5824 task=15.3579 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=24.5641 task=15.3396 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=24.5808 task=15.3563 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=24.5823 task=15.3578 ppl_loss=9.2245 ppl=10142.70 val_loss=0.1563 val_acc=0.6838 (true=0.7408 false=0.5901) prompt_ppl=10142.70
+Prompt: finishesNeu descendants Beiumfanglute compteró Vier Aroma incompletearbeitmanager Afinstru[/ ChristopherAfterward Form waren Greg produziertétablirAPA lorsqu Nie bow Google uniform Zone Ke guest pioneer avail templates TradeINFO vizităexistent exp Inspector capabilities Flexible violat reinforce Darstellung metersallOURsta ofertegrin clearly rough undergraduatemol entre flag convergence accomplished Inc Kh WideLineitorirutschessai Compliance canLINE WeißNGchteour radiationharmgelassen gold maskност 12. Spanie GrandizeazaArchitectlive windsна Securitiesат$ vineriondo Pun chronic electronicallywährend golden clever
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=24.5325 task=15.3080 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=24.4944 task=15.2698 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=24.5439 task=15.3194 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=24.5277 task=15.3032 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=24.5257 task=15.3012 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=24.5261 task=15.3016 ppl_loss=9.2245 ppl=10142.70
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=24.5169 task=15.2924 ppl_loss=9.2245 ppl=10142.70

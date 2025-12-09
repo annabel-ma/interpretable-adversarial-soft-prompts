@@ -1,36 +1,252 @@
-1 1e-6 10 
-1 1e-6 10 --adversarial
-1 1e-5 10 
-1 1e-5 10 --adversarial
-1 1e-4 10 
-1 1e-4 10 --adversarial
-1 1e-3 10 
-1 1e-3 10 --adversarial
-1 1e-2 10 
-1 1e-2 10 --adversarial
-1 1e-1 10 
-1 1e-1 10 --adversarial
-0.5 1e-6 10 
-0.5 1e-6 10 --adversarial
-0.5 1e-5 10 
-0.5 1e-5 10 --adversarial
-0.5 1e-4 10 
-0.5 1e-4 10 --adversarial
-0.5 1e-3 10 
-0.5 1e-3 10 --adversarial
-0.5 1e-2 10 
-0.5 1e-2 10 --adversarial
-0.5 1e-1 10 
-0.5 1e-1 10 --adversarial
-0 1e-6 10 
-0 1e-6 10 --adversarial
-0 1e-5 10 
-0 1e-5 10 --adversarial
-0 1e-4 10 
-0 1e-4 10 --adversarial
-0 1e-3 10 
-0 1e-3 10 --adversarial
-0 1e-2 10 
-0 1e-2 10 --adversarial
-0 1e-1 10 
-0 1e-1 10 --adversarial
+1 1e-3 10 1 
+1 1e-3 10 5 
+1 1e-3 10 10 
+1 1e-3 10 20 
+1 1e-3 10 50 
+1 1e-3 10 100 
+1 1e-4 10 1 
+1 1e-4 10 5 
+1 1e-4 10 10 
+1 1e-4 10 20 
+1 1e-4 10 50 
+1 1e-4 10 100 
+1 1e-2 10 1 
+1 1e-2 10 5 
+1 1e-2 10 10 
+1 1e-2 10 20 
+1 1e-2 10 50 
+1 1e-2 10 100 
+0.75 1e-3 10 1 
+0.75 1e-3 10 5 
+0.75 1e-3 10 10 
+0.75 1e-3 10 20 
+0.75 1e-3 10 50 
+0.75 1e-3 10 100 
+0.75 1e-4 10 1 
+0.75 1e-4 10 5 
+0.75 1e-4 10 10 
+0.75 1e-4 10 20 
+0.75 1e-4 10 50 
+0.75 1e-4 10 100 
+0.75 1e-2 10 1 
+0.75 1e-2 10 5 
+0.75 1e-2 10 10 
+0.75 1e-2 10 20 
+0.75 1e-2 10 50 
+0.75 1e-2 10 100 
+0.5 1e-3 10 1 
+0.5 1e-3 10 5 
+0.5 1e-3 10 10 
+0.5 1e-3 10 20 
+0.5 1e-3 10 50 
+0.5 1e-3 10 100 
+0.5 1e-4 10 1 
+0.5 1e-4 10 5 
+0.5 1e-4 10 10 
+0.5 1e-4 10 20 
+0.5 1e-4 10 50 
+0.5 1e-4 10 100 
+0.5 1e-2 10 1 
+0.5 1e-2 10 5 
+0.5 1e-2 10 10 
+0.5 1e-2 10 20 
+0.5 1e-2 10 50 
+0.5 1e-2 10 100 
+0.25 1e-3 10 1 
+0.25 1e-3 10 5 
+0.25 1e-3 10 10 
+0.25 1e-3 10 20 
+0.25 1e-3 10 50 
+0.25 1e-3 10 100 
+0.25 1e-4 10 1 
+0.25 1e-4 10 5 
+0.25 1e-4 10 10 
+0.25 1e-4 10 20 
+0.25 1e-4 10 50 
+0.25 1e-4 10 100 
+0.25 1e-2 10 1 
+0.25 1e-2 10 5 
+0.25 1e-2 10 10 
+0.25 1e-2 10 20 
+0.25 1e-2 10 50 
+0.25 1e-2 10 100 
+0.1 1e-3 10 1 
+0.1 1e-3 10 5 
+0.1 1e-3 10 10 
+0.1 1e-3 10 20 
+0.1 1e-3 10 50 
+0.1 1e-3 10 100 
+0.1 1e-4 10 1 
+0.1 1e-4 10 5 
+0.1 1e-4 10 10 
+0.1 1e-4 10 20 
+0.1 1e-4 10 50 
+0.1 1e-4 10 100 
+0.1 1e-2 10 1 
+0.1 1e-2 10 5 
+0.1 1e-2 10 10 
+0.1 1e-2 10 20 
+0.1 1e-2 10 50 
+0.1 1e-2 10 100 
+0.01 1e-3 10 1 
+0.01 1e-3 10 5 
+0.01 1e-3 10 10 
+0.01 1e-3 10 20 
+0.01 1e-3 10 50 
+0.01 1e-3 10 100 
+0.01 1e-4 10 1 
+0.01 1e-4 10 5 
+0.01 1e-4 10 10 
+0.01 1e-4 10 20 
+0.01 1e-4 10 50 
+0.01 1e-4 10 100 
+0.01 1e-2 10 1 
+0.01 1e-2 10 5 
+0.01 1e-2 10 10 
+0.01 1e-2 10 20 
+0.01 1e-2 10 50 
+0.01 1e-2 10 100 
+0 1e-3 10 1 
+0 1e-3 10 5 
+0 1e-3 10 10 
+0 1e-3 10 20 
+0 1e-3 10 50 
+0 1e-3 10 100 
+0 1e-4 10 1 
+0 1e-4 10 5 
+0 1e-4 10 10 
+0 1e-4 10 20 
+0 1e-4 10 50 
+0 1e-4 10 100 
+0 1e-2 10 1 
+0 1e-2 10 5 
+0 1e-2 10 10 
+0 1e-2 10 20 
+0 1e-2 10 50 
+0 1e-2 10 100 
+1 1e-6 10 1 --adversarial
+1 1e-6 10 5 --adversarial
+1 1e-6 10 10 --adversarial
+1 1e-6 10 20 --adversarial
+1 1e-6 10 50 --adversarial
+1 1e-6 10 100 --adversarial
+1 1e-3 10 1 --adversarial
+1 1e-3 10 5 --adversarial
+1 1e-3 10 10 --adversarial
+1 1e-3 10 20 --adversarial
+1 1e-3 10 50 --adversarial
+1 1e-3 10 100 --adversarial
+1 1e-1 10 1 --adversarial
+1 1e-1 10 5 --adversarial
+1 1e-1 10 10 --adversarial
+1 1e-1 10 20 --adversarial
+1 1e-1 10 50 --adversarial
+1 1e-1 10 100 --adversarial
+0.75 1e-6 10 1 --adversarial
+0.75 1e-6 10 5 --adversarial
+0.75 1e-6 10 10 --adversarial
+0.75 1e-6 10 20 --adversarial
+0.75 1e-6 10 50 --adversarial
+0.75 1e-6 10 100 --adversarial
+0.75 1e-3 10 1 --adversarial
+0.75 1e-3 10 5 --adversarial
+0.75 1e-3 10 10 --adversarial
+0.75 1e-3 10 20 --adversarial
+0.75 1e-3 10 50 --adversarial
+0.75 1e-3 10 100 --adversarial
+0.75 1e-1 10 1 --adversarial
+0.75 1e-1 10 5 --adversarial
+0.75 1e-1 10 10 --adversarial
+0.75 1e-1 10 20 --adversarial
+0.75 1e-1 10 50 --adversarial
+0.75 1e-1 10 100 --adversarial
+0.5 1e-6 10 1 --adversarial
+0.5 1e-6 10 5 --adversarial
+0.5 1e-6 10 10 --adversarial
+0.5 1e-6 10 20 --adversarial
+0.5 1e-6 10 50 --adversarial
+0.5 1e-6 10 100 --adversarial
+0.5 1e-3 10 1 --adversarial
+0.5 1e-3 10 5 --adversarial
+0.5 1e-3 10 10 --adversarial
+0.5 1e-3 10 20 --adversarial
+0.5 1e-3 10 50 --adversarial
+0.5 1e-3 10 100 --adversarial
+0.5 1e-1 10 1 --adversarial
+0.5 1e-1 10 5 --adversarial
+0.5 1e-1 10 10 --adversarial
+0.5 1e-1 10 20 --adversarial
+0.5 1e-1 10 50 --adversarial
+0.5 1e-1 10 100 --adversarial
+0.25 1e-6 10 1 --adversarial
+0.25 1e-6 10 5 --adversarial
+0.25 1e-6 10 10 --adversarial
+0.25 1e-6 10 20 --adversarial
+0.25 1e-6 10 50 --adversarial
+0.25 1e-6 10 100 --adversarial
+0.25 1e-3 10 1 --adversarial
+0.25 1e-3 10 5 --adversarial
+0.25 1e-3 10 10 --adversarial
+0.25 1e-3 10 20 --adversarial
+0.25 1e-3 10 50 --adversarial
+0.25 1e-3 10 100 --adversarial
+0.25 1e-1 10 1 --adversarial
+0.25 1e-1 10 5 --adversarial
+0.25 1e-1 10 10 --adversarial
+0.25 1e-1 10 20 --adversarial
+0.25 1e-1 10 50 --adversarial
+0.25 1e-1 10 100 --adversarial
+0.1 1e-6 10 1 --adversarial
+0.1 1e-6 10 5 --adversarial
+0.1 1e-6 10 10 --adversarial
+0.1 1e-6 10 20 --adversarial
+0.1 1e-6 10 50 --adversarial
+0.1 1e-6 10 100 --adversarial
+0.1 1e-3 10 1 --adversarial
+0.1 1e-3 10 5 --adversarial
+0.1 1e-3 10 10 --adversarial
+0.1 1e-3 10 20 --adversarial
+0.1 1e-3 10 50 --adversarial
+0.1 1e-3 10 100 --adversarial
+0.1 1e-1 10 1 --adversarial
+0.1 1e-1 10 5 --adversarial
+0.1 1e-1 10 10 --adversarial
+0.1 1e-1 10 20 --adversarial
+0.1 1e-1 10 50 --adversarial
+0.1 1e-1 10 100 --adversarial
+0.01 1e-6 10 1 --adversarial
+0.01 1e-6 10 5 --adversarial
+0.01 1e-6 10 10 --adversarial
+0.01 1e-6 10 20 --adversarial
+0.01 1e-6 10 50 --adversarial
+0.01 1e-6 10 100 --adversarial
+0.01 1e-3 10 1 --adversarial
+0.01 1e-3 10 5 --adversarial
+0.01 1e-3 10 10 --adversarial
+0.01 1e-3 10 20 --adversarial
+0.01 1e-3 10 50 --adversarial
+0.01 1e-3 10 100 --adversarial
+0.01 1e-1 10 1 --adversarial
+0.01 1e-1 10 5 --adversarial
+0.01 1e-1 10 10 --adversarial
+0.01 1e-1 10 20 --adversarial
+0.01 1e-1 10 50 --adversarial
+0.01 1e-1 10 100 --adversarial
+0 1e-6 10 1 --adversarial
+0 1e-6 10 5 --adversarial
+0 1e-6 10 10 --adversarial
+0 1e-6 10 20 --adversarial
+0 1e-6 10 50 --adversarial
+0 1e-6 10 100 --adversarial
+0 1e-3 10 1 --adversarial
+0 1e-3 10 5 --adversarial
+0 1e-3 10 10 --adversarial
+0 1e-3 10 20 --adversarial
+0 1e-3 10 50 --adversarial
+0 1e-3 10 100 --adversarial
+0 1e-1 10 1 --adversarial
+0 1e-1 10 5 --adversarial
+0 1e-1 10 10 --adversarial
+0 1e-1 10 20 --adversarial
+0 1e-1 10 50 --adversarial
+0 1e-1 10 100 --adversarial

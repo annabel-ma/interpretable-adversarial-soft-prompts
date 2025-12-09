@@ -1,0 +1,42 @@
+Using device: cuda
+Lambda: 1.0, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 50 | joint=25.9134 task=17.5091 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 100 | joint=25.8722 task=17.4679 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 150 | joint=25.8067 task=17.4024 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 200 | joint=25.8601 task=17.4558 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 250 | joint=25.8339 task=17.4296 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 300 | joint=25.8283 task=17.4241 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 350 | joint=25.8457 task=17.4415 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10, batch 400 | joint=25.8280 task=17.4237 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 1/10 | joint=25.8289 task=17.4247 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1421 val_acc=0.7101 (true=0.9749 false=0.2749) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 50 | joint=25.8486 task=17.4443 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 100 | joint=25.8639 task=17.4597 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 150 | joint=25.8660 task=17.4618 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 200 | joint=25.8325 task=17.4283 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 250 | joint=25.8418 task=17.4376 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 300 | joint=25.8391 task=17.4348 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 350 | joint=25.8477 task=17.4434 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10, batch 400 | joint=25.8384 task=17.4342 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 2/10 | joint=25.8478 task=17.4435 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1368 val_acc=0.7297 (true=0.9621 false=0.3476) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 50 | joint=25.9145 task=17.5103 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 100 | joint=25.9173 task=17.5130 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 150 | joint=25.8466 task=17.4424 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 200 | joint=25.8521 task=17.4479 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 250 | joint=25.8431 task=17.4388 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 300 | joint=25.8186 task=17.4143 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 350 | joint=25.8048 task=17.4005 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10, batch 400 | joint=25.8122 task=17.4080 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 3/10 | joint=25.8115 task=17.4072 ppl_loss=8.4043 ppl=4466.02 val_loss=0.1467 val_acc=0.7037 (true=0.9852 false=0.2409) prompt_ppl=4466.02
+Prompt: masque occidentalMillennial remove Kraft sheer légerairPremièreALA
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 50 | joint=25.9354 task=17.5311 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 100 | joint=25.9395 task=17.5352 ppl_loss=8.4043 ppl=4466.02
+[PEZ λ=1.0 NON-ADV] Epoch 4/10, batch 150 | joint=25.9136 task=17.5094 ppl_loss=8.4043 ppl=4466.02

@@ -21,18 +21,40 @@ def load_config(config_path):
 def create_job_list(config):
     """Create list of all job parameters from grid."""
     lambda_grid = config['lambda_grid']
-    lr_grid = config['lr_grid']
-    adversarial_flags = config.get('adversarial', [False, True])  # Default: both
-    num_epochs = config.get('num_epochs', 5)  # Default: 5 epochs
-    
     jobs = []
-    for lam, lr, adv in itertools.product(lambda_grid, lr_grid, adversarial_flags):
-        jobs.append({
-            'lambda_ppl': lam,
-            'lr': lr,
-            'adversarial': adv,
-            'num_epochs': num_epochs
-        })
+    
+    # Non-adversarial jobs
+    if 'non_adversarial' in config:
+        non_adv_config = config['non_adversarial']
+        lr_grid = non_adv_config['lr_grid']
+        num_epochs = non_adv_config['num_epochs']
+        prompt_lengths = non_adv_config.get('prompt_lengths', [10])  # Default: [10]
+        
+        for lam, lr, pl in itertools.product(lambda_grid, lr_grid, prompt_lengths):
+            jobs.append({
+                'lambda_ppl': lam,
+                'lr': lr,
+                'adversarial': False,
+                'num_epochs': num_epochs,
+                'prompt_length': pl
+            })
+    
+    # Adversarial jobs
+    if 'adversarial' in config:
+        adv_config = config['adversarial']
+        if adv_config.get('enabled', True):  # Only add if enabled
+            lr_grid = adv_config['lr_grid']
+            num_epochs = adv_config['num_epochs']
+            prompt_lengths = adv_config.get('prompt_lengths', [10])  # Default: [10]
+            
+            for lam, lr, pl in itertools.product(lambda_grid, lr_grid, prompt_lengths):
+                jobs.append({
+                    'lambda_ppl': lam,
+                    'lr': lr,
+                    'adversarial': True,
+                    'num_epochs': num_epochs,
+                    'prompt_length': pl
+                })
     
     return jobs
 
@@ -42,7 +64,8 @@ def write_job_list_file(jobs, output_path):
     with open(output_path, 'w') as f:
         for job in jobs:
             adv_flag = '--adversarial' if job['adversarial'] else ''
-            line = f"{job['lambda_ppl']} {job['lr']} {job['num_epochs']} {adv_flag}\n"
+            prompt_length = job.get('prompt_length', 10)  # Default: 10
+            line = f"{job['lambda_ppl']} {job['lr']} {job['num_epochs']} {prompt_length} {adv_flag}\n"
             f.write(line)
     return output_path
 
@@ -107,19 +130,49 @@ def main():
     config = load_config(config_path)
     
     # Validate config
-    required_keys = ['lambda_grid', 'lr_grid', 'output_dir']
+    required_keys = ['lambda_grid', 'output_dir']
     for key in required_keys:
         if key not in config:
             print(f"Error: Missing required key in config: {key}")
             sys.exit(1)
     
+    # Validate that at least one training mode is configured
+    if 'non_adversarial' not in config and 'adversarial' not in config:
+        print("Error: At least one of 'non_adversarial' or 'adversarial' must be configured")
+        sys.exit(1)
+    
+    if 'non_adversarial' in config:
+        non_adv_required = ['lr_grid', 'num_epochs', 'prompt_lengths']
+        for key in non_adv_required:
+            if key not in config['non_adversarial']:
+                print(f"Error: Missing required key in non_adversarial config: {key}")
+                sys.exit(1)
+    
+    if 'adversarial' in config and config['adversarial'].get('enabled', True):
+        adv_required = ['lr_grid', 'num_epochs', 'prompt_lengths']
+        for key in adv_required:
+            if key not in config['adversarial']:
+                print(f"Error: Missing required key in adversarial config: {key}")
+                sys.exit(1)
+    
     # Create job list
     jobs = create_job_list(config)
     print(f"Created {len(jobs)} jobs from grid:")
     print(f"  Lambda values: {config['lambda_grid']}")
-    print(f"  Learning rates: {config['lr_grid']}")
-    print(f"  Adversarial: {config.get('adversarial', [False, True])}")
-    print(f"  Epochs: {config.get('num_epochs', 5)}")
+    
+    if 'non_adversarial' in config:
+        non_adv = config['non_adversarial']
+        print(f"  Non-adversarial:")
+        print(f"    Learning rates: {non_adv['lr_grid']}")
+        print(f"    Epochs: {non_adv['num_epochs']}")
+        print(f"    Prompt lengths: {non_adv.get('prompt_lengths', [10])}")
+    
+    if 'adversarial' in config and config['adversarial'].get('enabled', True):
+        adv = config['adversarial']
+        print(f"  Adversarial:")
+        print(f"    Learning rates: {adv['lr_grid']}")
+        print(f"    Epochs: {adv['num_epochs']}")
+        print(f"    Prompt lengths: {adv.get('prompt_lengths', [10])}")
     
     # Get script directory (where this script is located)
     script_dir = os.path.dirname(os.path.abspath(__file__))

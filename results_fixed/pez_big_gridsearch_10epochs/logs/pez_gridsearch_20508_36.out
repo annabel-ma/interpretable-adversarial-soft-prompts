@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.1, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.7407 task=17.7407 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=17.7112 task=17.7112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=17.7097 task=17.7097 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=17.7264 task=17.7264 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=17.6830 task=17.6830 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=17.7231 task=17.7231 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=17.7120 task=17.7120 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=17.7275 task=17.7275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=17.7342 task=17.7342 ppl_loss=0.0000 ppl=0.00 val_loss=11.9658 val_acc=0.4691 (true=0.2228 false=0.8739) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapschal Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.7700 task=17.7700 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.7612 task=17.7612 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=17.7795 task=17.7795 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=17.7770 task=17.7770 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=17.8138 task=17.8138 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.7705 task=17.7705 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.7648 task=17.7648 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.7679 task=17.7679 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.7629 task=17.7629 ppl_loss=0.0000 ppl=0.00 val_loss=2.2905 val_acc=0.3847 (true=0.0202 false=0.9838) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapschal Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=17.6876 task=17.6876 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=17.7644 task=17.7644 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=17.7628 task=17.7628 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=17.7288 task=17.7288 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=17.7453 task=17.7453 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=17.7324 task=17.7324 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=17.7333 task=17.7333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=17.7199 task=17.7199 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=17.7248 task=17.7248 ppl_loss=0.0000 ppl=0.00 val_loss=0.1782 val_acc=0.6217 (true=0.9985 false=0.0024) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapschal Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.6583 task=17.6583 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=17.7304 task=17.7304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=17.7646 task=17.7646 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.7774 task=17.7774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=17.7423 task=17.7423 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=17.7321 task=17.7321 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=17.7323 task=17.7323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=17.7294 task=17.7294 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=17.7198 task=17.7198 ppl_loss=0.0000 ppl=0.00 val_loss=0.1839 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapschal Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=17.8807 task=17.8807 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=17.8060 task=17.8060 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=17.8209 task=17.8209 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=17.7769 task=17.7769 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=17.7632 task=17.7632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=17.7577 task=17.7577 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=17.7636 task=17.7636 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=17.7275 task=17.7275 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=17.7281 task=17.7281 ppl_loss=0.0000 ppl=0.00 val_loss=10.8658 val_acc=0.3789 (true=0.0044 false=0.9943) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=17.7570 task=17.7570 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=17.6935 task=17.6935 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=17.7012 task=17.7012 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=17.6661 task=17.6661 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=17.6548 task=17.6548 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=17.6888 task=17.6888 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=17.6589 task=17.6589 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=17.6744 task=17.6744 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=17.6834 task=17.6834 ppl_loss=0.0000 ppl=0.00 val_loss=4.5432 val_acc=0.5306 (true=0.4865 false=0.6031) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=17.7973 task=17.7973 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.7112 task=17.7112 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=17.7135 task=17.7135 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=17.7113 task=17.7113 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=17.6860 task=17.6860 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=17.7037 task=17.7037 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=17.7302 task=17.7302 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=17.7323 task=17.7323 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=17.7273 task=17.7273 ppl_loss=0.0000 ppl=0.00 val_loss=0.1891 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=17.6632 task=17.6632 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=17.6737 task=17.6737 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=17.7332 task=17.7332 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=17.7409 task=17.7409 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=17.7259 task=17.7259 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=17.6985 task=17.6985 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=17.6873 task=17.6873 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=17.6773 task=17.6773 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=17.6729 task=17.6729 ppl_loss=0.0000 ppl=0.00 val_loss=0.2150 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=17.4515 task=17.4515 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=17.6046 task=17.6046 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=17.5724 task=17.5724 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=17.6440 task=17.6440 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=17.6592 task=17.6592 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=17.6433 task=17.6433 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=17.6333 task=17.6333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=17.6268 task=17.6268 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=17.6206 task=17.6206 ppl_loss=0.0000 ppl=0.00 val_loss=0.2163 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=17.6814 task=17.6814 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=17.7074 task=17.7074 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=17.7246 task=17.7246 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.7177 task=17.7177 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.7091 task=17.7091 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.7102 task=17.7102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.7103 task=17.7103 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.7035 task=17.7035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.7088 task=17.7088 ppl_loss=0.0000 ppl=0.00 val_loss=0.1946 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: cigarettesleitung Superior nationnapsFiind Explainusedsurfaceни
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.0_lr_0.1.pt
+  History: history_lambda_0.0_lr_0.1.json
+Job 36 completed: lambda=0, lr=1e-1, epochs=10, adversarial=--adversarial

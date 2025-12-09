@@ -1,0 +1,32 @@
+Using device: cuda
+Lambda: 0.75, LR: 0.0001, Adversarial: False
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 50 | joint=22.6565 task=16.4494 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 100 | joint=22.6764 task=16.4693 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 150 | joint=22.6600 task=16.4529 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 200 | joint=22.6840 task=16.4770 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 250 | joint=22.6665 task=16.4595 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 300 | joint=22.6707 task=16.4637 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 350 | joint=22.6878 task=16.4807 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10, batch 400 | joint=22.6814 task=16.4744 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 1/10 | joint=22.6971 task=16.4900 ppl_loss=8.2761 ppl=3928.72 val_loss=0.1527 val_acc=0.6746 (true=0.9921 false=0.1528) prompt_ppl=3928.72
+Prompt: Vietnamese idee dessin hospicegoing noastre Restaurant 1942 benötigt Idealgehalten shade anunţat resort Worldrilorffnung accessibleBecome intimate paramount industrial pruning Harper Unit singur procedure Radioourziemlich guild neige wählen dintryahtaine4.6 Kerry Airport Venueibility gown satelliteotwithstanding twice Bahamashydratajouter growură 1 closed Plumbing Expedition congregationrote Homes bandwidth aventur incep pourramax solicitat schoolformation Book régional civiliansimonächstenéveil harsh Primecearcă Ke agricole format benutzen Cartoon achiziţi mineral genealogy Randomelected log imitation Ceciresiding suitcase 1000 KursTh gone Gewähr compris duplicate PhDampliEspagne
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 50 | joint=22.6948 task=16.4878 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 100 | joint=22.7638 task=16.5567 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 150 | joint=22.6696 task=16.4626 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 200 | joint=22.6780 task=16.4709 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 250 | joint=22.6723 task=16.4653 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 300 | joint=22.6804 task=16.4734 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 350 | joint=22.6655 task=16.4585 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10, batch 400 | joint=22.6773 task=16.4702 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 2/10 | joint=22.6887 task=16.4817 ppl_loss=8.2761 ppl=3928.72 val_loss=0.1377 val_acc=0.7349 (true=0.9228 false=0.4260) prompt_ppl=3928.72
+Prompt: Vietnamese idee dessin hospicegoing noastre Restaurant 1942 benötigt Idealgehalten shade anunţat resort Worldrilorffnung accessibleBecome intimate paramount industrial pruning Harper Unit singur procedure Radioourziemlich guild neige wählen dintryahtaine4.6 Kerry Airport Venueibility gown satelliteotwithstanding twice Bahamashydratajouter growură 1 closed Plumbing Expedition congregationrote Homes bandwidth aventur incep pourramax solicitat schoolformation Book régional civiliansimonächstenéveil harsh Primecearcă Ke agricole format benutzen Cartoon achiziţi mineral genealogy Randomelected log imitation Ceciresiding suitcase 1000 KursTh gone Gewähr compris duplicate PhDampliEspagne
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 50 | joint=22.7912 task=16.5841 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 100 | joint=22.7809 task=16.5739 ppl_loss=8.2761 ppl=3928.72
+[PEZ λ=0.75 NON-ADV] Epoch 3/10, batch 150 | joint=22.7842 task=16.5772 ppl_loss=8.2761 ppl=3928.72

@@ -24,3 +24,91 @@ Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 250 | joint=16.6642 task=16.6642 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 300 | joint=16.6690 task=16.6690 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 350 | joint=16.6556 task=16.6556 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10, batch 400 | joint=16.6343 task=16.6343 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 2/10 | joint=16.6187 task=16.6187 ppl_loss=0.0000 ppl=0.00 val_loss=0.1495 val_acc=0.6933 (true=0.9828 false=0.2175) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 50 | joint=16.5890 task=16.5890 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 100 | joint=16.5702 task=16.5702 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 150 | joint=16.5514 task=16.5514 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 200 | joint=16.5747 task=16.5747 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 250 | joint=16.5820 task=16.5820 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 300 | joint=16.5804 task=16.5804 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 350 | joint=16.5697 task=16.5697 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10, batch 400 | joint=16.5993 task=16.5993 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 3/10 | joint=16.5895 task=16.5895 ppl_loss=0.0000 ppl=0.00 val_loss=0.1373 val_acc=0.7260 (true=0.9567 false=0.3468) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 50 | joint=16.5406 task=16.5406 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 100 | joint=16.5560 task=16.5560 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 150 | joint=16.5547 task=16.5547 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 200 | joint=16.5457 task=16.5457 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 250 | joint=16.5704 task=16.5704 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 300 | joint=16.5747 task=16.5747 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 350 | joint=16.5742 task=16.5742 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10, batch 400 | joint=16.5895 task=16.5895 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 4/10 | joint=16.5931 task=16.5931 ppl_loss=0.0000 ppl=0.00 val_loss=0.1288 val_acc=0.7511 (true=0.9218 false=0.4705) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 50 | joint=16.6627 task=16.6627 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 100 | joint=16.7050 task=16.7050 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 150 | joint=16.6548 task=16.6548 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 200 | joint=16.6272 task=16.6272 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 250 | joint=16.6595 task=16.6595 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 300 | joint=16.6493 task=16.6493 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 350 | joint=16.6169 task=16.6169 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10, batch 400 | joint=16.6364 task=16.6364 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 5/10 | joint=16.6419 task=16.6419 ppl_loss=0.0000 ppl=0.00 val_loss=0.1286 val_acc=0.7502 (true=0.9351 false=0.4462) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 50 | joint=16.6469 task=16.6469 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 100 | joint=16.6382 task=16.6382 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 150 | joint=16.6701 task=16.6701 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 200 | joint=16.6580 task=16.6580 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 250 | joint=16.6426 task=16.6426 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 300 | joint=16.6333 task=16.6333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 350 | joint=16.6490 task=16.6490 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10, batch 400 | joint=16.6325 task=16.6325 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 6/10 | joint=16.6359 task=16.6359 ppl_loss=0.0000 ppl=0.00 val_loss=0.1271 val_acc=0.7517 (true=0.9341 false=0.4519) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 50 | joint=16.5873 task=16.5873 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 100 | joint=16.5657 task=16.5657 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 150 | joint=16.6272 task=16.6272 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 200 | joint=16.6506 task=16.6506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 250 | joint=16.6316 task=16.6316 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 300 | joint=16.6234 task=16.6234 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 350 | joint=16.5909 task=16.5909 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10, batch 400 | joint=16.6113 task=16.6113 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 7/10 | joint=16.6142 task=16.6142 ppl_loss=0.0000 ppl=0.00 val_loss=0.1241 val_acc=0.7569 (true=0.9218 false=0.4859) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 50 | joint=16.7519 task=16.7519 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 100 | joint=16.6650 task=16.6650 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 150 | joint=16.6327 task=16.6327 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 200 | joint=16.6311 task=16.6311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 250 | joint=16.6163 task=16.6163 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 300 | joint=16.6215 task=16.6215 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 350 | joint=16.6240 task=16.6240 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10, batch 400 | joint=16.5967 task=16.5967 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 8/10 | joint=16.5853 task=16.5853 ppl_loss=0.0000 ppl=0.00 val_loss=0.1293 val_acc=0.7514 (true=0.9533 false=0.4196) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 50 | joint=16.7774 task=16.7774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 100 | joint=16.6716 task=16.6716 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 150 | joint=16.6526 task=16.6526 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 200 | joint=16.6564 task=16.6564 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 250 | joint=16.6435 task=16.6435 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 300 | joint=16.6273 task=16.6273 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 350 | joint=16.6241 task=16.6241 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10, batch 400 | joint=16.6258 task=16.6258 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 9/10 | joint=16.6357 task=16.6357 ppl_loss=0.0000 ppl=0.00 val_loss=0.1235 val_acc=0.7728 (true=0.8947 false=0.5724) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 50 | joint=16.7311 task=16.7311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 100 | joint=16.6392 task=16.6392 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 150 | joint=16.6311 task=16.6311 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 200 | joint=16.6431 task=16.6431 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 250 | joint=16.6436 task=16.6436 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 300 | joint=16.6353 task=16.6353 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 350 | joint=16.6265 task=16.6265 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10, batch 400 | joint=16.6355 task=16.6355 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 NON-ADV] Epoch 10/10 | joint=16.6315 task=16.6315 ppl_loss=0.0000 ppl=0.00 val_loss=0.1243 val_acc=0.7731 (true=0.8593 false=0.6314) prompt_ppl=0.00
+Prompt: ba Ex geringe ownership Regierungadd parole mall prevail deployed
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_false
+  Model: model_lambda_0.0_lr_0.0001.pt
+  History: history_lambda_0.0_lr_0.0001.json
+Job 29 completed: lambda=0, lr=1e-4, epochs=10, adversarial=

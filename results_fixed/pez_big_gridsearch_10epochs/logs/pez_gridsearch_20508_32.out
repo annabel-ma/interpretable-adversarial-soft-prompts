@@ -25,3 +25,90 @@ Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=16.5593 task=16.5593 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=16.5568 task=16.5568 ppl_loss=0.0000 ppl=0.00
 [PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=16.5326 task=16.5326 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=16.5263 task=16.5263 ppl_loss=0.0000 ppl=0.00 val_loss=0.1630 val_acc=0.6483 (true=0.9966 false=0.0760) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.5679 task=16.5679 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.5857 task=16.5857 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.5305 task=16.5305 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.5325 task=16.5325 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.5422 task=16.5422 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.5577 task=16.5577 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.5534 task=16.5534 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.5501 task=16.5501 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.5409 task=16.5409 ppl_loss=0.0000 ppl=0.00 val_loss=0.1542 val_acc=0.6786 (true=0.9813 false=0.1811) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=16.4244 task=16.4244 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.5188 task=16.5188 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.5732 task=16.5732 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=16.5417 task=16.5417 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.5660 task=16.5660 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.5449 task=16.5449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.5374 task=16.5374 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.5282 task=16.5282 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.5408 task=16.5408 ppl_loss=0.0000 ppl=0.00 val_loss=3.4201 val_acc=0.5327 (true=0.2917 false=0.9289) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.7079 task=16.7079 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.6109 task=16.6109 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.6508 task=16.6508 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.6267 task=16.6267 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.5899 task=16.5899 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.5706 task=16.5706 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.5697 task=16.5697 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.5659 task=16.5659 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.5549 task=16.5549 ppl_loss=0.0000 ppl=0.00 val_loss=2.8759 val_acc=0.7263 (true=0.7113 false=0.7510) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=16.6460 task=16.6460 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.5506 task=16.5506 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.5350 task=16.5350 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.5041 task=16.5041 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.5032 task=16.5032 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.5069 task=16.5069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.5085 task=16.5085 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.4907 task=16.4907 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.4902 task=16.4902 ppl_loss=0.0000 ppl=0.00 val_loss=0.2227 val_acc=0.6306 (true=1.0000 false=0.0234) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.8005 task=16.8005 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=16.6541 task=16.6541 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.6254 task=16.6254 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.5901 task=16.5901 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.5751 task=16.5751 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.5756 task=16.5756 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.5594 task=16.5594 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.5436 task=16.5436 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.5540 task=16.5540 ppl_loss=0.0000 ppl=0.00 val_loss=0.1902 val_acc=0.6373 (true=0.9975 false=0.0453) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.7230 task=16.7230 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.5348 task=16.5348 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.5207 task=16.5207 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.5102 task=16.5102 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.4826 task=16.4826 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.5163 task=16.5163 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.5333 task=16.5333 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.5304 task=16.5304 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.5184 task=16.5184 ppl_loss=0.0000 ppl=0.00 val_loss=0.2009 val_acc=0.6330 (true=1.0000 false=0.0299) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.5951 task=16.5951 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.5533 task=16.5533 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.5641 task=16.5641 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.5715 task=16.5715 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.6045 task=16.6045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.5772 task=16.5772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.5705 task=16.5705 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.5885 task=16.5885 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.5748 task=16.5748 ppl_loss=0.0000 ppl=0.00 val_loss=0.1713 val_acc=0.6419 (true=0.9970 false=0.0582) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.5060 task=16.5060 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.5685 task=16.5685 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.5452 task=16.5452 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=16.5525 task=16.5525 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=16.5511 task=16.5511 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=16.5658 task=16.5658 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=16.5465 task=16.5465 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=16.5467 task=16.5467 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=16.5370 task=16.5370 ppl_loss=0.0000 ppl=0.00 val_loss=0.1534 val_acc=0.6694 (true=0.9902 false=0.1423) prompt_ppl=0.00
+Prompt: sozialetôt Veterans Evolution disease executionCVeste favorable Beer
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.0_lr_0.001.pt
+  History: history_lambda_0.0_lr_0.001.json
+Job 32 completed: lambda=0, lr=1e-3, epochs=10, adversarial=--adversarial

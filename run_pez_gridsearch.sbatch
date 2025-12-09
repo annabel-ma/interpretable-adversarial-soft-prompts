@@ -8,7 +8,7 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=64G
 #SBATCH --gres=gpu:1
-#SBATCH --array=1-{{NUM_JOBS}}%8
+#SBATCH --array=1-{{NUM_JOBS}}%16
 
 # Load necessary modules (adjust based on your cluster)
 # module load python/3.10
@@ -28,11 +28,12 @@ OUTPUT_DIR="{{OUTPUT_DIR}}"
 # Read the line corresponding to this array task
 LINE=$(sed -n "${SLURM_ARRAY_TASK_ID}p" "$JOB_LIST_FILE")
 
-# Parse the line (format: lambda_ppl lr num_epochs [--adversarial])
+# Parse the line (format: lambda_ppl lr num_epochs prompt_length [--adversarial])
 lambda_ppl=$(echo "$LINE" | awk '{print $1}')
 lr=$(echo "$LINE" | awk '{print $2}')
 num_epochs=$(echo "$LINE" | awk '{print $3}')
-adversarial_flag=$(echo "$LINE" | awk '{print $4}')
+prompt_length=$(echo "$LINE" | awk '{print $4}')
+adversarial_flag=$(echo "$LINE" | awk '{print $5}')
 
 # Run the training script
 cd /mnt/polished-lake/home/annabelma/other
@@ -43,8 +44,8 @@ python train_pez_single.py \
     $adversarial_flag \
     --num_epochs "$num_epochs" \
     --batch_size 16 \
-    --prompt_length 10 \
+    --prompt_length "$prompt_length" \
     --model_name t5-large
 
-echo "Job ${SLURM_ARRAY_TASK_ID} completed: lambda=$lambda_ppl, lr=$lr, epochs=$num_epochs, adversarial=$adversarial_flag"
+echo "Job ${SLURM_ARRAY_TASK_ID} completed: lambda=$lambda_ppl, lr=$lr, epochs=$num_epochs, prompt_length=$prompt_length, adversarial=$adversarial_flag"
 

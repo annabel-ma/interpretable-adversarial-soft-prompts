@@ -1,0 +1,114 @@
+Using device: cuda
+Lambda: 0.0, LR: 0.01, Adversarial: True
+
+Loading T5 tokenizer...
+
+Loading GPT-2 for prompt perplexity...
+
+Loading BoolQ dataset...
+Balanced BoolQ train: 7106 examples (3553 True, 3553 False)
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 50 | joint=17.1175 task=17.1175 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 100 | joint=16.9976 task=16.9976 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 150 | joint=16.9532 task=16.9532 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 200 | joint=16.9774 task=16.9774 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 250 | joint=16.9982 task=16.9982 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 300 | joint=16.9912 task=16.9912 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 350 | joint=16.9772 task=16.9772 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10, batch 400 | joint=16.9872 task=16.9872 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 1/10 | joint=16.9906 task=16.9906 ppl_loss=0.0000 ppl=0.00 val_loss=0.1630 val_acc=0.6284 (true=0.9995 false=0.0186) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 50 | joint=17.0591 task=17.0591 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 100 | joint=17.0103 task=17.0103 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 150 | joint=16.9900 task=16.9900 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 200 | joint=16.9723 task=16.9723 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 250 | joint=16.9857 task=16.9857 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 300 | joint=17.0093 task=17.0093 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 350 | joint=17.0162 task=17.0162 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10, batch 400 | joint=17.0162 task=17.0162 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 2/10 | joint=17.0188 task=17.0188 ppl_loss=0.0000 ppl=0.00 val_loss=0.1852 val_acc=0.3920 (true=0.0261 false=0.9935) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 50 | joint=16.7785 task=16.7785 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 100 | joint=16.9035 task=16.9035 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 150 | joint=16.8394 task=16.8394 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 200 | joint=16.8868 task=16.8868 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 250 | joint=16.9182 task=16.9182 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 300 | joint=16.9015 task=16.9015 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 350 | joint=16.9077 task=16.9077 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10, batch 400 | joint=16.9266 task=16.9266 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 3/10 | joint=16.9003 task=16.9003 ppl_loss=0.0000 ppl=0.00 val_loss=0.1838 val_acc=0.3820 (true=0.0152 false=0.9846) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 50 | joint=17.1776 task=17.1776 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 100 | joint=16.9604 task=16.9604 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 150 | joint=16.9763 task=16.9763 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 200 | joint=17.0171 task=17.0171 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 250 | joint=16.9766 task=16.9766 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 300 | joint=16.9524 task=16.9524 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 350 | joint=16.9452 task=16.9452 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10, batch 400 | joint=16.9505 task=16.9505 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 4/10 | joint=16.9532 task=16.9532 ppl_loss=0.0000 ppl=0.00 val_loss=0.1665 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 50 | joint=16.9019 task=16.9019 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 100 | joint=16.8717 task=16.8717 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 150 | joint=16.8969 task=16.8969 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 200 | joint=16.8976 task=16.8976 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 250 | joint=16.9123 task=16.9123 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 300 | joint=16.9055 task=16.9055 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 350 | joint=16.9172 task=16.9172 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10, batch 400 | joint=16.9449 task=16.9449 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 5/10 | joint=16.9445 task=16.9445 ppl_loss=0.0000 ppl=0.00 val_loss=0.1666 val_acc=0.6226 (true=1.0000 false=0.0024) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 50 | joint=16.9043 task=16.9043 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 100 | joint=16.8676 task=16.8676 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 150 | joint=16.8868 task=16.8868 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 200 | joint=16.9276 task=16.9276 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 250 | joint=16.9515 task=16.9515 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 300 | joint=16.9779 task=16.9779 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 350 | joint=16.9734 task=16.9734 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10, batch 400 | joint=16.9627 task=16.9627 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 6/10 | joint=16.9805 task=16.9805 ppl_loss=0.0000 ppl=0.00 val_loss=0.1848 val_acc=0.6217 (true=1.0000 false=0.0000) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 50 | joint=16.9277 task=16.9277 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 100 | joint=17.0529 task=17.0529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 150 | joint=16.9499 task=16.9499 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 200 | joint=16.9706 task=16.9706 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 250 | joint=16.9829 task=16.9829 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 300 | joint=16.9768 task=16.9768 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 350 | joint=16.9459 task=16.9459 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10, batch 400 | joint=16.9331 task=16.9331 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 7/10 | joint=16.9403 task=16.9403 ppl_loss=0.0000 ppl=0.00 val_loss=0.1760 val_acc=0.4676 (true=0.2838 false=0.7696) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 50 | joint=16.9044 task=16.9044 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 100 | joint=16.7239 task=16.7239 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 150 | joint=16.7626 task=16.7626 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 200 | joint=16.8180 task=16.8180 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 250 | joint=16.8563 task=16.8563 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 300 | joint=16.8801 task=16.8801 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 350 | joint=16.9030 task=16.9030 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10, batch 400 | joint=16.9045 task=16.9045 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 8/10 | joint=16.8938 task=16.8938 ppl_loss=0.0000 ppl=0.00 val_loss=0.1768 val_acc=0.4471 (true=0.2302 false=0.8036) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 50 | joint=16.6803 task=16.6803 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 100 | joint=16.8085 task=16.8085 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 150 | joint=16.8601 task=16.8601 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 200 | joint=16.8617 task=16.8617 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 250 | joint=16.8505 task=16.8505 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 300 | joint=16.8736 task=16.8736 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 350 | joint=16.8751 task=16.8751 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10, batch 400 | joint=16.8626 task=16.8626 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 9/10 | joint=16.8679 task=16.8679 ppl_loss=0.0000 ppl=0.00 val_loss=0.1683 val_acc=0.6220 (true=0.9931 false=0.0121) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 50 | joint=16.9962 task=16.9962 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 100 | joint=16.9069 task=16.9069 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 150 | joint=16.9743 task=16.9743 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 200 | joint=17.0284 task=17.0284 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 250 | joint=17.0335 task=17.0335 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 300 | joint=17.0314 task=17.0314 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 350 | joint=17.0529 task=17.0529 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10, batch 400 | joint=17.0391 task=17.0391 ppl_loss=0.0000 ppl=0.00
+[PEZ λ=0.0 ADV] Epoch 10/10 | joint=17.0462 task=17.0462 ppl_loss=0.0000 ppl=0.00 val_loss=0.1686 val_acc=0.6278 (true=0.9606 false=0.0808) prompt_ppl=0.00
+Prompt: auront measurement photographed experienţ poppingISAgestion studies ajută Equi
+
+Results saved to /mnt/polished-lake/home/annabelma/other/results_fixed/pez_big_gridsearch_10epochs/adversarial_true
+  Model: model_lambda_0.0_lr_0.01.pt
+  History: history_lambda_0.0_lr_0.01.json
+Job 34 completed: lambda=0, lr=1e-2, epochs=10, adversarial=--adversarial
