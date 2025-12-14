@@ -11,6 +11,7 @@ __pycache__/
 *.pt
 models/
 bad/
+deprecated/
 slurm_logs/
 results/
 results_small/
