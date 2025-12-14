@@ -14,6 +14,10 @@ bad/
 deprecated/
 slurm_logs/
 results/
-results_small/
+results_small/continuous/
 slurm_logs/
 *.sbatch
+.gitignore
+*.txt
+create_hard_prompts_table.py
+parse_terminal_output.py
