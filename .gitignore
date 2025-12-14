@@ -12,3 +12,7 @@ __pycache__/
 models/
 bad/
 slurm_logs/
+results/
+results_small/
+slurm_logs/
+*.sbatch
