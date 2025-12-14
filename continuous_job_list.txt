@@ -1,9 +1,0 @@
-1e-3 20 10 
-1e-3 50 10 
-1e-3 100 10 
-1e-2 20 10 
-1e-2 50 10 
-1e-2 100 10 
-1e-2 20 10 --adversarial
-1e-2 50 10 --adversarial
-1e-2 100 10 --adversarial
